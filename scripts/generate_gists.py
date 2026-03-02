@@ -19,7 +19,7 @@ FEEDS = [
     "https://techcrunch.com/tag/translate/feed/",
     "https://techcrunch.com/tag/translations/feed/",
     "https://rss.app/feeds/cNm8rHSnDFeEYLpt.xml", #gala-blobal news feed
-    "https://www.atanet.org/news/industry-news/feed/"
+    "https://www.atanet.org/news/industry-news/feed/",
     "https://elia-association.org/news/feed/"
     
 ]
@@ -79,7 +79,7 @@ Article text:
             response = client.chat.completions.create(
                 model="gpt-4o-mini",
                 messages=[
-                    {"role": "system", "content": "You are a professional news summarizer writing for a digital news platform read by the general public and business professionals.
+                    {"role": "system", "content": """You are a professional news summarizer writing for a digital news platform read by the general public and business professionals.
 Write a clear, engaging summary in 3–4 short paragraphs (120–180 words).
 • Open with the most important development in a strong, direct sentence.
 • Focus on verified facts: what happened, who is involved, and why it matters.
@@ -88,7 +88,7 @@ Write a clear, engaging summary in 3–4 short paragraphs (120–180 words).
 • Avoid speculation, opinion, exaggeration, and filler language.
 • Use smooth transitions and varied sentence structure.
 • End with a brief, natural sentence encouraging readers to read the full article for more details.
-Keep the writing concise, informative, and easy to scan."},
+Keep the writing concise, informative, and easy to scan."""},
                     {"role": "user", "content": prompt}
                 ],
                 max_tokens=300,
