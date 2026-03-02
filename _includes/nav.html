@@ -7,10 +7,13 @@
              class="{% if p.url == page.url %}active{% endif %}">
              {{ p.title }}
           </a>
-          <button id="theme-toggle" class="theme-toggle">☀︎</button>
+          
         </li>
 
       {% endif %}
     {% endfor %}
+        <li>
+          <button id="theme-toggle" class="theme-toggle">☀︎</button>
+        </li>
   </ul>
 </nav>
