@@ -2,15 +2,12 @@
   <ul>
     {% assign nav_pages = site.pages | where: "nav", true | sort: "nav_order" %}
     {% for p in site.pages %}
-      {% if p.nav == true %}
         <li>
           <a href="{{ p.url | relative_url }}"
              class="{% if p.url == page.url %}active{% endif %}">
              {{ p.title }}
           </a>
-          
         </li>
-
       {% endif %}
     {% endfor %}
         <li>
