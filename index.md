@@ -4,8 +4,8 @@ title: Home
 ---
 
 <section class="hero">
-  <h1>Modern insights on technology & design</h1>
-  <p>Thoughtful writing on engineering, systems, and the future of digital craft.</p>
+  <h1>Translation and localization news</h1>
+  <p>Articles and information digest delivered in on place.</p>
 </section>
 
 <section class="post-list">
