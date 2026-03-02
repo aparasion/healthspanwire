@@ -51,7 +51,6 @@ a:hover {
   width: 100%;
   text-align: center;
   padding-top: 3rem;
-  border-bottom: 1px solid var(--border);
 }
 
 .site-logo,
