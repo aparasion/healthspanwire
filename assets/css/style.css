@@ -91,3 +91,9 @@ a:hover {
   font-size: 0.8rem;
   color: #777;
 }
+
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 3rem 0;
+}
