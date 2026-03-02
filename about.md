@@ -1,13 +1,6 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
+nav: true
 ---
-
-# About Us
-
-Welcome to **{{ site.title }}**.
-
-We publish news, analysis, and insights on topics that matter.
-
-Our mission is to provide clear, independent reporting.
