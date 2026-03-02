@@ -267,19 +267,9 @@ hr {
 
 /* Submit Button */
 .btn-submit {
-  align-self: flex-start;
-  padding: 0.85rem 1.6rem;
-  border-radius: 999px;
-  border: none;
   background: var(--accent);
-  color: white;
-  font-weight: 600;
-  font-size: 0.95rem;
-  cursor: pointer;
-  transition: 
-    transform 0.15s ease,
-    opacity 0.2s ease,
-    box-shadow 0.2s ease;
+  color: #ffffff;
+  border: none;
 }
 
 /* Hover */
