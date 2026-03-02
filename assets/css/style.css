@@ -53,6 +53,11 @@ a:hover {
   padding-top: 3rem;
 }
 
+.site-logo,
+.site-logo:hover {
+  border-bottom: none !important;
+}
+
 .site-logo {
   display: block;
   width: fit-content;
