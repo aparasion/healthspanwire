@@ -128,6 +128,7 @@ h2 {
 
 /* Nav */
 .site-header {
+  width: 100%;
   text-align: center;
   padding-top: 3rem;
 }
