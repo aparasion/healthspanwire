@@ -28,6 +28,17 @@ FEEDS = [
 SEEN_FILE = "seen.json"
 YOUR_AREA = "Translation"
 MAX_ARTICLES = 18
+MIN_ARTICLE_CHARS = 500
+MIN_ARTICLE_WORDS = 90
+
+BOILERPLATE_PATTERNS = [
+    r"\bcookies?\b",
+    r"\bprivacy policy\b",
+    r"\baccept (all )?cookies\b",
+    r"\bmanage (your )?(consent|preferences)\b",
+    r"\bconsent\b",
+    r"\bdata protection\b",
+]
 
 
 def yaml_escape(text: str) -> str:
@@ -48,6 +59,46 @@ def get_publisher_domain(url: str) -> str:
         return domain if domain else "Unknown Publisher"
     except Exception:
         return "Unknown Publisher"
+
+
+def normalize_text(text: str) -> str:
+    return re.sub(r"\s+", " ", (text or "")).strip()
+
+
+def title_keywords(title: str) -> set[str]:
+    tokens = re.findall(r"[a-zA-Z]{4,}", (title or "").lower())
+    return {token for token in tokens if token not in {"with", "from", "into", "that", "this"}}
+
+
+def has_title_overlap(text: str, title: str) -> bool:
+    keywords = title_keywords(title)
+    if not keywords:
+        return True
+    text_l = text.lower()
+    overlap = sum(1 for kw in keywords if kw in text_l)
+    return overlap >= 1
+
+
+def boilerplate_hits(text: str) -> int:
+    text_l = text.lower()
+    return sum(1 for pattern in BOILERPLATE_PATTERNS if re.search(pattern, text_l))
+
+
+def is_usable_article_text(text: str, title: str) -> bool:
+    cleaned = normalize_text(text)
+    if len(cleaned) < MIN_ARTICLE_CHARS:
+        return False
+
+    if len(cleaned.split()) < MIN_ARTICLE_WORDS:
+        return False
+
+    if boilerplate_hits(cleaned) >= 3:
+        return False
+
+    if not has_title_overlap(cleaned, title):
+        return False
+
+    return True
 
 
 if os.path.exists(SEEN_FILE):
@@ -72,8 +123,18 @@ for feed_url in FEEDS:
             continue
 
         downloaded = trafilatura.fetch_url(url)
-        fallback_description = getattr(entry, "description", "")
-        text = trafilatura.extract(downloaded, include_comments=False) or fallback_description
+        fallback_description = normalize_text(getattr(entry, "description", ""))
+        extracted_text = normalize_text(
+            trafilatura.extract(downloaded, include_comments=False, include_tables=False) or ""
+        )
+
+        if is_usable_article_text(extracted_text, entry.title):
+            text = extracted_text
+        elif is_usable_article_text(fallback_description, entry.title):
+            text = fallback_description
+        else:
+            print(f"Skipping low-quality content for {url}")
+            continue
 
         prompt = f"""Create a concise gist (100–200 words) of this article.
 Focus on key facts and implications.
@@ -94,6 +155,7 @@ Write a clear, engaging summary in 3–4 short paragraphs (120–180 words).
 • Avoid speculation, opinion, exaggeration, and filler language.
 • Use smooth transitions and varied sentence structure.
 • End with a brief, natural sentence encouraging readers to read the full article for more details.
+• If the provided text appears to be mostly cookie/privacy/legal notice rather than article content, respond exactly with: UNUSABLE_CONTENT
 Keep the writing concise, informative, and easy to scan."""},
                     {"role": "user", "content": prompt}
                 ],
@@ -101,6 +163,9 @@ Keep the writing concise, informative, and easy to scan."""},
                 temperature=0.3
             )
             gist = response.choices[0].message.content.strip()
+            if gist == "UNUSABLE_CONTENT":
+                print(f"Skipping unusable generated content for {url}")
+                continue
         except Exception as e:
             print(f"OpenAI API error for {url}: {e}")
             gist = f"Summary generation failed due to API error.\n\nRead the full article below."
