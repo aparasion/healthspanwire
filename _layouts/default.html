@@ -87,6 +87,8 @@
 document.addEventListener("DOMContentLoaded", function () {
   const toggle = document.getElementById("theme-toggle");
   const root = document.documentElement;
+  const menuToggle = document.getElementById("menu-toggle");
+  const siteNav = document.querySelector(".site-nav");
 
   // Apply saved theme
   const savedTheme = localStorage.getItem("theme");
@@ -94,12 +96,21 @@ document.addEventListener("DOMContentLoaded", function () {
     root.setAttribute("data-theme", savedTheme);
   }
 
-  toggle.addEventListener("click", function () {
-    const current = root.getAttribute("data-theme");
-    const next = current === "dark" ? "light" : "dark";
-    root.setAttribute("data-theme", next);
-    localStorage.setItem("theme", next);
-  });
+  if (toggle) {
+    toggle.addEventListener("click", function () {
+      const current = root.getAttribute("data-theme");
+      const next = current === "dark" ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      localStorage.setItem("theme", next);
+    });
+  }
+
+  if (menuToggle && siteNav) {
+    menuToggle.addEventListener("click", function () {
+      const isOpen = siteNav.classList.toggle("menu-open");
+      menuToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    });
+  }
 });
 </script>
 </body>
