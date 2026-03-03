@@ -239,7 +239,7 @@ h2 a:hover {
   width: 48px;
   height: 48px;
   object-fit: contain;
-  border-radius: 50%;
+  border-radius: 0;
 }
 
 .author-info {
