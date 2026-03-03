@@ -135,11 +135,10 @@ def write_monthly_post(period: str, article_count: int, content: str) -> Path:
     while post_date.month != int(month):
         post_date -= datetime.timedelta(days=1)
 
-    file_date = post_date.strftime("%Y-%m-%d")
-    filename = POSTS_DIR / f"{file_date}-{slug}.md"
+    filename = POSTS_DIR / f"{period}-{slug}.md"
     suffix = 1
     while filename.exists():
-        filename = POSTS_DIR / f"{file_date}-{slug}-{suffix}.md"
+        filename = POSTS_DIR / f"{period}-{slug}-{suffix}.md"
         suffix += 1
 
     safe_title = yaml_escape(title)
