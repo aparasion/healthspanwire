@@ -43,6 +43,4 @@ Reach out through the Contact page and tell us what you’d like to share.
 {% include brand-word.html %} is about tracking what drives global communication — and the people building it.
 
 
-
-
-<a class="twitter-timeline" href="https://twitter.com/XDevelopers?ref_src=twsrc%5Etfw">Tweets by XDevelopers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="250" data-height="500" href="https://twitter.com/XDevelopers?ref_src=twsrc%5Etfw">Tweets by XDevelopers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
