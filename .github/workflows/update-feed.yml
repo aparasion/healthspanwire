@@ -1,0 +1,36 @@
+name: Update Social Feed
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # Every 3 hours
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run fetch script
+        run: node scripts/fetch-feed.js
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add feed.json
+          git commit -m "Auto-update social feed"
+          git push
