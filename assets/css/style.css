@@ -17,6 +17,10 @@
   box-sizing: border-box;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
@@ -24,6 +28,7 @@ body {
   color: var(--text);
   line-height: 1.7;
   transition: background 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
 }
 
 /* Links */
@@ -474,6 +479,10 @@ hr {
   position: fixed;
   right: 1rem;
   bottom: 1rem;
+  right: calc(1rem + env(safe-area-inset-right, 0px));
+  bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
+  right: max(1rem, calc(1rem + env(safe-area-inset-right, 0px)));
+  bottom: max(1rem, calc(1rem + env(safe-area-inset-bottom, 0px)));
   border: 1px solid var(--border);
   border-radius: 999px;
   background: var(--text);
@@ -489,6 +498,19 @@ hr {
   transform: translateY(8px);
   transition: opacity 0.2s ease, transform 0.2s ease;
   z-index: 40;
+}
+
+@media (max-width: 480px) {
+  .scroll-top-button {
+    right: 0.5rem;
+    bottom: 0.5rem;
+    right: calc(0.5rem + env(safe-area-inset-right, 0px));
+    bottom: calc(0.5rem + env(safe-area-inset-bottom, 0px));
+    right: max(0.5rem, calc(0.5rem + env(safe-area-inset-right, 0px)));
+    bottom: max(0.5rem, calc(0.5rem + env(safe-area-inset-bottom, 0px)));
+    padding: 0.5rem 0.8rem;
+    font-size: 0.72rem;
+  }
 }
 
 .scroll-top-button.is-visible {
