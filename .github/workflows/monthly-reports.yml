@@ -69,3 +69,4 @@ jobs:
           else
             echo "No monthly report changes to commit"
           fi
+
