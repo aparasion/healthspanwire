@@ -477,10 +477,13 @@ hr {
 /* ================= SCROLL TO TOP BUTTON ================= */
 .scroll-top-button {
   position: fixed;
-  inset-inline-end: max(1rem, env(safe-area-inset-right, 0px));
-  inset-block-end: max(1rem, env(safe-area-inset-bottom, 0px));
-  right: auto;
-  bottom: auto;
+  right: max(
+    1rem,
+    calc(
+      (100vw - min(100vw, 808px)) / 2 + 1.5rem + env(safe-area-inset-right, 0px)
+    )
+  );
+  bottom: max(1rem, env(safe-area-inset-bottom, 0px));
   margin: 0;
   max-width: calc(100vw - 1.5rem);
   border: 1px solid var(--border);
@@ -502,8 +505,8 @@ hr {
 
 @media (max-width: 480px) {
   .scroll-top-button {
-    inset-inline-end: max(0.75rem, env(safe-area-inset-right, 0px));
-    inset-block-end: max(0.75rem, env(safe-area-inset-bottom, 0px));
+    right: max(0.75rem, env(safe-area-inset-right, 0px));
+    bottom: max(0.75rem, env(safe-area-inset-bottom, 0px));
     padding: 0.5rem 0.8rem;
     font-size: 0.72rem;
   }
