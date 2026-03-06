@@ -103,6 +103,41 @@ def extract_article_text(url: str) -> str:
     return normalize_text(extracted)
 
 
+def extract_links_from_html(text: str) -> list[str]:
+    if not text:
+        return []
+    return re.findall(r'href=["\'](https?://[^"\']+)["\']', text)
+
+
+def candidate_urls_for_entry(entry) -> list[str]:
+    candidates = []
+
+    primary_link = normalize_url(getattr(entry, "link", ""))
+    if primary_link:
+        candidates.append(primary_link)
+
+    parsed_primary = urlparse(primary_link) if primary_link else None
+    if parsed_primary and parsed_primary.netloc.endswith("news.google.com"):
+        source = getattr(entry, "source", None)
+        source_href = normalize_url(getattr(source, "href", "")) if source else ""
+        if source_href:
+            candidates.append(source_href)
+
+        summary_html = getattr(entry, "summary", "") or getattr(entry, "description", "")
+        for link in extract_links_from_html(summary_html):
+            normalized = normalize_url(link)
+            if normalized and "news.google.com" not in normalized:
+                candidates.append(normalized)
+
+    deduped = []
+    seen = set()
+    for url in candidates:
+        if url and url not in seen:
+            deduped.append(url)
+            seen.add(url)
+    return deduped
+
+
 def title_keywords(title: str) -> set[str]:
     tokens = re.findall(r"[a-zA-Z]{4,}", (title or "").lower())
     return {token for token in tokens if token not in {"with", "from", "into", "that", "this"}}
@@ -215,15 +250,22 @@ def main() -> None:
             if count >= MAX_ARTICLES:
                 break
 
-            url = normalize_url(getattr(entry, "link", ""))
-            if not url:
+            candidate_urls = candidate_urls_for_entry(entry)
+            if not candidate_urls:
                 continue
+
+            url = candidate_urls[0]
 
             if url in normalized_seen:
                 continue
 
             fallback_description = normalize_text(getattr(entry, "description", ""))
-            extracted_text = extract_article_text(url)
+            extracted_text = ""
+            for candidate_url in candidate_urls:
+                extracted_text = extract_article_text(candidate_url)
+                if is_usable_article_text(extracted_text, entry.title):
+                    url = candidate_url
+                    break
 
             if is_usable_article_text(extracted_text, entry.title):
                 text = extracted_text
