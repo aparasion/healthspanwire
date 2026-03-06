@@ -17,6 +17,7 @@
   --muted: #b5bdd4;
   --border: rgba(239, 243, 255, 0.17);
   --surface: rgba(23, 26, 35, 0.9);
+  --surface: rgba(23, 26, 35, 0.85);
   --surface-strong: #1f2430;
   --accent: #92abff;
   --accent-soft: rgba(146, 171, 255, 0.15);
@@ -58,6 +59,9 @@ a:hover {
   max-width: var(--site-max-width);
   margin: 1.5rem auto;
   padding: 0 var(--page-gutter);
+  max-width: 760px;
+  margin: 1.5rem auto;
+  padding: 0 1.5rem;
 }
 
 
@@ -80,6 +84,7 @@ a:hover {
   top: 0;
   z-index: 40;
   padding: 0.9rem var(--page-gutter) 0;
+  padding: 0.9rem 1.2rem 0;
   backdrop-filter: blur(12px);
 }
 
@@ -94,6 +99,16 @@ a:hover {
   grid-template-columns: auto 1fr auto;
   align-items: center;
   column-gap: 1rem;
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 0.65rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
   box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
 }
 
@@ -118,6 +133,14 @@ a:hover {
 
 .logo-image {
   width: 1.8rem;
+  width: fit-content;
+  margin: 0;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.logo-image {
+  width: 40px;
   height: auto;
   display: block;
   margin: 0;
@@ -148,6 +171,10 @@ a:hover {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+.site-brand {
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+  font-weight: 700;
 }
 
 .site-logo:hover .logo-image {
@@ -164,6 +191,26 @@ a:hover {
 .site-nav ul {
   list-style: none;
   padding: 0.25rem;
+@media (max-width: 768px) {
+  .logo-image {
+    width: 34px;
+  }
+
+  .site-brand {
+    font-size: 0.95rem;
+  }
+}
+
+/* Nav */
+.site-nav {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.site-nav ul {
+  list-style: none;
+  padding: 0;
   margin: 0;
   display: flex;
   justify-content: center;
@@ -173,6 +220,8 @@ a:hover {
   border: 1px solid var(--border);
   border-radius: 999px;
   background: var(--surface-strong);
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
 .menu-toggle {
@@ -199,6 +248,12 @@ a:hover {
   border-bottom: none;
   font-size: 0.78rem;
   letter-spacing: 0.05em;
+  min-height: 2.1rem;
+  padding: 0 0.8rem;
+  border-radius: 999px;
+  border-bottom: none;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
   color: var(--muted);
   text-transform: uppercase;
   font-weight: 700;
@@ -207,6 +262,7 @@ a:hover {
 .site-nav a:hover {
   color: var(--text);
   background: var(--bg);
+  background: var(--surface-strong);
 }
 
 .site-nav a.active {
@@ -221,6 +277,11 @@ a:hover {
   border-radius: 999px;
   width: 2rem;
   height: 2rem;
+  background: var(--surface-strong);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  width: 2.1rem;
+  height: 2.1rem;
   color: var(--text);
   cursor: pointer;
   font-size: 0.95rem;
@@ -263,6 +324,15 @@ a:hover {
 
   .site-tagline {
     display: none;
+@media (max-width: 768px) {
+  .site-header {
+    padding: 0.65rem 0.65rem 0;
+  }
+
+  .header-shell {
+    flex-wrap: wrap;
+    border-radius: 14px;
+    padding: 0.55rem 0.75rem;
   }
 
   .menu-toggle {
@@ -288,6 +358,13 @@ a:hover {
     align-items: stretch;
     background: var(--surface);
     box-shadow: 0 14px 28px rgba(15, 23, 42, 0.14);
+    width: 100%;
+    margin-top: 0.6rem;
+    padding-top: 0.6rem;
+    border-top: 1px solid var(--border);
+    flex-direction: column;
+    gap: 0.4rem;
+    align-items: stretch;
   }
 
   .site-nav.menu-open ul {
@@ -309,6 +386,7 @@ a:hover {
   .site-nav a:hover,
   .theme-toggle:hover {
     border-color: var(--border);
+    min-height: 2.4rem;
   }
 }
 
