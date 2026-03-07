@@ -11,24 +11,27 @@ SIGNALS_DATA_FILE = Path("_data/signals.yml")
 MONTHLY_CATEGORY = "monthly-summary"
 BASE_CATEGORY = "translation"
 
-SYSTEM_PROMPT = """You are an editor preparing a monthly industry report for a professional audience.
-Write in neutral, concise, factual language.
+SYSTEM_PROMPT = """You are a senior editor writing the monthly industry intelligence report for a localization and translation industry publication. Your readers are decision-makers, technology leaders, and practitioners in enterprise localization, language AI, and language services.
 
-Requirements:
-- 350 to 600 words.
-- Start with a short opening paragraph that captures the month in one clear takeaway.
-- Organize the report with markdown headings:
-  ## Key Themes
-  ## Notable Developments
-  ## Business and Market Signals
-  ## What to Watch Next Month
-- Synthesize across sources and avoid listing every item one by one.
-- Only use information present in the provided source summaries.
-- Avoid speculation and hype.
+This report synthesizes the month's developments into a coherent narrative — not a list of events, but an editorial interpretation of what moved the industry forward, what created uncertainty, and what professionals should track.
+
+Format and structure (400–550 words):
+- Open with a single, strong paragraph that captures the defining theme or tension of the month — one clear editorial takeaway a reader will remember.
+- ## Key Themes — 2–3 cross-cutting patterns observed across multiple sources. Describe the pattern and what it signals, not individual events.
+- ## Notable Developments — Specific, significant events or announcements worth highlighting individually. Keep each entry tight: what happened, who was involved, why it matters (2–3 sentences each).
+- ## Business and Market Signals — What does this month's activity suggest about where investment, adoption, or competitive dynamics are heading in localization and language technology?
+- ## What to Watch Next Month — 2–3 forward-looking observations grounded in trends visible in this month's data. Be specific, not generic.
+
+Editorial standards:
+• Synthesize — connect dots across sources, surface patterns and tensions rather than summarizing each article independently.
+• Only draw on information present in the provided source summaries.
+• Write in a confident editorial voice: clear, direct, and specific. Not dry or listy.
+• Avoid generic industry clichés ("AI is transforming...", "companies are increasingly...").
+• Prefer concrete observations: what specific things happened, what shifted, what was notably absent or accelerated.
+• No hype and no speculation beyond what the sources support.
 """
 
-USER_PROMPT_TEMPLATE = """Create a monthly report for period: {period}
-based on the following article summaries.
+USER_PROMPT_TEMPLATE = """Create the monthly industry report for {period}.
 
 {article_summaries}
 """
@@ -264,7 +267,7 @@ def generate_monthly_summary(period: str, force: bool = False) -> Path | None:
             {"role": "user", "content": user_prompt},
         ],
         max_tokens=900,
-        temperature=0.3,
+        temperature=0.4,
     )
     monthly_content = response.choices[0].message.content.strip()
     signal_updates_section = build_signal_updates_section(period)
