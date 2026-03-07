@@ -389,7 +389,7 @@ signal_confidence: {signal_confidence}
 
 {gist}
 
-[Read full article via {safe_publisher}]({safe_source_url})
+[Source: {safe_publisher}]({safe_source_url})
 """
 
             os.makedirs("_posts", exist_ok=True)
