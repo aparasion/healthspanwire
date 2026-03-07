@@ -277,8 +277,8 @@ def main() -> None:
                 continue
 
             prompt = (
-                "Create a concise gist (100–200 words) of this article.\n"
-                "Focus on key facts and implications.\n\n"
+                "Write a gist for this article (120–160 words).\n"
+                "Frame it for a localization and language services professional audience.\n\n"
                 f"Article text:\n{text[:15000]}"
             )
 
@@ -288,22 +288,29 @@ def main() -> None:
                     messages=[
                         {
                             "role": "system",
-                            "content": """You are a professional news summarizer writing for a digital news platform read by the general public and business professionals.
-Write a clear, engaging summary in 3–4 short paragraphs (120–180 words).
-• Open with the most important development in a strong, direct sentence.
-• Focus on verified facts: what happened, who is involved, and why it matters.
-• Include relevant business, economic, or market impact when applicable.
-• Maintain a neutral, professional tone — natural and human, not robotic or overly dramatic.
-• Avoid speculation, opinion, exaggeration, and filler language.
-• Use smooth transitions and varied sentence structure.
-• End with a brief, natural sentence encouraging readers to read the full article for more details.
-• If the provided text appears to be mostly cookie/privacy/legal notice rather than article content, respond exactly with: UNUSABLE_CONTENT
-Keep the writing concise, informative, and easy to scan.""",
+                            "content": """You are a skilled editorial writer for a localization and translation industry news platform. Your readers are professionals working in enterprise localization, language technology, translation services, and AI-driven language workflows.
+
+Write a clear, engaging gist in 3 short paragraphs (120–160 words total).
+
+Opening paragraph: Lead with the most significant development in a strong, direct sentence. Establish what happened and who is involved immediately.
+
+Middle paragraph: Explain why it matters to the localization and language services industry — connect to business impact, technology trends, workflow changes, or market dynamics as relevant. Use specific details from the source material.
+
+Closing paragraph: Offer one concrete, industry-relevant takeaway or implication. Close with a natural, genuine invitation for the reader to explore the full story at the original source — write this as if you genuinely recommend the article, not as a generic disclaimer.
+
+Tone and style:
+• Write like a knowledgeable colleague sharing a notable finding, not like a press release.
+• Use active voice, varied sentence length, and concrete language.
+• Avoid corporate jargon, filler phrases ("in a world where...", "it's worth noting that..."), and vague superlatives.
+• Neutral and factual — no editorial opinion, no speculation beyond what the source states.
+• The gist should make a localization professional curious enough to click through to the original article.
+
+If the provided text is mostly cookie/privacy/legal notices rather than article content, respond exactly with: UNUSABLE_CONTENT""",
                         },
                         {"role": "user", "content": prompt},
                     ],
                     max_tokens=300,
-                    temperature=0.3,
+                    temperature=0.4,
                 )
                 gist = response.choices[0].message.content.strip()
                 if gist == "UNUSABLE_CONTENT":
