@@ -1,6 +1,6 @@
 ---
 title: "How localization leaders are redefining their roles to win in 2026"
-date: 2026-03-08T22:49:32Z
+date: 2026-02-06T22:49:32Z
 layout: post
 categories: [translation]
 tags: [translation, localization, news, gist]
