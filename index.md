@@ -43,9 +43,10 @@ nav_order: 1
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
 
+    {% assign post_date = post.date | date: "%Y-%m-%d" %}
     <p class="post-meta">
       {{ post.date | date: "%B %d, %Y" }}
-      {% if post.date | date: "%Y-%m-%d" == latest_date %}<span class="new-badge">NEW!</span>{% endif %}
+      {% if post_date == latest_date %}<span class="new-badge">NEW!</span>{% endif %}
     </p>
 
     <p>{{ post.excerpt }}</p>
