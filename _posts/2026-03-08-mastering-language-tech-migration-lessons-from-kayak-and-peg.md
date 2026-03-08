@@ -1,6 +1,6 @@
 ---
 title: "Mastering language tech migration: Lessons from Kayak and Pega"
-date: 2026-03-08T22:49:07Z
+date: 2026-02-27T22:49:07Z
 layout: post
 categories: [translation]
 tags: [translation, localization, news, gist]
