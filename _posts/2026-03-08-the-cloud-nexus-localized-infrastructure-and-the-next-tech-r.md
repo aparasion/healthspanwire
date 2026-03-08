@@ -1,6 +1,6 @@
 ---
 title: "The cloud nexus: Localized infrastructure and the next tech revolution"
-date: 2026-03-08T22:48:38Z
+date: 2026-03-05T22:48:38Z
 layout: post
 categories: [translation]
 tags: [translation, localization, news, gist]
