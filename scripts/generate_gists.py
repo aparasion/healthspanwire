@@ -30,6 +30,7 @@ FEEDS = [
     "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
     "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
     "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
+    "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
 ]
 
 SEEN_FILE = "seen.json"
