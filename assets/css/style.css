@@ -340,6 +340,70 @@ hr {
   color: #fca5a5;
 }
 
+/* ── Signal Status & Stance Badges ──────────────────────── */
+/*
+  Color scale: green (supported) → amber (mixed) → slate (emerging/mentions) → red (challenged/contradicts)
+*/
+.status-badge,
+.stance-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border-radius: 4px;
+  vertical-align: middle;
+}
+
+/* supported / supports → green */
+.status-badge--supported,
+.stance-badge--supports {
+  background: #dcfce7;
+  color: #15803d;
+}
+[data-theme="dark"] .status-badge--supported,
+[data-theme="dark"] .stance-badge--supports {
+  background: #14532d;
+  color: #86efac;
+}
+
+/* mixed → amber */
+.status-badge--mixed,
+.stance-badge--mixed {
+  background: #fef9c3;
+  color: #a16207;
+}
+[data-theme="dark"] .status-badge--mixed,
+[data-theme="dark"] .stance-badge--mixed {
+  background: #422006;
+  color: #fde68a;
+}
+
+/* emerging / mentions → slate (neutral) */
+.status-badge--emerging,
+.stance-badge--mentions {
+  background: #f1f5f9;
+  color: #475569;
+}
+[data-theme="dark"] .status-badge--emerging,
+[data-theme="dark"] .stance-badge--mentions {
+  background: #1e293b;
+  color: #94a3b8;
+}
+
+/* challenged / contradicts → red */
+.status-badge--challenged,
+.stance-badge--contradicts {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+[data-theme="dark"] .status-badge--challenged,
+[data-theme="dark"] .stance-badge--contradicts {
+  background: #450a0a;
+  color: #fca5a5;
+}
+
 /* ── Topic Filter ────────────────────────────────────────── */
 .topic-filter-panel {
   margin: var(--space-6) 0;

@@ -12,7 +12,7 @@ A living tracker of high-impact claims in localization and AI, with linked evide
   {% assign evidence_posts = site.posts | where_exp: "post", "post.signal_ids contains signal.id" %}
   <article class="signal-card">
     <h2>{{ signal.title }}</h2>
-    <p class="post-meta">Category: {{ signal.category }} · Status: <strong>{{ signal.current_status }}</strong> · First seen: {{ signal.first_seen }}</p>
+    <p class="post-meta">Category: {{ signal.category }} · Status: <span class="status-badge status-badge--{{ signal.current_status }}">{{ signal.current_status }}</span> · First seen: {{ signal.first_seen }}</p>
     <p>{{ signal.description }}</p>
 
     {% if evidence_posts.size > 0 %}
@@ -20,7 +20,7 @@ A living tracker of high-impact claims in localization and AI, with linked evide
         {% for post in evidence_posts limit: 8 %}
           <li>
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            <span class="signal-evidence-meta">({{ post.date | date: "%Y-%m-%d" }}{% if post.signal_stance %}, {{ post.signal_stance }}{% endif %})</span>
+            <span class="signal-evidence-meta">({{ post.date | date: "%Y-%m-%d" }}{% if post.signal_stance %}, <span class="stance-badge stance-badge--{{ post.signal_stance }}">{{ post.signal_stance }}</span>{% endif %})</span>
           </li>
         {% endfor %}
       </ul>
