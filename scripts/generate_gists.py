@@ -213,6 +213,12 @@ SIGNAL_KEYWORDS = {
     "governance-in-ai-workflows": ["governance", "audit", "compliance", "control", "policy", "risk", "guardrail"],
     "localization-operating-system": ["platform", "end-to-end", "workflow", "integration", "api", "orchestration"],
     "measurable-quality-evaluation": ["mqm", "metric", "evaluation", "benchmark", "score", "assessment"],
+    "translation-memory-obsolescence": ["TM", "CAT tool", "legacy", "segment", "translation memory", "fuzzy match"],
+    "human-post-editing-contraction": ["post-edit", "MTPE", "volume", "rates", "freelance", "job market", "demand"],
+    "agentic-localization-workflows": ["agent", "autonomous", "agentic", "pipeline", "automated workflow", "no-touch"],
+    "multimodal-content-localization": ["dubbing", "video", "audio", "subtitle", "multimodal", "image localization", "voice"],
+    "regulatory-fragmentation": ["regulation", "EU AI Act", "compliance", "legal", "mandate", "language law", "regional"],
+    "localization-first-content-design": ["transcreation", "locale-aware", "content design", "structured content", "internationalization", "i18n"],
 }
 
 

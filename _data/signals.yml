@@ -25,3 +25,45 @@
   first_seen: 2026-02-17
   current_status: supported
   description: Tracks whether formal quality evaluation is integrated directly into enterprise workflows.
+
+- id: translation-memory-obsolescence
+  title: Traditional TM architectures are being displaced by LLM-native approaches
+  category: operations
+  first_seen: 2026-03-09
+  current_status: emerging
+  description: Tracks evidence that LLM-based translation is reducing reliance on segment-level TM matching, challenging incumbent CAT tool architectures.
+
+- id: human-post-editing-contraction
+  title: MTPE volume is declining in high-resource language pairs
+  category: market
+  first_seen: 2026-03-09
+  current_status: emerging
+  description: Tracks whether AI quality improvements are reducing demand for human post-editing, reshaping translator employment and rate structures.
+
+- id: agentic-localization-workflows
+  title: AI agents are autonomously managing end-to-end localization pipelines
+  category: operations
+  first_seen: 2026-03-09
+  current_status: emerging
+  description: Tracks emergence of autonomous AI agents that trigger, route, review, and publish localized content with minimal human handoffs.
+
+- id: multimodal-content-localization
+  title: Localization scope is expanding beyond text to video, audio, and interactive content
+  category: operations
+  first_seen: 2026-03-09
+  current_status: emerging
+  description: Tracks whether tooling and business models are adapting as localization expands to dubbing, subtitling, image, and interactive content at scale.
+
+- id: regulatory-fragmentation
+  title: Diverging regional AI and language regulations are creating compliance complexity
+  category: governance
+  first_seen: 2026-03-09
+  current_status: emerging
+  description: Tracks how different national and regional AI regulations (EU AI Act, etc.) impose language-related compliance requirements that localizers must navigate.
+
+- id: localization-first-content-design
+  title: Organizations are designing content with localization built in from the start
+  category: strategy
+  first_seen: 2026-03-09
+  current_status: emerging
+  description: Tracks evidence that content is being created locale-aware from the start — transcreation briefs, structured content, internationalized UX — rather than localization being a downstream afterthought.
