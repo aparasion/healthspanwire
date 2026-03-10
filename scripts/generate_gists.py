@@ -84,6 +84,25 @@ def normalize_url(url: str) -> str:
     return cleaned.split("#", 1)[0].rstrip("/")
 
 
+def fetch_feed(url: str) -> feedparser.FeedParserDict:
+    """Fetch a feed URL with a browser-like User-Agent and parse with feedparser.
+
+    Using urllib to pre-fetch allows sites that block feedparser's default
+    User-Agent (e.g. returning 403) to be reached normally.
+    """
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; newsreader/1.0)"},
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            content = resp.read()
+        return feedparser.parse(content)
+    except Exception as e:
+        print(f"Failed to fetch feed {url}: {e}")
+        return feedparser.FeedParserDict(entries=[])
+
+
 def extract_article_text(url: str) -> str:
     """Fetch and extract readable article text from a URL."""
     downloaded = trafilatura.fetch_url(url)
@@ -268,12 +287,7 @@ def main() -> None:
         if count >= MAX_ARTICLES:
             break
 
-        normalized_feed_url = normalize_url(feed_url)
-        try:
-            feed = feedparser.parse(normalized_feed_url)
-        except Exception as e:
-            print(f"Skipping feed due to parse error for {feed_url}: {e}")
-            continue
+        feed = fetch_feed(feed_url)
 
         for entry in feed.entries[:10]:
             if count >= MAX_ARTICLES:
