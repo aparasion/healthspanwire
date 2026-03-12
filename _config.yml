@@ -6,3 +6,4 @@ author: "LocReport"
 og_locale: "en_US"
 twitter_username: "locreport"
 social_image: "/assets/images/logolocreport.png"
+permalink: /articles/:year/:month/:day/:title.html

@@ -89,7 +89,7 @@ def collect_recent_posts(since: datetime.date) -> list[dict]:
             continue
 
         slug = path.stem[11:]  # strip date prefix
-        post_url = f"{SITE_URL}/{post_date.strftime('%Y/%m/%d')}/{slug}/"
+        post_url = f"{SITE_URL}/articles/{post_date.strftime('%Y/%m/%d')}/{slug}.html"
 
         posts.append({
             "title": title,
