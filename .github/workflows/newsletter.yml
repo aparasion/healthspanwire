@@ -10,16 +10,15 @@ on:
         required: false
         default: '7'
         type: string
-      dry_run:
-        description: "Preview digest without sending"
-        required: false
-        default: false
-        type: boolean
-      send_immediately:
-        description: "Send immediately instead of saving as draft"
-        required: false
-        default: false
-        type: boolean
+      mode:
+        description: "Newsletter action"
+        required: true
+        default: 'draft'
+        type: choice
+        options:
+          - draft
+          - preview
+          - send
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -49,8 +48,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
           INPUT_DAYS: ${{ github.event.inputs.days }}
-          INPUT_DRY_RUN: ${{ github.event.inputs.dry_run }}
-          INPUT_SEND: ${{ github.event.inputs.send_immediately }}
+          INPUT_MODE: ${{ github.event.inputs.mode }}
         run: |
           set -euo pipefail
 
@@ -59,11 +57,10 @@ jobs:
             args+=(--days "$INPUT_DAYS")
           fi
 
-          if [ "${INPUT_DRY_RUN:-false}" = "true" ]; then
+          mode="${INPUT_MODE:-draft}"
+          if [ "$mode" = "preview" ]; then
             args+=(--dry-run)
-          fi
-
-          if [ "${INPUT_SEND:-false}" = "true" ]; then
+          elif [ "$mode" = "send" ]; then
             args+=(--send)
           fi
 
