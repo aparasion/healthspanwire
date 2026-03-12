@@ -100,7 +100,7 @@
 
   gtag('config', 'G-1KQKEEP1PL');
 </script>
-  
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -114,24 +114,24 @@
     {{ content }}
   </main>
 
-  <button id="scroll-top-button" class="scroll-top-button" type="button" aria-label="Back to top">↑</button>
+  <button id="scroll-top-button" class="scroll-top-button" type="button" aria-label="Back to top">&uarr;</button>
 
   {% include footer.html %}
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const root = document.documentElement;
-  const scrollTopButton = document.getElementById("scroll-top-button");
-  const topicFilterPanels = document.querySelectorAll(".topic-filter-panel");
+  var root = document.documentElement;
+  var scrollTopButton = document.getElementById("scroll-top-button");
+  var topicFilterPanels = document.querySelectorAll(".topic-filter-panel");
 
   // ── Theme menu ───────────────────────────────────────────
-  const themeMenu       = document.getElementById("theme-menu");
-  const menuTrigger     = document.getElementById("theme-menu-trigger");
-  const menuDropdown    = document.getElementById("theme-menu-dropdown");
-  const currentIcon     = document.getElementById("theme-current-icon");
-  const themeOptions    = menuDropdown ? menuDropdown.querySelectorAll(".theme-option") : [];
+  var themeMenu       = document.getElementById("theme-menu");
+  var menuTrigger     = document.getElementById("theme-menu-trigger");
+  var menuDropdown    = document.getElementById("theme-menu-dropdown");
+  var currentIcon     = document.getElementById("theme-current-icon");
+  var themeOptions    = menuDropdown ? menuDropdown.querySelectorAll(".theme-option") : [];
 
-  const THEME_ICONS = { light: "☀︎", gray: "◑", dark: "◗" };
+  var THEME_ICONS = { light: "\u2606", gray: "\u25D1", dark: "\u25D7" };
 
   function applyTheme(theme) {
     root.setAttribute("data-theme", theme);
@@ -142,8 +142,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // Apply saved theme (default to light)
-  const savedTheme = localStorage.getItem("theme") || "light";
+  var savedTheme = localStorage.getItem("theme") || "light";
   applyTheme(savedTheme);
 
   function closeMenu() {
@@ -155,7 +154,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (menuTrigger && menuDropdown) {
     menuTrigger.addEventListener("click", function (e) {
       e.stopPropagation();
-      const isOpen = menuDropdown.classList.toggle("is-open");
+      var isOpen = menuDropdown.classList.toggle("is-open");
       menuTrigger.setAttribute("aria-expanded", isOpen ? "true" : "false");
     });
 
@@ -175,17 +174,16 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // Hamburger nav toggle
-  const navToggle = document.getElementById("nav-toggle");
-  const siteNav = navToggle ? navToggle.closest(".site-nav") : null;
+  // ── Hamburger nav toggle ─────────────────────────────────
+  var navToggle = document.getElementById("nav-toggle");
+  var siteNav = navToggle ? navToggle.closest(".site-nav") : null;
 
   if (navToggle && siteNav) {
     navToggle.addEventListener("click", function () {
-      const isOpen = siteNav.classList.toggle("is-open");
+      var isOpen = siteNav.classList.toggle("is-open");
       navToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
     });
 
-    // Close menu when a nav link is clicked
     siteNav.querySelectorAll("a").forEach(function (link) {
       link.addEventListener("click", function () {
         siteNav.classList.remove("is-open");
@@ -193,7 +191,6 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
 
-    // Close menu when clicking outside
     document.addEventListener("click", function (e) {
       if (!siteNav.contains(e.target)) {
         siteNav.classList.remove("is-open");
@@ -202,8 +199,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-
-  // Open external links in new tab
+  // ── Open external links in new tab ───────────────────────
   document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach(function (link) {
     if (link.hostname !== window.location.hostname) {
       link.setAttribute("target", "_blank");
@@ -211,67 +207,118 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 
-  const AUTOLOAD_BATCH = 10;
+  // ── Scroll reveal animations ─────────────────────────────
+  var revealElements = document.querySelectorAll(".reveal, .reveal-stagger");
+  if (revealElements.length > 0) {
+    var revealObserver = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+        }
+      });
+    }, { threshold: 0.1, rootMargin: "0px 0px -40px 0px" });
 
-  topicFilterPanels.forEach(function (panel) {
-    const postList = panel.nextElementSibling;
+    revealElements.forEach(function (el) {
+      revealObserver.observe(el);
+    });
+  }
 
-    if (!postList || !postList.classList.contains("post-list")) {
-      return;
-    }
+  // ── Autoload / Infinite scroll ───────────────────────────
+  var AUTOLOAD_BATCH = 12;
 
-    const postCards = Array.from(postList.querySelectorAll(".post-preview"));
-
-    // ── Autoload setup ──────────────────────────────────────
-    let autoloadObserver = null;
+  // Handle post-grid autoload
+  var postGrid = document.querySelector(".post-grid");
+  if (postGrid) {
+    var postCards = Array.from(postGrid.querySelectorAll(".post-card"));
 
     if (postCards.length > AUTOLOAD_BATCH) {
-      // Hide posts beyond the initial batch
       postCards.slice(AUTOLOAD_BATCH).forEach(function (p) {
         p.classList.add("autoload-hidden");
       });
 
-      const loader = document.createElement("div");
+      var loader = document.createElement("div");
       loader.className = "autoload-loader";
-      loader.textContent = "Loading more…";
-      postList.appendChild(loader);
+      loader.textContent = "Loading more\u2026";
+      postGrid.parentNode.insertBefore(loader, postGrid.nextSibling);
 
-      const sentinel = document.createElement("div");
+      var sentinel = document.createElement("div");
       sentinel.className = "autoload-sentinel";
-      postList.appendChild(sentinel);
+      postGrid.parentNode.insertBefore(sentinel, loader.nextSibling);
 
-      function revealNextBatch() {
-        const pending = postCards.filter(function (p) {
-          return p.classList.contains("autoload-hidden");
-        });
-        if (pending.length === 0) return;
-
-        loader.classList.add("is-active");
-        setTimeout(function () {
-          pending.slice(0, AUTOLOAD_BATCH).forEach(function (p) {
-            p.classList.remove("autoload-hidden");
-          });
-          loader.classList.remove("is-active");
-        }, 150);
-      }
-
-
-
-      autoloadObserver = new IntersectionObserver(function (entries) {
+      var autoloadObserver = new IntersectionObserver(function (entries) {
         if (entries[0].isIntersecting) {
-          revealNextBatch();
+          var pending = postCards.filter(function (p) {
+            return p.classList.contains("autoload-hidden");
+          });
+          if (pending.length === 0) return;
+
+          loader.classList.add("is-active");
+          setTimeout(function () {
+            pending.slice(0, AUTOLOAD_BATCH).forEach(function (p) {
+              p.classList.remove("autoload-hidden");
+              p.style.opacity = "0";
+              p.style.transform = "translateY(16px)";
+              requestAnimationFrame(function () {
+                p.style.transition = "opacity 0.4s ease, transform 0.4s ease";
+                p.style.opacity = "1";
+                p.style.transform = "translateY(0)";
+              });
+            });
+            loader.classList.remove("is-active");
+          }, 100);
         }
-      }, { rootMargin: "200px" });
+      }, { rootMargin: "300px" });
 
       autoloadObserver.observe(sentinel);
     }
+  }
 
+  // Handle legacy post-list autoload (topic pages)
+  topicFilterPanels.forEach(function (panel) {
+    var postList = panel.nextElementSibling;
+    if (!postList || !postList.classList.contains("post-list")) return;
+
+    var postCards2 = Array.from(postList.querySelectorAll(".post-preview"));
+    if (postCards2.length > AUTOLOAD_BATCH) {
+      postCards2.slice(AUTOLOAD_BATCH).forEach(function (p) {
+        p.classList.add("autoload-hidden");
+      });
+
+      var loader2 = document.createElement("div");
+      loader2.className = "autoload-loader";
+      loader2.textContent = "Loading more\u2026";
+      postList.appendChild(loader2);
+
+      var sentinel2 = document.createElement("div");
+      sentinel2.className = "autoload-sentinel";
+      postList.appendChild(sentinel2);
+
+      var observer2 = new IntersectionObserver(function (entries) {
+        if (entries[0].isIntersecting) {
+          var pending2 = postCards2.filter(function (p) {
+            return p.classList.contains("autoload-hidden");
+          });
+          if (pending2.length === 0) return;
+
+          loader2.classList.add("is-active");
+          setTimeout(function () {
+            pending2.slice(0, AUTOLOAD_BATCH).forEach(function (p) {
+              p.classList.remove("autoload-hidden");
+            });
+            loader2.classList.remove("is-active");
+          }, 150);
+        }
+      }, { rootMargin: "200px" });
+
+      observer2.observe(sentinel2);
+    }
   });
 
-  const glossaryItems = {{ site.data.glossary | jsonify }};
+  // ── Glossary annotation ──────────────────────────────────
+  var glossaryItems = {{ site.data.glossary | jsonify }};
 
   if (glossaryItems && glossaryItems.length > 0) {
-    const termMap = glossaryItems
+    var termMap = glossaryItems
       .map(function (item) {
         return {
           term: item.term,
@@ -283,43 +330,36 @@ document.addEventListener("DOMContentLoaded", function () {
         return b.term.length - a.term.length;
       });
 
-    const contentRoots = document.querySelectorAll(".post-content, .page-content, .post-preview p");
-
+    var contentRoots = document.querySelectorAll(".post-content, .page-content, .post-card p, .post-preview p");
     contentRoots.forEach(function (rootEl) {
       annotateGlossary(rootEl, termMap);
     });
   }
 
   function annotateGlossary(rootEl, termMap) {
-    const walker = document.createTreeWalker(rootEl, NodeFilter.SHOW_TEXT, {
+    var walker = document.createTreeWalker(rootEl, NodeFilter.SHOW_TEXT, {
       acceptNode: function (node) {
-        const parentTag = node.parentElement ? node.parentElement.tagName : "";
-        if (!node.nodeValue.trim()) {
-          return NodeFilter.FILTER_REJECT;
-        }
-        if (["SCRIPT", "STYLE", "A", "BUTTON", "CODE", "PRE", "TEXTAREA"].includes(parentTag)) {
-          return NodeFilter.FILTER_REJECT;
-        }
-        if (node.parentElement && node.parentElement.closest(".glossary-term")) {
-          return NodeFilter.FILTER_REJECT;
-        }
+        var parentTag = node.parentElement ? node.parentElement.tagName : "";
+        if (!node.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+        if (["SCRIPT", "STYLE", "A", "BUTTON", "CODE", "PRE", "TEXTAREA"].includes(parentTag)) return NodeFilter.FILTER_REJECT;
+        if (node.parentElement && node.parentElement.closest(".glossary-term")) return NodeFilter.FILTER_REJECT;
         return NodeFilter.FILTER_ACCEPT;
       }
     });
 
-    const textNodes = [];
-    let currentNode;
+    var textNodes = [];
+    var currentNode;
     while ((currentNode = walker.nextNode())) {
       textNodes.push(currentNode);
     }
 
     textNodes.forEach(function (node) {
-      const originalText = node.nodeValue;
-      let updatedText = originalText;
-      let changed = false;
+      var originalText = node.nodeValue;
+      var updatedText = originalText;
+      var changed = false;
 
       termMap.forEach(function (item) {
-        const pattern = new RegExp("(^|\\b)(" + item.escapedTerm + ")(\\b)", "g");
+        var pattern = new RegExp("(^|\\b)(" + item.escapedTerm + ")(\\b)", "g");
         updatedText = updatedText.replace(pattern, function (match, prefix, term, suffix) {
           changed = true;
           return prefix + '<span class="glossary-term" tabindex="0">' + term + '<span class="glossary-card" role="tooltip">' + item.definition + '</span></span>' + suffix;
@@ -327,7 +367,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
 
       if (changed && updatedText !== originalText) {
-        const wrapper = document.createElement("span");
+        var wrapper = document.createElement("span");
         wrapper.innerHTML = updatedText;
         node.parentNode.replaceChild(wrapper, node);
       }
@@ -405,9 +445,10 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // ── Scroll-to-top button ─────────────────────────────────
   if (scrollTopButton) {
-    const toggleScrollButton = function () {
-      const shouldShow = window.scrollY > 420;
+    var toggleScrollButton = function () {
+      var shouldShow = window.scrollY > 420;
       scrollTopButton.classList.toggle("is-visible", shouldShow);
     };
 
@@ -421,5 +462,5 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 </body>
-  
+
 </html>
