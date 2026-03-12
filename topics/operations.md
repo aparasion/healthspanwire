@@ -2,8 +2,11 @@
 layout: page
 title: "Localization Operations"
 permalink: /topics/operations/
+topic: operations
 description: "Articles on TMS platforms, translation memory, AI agents, multimodal localization, and end-to-end localization operating systems."
 ---
+
+{% include topic-nav.html %}
 
 Coverage of localization tooling, TMS platforms, translation memory evolution, agentic workflows, multimodal content, and the shift toward end-to-end localization operating systems.
 
