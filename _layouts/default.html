@@ -180,6 +180,14 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
 
+  // Open external links in new tab
+  document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach(function (link) {
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    }
+  });
+
   const AUTOLOAD_BATCH = 10;
 
   topicFilterPanels.forEach(function (panel) {
