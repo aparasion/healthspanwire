@@ -6,8 +6,6 @@ topic: governance
 description: "Articles on AI governance, EU AI Act compliance, regulatory fragmentation, and language-related policy developments in localization."
 ---
 
-{% include topic-nav.html %}
-
 Coverage of AI governance frameworks, regulatory compliance, the EU AI Act, and how diverging regional policies affect localization workflows.
 
 {% assign gov_signals = "governance-in-ai-workflows,regulatory-fragmentation" | split: "," %}

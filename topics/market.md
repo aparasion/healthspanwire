@@ -6,8 +6,6 @@ topic: market
 description: "Articles on translator demand, MTPE market shifts, freelance translation rates, and language services industry dynamics."
 ---
 
-{% include topic-nav.html %}
-
 Coverage of market dynamics in language services — post-editing demand, translator employment trends, rate structures, and how AI is reshaping the competitive landscape.
 
 {% assign market_signals = "human-post-editing-contraction" | split: "," %}

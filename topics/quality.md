@@ -6,8 +6,6 @@ topic: quality
 description: "Articles on translation quality evaluation, MQM scoring, human-in-the-loop validation, and AI quality assurance in localization."
 ---
 
-{% include topic-nav.html %}
-
 Coverage of quality evaluation frameworks, human-in-the-loop review, MQM scoring, and the evolving gap between AI and human translation quality.
 
 {% assign quality_signals = "quality-gap-closure,measurable-quality-evaluation" | split: "," %}

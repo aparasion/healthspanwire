@@ -6,8 +6,6 @@ topic: strategy
 description: "Articles on localization-first content design, internationalization, transcreation, and strategic approaches to global content."
 ---
 
-{% include topic-nav.html %}
-
 Coverage of strategic approaches to localization — designing content for global audiences from the start, internationalization best practices, and transcreation methodologies.
 
 {% assign strategy_signals = "localization-first-content-design" | split: "," %}
