@@ -278,6 +278,26 @@ def parse_signal_ids_from_yaml(path: str) -> list[str]:
 
 
 KNOWN_SIGNAL_IDS = set(parse_signal_ids_from_yaml(SIGNALS_FILE))
+
+
+def parse_signal_titles_from_yaml(path: str) -> dict[str, str]:
+    """Return a dict mapping signal id -> title from the signals YAML file."""
+    if not os.path.exists(path):
+        return {}
+    titles: dict[str, str] = {}
+    current_id = ""
+    with open(path, "r", encoding="utf-8") as f:
+        for raw in f:
+            line = raw.strip()
+            if line.startswith("- id:"):
+                current_id = line.split(":", 1)[1].strip().strip('"').strip("'")
+            elif line.startswith("title:") and current_id:
+                titles[current_id] = line.split(":", 1)[1].strip().strip('"').strip("'")
+    return titles
+
+
+SIGNAL_TITLES = parse_signal_titles_from_yaml(SIGNALS_FILE)
+
 SIGNAL_KEYWORDS = {
     # category: quality
     "quality-gap-closure": [
@@ -520,6 +540,17 @@ If the provided text is mostly cookie/privacy/legal notices rather than article 
             signal_ids, signal_stance, signal_confidence = infer_signal_tags(entry.title, gist)
             signal_ids_yaml = ", ".join(signal_ids)
 
+            # Build optional signal reference for high-confidence matches
+            signal_ref = ""
+            if signal_confidence == "high" and signal_ids:
+                first_signal = signal_ids[0]
+                signal_title = SIGNAL_TITLES.get(first_signal, "")
+                if signal_title:
+                    signal_ref = (
+                        f"\n*LocReport tracks this as an industry signal: "
+                        f"[{signal_title}](/signals/#{first_signal})*\n"
+                    )
+
             md_content = f"""---
 title: "{safe_title}"
 date: {post_date_str}T{time_str}Z
@@ -535,7 +566,7 @@ signal_confidence: {signal_confidence}
 ---
 
 {gist}
-
+{signal_ref}
 [Source: {safe_publisher}]({safe_source_url})
 """
 

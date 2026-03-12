@@ -1,0 +1,21 @@
+# LocReport
+> Daily localization and translation industry intelligence
+
+LocReport is an independent publication tracking the language services industry.
+We cover AI translation, localization platforms, quality evaluation, regulatory
+developments, and market shifts affecting global communication professionals.
+
+## Key Resources
+- Signal Tracker: /signals/ — 10 tracked industry signals with evidence
+- Monthly Reports: /monthly-reports/ — editorial synthesis of monthly trends
+- Daily Coverage: / — curated news with professional analysis
+- Newsletter: /newsletter/ — weekly digest and signal alerts
+
+## Topics Covered
+Translation management, machine translation, post-editing (MTPE), AI agents in
+localization, quality evaluation (MQM, COMET), TMS platforms, language regulation,
+localization-first design, multimodal content localization, LSP market dynamics.
+
+## Audience
+Localization managers, language technology professionals, translation service
+providers, enterprise globalization teams, and language industry analysts.

@@ -881,6 +881,94 @@ article.post h1 {
   display: block;
 }
 
+/* ── Signal Context ──────────────────────────────────────── */
+.signal-context {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: 0 0 var(--space-2);
+}
+
+.signal-context::before {
+  content: "Tracking signal: ";
+  font-weight: 600;
+}
+
+.signal-context a {
+  color: var(--muted);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+}
+
+.signal-context a:hover {
+  color: var(--text);
+}
+
+/* ── Related Articles ───────────────────────────────────── */
+.related-articles {
+  margin-top: var(--space-8);
+  padding-top: var(--space-5);
+  border-top: 1px solid color-mix(in srgb, var(--muted) 15%, transparent);
+}
+
+.related-articles h3 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  margin: 0 0 var(--space-3);
+}
+
+.related-articles ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.related-articles li {
+  padding: var(--space-2) 0;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  align-items: baseline;
+}
+
+.related-articles li + li {
+  border-top: 1px solid color-mix(in srgb, var(--muted) 10%, transparent);
+}
+
+.related-articles li a {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.related-articles li a:hover {
+  color: var(--muted);
+}
+
+.related-date {
+  font-size: 0.75rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+/* ── Internal Links (JS-injected) ───────────────────────── */
+a.internal-link {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+}
+
+a.internal-link:hover {
+  color: var(--accent);
+  text-decoration-style: solid;
+}
+
 /* ── Mobile Responsive ───────────────────────────────────── */
 @media (max-width: 640px) {
   .header-brand {

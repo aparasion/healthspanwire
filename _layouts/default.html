@@ -42,6 +42,29 @@
   {% endif %}
   {% endif %}
 
+  {% if page.layout == 'post' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": {{ site.url | jsonify }}
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": {{ page.title | jsonify }},
+        "item": {{ canonical_url | jsonify }}
+      }
+    ]
+  }
+  </script>
+  {% endif %}
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -338,6 +361,77 @@ document.addEventListener("DOMContentLoaded", function () {
         wrapper.innerHTML = updatedText;
         node.parentNode.replaceChild(wrapper, node);
       }
+    });
+  }
+
+  // ── Internal links annotation ──────────────────────────
+  var internalLinkItems = {{ site.data.internal_links | jsonify }};
+  if (internalLinkItems && internalLinkItems.length > 0) {
+    var MAX_INTERNAL_LINKS = 3;
+    var linkTerms = internalLinkItems
+      .map(function (item) {
+        return {
+          term: item.term,
+          escapedTerm: item.term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"),
+          url: item.url
+        };
+      })
+      .sort(function (a, b) { return b.term.length - a.term.length; });
+
+    var postContentEls = document.querySelectorAll(".post-content");
+    postContentEls.forEach(function (rootEl) {
+      var linksInserted = 0;
+      var usedUrls = {};
+
+      linkTerms.forEach(function (item) {
+        if (linksInserted >= MAX_INTERNAL_LINKS) return;
+        if (usedUrls[item.url]) return;
+
+        var pattern = new RegExp("(^|\\b)(" + item.escapedTerm + ")(\\b)", "i");
+        var walker = document.createTreeWalker(rootEl, NodeFilter.SHOW_TEXT, {
+          acceptNode: function (node) {
+            var parentTag = node.parentElement ? node.parentElement.tagName : "";
+            if (!node.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+            if (["SCRIPT", "STYLE", "A", "BUTTON", "CODE", "PRE", "TEXTAREA"].includes(parentTag)) return NodeFilter.FILTER_REJECT;
+            if (node.parentElement && node.parentElement.closest(".glossary-term")) return NodeFilter.FILTER_REJECT;
+            if (node.parentElement && node.parentElement.closest("a")) return NodeFilter.FILTER_REJECT;
+            return NodeFilter.FILTER_ACCEPT;
+          }
+        });
+
+        var textNodes = [];
+        var currentNode;
+        while ((currentNode = walker.nextNode())) { textNodes.push(currentNode); }
+
+        for (var i = 0; i < textNodes.length; i++) {
+          if (linksInserted >= MAX_INTERNAL_LINKS) break;
+          var match = textNodes[i].nodeValue.match(pattern);
+          if (!match) continue;
+
+          var node = textNodes[i];
+          var idx = match.index + match[1].length;
+          var before = node.nodeValue.substring(0, idx);
+          var matchedText = match[2];
+          var after = node.nodeValue.substring(idx + matchedText.length);
+
+          var beforeNode = document.createTextNode(before);
+          var link = document.createElement("a");
+          link.href = item.url;
+          link.className = "internal-link";
+          link.textContent = matchedText;
+          var afterNode = document.createTextNode(after);
+
+          var parent = node.parentNode;
+          parent.insertBefore(beforeNode, node);
+          parent.insertBefore(link, node);
+          parent.insertBefore(afterNode, node);
+          parent.removeChild(node);
+
+          linksInserted++;
+          usedUrls[item.url] = true;
+          break;
+        }
+      });
     });
   }
 
