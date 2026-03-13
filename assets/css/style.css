@@ -59,8 +59,8 @@
   --muted:          #8a9ab5;
   --accent:         #60a5fa;
   --accent-soft:    rgba(96, 165, 250, 0.1);
-  --brand-loc:      #93c5fd;
-  --brand-report:   #38bdf8;
+  --brand-loc:      #252687;
+  --brand-report:   #66dfe7;
   --border:         rgba(255, 255, 255, 0.06);
   --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.2), 0 4px 16px rgba(0, 0, 0, 0.15);
   --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.3), 0 12px 40px rgba(0, 0, 0, 0.2);
@@ -81,8 +81,8 @@
   --muted:          #8b8fa8;
   --accent:         #6366f1;
   --accent-soft:    rgba(99, 102, 241, 0.08);
-  --brand-loc:      #7b8fc9;
-  --brand-report:   #85b5d0;
+  --brand-loc:      #252687;
+  --brand-report:   #66dfe7;
   --border:         rgba(0, 0, 0, 0.06);
   --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.03), 0 4px 16px rgba(0, 0, 0, 0.03);
   --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.05), 0 12px 40px rgba(0, 0, 0, 0.06);
