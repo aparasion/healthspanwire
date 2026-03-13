@@ -47,6 +47,7 @@ FEEDS = [
     "https://propio.com/blogs/feed/",
     "https://www.publicisgroupeuk.com/news-and-views/feed",
     "https://www.helloglobo.com/blog-old/rss.xml",
+    "https://datawords.com/our-news/feed/",
 ]
 
 SEEN_FILE = "seen.json"
