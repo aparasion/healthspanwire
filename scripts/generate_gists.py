@@ -43,6 +43,7 @@ FEEDS = [
     "https://www.smartling.com/company-news/rss.xml",
     "https://en-gb.thebigword.com/news-and-blogs/feed/",
     "https://www.vistatec.com/news-blog/feed/",
+    "https://sorenson.com/company/blog/feed/",
 ]
 
 SEEN_FILE = "seen.json"
