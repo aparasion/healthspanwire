@@ -51,6 +51,7 @@ FEEDS = [
     "https://www.cqfluency.com/who-we-are/news/feed/",
     "https://www.cqfluency.com/cqpedia-cultural-intelligence-encyclopedia/feed/",
     "https://www.ecinnovations.com/blog/feed/",
+"https://multilingual.com/author/multilingualstaff/feed/",
 ]
 
 SEEN_FILE = "seen.json"
