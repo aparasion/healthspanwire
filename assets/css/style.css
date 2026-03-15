@@ -307,6 +307,14 @@ hr {
   border-color: var(--accent);
 }
 
+/* In dark mode (default): show moon icon (click to go light) */
+.theme-icon--sun { display: none; }
+.theme-icon--moon { display: block; }
+
+/* In light mode: show sun icon (click to go dark) */
+[data-theme="light-gray"] .theme-icon--sun { display: block; }
+[data-theme="light-gray"] .theme-icon--moon { display: none; }
+
 /* ── Hero Section ───────────────────────────────────────── */
 .hero {
   position: relative;
@@ -825,6 +833,31 @@ hr {
 .stance-badge--contradicts {
   background: #450a0a;
   color: #fca5a5;
+}
+
+/* ── Light mode badge overrides ────────────────────────── */
+[data-theme="light-gray"] .status-badge--supported,
+[data-theme="light-gray"] .stance-badge--supports {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+[data-theme="light-gray"] .status-badge--mixed,
+[data-theme="light-gray"] .stance-badge--mixed {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+[data-theme="light-gray"] .status-badge--emerging,
+[data-theme="light-gray"] .stance-badge--mentions {
+  background: #e2e8f0;
+  color: #334155;
+}
+
+[data-theme="light-gray"] .status-badge--challenged,
+[data-theme="light-gray"] .stance-badge--contradicts {
+  background: #fee2e2;
+  color: #991b1b;
 }
 
 /* ── Signal Shared ───────────────────────────────────────── */
