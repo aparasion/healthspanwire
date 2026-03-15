@@ -42,5 +42,3 @@ Reach out through the Contact page and tell us what you'd like to share.
 
 HealthspanWire is about tracking what drives the science of living longer — and the people building it.
 
-
-**Some content on this website may be created with the assistance of artificial intelligence tools and is reviewed by our editorial team.*
