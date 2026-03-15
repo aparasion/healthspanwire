@@ -32,6 +32,7 @@ FEEDS = [
     "https://news.google.com/rss/search?q=caloric+restriction+longevity&hl=en-US&gl=US&ceid=US:en",
     "https://superagingnews.com/category/longevity-wellness/feed/",
     "https://connect.biorxiv.org/biorxiv_xml.php?subject=aging",
+    "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml",
 ]
 
 SEEN_FILE = "seen.json"
