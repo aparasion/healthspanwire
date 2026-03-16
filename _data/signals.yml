@@ -2,7 +2,7 @@
   title: Senolytic therapies are showing clinical efficacy in human trials
   category: therapeutics
   first_seen: 2026-03-14
-  current_status: emerging
+  current_status: supported
   description: Tracks evidence that drugs targeting senescent cells (senolytics like dasatinib+quercetin, fisetin) are demonstrating measurable benefits in human clinical trials.
 
 - id: rapamycin-healthspan-extension
