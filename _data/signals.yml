@@ -16,7 +16,7 @@
   title: Epigenetic clocks are becoming standard biological age measures
   category: biomarkers
   first_seen: 2026-03-14
-  current_status: emerging
+  current_status: supported
   description: Tracks adoption of DNA methylation-based aging clocks (Horvath, GrimAge, DunedinPACE) as validated biomarkers in research and clinical practice.
 
 - id: blood-biomarker-panels
