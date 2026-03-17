@@ -13,5 +13,5 @@ layout: default
     {{ content }}
   </div>
 
-  {% include social-share.html %}
+  {% if page.share %}{% include social-share.html %}{% endif %}
 </article>

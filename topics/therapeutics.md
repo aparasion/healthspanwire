@@ -2,6 +2,7 @@
 layout: page
 title: Therapeutics
 permalink: /topics/therapeutics/
+share: true
 topic: true
 ---
 

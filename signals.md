@@ -2,6 +2,7 @@
 layout: page
 title: Signal Tracker
 permalink: /signals/
+share: true
 nav: true
 nav_order: 2
 ---
