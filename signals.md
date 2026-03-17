@@ -37,6 +37,8 @@ A living tracker of high-impact claims in longevity science and healthspan resea
         {% else %}
           <p class="signal-card__empty">No linked evidence yet.</p>
         {% endif %}
+        {% assign _sig_url = site.url | append: site.baseurl | append: '/signals/#' | append: signal.id %}
+        {% include social-share.html share_url=_sig_url share_title=signal.title share_desc=signal.description %}
       </div>
     </details>
   {% endfor %}
