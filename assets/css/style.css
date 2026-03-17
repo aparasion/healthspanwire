@@ -1548,3 +1548,110 @@ a.internal-link:hover {
 .page-content {
   margin-top: var(--space-4);
 }
+
+/* ── Social Share ────────────────────────────────────────── */
+.social-share {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-top: var(--space-6);
+  padding-top: var(--space-5);
+  border-top: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.social-share__label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+  flex-shrink: 0;
+  margin-right: var(--space-1);
+}
+
+.social-share__icons {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex-wrap: wrap;
+}
+
+.social-share__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: none;
+  color: var(--muted);
+  transition: color 0.18s ease, transform 0.15s ease, background 0.18s ease;
+  position: relative;
+}
+
+.social-share__btn svg {
+  width: 17px;
+  height: 17px;
+  display: block;
+  flex-shrink: 0;
+}
+
+.social-share__btn:hover,
+.social-share__btn:focus-visible {
+  transform: translateY(-2px);
+  background: var(--accent-soft);
+  outline: none;
+}
+
+/* Brand hover colours */
+.social-share__btn--x:hover,
+.social-share__btn--x:focus-visible         { color: var(--text); }
+.social-share__btn--linkedin:hover,
+.social-share__btn--linkedin:focus-visible  { color: #0a66c2; }
+.social-share__btn--facebook:hover,
+.social-share__btn--facebook:focus-visible  { color: #1877f2; }
+.social-share__btn--reddit:hover,
+.social-share__btn--reddit:focus-visible    { color: #ff4500; }
+.social-share__btn--whatsapp:hover,
+.social-share__btn--whatsapp:focus-visible  { color: #25d366; }
+.social-share__btn--email:hover,
+.social-share__btn--email:focus-visible     { color: var(--accent); }
+.social-share__btn--copy:hover,
+.social-share__btn--copy:focus-visible      { color: var(--accent); }
+
+/* Copy: copied state */
+.social-share__btn--copy.social-share__btn--copied {
+  color: var(--accent);
+}
+
+/* Copy: icon swap — show checkmark when copied */
+.social-share__icon-check {
+  display: none;
+}
+
+.social-share__btn--copy.social-share__btn--copied .social-share__icon-link {
+  display: none;
+}
+
+.social-share__btn--copy.social-share__btn--copied .social-share__icon-check {
+  display: block;
+}
+
+@media (max-width: 480px) {
+  .social-share {
+    gap: var(--space-2);
+  }
+  .social-share__btn {
+    width: 34px;
+    height: 34px;
+  }
+  .social-share__btn svg {
+    width: 16px;
+    height: 16px;
+  }
+}

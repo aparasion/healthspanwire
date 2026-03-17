@@ -24,6 +24,8 @@ layout: default
     {{ content }}
   </div>
 
+  {% include social-share.html %}
+
   {% comment %} Related articles by shared signal IDs, fallback to same category {% endcomment %}
   {% assign related = "" | split: "" %}
   {% if page.signal_ids and page.signal_ids.size > 0 %}

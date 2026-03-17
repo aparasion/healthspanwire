@@ -1,0 +1,143 @@
+{% comment %}
+  Social Share Component — HealthspanWire
+  ───────────────────────────────────────
+  Usage:   {% include social-share.html %}
+  Appears: post.html, page.html (topics, signals)
+  Icons:   X · LinkedIn · Facebook · Reddit · WhatsApp · Email · Copy link
+  Style:   Monochrome at rest → brand colour on hover
+{% endcomment %}
+
+{% assign _share_url   = page.url | absolute_url %}
+{% assign _share_title = page.title | url_encode %}
+{% assign _share_desc  = page.description | default: page.excerpt | strip_html | truncate: 160 | url_encode %}
+
+<div class="social-share" aria-label="Share this page">
+  <span class="social-share__label">Share</span>
+  <div class="social-share__icons">
+
+    <!-- X (Twitter) -->
+    <a class="social-share__btn social-share__btn--x"
+       href="https://x.com/intent/tweet?url={{ _share_url | url_encode }}&text={{ _share_title }}"
+       target="_blank" rel="noopener noreferrer"
+       title="Share on X" aria-label="Share on X">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
+        <line x1="4" y1="4" x2="20" y2="20"/>
+        <line x1="20" y1="4" x2="4" y2="20"/>
+      </svg>
+    </a>
+
+    <!-- LinkedIn -->
+    <a class="social-share__btn social-share__btn--linkedin"
+       href="https://www.linkedin.com/sharing/share-offsite/?url={{ _share_url | url_encode }}"
+       target="_blank" rel="noopener noreferrer"
+       title="Share on LinkedIn" aria-label="Share on LinkedIn">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+        <rect x="2" y="9" width="4" height="12"/>
+        <circle cx="4" cy="4" r="2"/>
+      </svg>
+    </a>
+
+    <!-- Facebook -->
+    <a class="social-share__btn social-share__btn--facebook"
+       href="https://www.facebook.com/sharer/sharer.php?u={{ _share_url | url_encode }}"
+       target="_blank" rel="noopener noreferrer"
+       title="Share on Facebook" aria-label="Share on Facebook">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>
+      </svg>
+    </a>
+
+    <!-- Reddit -->
+    <a class="social-share__btn social-share__btn--reddit"
+       href="https://www.reddit.com/submit?url={{ _share_url | url_encode }}&title={{ _share_title }}"
+       target="_blank" rel="noopener noreferrer"
+       title="Share on Reddit" aria-label="Share on Reddit">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="10"/>
+        <path d="M16.7 10a2 2 0 0 1 2.3 2 2 2 0 0 1-1 1.7v.3C18 17 15.3 19 12 19s-6-2-6-5v-.3A2 2 0 0 1 7.3 10a2 2 0 0 1 1.4.5 8 8 0 0 1 3.3-.7 8 8 0 0 1 3.3.7A2 2 0 0 1 16.7 10z"/>
+        <circle cx="9.5" cy="14" r="1"/>
+        <circle cx="14.5" cy="14" r="1"/>
+        <path d="M9.5 17a5.5 5.5 0 0 0 5 0"/>
+        <path d="M12 7.5 15 6"/>
+        <circle cx="15.5" cy="5.5" r="1.5"/>
+      </svg>
+    </a>
+
+    <!-- WhatsApp -->
+    <a class="social-share__btn social-share__btn--whatsapp"
+       href="https://wa.me/?text={{ _share_title }}%20{{ _share_url | url_encode }}"
+       target="_blank" rel="noopener noreferrer"
+       title="Share on WhatsApp" aria-label="Share on WhatsApp">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/>
+      </svg>
+    </a>
+
+    <!-- Email -->
+    <a class="social-share__btn social-share__btn--email"
+       href="mailto:?subject={{ _share_title }}&body={{ _share_desc }}%0A%0A{{ _share_url | url_encode }}"
+       title="Share via email" aria-label="Share via email">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+        <polyline points="22,6 12,13 2,6"/>
+      </svg>
+    </a>
+
+    <!-- Copy link -->
+    <button class="social-share__btn social-share__btn--copy"
+            data-share-url="{{ _share_url }}"
+            title="Copy link" aria-label="Copy link to clipboard">
+      <svg class="social-share__icon-link" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+      </svg>
+      <svg class="social-share__icon-check" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <polyline points="20 6 9 17 4 12"/>
+      </svg>
+    </button>
+
+  </div>
+</div>
+
+<script>
+(function () {
+  if (window.__hswShareInit) return;
+  window.__hswShareInit = true;
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest('.social-share__btn--copy');
+    if (!btn) return;
+    var url = btn.dataset.shareUrl || location.href;
+    function markCopied() {
+      btn.setAttribute('title', 'Copied!');
+      btn.classList.add('social-share__btn--copied');
+      setTimeout(function () {
+        btn.setAttribute('title', 'Copy link');
+        btn.classList.remove('social-share__btn--copied');
+      }, 2000);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(markCopied).catch(function () { fallback(url); markCopied(); });
+    } else {
+      fallback(url); markCopied();
+    }
+  });
+  function fallback(text) {
+    var ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.cssText = 'position:fixed;left:-9999px;top:-9999px;opacity:0';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); } catch (err) {}
+    document.body.removeChild(ta);
+  }
+}());
+</script>
