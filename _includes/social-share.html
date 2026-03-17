@@ -1,15 +1,29 @@
 {% comment %}
   Social Share Component — HealthspanWire
   ───────────────────────────────────────
-  Usage:   {% include social-share.html %}
-  Appears: post.html, page.html (topics, signals)
+  Usage (page defaults):
+    {% include social-share.html %}
+  Usage (custom, e.g. per-signal):
+    {% include social-share.html share_url=my_url share_title=my_title share_desc=my_desc %}
   Icons:   X · LinkedIn · Facebook · Reddit · WhatsApp · Email · Copy link
   Style:   Monochrome at rest → brand colour on hover
 {% endcomment %}
 
-{% assign _share_url   = page.url | absolute_url %}
-{% assign _share_title = page.title | url_encode %}
-{% assign _share_desc  = page.description | default: page.excerpt | strip_html | truncate: 160 | url_encode %}
+{% if include.share_url %}
+  {% assign _share_url = include.share_url %}
+{% else %}
+  {% assign _share_url = page.url | absolute_url %}
+{% endif %}
+{% if include.share_title %}
+  {% assign _share_title = include.share_title | url_encode %}
+{% else %}
+  {% assign _share_title = page.title | url_encode %}
+{% endif %}
+{% if include.share_desc %}
+  {% assign _share_desc = include.share_desc | url_encode %}
+{% else %}
+  {% assign _share_desc = page.description | default: page.excerpt | strip_html | truncate: 160 | url_encode %}
+{% endif %}
 
 <div class="social-share" aria-label="Share this page">
   <span class="social-share__label">Share</span>
