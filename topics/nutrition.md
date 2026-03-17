@@ -2,6 +2,7 @@
 layout: page
 title: Nutrition
 permalink: /topics/nutrition/
+share: true
 topic: true
 ---
 

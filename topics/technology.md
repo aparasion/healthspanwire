@@ -2,6 +2,7 @@
 layout: page
 title: Technology
 permalink: /topics/technology/
+share: true
 topic: true
 ---
 

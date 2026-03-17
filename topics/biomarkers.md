@@ -2,6 +2,7 @@
 layout: page
 title: Biomarkers
 permalink: /topics/biomarkers/
+share: true
 topic: true
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 title: Policy
 permalink: /topics/policy/
+share: true
 topic: true
 ---
 
