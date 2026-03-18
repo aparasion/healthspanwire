@@ -124,10 +124,14 @@
   {% include footer.html %}
 
 <script>
-// ── Light gray mode — apply before render to avoid flash ──
+// ── Dark navy mode — apply before render to avoid flash ──
 (function () {
-  if (localStorage.getItem("theme") === "light-gray") {
-    document.documentElement.setAttribute("data-theme", "light-gray");
+  var saved = localStorage.getItem("theme");
+  if (saved === "dark-navy") {
+    document.documentElement.setAttribute("data-theme", "dark-navy");
+  } else if (saved === "light-gray") {
+    // Migrate: light-gray is now default, clear stored value
+    localStorage.removeItem("theme");
   }
 })();
 </script>
@@ -140,20 +144,20 @@ document.addEventListener("DOMContentLoaded", function () {
   var themeToggle = document.getElementById("theme-toggle");
   if (themeToggle) {
     themeToggle.addEventListener("click", function () {
-      var isLightGray = document.documentElement.getAttribute("data-theme") === "light-gray";
-      if (isLightGray) {
+      var isDark = document.documentElement.getAttribute("data-theme") === "dark-navy";
+      if (isDark) {
         document.documentElement.removeAttribute("data-theme");
         localStorage.removeItem("theme");
-        themeToggle.title = "Switch to light gray mode";
-      } else {
-        document.documentElement.setAttribute("data-theme", "light-gray");
-        localStorage.setItem("theme", "light-gray");
         themeToggle.title = "Switch to dark navy mode";
+      } else {
+        document.documentElement.setAttribute("data-theme", "dark-navy");
+        localStorage.setItem("theme", "dark-navy");
+        themeToggle.title = "Switch to light gray mode";
       }
     });
     // Set initial tooltip
-    if (document.documentElement.getAttribute("data-theme") === "light-gray") {
-      themeToggle.title = "Switch to dark navy mode";
+    if (document.documentElement.getAttribute("data-theme") === "dark-navy") {
+      themeToggle.title = "Switch to light gray mode";
     }
   }
 
