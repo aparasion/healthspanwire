@@ -1,30 +1,30 @@
 /* ============================================================
    HealthspanWire — Biotech Modern Design
-   Single dark theme with teal/green DNA-inspired palette
+   Light theme default with teal/green DNA-inspired palette
    ============================================================ */
 
 /* ── Tokens ─────────────────────────────────────────────── */
 :root {
-  /* Colour — Dark Biotech */
-  --bg:             #0c0f14;
-  --bg-secondary:   #111520;
-  --surface:        #161b27;
-  --text:           #e8ecf4;
-  --muted:          #7d8aa3;
-  --accent:         #4DB6AC;
-  --accent-soft:    rgba(77, 182, 172, 0.1);
-  --brand-health:   #4DB6AC;
-  --brand-wire:     #81C784;
-  --border:         rgba(255, 255, 255, 0.06);
-  --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.2);
-  --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.4), 0 12px 40px rgba(0, 0, 0, 0.3);
-  --gradient-hero:  linear-gradient(135deg, #0a0f18 0%, #0d1520 30%, #0a1a1a 60%, #0c1510 100%);
-  --gradient-accent: linear-gradient(135deg, #4DB6AC, #66BB6A, #26A69A);
-  --glass-bg:       rgba(12, 15, 20, 0.85);
-  --glass-border:   rgba(255, 255, 255, 0.06);
-  --featured-bg:    linear-gradient(135deg, #111d2b 0%, #0f2420 100%);
-  --featured-text:  #e0eaef;
-  --featured-muted: #7d9aaa;
+  /* Colour — Light (default) */
+  --bg:             #f4f4f5;
+  --bg-secondary:   #e9e9eb;
+  --surface:        #ffffff;
+  --text:           #1a1a1e;
+  --muted:          #6b7280;
+  --accent:         #0d9488;
+  --accent-soft:    rgba(13, 148, 136, 0.1);
+  --brand-health:   #0d9488;
+  --brand-wire:     #4a7c59;
+  --border:         rgba(0, 0, 0, 0.1);
+  --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.08), 0 4px 16px rgba(0, 0, 0, 0.06);
+  --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.12), 0 12px 40px rgba(0, 0, 0, 0.1);
+  --gradient-hero:  linear-gradient(135deg, #e8eef4 0%, #edf4f2 30%, #eaf4ee 60%, #f0f4eb 100%);
+  --gradient-accent: linear-gradient(135deg, #0d9488, #4a7c59, #0f766e);
+  --glass-bg:       rgba(244, 244, 245, 0.9);
+  --glass-border:   rgba(0, 0, 0, 0.08);
+  --featured-bg:    linear-gradient(135deg, #e8f4f2 0%, #eaf4ee 100%);
+  --featured-text:  #1a1a1e;
+  --featured-muted: #4b6672;
 
   /* Spacing */
   --space-1: 0.25rem;
@@ -51,27 +51,27 @@
   --radius-xl: 24px;
 }
 
-/* ── Light Gray Mode ─────────────────────────────────────── */
-[data-theme="light-gray"] {
-  --bg:             #f4f4f5;
-  --bg-secondary:   #e9e9eb;
-  --surface:        #ffffff;
-  --text:           #1a1a1e;
-  --muted:          #6b7280;
-  --accent:         #0d9488;
-  --accent-soft:    rgba(13, 148, 136, 0.1);
-  --brand-health:   #0d9488;
-  --brand-wire:     #4a7c59;
-  --border:         rgba(0, 0, 0, 0.1);
-  --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.08), 0 4px 16px rgba(0, 0, 0, 0.06);
-  --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.12), 0 12px 40px rgba(0, 0, 0, 0.1);
-  --gradient-hero:  linear-gradient(135deg, #e8eef4 0%, #edf4f2 30%, #eaf4ee 60%, #f0f4eb 100%);
-  --gradient-accent: linear-gradient(135deg, #0d9488, #4a7c59, #0f766e);
-  --glass-bg:       rgba(244, 244, 245, 0.9);
-  --glass-border:   rgba(0, 0, 0, 0.08);
-  --featured-bg:    linear-gradient(135deg, #e8f4f2 0%, #eaf4ee 100%);
-  --featured-text:  #1a1a1e;
-  --featured-muted: #4b6672;
+/* ── Dark Mode ──────────────────────────────────────────── */
+[data-theme="dark"] {
+  --bg:             #0c0f14;
+  --bg-secondary:   #111520;
+  --surface:        #161b27;
+  --text:           #e8ecf4;
+  --muted:          #7d8aa3;
+  --accent:         #4DB6AC;
+  --accent-soft:    rgba(77, 182, 172, 0.1);
+  --brand-health:   #4DB6AC;
+  --brand-wire:     #81C784;
+  --border:         rgba(255, 255, 255, 0.06);
+  --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.2);
+  --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.4), 0 12px 40px rgba(0, 0, 0, 0.3);
+  --gradient-hero:  linear-gradient(135deg, #0a0f18 0%, #0d1520 30%, #0a1a1a 60%, #0c1510 100%);
+  --gradient-accent: linear-gradient(135deg, #4DB6AC, #66BB6A, #26A69A);
+  --glass-bg:       rgba(12, 15, 20, 0.85);
+  --glass-border:   rgba(255, 255, 255, 0.06);
+  --featured-bg:    linear-gradient(135deg, #111d2b 0%, #0f2420 100%);
+  --featured-text:  #e0eaef;
+  --featured-muted: #7d9aaa;
 }
 
 /* ── Reset ──────────────────────────────────────────────── */
@@ -189,12 +189,12 @@ hr {
   display: block;
 }
 
-/* Show dark logo by default (dark theme), hide light logo */
-.logo-light { display: none; }
+/* Show light logo by default (light theme), hide dark logo */
+.logo-dark { display: none; }
 
-/* In light-gray mode, swap logos */
-[data-theme="light-gray"] .logo-dark { display: none; }
-[data-theme="light-gray"] .logo-light { display: block; }
+/* In dark mode, swap logos */
+[data-theme="dark"] .logo-light { display: none; }
+[data-theme="dark"] .logo-dark { display: block; }
 
 .logo-text {
   font-size: 1.2rem;
@@ -307,13 +307,13 @@ hr {
   border-color: var(--accent);
 }
 
-/* In dark mode (default): show moon icon (click to go light) */
-.theme-icon--sun { display: none; }
+/* In light mode (default): show moon icon (click to go dark) */
 .theme-icon--moon { display: block; }
+.theme-icon--sun { display: none; }
 
-/* In light mode: show sun icon (click to go dark) */
-[data-theme="light-gray"] .theme-icon--sun { display: block; }
-[data-theme="light-gray"] .theme-icon--moon { display: none; }
+/* In dark mode: show sun icon (click to go light) */
+[data-theme="dark"] .theme-icon--sun { display: block; }
+[data-theme="dark"] .theme-icon--moon { display: none; }
 
 /* ── Hero Section ───────────────────────────────────────── */
 .hero {
@@ -810,54 +810,54 @@ hr {
 /* supported / supports */
 .status-badge--supported,
 .stance-badge--supports {
-  background: #14532d;
-  color: #86efac;
+  background: #d1fae5;
+  color: #065f46;
 }
 
 /* mixed */
 .status-badge--mixed,
 .stance-badge--mixed {
-  background: #422006;
-  color: #fde68a;
+  background: #fef3c7;
+  color: #92400e;
 }
 
 /* emerging / mentions */
 .status-badge--emerging,
 .stance-badge--mentions {
-  background: #1e293b;
-  color: #94a3b8;
+  background: #e2e8f0;
+  color: #334155;
 }
 
 /* challenged / contradicts */
 .status-badge--challenged,
 .stance-badge--contradicts {
-  background: #450a0a;
-  color: #fca5a5;
-}
-
-/* ── Light mode badge overrides ────────────────────────── */
-[data-theme="light-gray"] .status-badge--supported,
-[data-theme="light-gray"] .stance-badge--supports {
-  background: #d1fae5;
-  color: #065f46;
-}
-
-[data-theme="light-gray"] .status-badge--mixed,
-[data-theme="light-gray"] .stance-badge--mixed {
-  background: #fef3c7;
-  color: #92400e;
-}
-
-[data-theme="light-gray"] .status-badge--emerging,
-[data-theme="light-gray"] .stance-badge--mentions {
-  background: #e2e8f0;
-  color: #334155;
-}
-
-[data-theme="light-gray"] .status-badge--challenged,
-[data-theme="light-gray"] .stance-badge--contradicts {
   background: #fee2e2;
   color: #991b1b;
+}
+
+/* ── Dark mode badge overrides ─────────────────────────── */
+[data-theme="dark"] .status-badge--supported,
+[data-theme="dark"] .stance-badge--supports {
+  background: #14532d;
+  color: #86efac;
+}
+
+[data-theme="dark"] .status-badge--mixed,
+[data-theme="dark"] .stance-badge--mixed {
+  background: #422006;
+  color: #fde68a;
+}
+
+[data-theme="dark"] .status-badge--emerging,
+[data-theme="dark"] .stance-badge--mentions {
+  background: #1e293b;
+  color: #94a3b8;
+}
+
+[data-theme="dark"] .status-badge--challenged,
+[data-theme="dark"] .stance-badge--contradicts {
+  background: #450a0a;
+  color: #fca5a5;
 }
 
 /* ── Signal Shared ───────────────────────────────────────── */
