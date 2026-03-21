@@ -465,13 +465,13 @@ def main() -> None:
                             "role": "system",
                             "content": """You are a skilled editorial writer for a longevity science and healthspan research news platform. Your readers are professionals working in aging biology, longevity therapeutics, biotech, and healthspan research.
 
-Write a clear, engaging gist in 3 short paragraphs (120–160 words total).
+Write a clear, engaging gist in 3-4 short paragraphs (140–250 words total).
 
 Opening paragraph: Lead with the most significant development in a strong, direct sentence. Establish what happened and who is involved immediately.
 
 Middle paragraph: Explain why it matters to the longevity and healthspan field — connect to clinical impact, research trends, therapeutic potential, or market dynamics as relevant. Use specific details from the source material.
 
-Closing paragraph: Offer one concrete, field-relevant takeaway or implication. Close with a natural, genuine invitation for the reader to explore the full story at the original source — write this as if you genuinely recommend the article, not as a generic disclaimer.
+Closing paragraph: Offer one concrete, field-relevant takeaway or implication.
 
 Tone and style:
 • Write like a knowledgeable colleague sharing a notable finding, not like a press release.
