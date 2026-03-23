@@ -20,7 +20,7 @@
   <link rel="canonical" href="{{ canonical_url }}">
   <link rel="icon" type="image/png" href="/assets/images/hswlogo.png">
   <link rel="apple-touch-icon" href="/assets/images/hswlogo.png">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com https://formspree.io; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https://formspree.io https://buttondown.com;">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com https://formspree.io https://buttondown.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https://formspree.io https://buttondown.com;">
   <meta http-equiv="X-Content-Type-Options" content="nosniff">
   <meta name="referrer" content="strict-origin-when-cross-origin">
 
@@ -654,6 +654,21 @@ document.addEventListener("DOMContentLoaded", function () {
       localStorage.setItem(HSW_LAST_VISIT_KEY, new Date().toISOString());
     }, 10000);
   }
+
+  // ── Newsletter inline confirmation ───────────────────────
+  document.querySelectorAll('form[action*="buttondown.com"]').forEach(function (form) {
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var formData = new FormData(form);
+      fetch(form.action, { method: 'POST', body: formData, mode: 'no-cors' })
+        .finally(function () {
+          var msg = document.createElement('p');
+          msg.className = 'newsletter-confirmed';
+          msg.innerHTML = '<strong>Thanks! Check your inbox</strong> for a confirmation email and click the link to complete your subscription.';
+          form.parentNode.replaceChild(msg, form);
+        });
+    });
+  });
 
   // ── Saved Articles Page renderer ──────────────────────────
   var savedContainer = document.getElementById("saved-articles-container");
