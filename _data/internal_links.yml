@@ -10,39 +10,39 @@
 
 # Therapeutics topic
 - term: "senolytic"
-  url: "/topics/therapeutics/"
+  url: "/topics/#therapeutics"
 - term: "rapamycin"
-  url: "/topics/therapeutics/"
+  url: "/topics/#therapeutics"
 - term: "dasatinib"
-  url: "/topics/therapeutics/"
+  url: "/topics/#therapeutics"
 
 # Biomarkers topic
 - term: "epigenetic clock"
-  url: "/topics/biomarkers/"
+  url: "/topics/#biomarkers"
 - term: "biological age"
-  url: "/topics/biomarkers/"
+  url: "/topics/#biomarkers"
 - term: "DNA methylation"
-  url: "/topics/biomarkers/"
+  url: "/topics/#biomarkers"
 
 # Nutrition topic
 - term: "caloric restriction"
-  url: "/topics/nutrition/"
+  url: "/topics/#nutrition"
 - term: "intermittent fasting"
-  url: "/topics/nutrition/"
+  url: "/topics/#nutrition"
 - term: "gut microbiome"
-  url: "/topics/nutrition/"
+  url: "/topics/#nutrition"
 
 # Technology topic
 - term: "gene therapy"
-  url: "/topics/technology/"
+  url: "/topics/#technology"
 - term: "AI drug discovery"
-  url: "/topics/technology/"
+  url: "/topics/#technology"
 
 # Policy topic
 - term: "FDA aging"
-  url: "/topics/policy/"
+  url: "/topics/#policy"
 - term: "longevity funding"
-  url: "/topics/policy/"
+  url: "/topics/#policy"
 
 # Other internal pages
 - term: "monthly report"
