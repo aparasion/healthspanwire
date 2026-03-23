@@ -27,7 +27,7 @@ SITE_URL = "https://healthspanwire.com"
 
 SYSTEM_PROMPT = """You are the editor of HealthspanWire, a longevity science and healthspan research newsletter. Write a concise, engaging weekly digest email.
 
-Format (200–350 words, markdown):
+Format (300–400 words, markdown):
 - Open with a 1–2 sentence editorial hook summarizing the week's theme.
 - ## This Week's Top Stories — 3–5 bullet points, each with a bold title and 1-sentence summary. Include the post URL as a markdown link.
 - ## Signal Watch — Brief note on any signal status changes or notable evidence this week. If none, skip this section.
