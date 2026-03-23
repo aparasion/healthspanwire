@@ -793,10 +793,16 @@ document.addEventListener("DOMContentLoaded", function () {
     return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   }
 
-  // Highlight matching text
-  function highlight(text, query) {
-    var re = new RegExp('(' + escapeRe(query) + ')', 'gi');
-    return text.replace(re, '<mark>$1</mark>');
+  // Highlight matching phrases and words in text
+  function highlightTerms(text, phrases, words) {
+    var allTerms = phrases.concat(words);
+    allTerms.sort(function (a, b) { return b.length - a.length; });
+    var result = text;
+    allTerms.forEach(function (term) {
+      var re = new RegExp('(' + escapeRe(term) + ')', 'gi');
+      result = result.replace(re, '<mark>$1</mark>');
+    });
+    return result;
   }
 
   // Run the search
@@ -809,7 +815,15 @@ document.addEventListener("DOMContentLoaded", function () {
       return;
     }
 
-    var words = query.toLowerCase().split(/\s+/).filter(Boolean);
+    // Extract quoted phrases for exact matching, remaining text for word matching
+    var phrases = [];
+    var phraseRe = /"([^"]+)"/g;
+    var phraseMatch;
+    while ((phraseMatch = phraseRe.exec(query)) !== null) {
+      if (phraseMatch[1].trim()) phrases.push(phraseMatch[1].trim().toLowerCase());
+    }
+    var remaining = query.replace(/"[^"]*"/g, ' ').trim();
+    var words = remaining ? remaining.toLowerCase().split(/\s+/).filter(Boolean) : [];
 
     var scored = searchData.map(function (post) {
       var titleLower   = (post.title || '').toLowerCase();
@@ -818,6 +832,22 @@ document.addEventListener("DOMContentLoaded", function () {
       var tagsLower    = (post.tags || '').toLowerCase();
       var score = 0;
 
+      // Exact phrase matching: article must contain every quoted phrase
+      for (var i = 0; i < phrases.length; i++) {
+        var phrase = phrases[i];
+        if (titleLower.indexOf(phrase) === -1 &&
+            excerptLower.indexOf(phrase) === -1 &&
+            catLower.indexOf(phrase) === -1 &&
+            tagsLower.indexOf(phrase) === -1) {
+          return { post: post, score: -1 };
+        }
+        if (titleLower.indexOf(phrase) !== -1) score += 20;
+        else if (catLower.indexOf(phrase) !== -1) score += 10;
+        else if (tagsLower.indexOf(phrase) !== -1) score += 8;
+        else score += 4;
+      }
+
+      // Regular word matching
       words.forEach(function (w) {
         if (titleLower.indexOf(w) !== -1) score += 10;
         if (catLower.indexOf(w) !== -1) score += 5;
@@ -840,8 +870,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var html = '';
     scored.forEach(function (s) {
       var p = s.post;
-      var hlTitle = highlight(p.title || '', query);
-      var hlExcerpt = p.excerpt ? highlight(p.excerpt.substring(0, 120), query) : '';
+      var hlTitle = highlightTerms(p.title || '', phrases, words);
+      var hlExcerpt = p.excerpt ? highlightTerms(p.excerpt.substring(0, 120), phrases, words) : '';
       var cat = p.categories || '';
       html +=
         '<a href="' + p.url + '" class="search-result-item" role="option">' +
