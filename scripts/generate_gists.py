@@ -33,6 +33,7 @@ FEEDS = [
     "https://superagingnews.com/category/longevity-wellness/feed/",
     "https://connect.biorxiv.org/biorxiv_xml.php?subject=aging",
     "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml",
+    "https://news.google.com/rss/search?q=creatine%2Band%2Bhealth&hl=en-US&gl=US&ceid=US%3Aen",
 ]
 
 SEEN_FILE = "seen.json"
