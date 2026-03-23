@@ -1820,6 +1820,17 @@ a.internal-link:hover {
   transform: translateY(-1px);
 }
 
+.newsletter-confirmed {
+  font-size: 0.95rem;
+  color: var(--text);
+  padding: var(--space-3) 0;
+  margin: 0;
+}
+
+.newsletter-confirmed strong {
+  color: var(--accent);
+}
+
 /* ── New-Visit Banner ──────────────────────────────────── */
 .new-visit-banner {
   display: none;
