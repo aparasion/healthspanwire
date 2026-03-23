@@ -2,11 +2,38 @@
 layout: default
 ---
 
-<article class="post{% if page.categories contains 'monthly-summary' %} monthly-report-post{% endif %}">
+{% assign reading_min = content | number_of_words | plus: 199 | divided_by: 200 %}
+{% if reading_min < 1 %}{% assign reading_min = 1 %}{% endif %}
+
+<article class="post{% if page.categories contains 'monthly-summary' %} monthly-report-post{% endif %}"
+         data-post-date="{{ page.date | date: '%Y-%m-%d' }}"
+         data-post-url="{{ page.url | relative_url }}"
+         data-post-title="{{ page.title | escape }}">
   <h1>{{ page.title }}</h1>
   <p class="post-meta">
     {{ page.date | date: "%B %d, %Y" }}
   </p>
+
+  <div class="post-actions">
+    <span class="reading-time" aria-label="{{ reading_min }} minute read">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="10"/>
+        <polyline points="12 6 12 12 16 14"/>
+      </svg>
+      {{ reading_min }} min read
+    </span>
+    <button class="bookmark-btn"
+            data-url="{{ page.url | relative_url }}"
+            data-title="{{ page.title | escape }}"
+            data-date="{{ page.date | date: '%B %d, %Y' }}"
+            aria-label="Save this article"
+            type="button">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+      </svg>
+      <span class="bookmark-btn__label">Save</span>
+    </button>
+  </div>
 
   {% if page.signal_ids and page.signal_ids.size > 0 %}
   <p class="signal-context">
@@ -22,6 +49,18 @@ layout: default
 
   <div class="post-content">
     {{ content }}
+  </div>
+
+  <div class="inline-newsletter-cta" role="complementary" aria-label="Newsletter subscription">
+    <p class="inline-newsletter-cta__title">Stay ahead of longevity science</p>
+    <p class="inline-newsletter-cta__desc">Weekly signal updates, curated gists, and monthly editorial reports — straight to your inbox. No spam, ever.</p>
+    <form class="inline-newsletter-cta__form"
+          action="https://buttondown.com/api/emails/embed-subscribe/healthspanwire"
+          method="post">
+      <input class="inline-newsletter-cta__input" type="email" name="email"
+             placeholder="your@email.com" required aria-label="Email address">
+      <button class="inline-newsletter-cta__btn" type="submit">Subscribe free</button>
+    </form>
   </div>
 
   {% include social-share.html %}

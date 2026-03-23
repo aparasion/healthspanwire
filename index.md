@@ -54,6 +54,13 @@ nav_order: 1
 
 {% comment %} Day 1: Most recent — featured first article + grid of remaining {% endcomment %}
 {% assign day1_first = true %}
+
+<div id="new-visit-banner" class="new-visit-banner" role="status" aria-live="polite">
+  <div class="new-visit-banner__dot"></div>
+  <span class="new-visit-banner__text"></span>
+  <button class="new-visit-banner__close" type="button" aria-label="Dismiss">&times;</button>
+</div>
+
 <section class="day-section">
   <h2 class="day-header">{{ site.posts.first.date | date: "%B %d, %Y" }}</h2>
 
@@ -63,7 +70,7 @@ nav_order: 1
 
     {% if day1_first %}
       {% assign day1_first = false %}
-      <article class="featured-article reveal">
+      <article class="featured-article reveal" data-post-date="{{ post.date | date: '%Y-%m-%d' }}">
         <span class="featured-badge">Latest</span>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
@@ -72,8 +79,8 @@ nav_order: 1
 
       <div class="post-grid reveal-stagger">
     {% else %}
-      <article class="post-card">
-        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}<span class="new-badge">NEW</span></p>
+      <article class="post-card" data-post-date="{{ post.date | date: '%Y-%m-%d' }}">
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
         <span class="read-more">Read more &rarr;</span>
@@ -98,7 +105,7 @@ nav_order: 1
     {% for post in site.posts %}
       {% assign post_day = post.date | date: "%Y-%m-%d" %}
       {% if post_day != day2 %}{% continue %}{% endif %}
-      <article class="post-card">
+      <article class="post-card" data-post-date="{{ post.date | date: '%Y-%m-%d' }}">
         <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
@@ -124,7 +131,7 @@ nav_order: 1
     {% for post in site.posts %}
       {% assign post_day = post.date | date: "%Y-%m-%d" %}
       {% if post_day != day3 %}{% continue %}{% endif %}
-      <article class="post-card">
+      <article class="post-card" data-post-date="{{ post.date | date: '%Y-%m-%d' }}">
         <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
