@@ -234,15 +234,13 @@ hr {
 .logo-image,
 .author-logo,
 .footer-logo-image {
-  filter: grayscale(1) brightness(0.78) contrast(0.95);
-  opacity: 0.92;
+  opacity: 1;
 }
 
 [data-theme="dark"] .logo-image,
 [data-theme="dark"] .author-logo,
 [data-theme="dark"] .footer-logo-image {
-  filter: grayscale(1) brightness(1.18) contrast(0.9);
-  opacity: 0.95;
+  opacity: 1;
 }
 
 /* Show light logo by default (light theme), hide dark logo */
