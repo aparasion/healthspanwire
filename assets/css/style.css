@@ -6,6 +6,26 @@
 /* ── Tokens ─────────────────────────────────────────────── */
 :root {
   /* Colour — Light (default) */
+  --bg:             #f7f8fa;
+  --bg-secondary:   #eef1f4;
+  --surface:        #ffffff;
+  --text:           #1f2933;
+  --muted:          #5f6b76;
+  --accent:         #6f8596;
+  --accent-soft:    rgba(111, 133, 150, 0.14);
+  --brand-health:   #959da6;
+  --brand-wire:     #bcc3ca;
+  --brand-aqua:     #aab2bb;
+  --border:         rgba(31, 41, 51, 0.12);
+  --card-shadow:    0 1px 3px rgba(18, 24, 31, 0.08), 0 4px 16px rgba(18, 24, 31, 0.06);
+  --card-shadow-hover: 0 4px 12px rgba(18, 24, 31, 0.14), 0 12px 40px rgba(18, 24, 31, 0.12);
+  --gradient-hero:  linear-gradient(135deg, #f7f9fb 0%, #f0f3f6 40%, #ecf0f4 72%, #f6f8fa 100%);
+  --gradient-accent: linear-gradient(135deg, #7f8d99, #9aa6b2, #b7c0c8);
+  --glass-bg:       rgba(247, 248, 250, 0.92);
+  --glass-border:   rgba(31, 41, 51, 0.08);
+  --featured-bg:    linear-gradient(135deg, #f2f5f7 0%, #edf1f5 100%);
+  --featured-text:  #1f2933;
+  --featured-muted: #677380;
   --bg:             #f2fcfd;
   --bg-secondary:   #e4f6fb;
   --surface:        #ffffff;
@@ -54,6 +74,26 @@
 
 /* ── Dark Mode ──────────────────────────────────────────── */
 [data-theme="dark"] {
+  --bg:             #151a20;
+  --bg-secondary:   #1a212a;
+  --surface:        #202932;
+  --text:           #e3e8ee;
+  --muted:          #99a6b3;
+  --accent:         #9aa8b5;
+  --accent-soft:    rgba(154, 168, 181, 0.2);
+  --brand-health:   #c0c7cf;
+  --brand-wire:     #d8dde3;
+  --brand-aqua:     #cdd4db;
+  --border:         rgba(197, 206, 215, 0.18);
+  --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.35), 0 4px 16px rgba(0, 0, 0, 0.24);
+  --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.45), 0 12px 40px rgba(0, 0, 0, 0.34);
+  --gradient-hero:  linear-gradient(135deg, #131920 0%, #19212a 40%, #202a34 72%, #181f27 100%);
+  --gradient-accent: linear-gradient(135deg, #a6b1bc, #c1c9d0, #dde2e7);
+  --glass-bg:       rgba(21, 26, 32, 0.9);
+  --glass-border:   rgba(197, 206, 215, 0.14);
+  --featured-bg:    linear-gradient(135deg, #25303a 0%, #2a3440 100%);
+  --featured-text:  #e3e8ee;
+  --featured-muted: #b3bec8;
   --bg:             #05131a;
   --bg-secondary:   #07212b;
   --surface:        #0b2a36;
@@ -189,6 +229,20 @@ hr {
   width: 36px;
   height: auto;
   display: block;
+}
+
+.logo-image,
+.author-logo,
+.footer-logo-image {
+  filter: grayscale(1) brightness(0.78) contrast(0.95);
+  opacity: 0.92;
+}
+
+[data-theme="dark"] .logo-image,
+[data-theme="dark"] .author-logo,
+[data-theme="dark"] .footer-logo-image {
+  filter: grayscale(1) brightness(1.18) contrast(0.9);
+  opacity: 0.95;
 }
 
 /* Show light logo by default (light theme), hide dark logo */
@@ -345,6 +399,8 @@ hr {
   left: -50%;
   width: 200%;
   height: 200%;
+  background: radial-gradient(circle at 30% 40%, rgba(149, 157, 166, 0.09) 0%, transparent 50%),
+              radial-gradient(circle at 70% 60%, rgba(188, 195, 202, 0.07) 0%, transparent 50%);
   background: radial-gradient(circle at 30% 40%, rgba(1, 210, 168, 0.10) 0%, transparent 50%),
               radial-gradient(circle at 70% 60%, rgba(35, 185, 246, 0.08) 0%, transparent 50%);
   animation: heroGlow 15s ease-in-out infinite alternate;
@@ -530,6 +586,7 @@ hr {
   right: -30%;
   width: 600px;
   height: 600px;
+  background: radial-gradient(circle, rgba(149, 157, 166, 0.10) 0%, transparent 70%);
   background: radial-gradient(circle, rgba(1, 210, 168, 0.16) 0%, transparent 70%);
   animation: featurePulse 8s ease-in-out infinite alternate;
 }
@@ -541,6 +598,7 @@ hr {
   left: -20%;
   width: 500px;
   height: 500px;
+  background: radial-gradient(circle, rgba(188, 195, 202, 0.08) 0%, transparent 70%);
   background: radial-gradient(circle, rgba(35, 185, 246, 0.12) 0%, transparent 70%);
   animation: featurePulse 10s ease-in-out 2s infinite alternate;
 }
