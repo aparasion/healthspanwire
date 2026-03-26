@@ -8,7 +8,12 @@ layout: none
     "title": {{ post.title | jsonify }},
     "url": {{ post.url | relative_url | jsonify }},
     "date": {{ post.date | date: "%B %-d, %Y" | jsonify }},
+    "description": {{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 220 | jsonify }},
     "excerpt": {{ post.excerpt | strip_html | normalize_whitespace | truncate: 200 | jsonify }},
+    "author": {{ post.author | default: site.author | jsonify }},
+    "topic": {{ post.topic | default: nil | jsonify }},
+    "signal_id": {{ post.signal_id | default: nil | jsonify }},
+    "source_url": {{ post.source_url | default: nil | jsonify }},
     "categories": {{ post.categories | join: ", " | jsonify }},
     "tags": {{ post.tags | join: ", " | jsonify }}
   }{% unless forloop.last %},{% endunless %}

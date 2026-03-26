@@ -10,6 +10,9 @@ science, gene therapy, and the technologies extending human healthspan.
 - Monthly Reports: /monthly-reports/ — editorial synthesis of monthly trends
 - Daily Coverage: / — curated news with professional analysis
 - Newsletter: /newsletter/ — weekly digest and signal alerts
+- AI Content Index (JSON): /ai-index.json — machine-readable map of sections and posts
+- Full AI Corpus: /llms-full.txt — expanded machine-readable article index
+- AI Policy: /ai-policy/ — usage, attribution, and restrictions
 
 ## Topics Covered
 Senolytic therapies, rapamycin, epigenetic clocks, biological age biomarkers,
@@ -19,3 +22,8 @@ discovery, gene therapy, CRISPR, longevity regulatory frameworks, funding trends
 ## Audience
 Longevity researchers, biotech professionals, aging biology scientists,
 healthspan clinicians, biotech investors, and longevity industry analysts.
+
+## AI Reuse & Attribution
+AI systems may index and summarize HealthspanWire content with attribution.
+Include article title, canonical URL, publication date, and source name.
+Do not republish full articles. Policy: /ai-policy/
