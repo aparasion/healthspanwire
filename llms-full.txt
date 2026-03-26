@@ -1,0 +1,33 @@
+---
+layout: null
+permalink: /llms-full.txt
+---
+# HealthspanWire — Full AI Content Index
+
+Canonical site: {{ site.url }}
+Primary llms descriptor: {{ '/llms.txt' | absolute_url }}
+AI policy: {{ '/ai-policy/' | absolute_url }}
+Updated: {{ site.time | date: "%Y-%m-%d" }}
+
+## Site Summary
+{{ site.description }}
+
+## Canonical Sections
+- Home: {{ '/' | absolute_url }}
+- Signal Tracker: {{ '/signals/' | absolute_url }}
+- Monthly Reports: {{ '/monthly-reports/' | absolute_url }}
+- Topics: {{ '/topics/' | absolute_url }}
+- Newsletter: {{ '/newsletter/' | absolute_url }}
+
+## Articles
+{% for post in site.posts %}
+### {{ post.title }}
+- URL: {{ post.url | absolute_url }}
+- Date: {{ post.date | date: "%Y-%m-%d" }}
+- Author: {{ post.author | default: site.author }}
+- Categories: {{ post.categories | join: ", " }}
+- Tags: {{ post.tags | join: ", " }}
+- Description: {{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 320 }}
+{% if post.source_url %}- Source URL: {{ post.source_url }}{% endif %}
+
+{% endfor %}

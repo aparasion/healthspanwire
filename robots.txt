@@ -24,3 +24,5 @@ Sitemap: {{ '/sitemap.xml' | absolute_url }}
 
 # AI discoverability
 # See llms.txt at {{ '/llms.txt' | absolute_url }}
+# See llms-full.txt at {{ '/llms-full.txt' | absolute_url }}
+# See ai-index.json at {{ '/ai-index.json' | absolute_url }}
