@@ -86,7 +86,7 @@ description: "Browse all longevity and healthspan articles by topic — therapeu
         <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
-        <span class="read-more">Read more &rarr;</span>
+        <a href="{{ post.url | relative_url }}" class="read-more">Read more &rarr;</a>
       </article>
     {% endfor %}
   </div>
