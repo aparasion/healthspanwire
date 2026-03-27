@@ -40,6 +40,7 @@ FEEDS = [
     "https://academic.oup.com/rss/site_5255/3121.xml",
     "https://www.science.org/action/showFeed?ui=0&mi=soqzva&type=search&feed=rss&query=%2526AllField%253Dlongevity%2526sortBy%253DEarliest%2526target%253Ddefault",
     "https://www.science.org/action/showFeed?ui=0&mi=soqzva&type=search&feed=rss&query=%2526AllField%253Ddiet%25252Bhealth%2526target%253Ddefault",
+    "https://www.sciencedaily.com/rss/health_medicine.xml",
     
 ]
 
