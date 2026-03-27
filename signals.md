@@ -7,39 +7,147 @@ nav: true
 nav_order: 2
 ---
 
-A living tracker of high-impact claims in longevity science and healthspan research, with linked evidence from published coverage.
+<section class="signal-hero">
+  <p class="signal-hero__desc">A living tracker of high-impact claims in longevity science and healthspan research. Each signal represents a scientific claim we are actively monitoring — updated as new evidence emerges from peer-reviewed studies, clinical trials, and expert commentary.</p>
 
-<div class="signal-accordion-list">
+  <div class="signal-legend">
+    <p class="signal-legend__title">How to read the status pills</p>
+    <div class="signal-legend__pills">
+      <div class="signal-legend__item">
+        <span class="status-badge status-badge--supported">Supported</span>
+        <span class="signal-legend__desc">Multiple quality studies confirm the claim</span>
+      </div>
+      <div class="signal-legend__item">
+        <span class="status-badge status-badge--emerging">Emerging</span>
+        <span class="signal-legend__desc">Early or preliminary evidence; watch this space</span>
+      </div>
+      <div class="signal-legend__item">
+        <span class="status-badge status-badge--mixed">Mixed</span>
+        <span class="signal-legend__desc">Conflicting results across studies</span>
+      </div>
+      <div class="signal-legend__item">
+        <span class="status-badge status-badge--challenged">Challenged</span>
+        <span class="signal-legend__desc">Evidence weighs against the claim</span>
+      </div>
+    </div>
+    <p class="signal-legend__note">Click any signal block to browse its linked evidence posts.</p>
+  </div>
+</section>
+
+<div class="signal-grid">
   {% for signal in site.data.signals %}
     {% assign evidence_posts = site.posts | where_exp: "post", "post.signal_ids contains signal.id" %}
-    <details class="signal-accordion" id="{{ signal.id }}">
-      <summary class="signal-accordion__summary">
-        <span class="signal-tile__category">{{ signal.category }}</span>
-        <span class="signal-accordion__title">{{ signal.title }}</span>
-        <span class="signal-accordion__meta">
-          <span class="status-badge status-badge--{{ signal.current_status }}">{{ signal.current_status }}</span>
-          <span class="signal-tile__count">{{ evidence_posts.size }} post{% if evidence_posts.size != 1 %}s{% endif %}</span>
-          <span class="signal-accordion__chevron">▾</span>
-        </span>
-      </summary>
-      <div class="signal-accordion__body">
-        <p class="post-meta">Category: {{ signal.category }} · First seen: {{ signal.first_seen }}</p>
-        <p>{{ signal.description }}</p>
-        {% if evidence_posts.size > 0 %}
-          <ul class="signal-evidence-list">
-            {% for post in evidence_posts limit: 8 %}
-              <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                <span class="signal-evidence-meta">({{ post.date | date: "%Y-%m-%d" }}{% if post.signal_stance %}, <span class="stance-badge stance-badge--{{ post.signal_stance }}">{{ post.signal_stance }}</span>{% endif %})</span>
-              </li>
-            {% endfor %}
-          </ul>
-        {% else %}
-          <p class="signal-card__empty">No linked evidence yet.</p>
-        {% endif %}
-        {% assign _sig_url = site.url | append: site.baseurl | append: '/signals/#' | append: signal.id %}
-        {% include social-share.html share_url=_sig_url share_title=signal.title share_desc=signal.description %}
+    <div class="signal-block" id="{{ signal.id }}"
+         data-signal-id="{{ signal.id }}"
+         data-signal-title="{{ signal.title | escape }}"
+         data-signal-desc="{{ signal.description | escape }}"
+         data-signal-status="{{ signal.current_status }}"
+         data-signal-category="{{ signal.category }}"
+         data-signal-date="{{ signal.first_seen }}">
+      <div class="signal-block__header">
+        <span class="signal-block__category">{{ signal.category }}</span>
+        <span class="status-badge status-badge--{{ signal.current_status }}">{{ signal.current_status }}</span>
       </div>
-    </details>
+      <h3 class="signal-block__title">{{ signal.title }}</h3>
+      <p class="signal-block__desc">{{ signal.description }}</p>
+      <div class="signal-block__footer">
+        <span class="signal-block__date">Since {{ signal.first_seen }}</span>
+        <button class="signal-block__btn"
+                onclick="openSignalModal('{{ signal.id }}')"
+                aria-label="View evidence posts for {{ signal.title | escape }}">
+          {{ evidence_posts.size }} post{% if evidence_posts.size != 1 %}s{% endif %} &rarr;
+        </button>
+      </div>
+    </div>
   {% endfor %}
 </div>
+
+<!-- Signal Evidence Modal -->
+<div class="signal-modal-overlay" id="signal-modal-overlay" role="dialog" aria-modal="true" aria-labelledby="signal-modal-title" hidden>
+  <div class="signal-modal">
+    <div class="signal-modal__header">
+      <div class="signal-modal__meta">
+        <span class="signal-modal__category" id="signal-modal-category"></span>
+        <span id="signal-modal-status"></span>
+      </div>
+      <button class="signal-modal__close" onclick="closeSignalModal()" aria-label="Close">&#x2715;</button>
+    </div>
+    <h2 class="signal-modal__title" id="signal-modal-title"></h2>
+    <p class="signal-modal__desc" id="signal-modal-desc"></p>
+    <div class="signal-modal__posts-label">Evidence posts</div>
+    <div class="signal-modal__posts" id="signal-modal-posts"></div>
+    <div class="signal-modal__share" id="signal-modal-share"></div>
+  </div>
+</div>
+
+<script>
+const SIGNAL_POSTS = {
+  {% for signal in site.data.signals %}
+    {% assign evidence_posts = site.posts | where_exp: "post", "post.signal_ids contains signal.id" %}
+    {{ signal.id | jsonify }}: [
+      {% for post in evidence_posts %}
+        {
+          "title": {{ post.title | jsonify }},
+          "url": {{ post.url | relative_url | jsonify }},
+          "date": {{ post.date | date: "%b %d, %Y" | jsonify }},
+          "stance": {{ post.signal_stance | default: "" | jsonify }}
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+};
+
+function openSignalModal(signalId) {
+  var block = document.getElementById(signalId);
+  var overlay = document.getElementById('signal-modal-overlay');
+
+  document.getElementById('signal-modal-title').textContent = block.dataset.signalTitle;
+  document.getElementById('signal-modal-desc').textContent = block.dataset.signalDesc;
+
+  var catEl = document.getElementById('signal-modal-category');
+  catEl.textContent = block.dataset.signalCategory;
+
+  var statusEl = document.getElementById('signal-modal-status');
+  statusEl.textContent = block.dataset.signalStatus;
+  statusEl.className = 'status-badge status-badge--' + block.dataset.signalStatus;
+
+  var postsEl = document.getElementById('signal-modal-posts');
+  var posts = SIGNAL_POSTS[signalId] || [];
+
+  var stanceLabels = { supports: 'Supports', contradicts: 'Contradicts', mixed: 'Mixed', mentions: 'Mentions' };
+
+  if (posts.length === 0) {
+    postsEl.innerHTML = '<p class="signal-modal__empty">No linked evidence yet.</p>';
+  } else {
+    postsEl.innerHTML = '<ul class="signal-modal__list">' +
+      posts.map(function(p) {
+        var stancePill = p.stance ? '<span class="stance-badge stance-badge--' + p.stance + '">' + (stanceLabels[p.stance] || p.stance) + '</span>' : '';
+        return '<li class="signal-modal__item">' +
+          '<a href="' + p.url + '" class="signal-modal__link">' + p.title + '</a>' +
+          '<div class="signal-modal__item-meta"><span class="signal-modal__date">' + p.date + '</span>' + stancePill + '</div>' +
+          '</li>';
+      }).join('') +
+    '</ul>';
+  }
+
+  var shareEl = document.getElementById('signal-modal-share');
+  var sigUrl = window.location.origin + window.location.pathname.replace(/\/$/, '') + '/#' + signalId;
+  shareEl.innerHTML = '<a class="signal-modal__share-link" href="' + sigUrl + '" target="_blank" rel="noopener">&#128279; Permalink to this signal</a>';
+
+  overlay.hidden = false;
+  document.body.classList.add('modal-open');
+}
+
+function closeSignalModal() {
+  document.getElementById('signal-modal-overlay').hidden = true;
+  document.body.classList.remove('modal-open');
+}
+
+document.getElementById('signal-modal-overlay').addEventListener('click', function(e) {
+  if (e.target === this) closeSignalModal();
+});
+
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeSignalModal();
+});
+</script>
