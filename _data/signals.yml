@@ -67,3 +67,10 @@
   first_seen: 2026-03-14
   current_status: emerging
   description: Tracks investment trends in longevity biotech, including VC rounds, government grants, and corporate R&D commitments to aging research.
+
+- id: creatine-healthspan-effects
+  title: Creatine supplementation has meaningful benefits beyond athletic performance
+  category: nutrition
+  first_seen: 2026-03-27
+  current_status: emerging
+  description: Tracks evidence that creatine monohydrate supports cognitive function, muscle preservation with aging, bone density, and metabolic health — extending its relevance well beyond exercise performance into longevity and healthspan research.
