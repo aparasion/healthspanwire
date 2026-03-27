@@ -6,8 +6,8 @@
 /* ── Tokens ─────────────────────────────────────────────── */
 :root {
   /* Colour — Light (default) · derived from hswlogo.png */
-  --bg:             #f3f7ff;
-  --bg-secondary:   #e8effc;
+  --bg:             #f8faff;
+  --bg-secondary:   #f0f5ff;
   --surface:        #ffffff;
   --text:           #0b2552;
   --muted:          #4a6280;
@@ -16,14 +16,14 @@
   --brand-health:   #2abfa6;
   --brand-wire:     #4ca8f0;
   --brand-aqua:     #3498cc;
-  --border:         rgba(11, 37, 82, 0.12);
-  --card-shadow:    0 1px 3px rgba(6, 22, 54, 0.08), 0 4px 16px rgba(6, 22, 54, 0.06);
-  --card-shadow-hover: 0 4px 12px rgba(6, 22, 54, 0.14), 0 12px 40px rgba(6, 22, 54, 0.10);
-  --gradient-hero:  linear-gradient(135deg, #eef3ff 0%, #e6f0fc 40%, #e2f5f1 72%, #eef5ff 100%);
+  --border:         rgba(11, 37, 82, 0.10);
+  --card-shadow:    0 1px 3px rgba(6, 22, 54, 0.06), 0 4px 16px rgba(6, 22, 54, 0.05);
+  --card-shadow-hover: 0 4px 12px rgba(6, 22, 54, 0.12), 0 12px 40px rgba(6, 22, 54, 0.08);
+  --gradient-hero:  linear-gradient(135deg, #f4f8ff 0%, #eef4fd 40%, #eaf7f3 72%, #f4f8ff 100%);
   --gradient-accent: linear-gradient(135deg, #2abfa6, #1c5ccc, #4ca8f0);
-  --glass-bg:       rgba(243, 247, 255, 0.92);
-  --glass-border:   rgba(11, 37, 82, 0.08);
-  --featured-bg:    linear-gradient(135deg, #e8effe 0%, #e0f5f0 100%);
+  --glass-bg:       rgba(248, 250, 255, 0.94);
+  --glass-border:   rgba(11, 37, 82, 0.07);
+  --featured-bg:    linear-gradient(135deg, #eef4ff 0%, #e8f7f2 100%);
   --featured-text:  #0b2552;
   --featured-muted: #4a6280;
   --logo-wordmark:  #0b2552;
