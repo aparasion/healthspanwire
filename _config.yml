@@ -5,5 +5,5 @@ lang: "en"
 author: "HealthspanWire"
 og_locale: "en_US"
 twitter_username: "healthspanwire"
-social_image: "/assets/images/hswlogomain.png"
+social_image: "/assets/images/hswlogo.png"
 permalink: /articles/:year/:month/:day/:title.html
