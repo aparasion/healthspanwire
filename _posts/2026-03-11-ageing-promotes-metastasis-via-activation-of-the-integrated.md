@@ -18,4 +18,4 @@ Understanding how aging influences tumor behavior is crucial, especially given t
 
 For professionals in the field, this research underscores the importance of incorporating age-related factors into cancer studies and therapeutic development. I encourage you to delve deeper into this compelling study to explore its implications for future lung cancer treatments in older populations.
 
-[Source: nature.com](https://www.nature.com/articles/s41586-026-10216-0)
+Source: [nature.com](https://www.nature.com/articles/s41586-026-10216-0)

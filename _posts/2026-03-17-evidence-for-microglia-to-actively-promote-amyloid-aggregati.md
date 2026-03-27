@@ -18,4 +18,4 @@ This finding has significant implications for the understanding of neurodegenera
 
 For longevity professionals, this research underscores the need to reevaluate therapeutic strategies aimed at microglial activity. I encourage you to explore the full article for a deeper understanding of these findings and their potential impact on Alzheimer's research.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/evidence-for-microglia-to-actively-promote-amyloid-aggregation-in-the-aging-brain)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/evidence-for-microglia-to-actively-promote-amyloid-aggregation-in-the-aging-brain)

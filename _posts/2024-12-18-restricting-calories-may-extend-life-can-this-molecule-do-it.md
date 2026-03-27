@@ -18,4 +18,4 @@ The molecule in question appears to activate similar metabolic pathways as calor
 
 For longevity professionals, this research underscores the importance of exploring alternative strategies to calorie restriction, which could lead to innovative treatments that enhance healthspan and longevity without sacrificing quality of life.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1FGLWV6blFVZTBna2pydFRWNlo0eFlvZzFtOUFwVUNKaHVVWTBxWmE2X1hqd1pwbWxzM201Ykw5NF9uVG92MWljNmk3OWsxaGNOWjJDTWNZZ1h2RDBzeE9xWEtpWmFKRkxaYkRxazh5YXpJdTc1elgxdWxhQ2tpclpJcVYzX3d4YVo3bWpBNVVGWWZleHRHQWxDOUEtbExDc2hNX3ppaG51dDJvbXBUM3B0MDlWM0E?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1FGLWV6blFVZTBna2pydFRWNlo0eFlvZzFtOUFwVUNKaHVVWTBxWmE2X1hqd1pwbWxzM201Ykw5NF9uVG92MWljNmk3OWsxaGNOWjJDTWNZZ1h2RDBzeE9xWEtpWmFKRkxaYkRxazh5YXpJdTc1elgxdWxhQ2tpclpJcVYzX3d4YVo3bWpBNVVGWWZleHRHQWxDOUEtbExDc2hNX3ppaG51dDJvbXBUM3B0MDlWM0E?oc=5)

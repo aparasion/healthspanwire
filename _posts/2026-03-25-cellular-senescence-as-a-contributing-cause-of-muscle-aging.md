@@ -18,4 +18,4 @@ Understanding the mechanisms by which senescence affects skeletal muscle opens n
 
 As the field progresses, addressing the challenges of effectively targeting senescence in muscle tissue will be crucial for developing interventions that enhance healthspan and combat age-related muscle decline.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/cellular-senescence-as-a-contributing-cause-of-muscle-aging)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/cellular-senescence-as-a-contributing-cause-of-muscle-aging)

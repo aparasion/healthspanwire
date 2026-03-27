@@ -18,4 +18,4 @@ This development is significant for the longevity and healthspan fields, as it a
 
 The potential implications are substantial. If Parallel Health's approach proves effective, it could redefine dermatological practices, making them more predictive and tailored, thereby enhancing our understanding of skin health as a vital aspect of biological aging. This could lead to more proactive management of skin aging, moving the field closer to individualized care.
 
-[Source: longevity.technology](https://longevity.technology/news/parallel-healths-skin-microbiome-tool-aims-at-precision-aging-care)
+Source: [longevity.technology](https://longevity.technology/news/parallel-healths-skin-microbiome-tool-aims-at-precision-aging-care)

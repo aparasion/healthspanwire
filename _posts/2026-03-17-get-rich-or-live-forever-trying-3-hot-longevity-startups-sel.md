@@ -18,4 +18,4 @@ As the longevity market continues to grow, these startups exemplify a trend wher
 
 For professionals in aging biology and healthspan research, these startups represent a glimpse into the future of the industry. To learn more about their innovative approaches and the implications for longevity therapeutics, I recommend exploring the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTZ0aEFGUWRVUjRFeHQ3RENrSHAwRWx5NU5YaU5BM0pUeUNnemtsQ2dHeEdWbmRVdG44c0ZidGJtQmg4cDQ0VHlYVS1sRU5rTG9oamxOTVJjLWNNdXl2S0FaRDRCSGY5Y05iMExLV2hfQk5hcV8tWjA2Wkl0aW9IRGd6MlBJczJrNjNUbTV5UUQzRjVucmt6X05JVmRTUlA3RjJkbW9wd255aEpYNWluS1RmdGFFNXdKZjJBTFNJMA?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTZ0aEFGUWRVUjRFeHQ3RENrSHAwRWx5NU5YaU5BM0pUeUNnemtsQ2dHeEdWbmRVdG44c0ZidGJtQmg4cDQ0VHlYVS1sRU5rTG9oamxOTVJjLWNNdXl2S0FaRDRCSGY5Y05iMExLV2hfQk5hcV8tWjA2Wkl0aW9IRGd6MlBJczJrNjNUbTV5UUQzRjVucmt6X05JVmRTUlA3RjJkbW9wd255aEpYNWluS1RmdGFFNXdKZjJBTFNJMA?oc=5)

@@ -18,4 +18,4 @@ The implications for the longevity and healthspan sectors are profound. The ongo
 
 For professionals in the field, the evolving landscape underscores the importance of vigilance in drug development and safety. I encourage you to explore the full article for deeper insights into these critical industry shifts.
 
-[Source: biospace.com](https://www.biospace.com)
+Source: [biospace.com](https://www.biospace.com)

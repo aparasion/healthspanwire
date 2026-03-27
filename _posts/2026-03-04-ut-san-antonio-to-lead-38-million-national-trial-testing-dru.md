@@ -18,4 +18,4 @@ This initiative is crucial for the longevity and healthspan fields as it highlig
 
 The $5 million donation to the Glenn Biggs Institute for Alzheimer’s and Neurodegenerative Diseases further underscores the commitment to advancing research in age-related conditions. For a deeper dive into these developments and their implications for the field, I recommend exploring the full article.
 
-[Source: news.uthscsa.edu](https://news.uthscsa.edu)
+Source: [news.uthscsa.edu](https://news.uthscsa.edu)

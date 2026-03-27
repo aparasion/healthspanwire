@@ -18,4 +18,4 @@ This paradox underscores the necessity for a nuanced understanding of autophagy'
 
 For longevity professionals, the findings advocate for a precision approach to targeting the autophagy-senescence axis, suggesting that tailored interventions could optimize outcomes in aging-related conditions. I encourage you to read the full article for a deeper dive into these critical insights.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/autophagy-as-a-double-edged-sword-in-aging)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/autophagy-as-a-double-edged-sword-in-aging)

@@ -18,4 +18,4 @@ The implications of this finding are significant for the longevity and healthspa
 
 For professionals in aging biology and therapeutic development, this research emphasizes the importance of targeting multiple biological pathways in the fight against Alzheimer’s, paving the way for more holistic treatment strategies that could enhance cognitive health across the aging population.
 
-[Source: scitechdaily.com](https://scitechdaily.com)
+Source: [scitechdaily.com](https://scitechdaily.com)

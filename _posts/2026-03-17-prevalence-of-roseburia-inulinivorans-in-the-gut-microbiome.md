@@ -18,4 +18,4 @@ This research underscores the growing recognition of gut microbiota as critical 
 
 For those interested in the intersection of microbiome research and muscle health, this study provides compelling evidence for R. inulinivorans as a promising probiotic candidate. I encourage you to delve into the full article for a deeper understanding of the implications for nutraceutical interventions in aging populations.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/prevalence-of-roseburia-inulinivorans-in-the-gut-microbiome-affects-muscle-strength)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/prevalence-of-roseburia-inulinivorans-in-the-gut-microbiome-affects-muscle-strength)

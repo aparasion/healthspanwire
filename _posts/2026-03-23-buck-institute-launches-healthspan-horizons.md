@@ -18,4 +18,4 @@ This initiative is significant for the longevity field as it promises to generat
 
 Ultimately, Healthspan Horizons represents a pivotal step toward making healthspan a measurable and actionable concept, with the potential to reshape how researchers, clinicians, and health systems approach aging and wellness. The initiative invites participation from various stakeholders, emphasizing the importance of collective intelligence in achieving meaningful advancements in healthspan research.
 
-[Source: lifespan.io](https://lifespan.io/news/buck-institute-launches-healthspan-horizons/?utm_source=rss&utm_medium=rss&utm_campaign=buck-institute-launches-healthspan-horizons)
+Source: [lifespan.io](https://lifespan.io/news/buck-institute-launches-healthspan-horizons/?utm_source=rss&utm_medium=rss&utm_campaign=buck-institute-launches-healthspan-horizons)

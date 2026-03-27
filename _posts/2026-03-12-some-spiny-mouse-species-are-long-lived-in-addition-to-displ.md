@@ -18,4 +18,4 @@ This research is significant for the longevity and healthspan fields as it conne
 
 The study underscores the importance of exploring diverse species in aging research and suggests that insights into the immune-metabolic pathways in A. russatus may offer actionable targets for enhancing healthspan in humans. For a deeper dive into these findings, I recommend checking out the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/some-spiny-mouse-species-are-long-lived-in-addition-to-displaying-exceptional-regeneration)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/some-spiny-mouse-species-are-long-lived-in-addition-to-displaying-exceptional-regeneration)

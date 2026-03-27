@@ -18,4 +18,4 @@ This approach is significant because it addresses the complexities of aging biol
 
 The key takeaway is that longevity investing requires a strategic, diversified approach that recognizes the interconnected nature of aging biology. For a deeper understanding of how DLT can reshape your investment strategy, I encourage you to explore the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/longevity-public-stocks-are-investable-heres-a-dlt-chatbot-guide)
+Source: [longevity.technology](https://longevity.technology/news/longevity-public-stocks-are-investable-heres-a-dlt-chatbot-guide)

@@ -18,4 +18,4 @@ This development is particularly relevant as it highlights the growing intersect
 
 For professionals in aging biology and healthspan research, the DLT chatbot represents a significant advancement in data accessibility and analysis. I highly recommend exploring the full article to understand how this tool can enhance your strategic insights in the evolving biotech landscape.
 
-[Source: longevity.technology](https://longevity.technology/news/nlrp3-the-inflammation-master-switch-a-dlt-chatbot-guide)
+Source: [longevity.technology](https://longevity.technology/news/nlrp3-the-inflammation-master-switch-a-dlt-chatbot-guide)

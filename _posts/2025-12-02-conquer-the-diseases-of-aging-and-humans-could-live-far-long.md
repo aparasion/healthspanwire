@@ -18,4 +18,4 @@ Understanding the dynamics of aging is crucial for developing effective interven
 
 For professionals in the longevity and healthspan fields, this research underscores the importance of integrating movement analysis into aging studies. I encourage you to explore the full findings and implications of this study to gain a deeper understanding of how motion influences aging.
 
-[Source: eurekalert.org](https://www.eurekalert.org)
+Source: [eurekalert.org](https://www.eurekalert.org)

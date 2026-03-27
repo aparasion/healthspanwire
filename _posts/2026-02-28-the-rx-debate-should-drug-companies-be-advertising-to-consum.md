@@ -18,4 +18,4 @@ The ongoing debate surrounding direct-to-consumer drug advertising has gained re
 
 As the conversation continues about potential regulations on drug advertising, the implications for patient education and informed decision-making are critical. For a deeper understanding of this nuanced issue and its effects on the aging population, I recommend reading the full article.
 
-[Source: superagingnews.com](https://superagingnews.com/the-rx-debate-should-drug-companies-be-advertising-to-consumers)
+Source: [superagingnews.com](https://superagingnews.com/the-rx-debate-should-drug-companies-be-advertising-to-consumers)

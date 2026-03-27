@@ -18,4 +18,4 @@ This development is crucial for the longevity and healthspan field, as it not on
 
 For professionals in aging biology and therapeutics, Annovis's focus on multiple pathological pathways in neurodegeneration could reshape treatment paradigms. I encourage you to explore the full details of this promising development in the original article.
 
-[Source: longevity.technology](https://longevity.technology/news/annovis-reports-2025-results-and-advances-buntanetap-trials)
+Source: [longevity.technology](https://longevity.technology/news/annovis-reports-2025-results-and-advances-buntanetap-trials)

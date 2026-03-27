@@ -18,4 +18,4 @@ This atlas is significant for the longevity and healthspan fields as it offers i
 
 A key takeaway for professionals in the field is the importance of prioritizing data collation and training for the next generation of scientists, especially in light of declining government funding. This collaborative approach could accelerate advancements in our understanding of brain health and longevity.
 
-[Source: nature.com](https://www.nature.com)
+Source: [nature.com](https://www.nature.com)

@@ -18,4 +18,4 @@ This work is crucial for the longevity and healthspan fields, as it highlights a
 
 The study underscores the potential of targeting gene expression to enhance neurogenesis and cognitive resilience, paving the way for innovative approaches in age-related cognitive therapies. For a deeper dive into these findings, I highly recommend exploring the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/ankrd1-gene-therapy-improves-memory-function-in-aged-mice)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/ankrd1-gene-therapy-improves-memory-function-in-aged-mice)

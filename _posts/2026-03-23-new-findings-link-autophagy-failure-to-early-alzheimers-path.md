@@ -18,4 +18,4 @@ These findings are particularly relevant to the longevity and healthspan fields,
 
 The study underscores the importance of autophagy in neurodegenerative disease mechanisms and suggests that interventions aimed at restoring this process could be crucial for developing disease-modifying therapies.
 
-[Source: longevity.technology](https://longevity.technology/news/new-findings-link-autophagy-failure-to-early-alzheimers-pathology)
+Source: [longevity.technology](https://longevity.technology/news/new-findings-link-autophagy-failure-to-early-alzheimers-pathology)

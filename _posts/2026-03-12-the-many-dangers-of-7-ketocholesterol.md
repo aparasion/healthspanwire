@@ -18,4 +18,4 @@ The implications of 7KC in aging and healthspan research are significant, as it 
 
 For longevity professionals, the findings underscore the need for further exploration of 7KC’s role in disease and aging, as well as the therapeutic potential of targeted interventions. I encourage you to read the full review for a deeper understanding of these critical insights.
 
-[Source: lifespan.io](https://lifespan.io/news/the-many-dangers-of-7-ketocholesterol/?utm_source=rss&utm_medium=rss&utm_campaign=the-many-dangers-of-7-ketocholesterol)
+Source: [lifespan.io](https://lifespan.io/news/the-many-dangers-of-7-ketocholesterol/?utm_source=rss&utm_medium=rss&utm_campaign=the-many-dangers-of-7-ketocholesterol)

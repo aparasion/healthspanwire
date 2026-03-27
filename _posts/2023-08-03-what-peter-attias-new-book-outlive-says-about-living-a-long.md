@@ -18,4 +18,4 @@ This book is significant for professionals in the longevity and healthspan field
 
 For those invested in advancing the science of aging, "Outlive" offers actionable strategies and a fresh perspective on health management. I highly recommend exploring the full article for a deeper understanding of Attia’s insights and their implications for future research and clinical practice.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNWFJblF0aGFaSG9HcmRnamt6Q3VhcFRNSDJzRGlJNGhRUVREeFA1dzJxd25Ucnp1UWZWcENMcWlCYkl0YlhFLVpjbllXa0llYl8yV1dseUtCZ0VQMUZpT2c4eWJMZGswdXFMSFhxWlF0UXc?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNWFJblF0aGFaSG9HcmRnamt6Q3VhcFRNSDJzRGlJNGhRUVREeFA1dzJxd25Ucnp1UWZWcENMcWlCYkl0YlhFLVpjbllXa0llYl8yV1dseUtCZ0VQMUZpT2c4eWJMZGswdXFMSFhxWlF0UXc?oc=5)

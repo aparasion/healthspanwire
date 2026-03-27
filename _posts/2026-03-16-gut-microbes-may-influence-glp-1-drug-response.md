@@ -18,4 +18,4 @@ This relationship between gut bacteria and GLP-1 response highlights the importa
 
 For professionals in the field, this insight underscores the interconnectedness of gut health, metabolism, and pharmacology. I encourage you to delve into the full article for a deeper understanding of how these dynamics could reshape therapeutic approaches in longevity.
 
-[Source: longevity.technology](https://longevity.technology/news/gut-microbes-may-influence-glp-1-drug-response)
+Source: [longevity.technology](https://longevity.technology/news/gut-microbes-may-influence-glp-1-drug-response)

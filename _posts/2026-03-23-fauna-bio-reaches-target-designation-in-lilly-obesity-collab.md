@@ -18,4 +18,4 @@ The Convergence AI platform stands out by analyzing genomic data from over 450 m
 
 For professionals in aging biology and metabolic research, this development underscores the potential of cross-species insights in addressing complex health challenges like obesity, reinforcing the importance of innovative methodologies in therapeutic discovery.
 
-[Source: longevity.technology](https://longevity.technology/news/fauna-bio-reaches-target-designation-in-lilly-obesity-collaboration)
+Source: [longevity.technology](https://longevity.technology/news/fauna-bio-reaches-target-designation-in-lilly-obesity-collaboration)

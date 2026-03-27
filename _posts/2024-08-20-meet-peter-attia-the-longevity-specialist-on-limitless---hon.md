@@ -18,4 +18,4 @@ This initiative is significant for the longevity and healthspan field as it comb
 
 For professionals in aging biology and healthspan research, Hone's model exemplifies a shift towards personalized medicine in longevity therapeutics. I recommend exploring the full details of Hone's offerings and their potential impact on the field in the original article.
 
-[Source: honehealth.com](https://honehealth.com)
+Source: [honehealth.com](https://honehealth.com)

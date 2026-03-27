@@ -18,4 +18,4 @@ The approval of iPSC-derived therapies is pivotal for the longevity and healthsp
 
 For professionals in aging biology and biotech, this development underscores the importance of stem cell research in addressing complex health challenges. I encourage you to delve deeper into this exciting milestone and its implications for the future of regenerative medicine by exploring the full article.
 
-[Source: bioworld.com](https://www.bioworld.com)
+Source: [bioworld.com](https://www.bioworld.com)

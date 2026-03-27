@@ -18,4 +18,4 @@ This research is particularly noteworthy as it challenges existing paradigms in 
 
 For those in the longevity field, this study opens intriguing avenues for exploration, but it also serves as a reminder of the importance of robust evidence in substantiating claims of revolutionary therapies. I encourage you to delve into the full article for a deeper understanding of this promising yet contentious research.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/a-preprint-claiming-exceptional-extension-of-life-in-mice-via-a-telomere-transfer-mechanism)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/a-preprint-claiming-exceptional-extension-of-life-in-mice-via-a-telomere-transfer-mechanism)

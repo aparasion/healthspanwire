@@ -18,4 +18,4 @@ This advancement is crucial for the longevity and healthspan fields, as it repre
 
 The study highlights the potential of mRNA-based therapies in neurodegenerative diseases, emphasizing the need for further validation across diverse models. For a deeper dive into these promising results, I encourage you to read the full article.
 
-[Source: lifespan.io](https://lifespan.io/news/using-mrna-to-fight-tau-aggregation-in-alzheimers/?utm_source=rss&utm_medium=rss&utm_campaign=using-mrna-to-fight-tau-aggregation-in-alzheimers)
+Source: [lifespan.io](https://lifespan.io/news/using-mrna-to-fight-tau-aggregation-in-alzheimers/?utm_source=rss&utm_medium=rss&utm_campaign=using-mrna-to-fight-tau-aggregation-in-alzheimers)

@@ -18,4 +18,4 @@ The findings suggest that manipulating the PUFA to monounsaturated fatty acid (M
 
 This research underscores the importance of dietary composition in immune health, suggesting that targeted nutritional interventions could bolster immune responses and therapeutic effectiveness. For a deeper dive into the study's implications and methodologies, I recommend checking out the full article in *Nature*.
 
-[Source: lifespan.io](https://lifespan.io/news/fat-composition-affects-t-cell-mediated-immunity/?utm_source=rss&utm_medium=rss&utm_campaign=fat-composition-affects-t-cell-mediated-immunity)
+Source: [lifespan.io](https://lifespan.io/news/fat-composition-affects-t-cell-mediated-immunity/?utm_source=rss&utm_medium=rss&utm_campaign=fat-composition-affects-t-cell-mediated-immunity)

@@ -18,4 +18,4 @@ The implications for longevity and healthspan research are significant. Sequenti
 
 For professionals in the longevity field, Sequential's innovative approach represents a shift toward evidence-based personal care. The potential to discover new skin biomarkers and develop effective formulations could reshape how we understand skin health in the context of aging. I highly recommend exploring the full story to appreciate the depth of Sequential's mission and its relevance to our field.
 
-[Source: longevity.technology](https://longevity.technology/news/sequential-banks-3-5m-for-smarter-skin-health)
+Source: [longevity.technology](https://longevity.technology/news/sequential-banks-3-5m-for-smarter-skin-health)

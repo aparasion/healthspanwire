@@ -18,4 +18,4 @@ This development is significant for the longevity and healthspan research commun
 
 For professionals in the field, the implications of ImmunityBio’s work could reshape therapeutic strategies and improve patient outcomes. I encourage you to explore the full article to gain deeper insights into their promising pipeline and the future of immunotherapy.
 
-[Source: immunitybio.com](https://immunitybio.com)
+Source: [immunitybio.com](https://immunitybio.com)

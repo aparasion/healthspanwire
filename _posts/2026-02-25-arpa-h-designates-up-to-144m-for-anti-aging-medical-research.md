@@ -18,4 +18,4 @@ The failure of emugrobart highlights key issues in the longevity and healthspan 
 
 For researchers and professionals in the field, this development serves as a reminder of the complexities involved in translating biological insights into successful therapies. It emphasizes the need for continued exploration of alternative mechanisms and targets in the pursuit of effective interventions for age-related muscle decline.
 
-[Source: fiercebiotech.com](https://www.fiercebiotech.com)
+Source: [fiercebiotech.com](https://www.fiercebiotech.com)

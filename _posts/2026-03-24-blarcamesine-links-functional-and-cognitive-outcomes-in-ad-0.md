@@ -18,4 +18,4 @@ These results underscore the potential of Anavex’s oral treatment to not only 
 
 For longevity professionals, this study reinforces the importance of integrating neuroimaging biomarkers in clinical trials, potentially paving the way for more personalized therapeutic strategies in neurodegenerative diseases.
 
-[Source: longevity.technology](https://longevity.technology/news/blarcamesine-links-functional-and-cognitive-outcomes-in-ad-004-trial)
+Source: [longevity.technology](https://longevity.technology/news/blarcamesine-links-functional-and-cognitive-outcomes-in-ad-004-trial)

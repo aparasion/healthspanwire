@@ -18,4 +18,4 @@ Understanding this proteomic signature is crucial for the longevity field, as it
 
 The implications of this work are significant, as it could lead to innovative diagnostic tools and personalized healthspan enhancement strategies. For those interested in the details of this promising research, I highly recommend exploring the full article in PNAS for deeper insights into the findings and their potential applications.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pZWhnOEMtTEFSdEtLY1pWVDg5bWdJSzZoUDJxaldBeDlfQktycmRXTmJuVUpadHhhdzJ4MVBLd1l3cW94LXRrdGxpZUE5N2FDN1VmbmdsY1JBbjI4?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pZWhnOEMtTEFSdEtLY1pWVDg5bWdJSzZoUDJxaldBeDlfQktycmRXTmJuVUpadHhhdzJ4MVBLd1l3cW94LXRrdGxpZUE5N2FDN1VmbmdsY1JBbjI4?oc=5)

@@ -18,4 +18,4 @@ The article highlights a concerning trend where life expectancy has risen withou
 
 The key takeaway for longevity professionals is the call for increased funding and resources directed towards aging biology research, which holds the potential to address multiple age-related diseases simultaneously, ultimately transforming the landscape of health and longevity.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/the-mission-is-to-obtain-more-years-of-life-but-also-more-healthy-years)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/the-mission-is-to-obtain-more-years-of-life-but-also-more-healthy-years)

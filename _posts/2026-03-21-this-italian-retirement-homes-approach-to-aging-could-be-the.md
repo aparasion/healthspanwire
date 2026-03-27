@@ -18,4 +18,4 @@ This model highlights the growing recognition of lifestyle factors in aging rese
 
 For professionals in the longevity field, this case underscores the importance of holistic approaches to aging, suggesting that interventions targeting both diet and community can significantly impact the quality of life and longevity in aging populations.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ja1lTekZfY3J3blBOaGltQ2dxelc5NlZxaFl6NnNpOXBBdXEwNURHSENrOFNxelFIRC16SzUxNDQyRlVocU1iOEFIWm1mR2VUZUhMbzZGMFdyZVNQeDNod09Za2MyN3J6a2xESFl5RkNJVm9lU1lIQmlfR0NSdw?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ja1lTekZfY3J3blBOaGltQ2dxelc5NlZxaFl6NnNpOXBBdXEwNURHSENrOFNxelFIRC16SzUxNDQyRlVocU1iOEFIWm1mR2VUZUhMbzZGMFdyZVNQeDNod09Za2MyN3J6a2xESFl5RkNJVm9lU1lIQmlfR0NSdw?oc=5)

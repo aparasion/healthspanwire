@@ -18,4 +18,4 @@ This partnership is significant as it seeks to expand access to innovative cogni
 
 For longevity professionals, this initiative underscores the potential for real-world applications of neuroprotective technologies and the importance of developing comprehensive data on clinical outcomes and cost-effectiveness in cognitive health interventions.
 
-[Source: longevity.technology](https://longevity.technology/news/cognito-and-ochsner-launch-brain-health-collaboratory)
+Source: [longevity.technology](https://longevity.technology/news/cognito-and-ochsner-launch-brain-health-collaboratory)

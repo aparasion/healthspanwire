@@ -18,4 +18,4 @@ These findings underscore the need for a nuanced approach to GLP-1 therapy in th
 
 For longevity professionals, the key takeaway is the importance of monitoring bone health and muscle integrity in patients undergoing GLP-1 therapy. Emphasizing a holistic approach that includes dietary considerations and physical activity may help preserve healthspan while leveraging the metabolic advantages of these therapies.
 
-[Source: longevity.technology](https://longevity.technology/news/research-links-glp-1s-to-osteoporosis-and-gout-risks)
+Source: [longevity.technology](https://longevity.technology/news/research-links-glp-1s-to-osteoporosis-and-gout-risks)

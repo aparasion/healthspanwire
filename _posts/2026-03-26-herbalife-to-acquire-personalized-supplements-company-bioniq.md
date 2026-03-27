@@ -18,4 +18,4 @@ This acquisition underscores a pivotal shift in the supplements market towards p
 
 For longevity professionals, this merger highlights the increasing importance of personalized health solutions in the supplement industry, suggesting a promising avenue for future therapeutic development and market growth.
 
-[Source: longevity.technology](https://longevity.technology/news/herbalife-to-acquire-personalized-supplements-company-bioniq)
+Source: [longevity.technology](https://longevity.technology/news/herbalife-to-acquire-personalized-supplements-company-bioniq)

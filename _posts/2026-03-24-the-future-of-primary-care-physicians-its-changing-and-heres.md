@@ -18,4 +18,4 @@ The discussion highlights innovative approaches to primary care that aim to impr
 
 For those invested in the future of healthcare delivery, this podcast episode offers valuable insights into the evolving landscape of primary care and its implications for aging populations.
 
-[Source: superagingnews.com](https://superagingnews.com/the-future-of-primary-care-physicians-its-changing-and-heres-why)
+Source: [superagingnews.com](https://superagingnews.com/the-future-of-primary-care-physicians-its-changing-and-heres-why)

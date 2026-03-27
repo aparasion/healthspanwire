@@ -18,4 +18,4 @@ Understanding the link between mental attitudes towards aging and biological res
 
 For longevity professionals, the key takeaway is the potential for integrating mental health strategies into aging research and interventions, emphasizing that fostering a positive outlook on aging may have tangible benefits for healthspan.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWdGNEpERko2UnlNcHNZNUU5OC1CTFRmNURYVmRCRGRxWU5OQVBnN3hjM1ZnRTdlVnFPYWtQZ3U0YmRPM1BuQ19idFpWeTY5M1ZqbmtXS0djUFR3RHozTGpmT21PN2lObVlpY3U4Zk8tcnY5TWd0UkpjTTc5TEJ0ejdybnpxRVJD?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWdGNEpERko2UnlNcHNZNUU5OC1CTFRmNURYVmRCRGRxWU5OQVBnN3hjM1ZnRTdlVnFPYWtQZ3U0YmRPM1BuQ19idFpWeTY5M1ZqbmtXS0djUFR3RHozTGpmT21PN2lObVlpY3U4Zk8tcnY5TWd0UkpjTTc5TEJ0ejdybnpxRVJD?oc=5)

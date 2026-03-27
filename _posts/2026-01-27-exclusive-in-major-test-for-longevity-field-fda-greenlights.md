@@ -18,4 +18,4 @@ In a related note, Ipsen has decided to withdraw its cancer drug Tazverik from t
 
 As the landscape of clinical trials evolves, FDA Commissioner Marty Makary emphasizes the need for substantial reforms in how institutional review boards operate, suggesting that the U.S. must adapt to maintain its competitive edge against international counterparts. For a deeper dive into these developments and their implications for the longevity field, I recommend checking out the full article.
 
-[Source: endpoints.news](https://endpoints.news)
+Source: [endpoints.news](https://endpoints.news)

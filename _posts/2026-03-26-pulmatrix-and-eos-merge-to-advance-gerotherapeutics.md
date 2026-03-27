@@ -18,4 +18,4 @@ The combined company’s strategy centers on MitoXcel, a platform designed to mo
 
 As the field of longevity science gains traction within mainstream medicine, the implications of this merger extend beyond a single product. The focus is shifting from merely treating symptoms to addressing the underlying mechanisms of aging, potentially transforming how we approach age-related diseases. The success of Eos's platform could pave the way for broader applications in age-related conditions, marking a pivotal moment in the professionalization of longevity research.
 
-[Source: longevity.technology](https://longevity.technology/news/pulmatrix-and-eos-merge-to-advance-gerotherapeutics)
+Source: [longevity.technology](https://longevity.technology/news/pulmatrix-and-eos-merge-to-advance-gerotherapeutics)

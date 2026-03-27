@@ -18,4 +18,4 @@ This dialogue is particularly relevant for professionals in longevity and health
 
 For those invested in the future of health and longevity, this discussion offers valuable perspectives on the intersection of law and innovation. I encourage you to read the full article for a deeper understanding of these critical issues.
 
-[Source: petrieflom.law.harvard.edu](https://petrieflom.law.harvard.edu)
+Source: [petrieflom.law.harvard.edu](https://petrieflom.law.harvard.edu)

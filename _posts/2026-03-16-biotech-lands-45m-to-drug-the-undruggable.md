@@ -18,4 +18,4 @@ The importance of this development lies in the unique properties of macrocyclic 
 
 For professionals in the longevity field, this represents a promising shift in therapeutic modalities. I highly recommend exploring the full article to understand the implications of Unnatural Products' innovative approach and its potential impact on the future of drug development.
 
-[Source: longevity.technology](https://longevity.technology/news/biotech-lands-45m-to-drug-the-undruggable)
+Source: [longevity.technology](https://longevity.technology/news/biotech-lands-45m-to-drug-the-undruggable)

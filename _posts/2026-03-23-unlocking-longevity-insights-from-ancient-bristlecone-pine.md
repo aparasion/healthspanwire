@@ -18,4 +18,4 @@ Understanding the genetic basis of longevity in bristlecone pines may have signi
 
 One key takeaway from this research is the potential for leveraging plant longevity mechanisms to inform human health interventions. As scientists continue to explore the genetic factors that contribute to lifespan in various organisms, the bristlecone pine may serve as a valuable model for discovering new avenues in longevity therapeutics.
 
-[Source: phys.org](https://phys.org)
+Source: [phys.org](https://phys.org)

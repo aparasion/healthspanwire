@@ -18,4 +18,4 @@ This stigma not only affects patient outcomes but also influences clinical behav
 
 For professionals in aging biology and healthspan research, this article serves as a call to action: addressing stigma is crucial for improving dementia care and outcomes. I highly recommend reading the full article for a deeper understanding of these dynamics and potential pathways for change.
 
-[Source: superagingnews.com](https://superagingnews.com/could-ending-dementia-stigma-lead-to-a-faster-cure-cancers-history-shows-why-it-might)
+Source: [superagingnews.com](https://superagingnews.com/could-ending-dementia-stigma-lead-to-a-faster-cure-cancers-history-shows-why-it-might)

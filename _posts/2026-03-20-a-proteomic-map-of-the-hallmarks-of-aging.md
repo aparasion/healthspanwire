@@ -18,4 +18,4 @@ The findings highlight hundreds of previously overlooked molecular changes that 
 
 This research provides a valuable framework for future investigations into the molecular basis of aging and potential therapeutic targets. For a deeper dive into these findings and their implications for longevity science, I highly recommend checking out the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/a-proteomic-map-of-the-hallmarks-of-aging)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/a-proteomic-map-of-the-hallmarks-of-aging)

@@ -18,4 +18,4 @@ This advancement is significant for the longevity and healthspan field as it ope
 
 The implications of this research are profound, suggesting a shift towards more accessible liver therapies that could alleviate the burden of liver disease. I encourage you to explore the full story for a deeper understanding of this promising development in regenerative medicine.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/injectable-mini-livers-as-an-alternative-to-liver-regeneration)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/injectable-mini-livers-as-an-alternative-to-liver-regeneration)

@@ -18,4 +18,4 @@ The findings are significant as they open new avenues for therapeutic interventi
 
 A concrete takeaway from this study is the potential for integrating these polyunsaturated lipids into future clinical applications, positioning them as candidates for further exploration in the development of senolytic therapies.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXNKRl9lSGFXMXFuNDNsTURYcGNHOWEwalRWRFAzLVZHdHh4MHluWUVDY1ZhWGlvbjRSQUxPc1B0Xy1iT09PRzZ3NkdaLXdFbXpidk9pWTBMZjMxWEd2TVJuVW9qZktyQzVpS2dhN3dVekxoXzJ0UGRMd0RlOWZDcTFobWdVVlVsRVI0?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXNKRl9lSGFXMXFuNDNsTURYcGNHOWEwalRWRFAzLVZHdHh4MHluWUVDY1ZhWGlvbjRSQUxPc1B0Xy1iT09PRzZ3NkdaLXdFbXpidk9pWTBMZjMxWEd2TVJuVW9qZktyQzVpS2dhN3dVekxoXzJ0UGRMd0RlOWZDcTFobWdVVlVsRVI0?oc=5)

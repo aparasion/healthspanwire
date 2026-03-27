@@ -18,4 +18,4 @@ This innovative approach is particularly significant for the longevity and healt
 
 For professionals in aging biology and related fields, Cureus represents an opportunity to contribute to a rapidly evolving discourse while ensuring their research reaches a broader audience. I encourage you to explore the full details about publishing with Cureus and its impact on the future of medical research.
 
-[Source: cureus.com](https://www.cureus.com)
+Source: [cureus.com](https://www.cureus.com)

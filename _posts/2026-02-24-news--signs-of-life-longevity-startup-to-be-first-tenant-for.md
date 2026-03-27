@@ -18,4 +18,4 @@ The establishment of this startup within the CoStar project signals a promising 
 
 For professionals in the field, this represents an exciting opportunity to engage with emerging technologies and methodologies. I encourage you to read the full article to explore the implications of this development further.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3E2UU1HZElZRGdWdTRfRS1UUEEybTdLYXRyMm1oM1NDWWY2aGpVR21Na19IVGNFRjlhVTJiQVYwRlMwbnphZ0hmdGc3ZW5ieVRZMVNlb2dQWnRfUGNjQ1pKSFczUmM3UXRTeTNXY3B0SXlDTjlPV0dmSkVxY3VyMVhxbFRIMGtjT2hqelBFeGFGRlRKOE41VTc1RWRjN0ZMLUI3amEyNjVUOVBxR2pLS19CX1hpcFExZWZEQ1k2b2tjQzZG?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3E2UU1HZElZRGdWdTRfRS1UUEEybTdLYXRyMm1oM1NDWWY2aGpVR21Na19IVGNFRjlhVTJiQVYwRlMwbnphZ0hmdGc3ZW5ieVRZMVNlb2dQWnRfUGNjQ1pKSFczUmM3UXRTeTNXY3B0SXlDTjlPV0dmSkVxY3VyMVhxbFRIMGtjT2hqelBFeGFGRlRKOE41VTc1RWRjN0ZMLUI3amEyNjVUOVBxR2pLS19CX1hpcFExZWZEQ1k2b2tjQzZG?oc=5)

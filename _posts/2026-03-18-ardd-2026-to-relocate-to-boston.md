@@ -18,4 +18,4 @@ This cancellation highlights the fragility of partnerships within the longevity 
 
 For longevity professionals, this shift underscores the importance of adaptability in the face of unforeseen challenges. I encourage you to read the full story for insights into the future of the ARDD conference and the evolving landscape of longevity research.
 
-[Source: longevity.technology](https://longevity.technology/news/ardd-2026-to-relocate-to-boston)
+Source: [longevity.technology](https://longevity.technology/news/ardd-2026-to-relocate-to-boston)

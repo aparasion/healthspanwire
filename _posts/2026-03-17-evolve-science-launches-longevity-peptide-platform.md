@@ -18,4 +18,4 @@ As the longevity field matures, Evolve Science’s approach highlights a critica
 
 For professionals in aging biology and longevity therapeutics, Evolve Science’s emphasis on traceability and documentation may signal a broader industry trend toward accountability. I encourage you to read the full article to explore how this platform is poised to impact the future of longevity products.
 
-[Source: longevity.technology](https://longevity.technology/news/evolve-science-launches-longevity-peptide-platform)
+Source: [longevity.technology](https://longevity.technology/news/evolve-science-launches-longevity-peptide-platform)

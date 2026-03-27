@@ -18,4 +18,4 @@ This research is crucial for the longevity and healthspan fields as it highlight
 
 For professionals in the longevity sector, this study underscores the importance of functional vision assessments in clinical trials and the potential for novel therapies to enhance healthspan by addressing debilitating conditions like retinitis pigmentosa.
 
-[Source: longevity.technology](https://longevity.technology/news/nanoscope-therapeutics-publishes-study-on-functional-vision-assessment)
+Source: [longevity.technology](https://longevity.technology/news/nanoscope-therapeutics-publishes-study-on-functional-vision-assessment)

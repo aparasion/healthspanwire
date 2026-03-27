@@ -18,4 +18,4 @@ Directed by Baltasar Kormákur, known for his expertise in survival narratives, 
 
 For professionals in the longevity field, "Apex" serves as a reminder of the importance of physical activity and mental fortitude in promoting healthspan, highlighting how engaging with challenging environments can foster resilience and well-being.
 
-[Source: outsideonline.com](https://www.outsideonline.com)
+Source: [outsideonline.com](https://www.outsideonline.com)

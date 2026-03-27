@@ -18,4 +18,4 @@ Understanding the mechanisms linking inflammation and sarcopenia is crucial for 
 
 For professionals in aging biology and healthspan research, this review offers valuable insights into the pathophysiology of sarcopenia and suggests promising therapeutic strategies. I encourage you to explore the full article for a comprehensive understanding of these critical connections.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/a-review-of-the-role-of-chronic-inflammation-in-sarcopenia)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/a-review-of-the-role-of-chronic-inflammation-in-sarcopenia)

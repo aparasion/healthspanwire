@@ -18,4 +18,4 @@ These presentations underscore ProMIS’s commitment to its proprietary EpiSelec
 
 The implications of this research are substantial, as it may pave the way for innovative therapeutic strategies that specifically target the underlying pathologies of neurodegenerative diseases.
 
-[Source: longevity.technology](https://longevity.technology/news/promis-neurosciences-details-new-als-and-parkinsons-data)
+Source: [longevity.technology](https://longevity.technology/news/promis-neurosciences-details-new-als-and-parkinsons-data)

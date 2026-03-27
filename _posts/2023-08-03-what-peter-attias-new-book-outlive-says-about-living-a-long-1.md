@@ -18,4 +18,4 @@ This perspective is particularly relevant as the field increasingly shifts towar
 
 A key takeaway from "Outlive" is the notion that longevity is not merely about adding years to life, but enhancing the quality of those years through informed, science-based decisions. This aligns with ongoing efforts in the biotech sector to develop therapeutics that target aging at the molecular level.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNWFJblF0aGFaSG9HcmRnamt6Q3VhcFRNSDJzRGlJNGhRUVREeFA1dzJxd25Ucnp1UWZWcENMcWlCYkl0YlhFLVpjbllXa0llYl8yV1dseUtCZ0VQMUZpT2c4eWJMZGswdXFMSFhxWlF0UXc?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNWFJblF0aGFaSG9HcmRnamt6Q3VhcFRNSDJzRGlJNGhRUVREeFA1dzJxd25Ucnp1UWZWcENMcWlCYkl0YlhFLVpjbllXa0llYl8yV1dseUtCZ0VQMUZpT2c4eWJMZGswdXFMSFhxWlF0UXc?oc=5)

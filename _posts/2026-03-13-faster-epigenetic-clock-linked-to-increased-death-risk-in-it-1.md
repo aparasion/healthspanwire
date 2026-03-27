@@ -18,4 +18,4 @@ This effort aligns with a broader trend of utilizing multiomics to deepen our un
 
 For longevity professionals, the implications are clear: advancements in diagnostic technologies not only stand to improve women's health but may also pave the way for broader applications in aging research, where early detection and intervention are critical for enhancing healthspan.
 
-[Source: genomeweb.com](https://www.genomeweb.com)
+Source: [genomeweb.com](https://www.genomeweb.com)

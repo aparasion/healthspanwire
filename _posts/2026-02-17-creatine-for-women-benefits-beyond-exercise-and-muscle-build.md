@@ -18,4 +18,4 @@ This shift in understanding aligns with growing trends in longevity science, whe
 
 For longevity professionals, the emerging evidence for creatine's diverse benefits suggests a need for deeper exploration into its role in women's health, particularly as it relates to aging and neurodegenerative diseases. This could pave the way for novel therapeutic strategies aimed at enhancing quality of life across the lifespan.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFA3bENCNm95X1pjb2x2UXlNVzhUX1dKOG1RNTdzLTdET3J1YnpGdFd4cVJManp6TkF0UTBIajZPMDUwT3lQZFdOSVdTdHFZWDVKSHFvbDlMaldOUTJPek5UWWhuSUMxV01EdFNMeXpvT1hSam96OXJQd214MA?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFA3bENCNm95X1pjb2x2UXlNVzhUX1dKOG1RNTdzLTdET3J1YnpGdFd4cVJManp6TkF0UTBIajZPMDUwT3lQZFdOSVdTdHFZWDVKSHFvbDlMaldOUTJPek5UWWhuSUMxV01EdFNMeXpvT1hSam96OXJQd214MA?oc=5)

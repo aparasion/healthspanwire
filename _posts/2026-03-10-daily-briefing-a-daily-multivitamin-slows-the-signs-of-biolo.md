@@ -18,4 +18,4 @@ This study is significant for the longevity and healthspan fields, as it suggest
 
 For professionals in aging biology and therapeutics, this research underscores the importance of exploring everyday interventions like multivitamins. I encourage you to delve into the full article for a comprehensive understanding of the study's methodology and findings.
 
-[Source: nature.com](https://www.nature.com/articles/d41586-026-00792-6)
+Source: [nature.com](https://www.nature.com/articles/d41586-026-00792-6)

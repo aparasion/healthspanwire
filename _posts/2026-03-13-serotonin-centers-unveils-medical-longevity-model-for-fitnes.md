@@ -18,4 +18,4 @@ This initiative is significant for the longevity and healthspan sector as it add
 
 For those in the field, the Serotonin Partner Program represents a noteworthy shift towards integrated health solutions in fitness environments. I encourage you to explore the full details of this initiative in the original article.
 
-[Source: longevity.technology](https://longevity.technology/news/serotonin-centers-unveils-medical-longevity-model-for-fitness-industry)
+Source: [longevity.technology](https://longevity.technology/news/serotonin-centers-unveils-medical-longevity-model-for-fitness-industry)

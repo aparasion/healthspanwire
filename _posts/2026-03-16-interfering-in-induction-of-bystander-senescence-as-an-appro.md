@@ -18,4 +18,4 @@ This work is particularly significant as it challenges the conventional focus on
 
 For those interested in the detailed mechanisms and potential therapeutic targets identified in this study, I highly recommend exploring the full article for deeper insights.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/interfering-in-induction-of-bystander-senescence-as-an-approach-to-senotherapy)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/interfering-in-induction-of-bystander-senescence-as-an-approach-to-senotherapy)

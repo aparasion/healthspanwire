@@ -18,4 +18,4 @@ Understanding these gradients is crucial for the longevity and healthspan fields
 
 The key takeaway is that this lifespan gradient framework offers a valuable reference for future research, potentially guiding therapeutic strategies aimed at enhancing cognitive health across the lifespan.
 
-[Source: nature.com](https://www.nature.com/articles/s41586-026-10219-x)
+Source: [nature.com](https://www.nature.com/articles/s41586-026-10219-x)

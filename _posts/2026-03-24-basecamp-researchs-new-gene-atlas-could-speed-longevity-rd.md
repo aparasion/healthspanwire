@@ -18,4 +18,4 @@ The implications for longevity research are significant. Aging is a multifaceted
 
 Ultimately, the Trillion Gene Atlas could reshape the landscape of AI-driven drug discovery in longevity. By addressing the data limitations that have hampered progress, Basecamp aims to provide a more comprehensive biological context, potentially leading to more effective interventions for age-related diseases. This initiative underscores the need for a deeper understanding of biology to unlock the therapeutic potential of AI in the longevity sector.
 
-[Source: longevity.technology](https://longevity.technology/news/basecamp-researchs-new-gene-atlas-could-speed-longevity-rd)
+Source: [longevity.technology](https://longevity.technology/news/basecamp-researchs-new-gene-atlas-could-speed-longevity-rd)

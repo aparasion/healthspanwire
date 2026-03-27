@@ -18,4 +18,4 @@ The findings underscore the importance of understanding the oral-gut axis in age
 
 This research opens new doors for therapeutic strategies targeting the microbiome to address osteoporosis. I encourage you to read the full article for a deeper dive into these compelling findings and their implications for future research and clinical practice.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/periodontitis-alters-the-gut-microbiome-to-accelerate-osteoporosis)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/periodontitis-alters-the-gut-microbiome-to-accelerate-osteoporosis)

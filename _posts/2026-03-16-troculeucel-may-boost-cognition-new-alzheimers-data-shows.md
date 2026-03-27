@@ -18,4 +18,4 @@ This innovative therapy shifts the paradigm from symptom management to leveragin
 
 As the field of longevity science evolves, Troculeucel exemplifies how cell therapies could redefine approaches to cognitive health. For a deeper dive into these promising findings, I recommend exploring the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/troculeucel-may-boost-cognition-new-alzheimers-data-shows)
+Source: [longevity.technology](https://longevity.technology/news/troculeucel-may-boost-cognition-new-alzheimers-data-shows)

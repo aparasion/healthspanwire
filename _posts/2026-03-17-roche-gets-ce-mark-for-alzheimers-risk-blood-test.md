@@ -18,4 +18,4 @@ The Elecsys ApoE4 test is particularly relevant as the field shifts toward perso
 
 For professionals in aging biology and healthspan research, Roche's innovation underscores the importance of integrating genetic insights into routine clinical workflows. I encourage you to read the full article for a deeper understanding of how this test could reshape Alzheimer’s care and the implications for future research and treatment strategies.
 
-[Source: longevity.technology](https://longevity.technology/news/roche-gets-ce-mark-for-alzheimers-risk-blood-test)
+Source: [longevity.technology](https://longevity.technology/news/roche-gets-ce-mark-for-alzheimers-risk-blood-test)

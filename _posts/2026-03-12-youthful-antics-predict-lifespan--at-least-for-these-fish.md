@@ -18,4 +18,4 @@ These findings underscore the complex interplay between behavior and longevity, 
 
 For professionals in aging biology and healthspan research, this study emphasizes the importance of integrating behavioral analysis into longevity studies. I encourage you to explore the full article for a deeper understanding of the implications for future research in this fascinating area.
 
-[Source: nature.com](https://www.nature.com/articles/d41586-026-00782-8)
+Source: [nature.com](https://www.nature.com/articles/d41586-026-00782-8)

@@ -18,4 +18,4 @@ This development is significant for the longevity and healthspan fields as it un
 
 C2N's ongoing commitment to tau-related research tools, including its PrecivityTauDx program, highlights the growing emphasis on biomarker-driven approaches in neurodegenerative disease research. This could pave the way for more effective, targeted therapies in the future.
 
-[Source: longevity.technology](https://longevity.technology/news/c2n-highlights-first-use-of-emtbr-tau243-in-evoke-phase-3-data)
+Source: [longevity.technology](https://longevity.technology/news/c2n-highlights-first-use-of-emtbr-tau243-in-evoke-phase-3-data)

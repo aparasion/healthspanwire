@@ -18,4 +18,4 @@ This study underscores the significant role of the gut-brain axis in mediating t
 
 For professionals in the field, these findings suggest a potential pathway for developing interventions that leverage exercise-induced microbiome changes to support brain health. I encourage you to delve deeper into the study for a comprehensive understanding of these mechanisms and their implications for healthspan research.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/exercise-modifies-the-gut-microbiome-and-tryptophan-metabolism-to-improve-mood-and-memory)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/exercise-modifies-the-gut-microbiome-and-tryptophan-metabolism-to-improve-mood-and-memory)

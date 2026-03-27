@@ -18,4 +18,4 @@ This study underscores the importance of mindset in aging, suggesting that posit
 
 For professionals in the field, this study emphasizes the potential for interventions that foster positive age beliefs, which could enhance healthspan and longevity. I encourage you to read the full article for a deeper understanding of these compelling findings.
 
-[Source: lifespan.io](https://lifespan.io/news/people-with-positive-outlooks-have-better-aging-outcomes/?utm_source=rss&utm_medium=rss&utm_campaign=people-with-positive-outlooks-have-better-aging-outcomes)
+Source: [lifespan.io](https://lifespan.io/news/people-with-positive-outlooks-have-better-aging-outcomes/?utm_source=rss&utm_medium=rss&utm_campaign=people-with-positive-outlooks-have-better-aging-outcomes)

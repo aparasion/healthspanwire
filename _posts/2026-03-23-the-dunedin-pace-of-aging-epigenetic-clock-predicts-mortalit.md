@@ -18,4 +18,4 @@ This study underscores the growing importance of epigenetic clocks in aging rese
 
 For longevity professionals, the key takeaway is the validation of the DunedinPACE clock as a critical component in mortality prediction, highlighting the need for integrating epigenetic insights into healthspan and aging-related interventions.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/the-dunedin-pace-of-aging-epigenetic-clock-predicts-mortality-better-than-simple-clinical-measures)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/the-dunedin-pace-of-aging-epigenetic-clock-predicts-mortality-better-than-simple-clinical-measures)

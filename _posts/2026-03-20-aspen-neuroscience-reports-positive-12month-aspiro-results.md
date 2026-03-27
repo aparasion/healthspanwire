@@ -18,4 +18,4 @@ These findings are crucial for the longevity and healthspan field as they highli
 
 As Aspen prepares to advance to a Phase 3 study later this year, the implications for future Parkinson’s treatments are substantial. I encourage you to read the full article for a deeper dive into these findings and their potential impact on the field.
 
-[Source: longevity.technology](https://longevity.technology/news/aspen-neuroscience-reports-positive-12-month-aspiro-results)
+Source: [longevity.technology](https://longevity.technology/news/aspen-neuroscience-reports-positive-12-month-aspiro-results)

@@ -18,4 +18,4 @@ The implications for the longevity and healthspan fields are profound. With high
 
 A key takeaway is the importance of proactive patient engagement in discussions about kidney health. Encouraging patients to inquire about their kidney function can lead to better outcomes and adherence to treatment plans. For a deeper dive into these findings and strategies, I recommend exploring the full article.
 
-[Source: superagingnews.com](https://superagingnews.com/chronic-kidney-disease-often-goes-undiagnosed-early-detection-can-prevent-severe-outcomes)
+Source: [superagingnews.com](https://superagingnews.com/chronic-kidney-disease-often-goes-undiagnosed-early-detection-can-prevent-severe-outcomes)

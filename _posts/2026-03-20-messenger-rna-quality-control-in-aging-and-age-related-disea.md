@@ -18,4 +18,4 @@ As aging progresses, the accumulation of defective mRNA and stalled ribosomes ex
 
 This research opens avenues for developing interventions aimed at boosting mRNA quality control mechanisms, potentially delaying aging and improving healthspan. For a deeper dive into these findings and their implications, I encourage you to read the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/messenger-rna-quality-control-in-aging-and-age-related-disease)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/messenger-rna-quality-control-in-aging-and-age-related-disease)

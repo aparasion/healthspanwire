@@ -18,4 +18,4 @@ Understanding the relationship between behavior and lifespan could have signific
 
 This study highlights the importance of behavioral research in aging biology and its potential to inform future longevity strategies. For a deeper dive into the findings and their implications, I highly recommend checking out the full article.
 
-[Source: nature.com](https://www.nature.com)
+Source: [nature.com](https://www.nature.com)

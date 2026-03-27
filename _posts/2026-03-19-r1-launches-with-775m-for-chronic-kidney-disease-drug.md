@@ -18,4 +18,4 @@ The significance of R1's approach lies in its innovative mechanism: AP306 aims t
 
 For professionals in the field, R1's emergence underscores the potential for impactful advancements in kidney disease management, particularly as it relates to aging and healthspan. I encourage you to read the full article for deeper insights into this promising development.
 
-[Source: longevity.technology](https://longevity.technology/news/r1-launches-with-77-5m-for-chronic-kidney-disease-drug)
+Source: [longevity.technology](https://longevity.technology/news/r1-launches-with-77-5m-for-chronic-kidney-disease-drug)

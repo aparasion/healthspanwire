@@ -18,4 +18,4 @@ This development is particularly relevant for the longevity field, as BGE-102’
 
 The significant financial backing from a recent $132.3 million public offering will support BioAge’s ambitious clinical programs, highlighting the increasing investor interest in therapeutics that address aging-related inflammation and metabolic diseases.
 
-[Source: lifespan.io](https://lifespan.io/news/bioage-labs-provides-business-updates/?utm_source=rss&utm_medium=rss&utm_campaign=bioage-labs-provides-business-updates)
+Source: [lifespan.io](https://lifespan.io/news/bioage-labs-provides-business-updates/?utm_source=rss&utm_medium=rss&utm_campaign=bioage-labs-provides-business-updates)

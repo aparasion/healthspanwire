@@ -18,4 +18,4 @@ This definitional ambiguity is significant for the longevity and healthspan fiel
 
 For professionals in aging biology and healthspan research, this underscores the importance of clarity in mindfulness practices. Understanding the specific focus of different programs can enhance their effectiveness and ensure that individuals receive the intended benefits. I encourage you to explore the full article for a deeper insight into these critical distinctions.
 
-[Source: superagingnews.com](https://superagingnews.com/not-all-mindfulness-is-the-same-heres-why-it-matters-for-health-and-happiness)
+Source: [superagingnews.com](https://superagingnews.com/not-all-mindfulness-is-the-same-heres-why-it-matters-for-health-and-happiness)

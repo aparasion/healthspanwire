@@ -18,4 +18,4 @@ The initial product lineup includes supplements targeting cellular health and re
 
 For professionals in the longevity and healthspan fields, this partnership underscores the potential for integrative approaches that blend nutritional supplements with beauty. I encourage you to explore the full story for deeper insights into this evolving market landscape.
 
-[Source: longevity.technology](https://longevity.technology/news/cymbiotika-partners-with-ulta-beauty-for-nationwide-retail-rollout)
+Source: [longevity.technology](https://longevity.technology/news/cymbiotika-partners-with-ulta-beauty-for-nationwide-retail-rollout)

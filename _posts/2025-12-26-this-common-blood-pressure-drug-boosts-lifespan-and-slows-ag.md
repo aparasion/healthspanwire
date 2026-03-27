@@ -18,4 +18,4 @@ Understanding the differential risks between these two medications is critical f
 
 For professionals in aging biology and healthspan research, this study serves as a reminder of the complexities involved in therapeutic interventions. I encourage you to read the full article for a deeper dive into the implications of these findings.
 
-[Source: sciencealert.com](https://www.sciencealert.com)
+Source: [sciencealert.com](https://www.sciencealert.com)

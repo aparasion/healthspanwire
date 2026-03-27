@@ -18,4 +18,4 @@ These findings are significant for the longevity and healthspan field, as they s
 
 As ImmunoBrain prepares to advance to the next clinical phase, which will incorporate cognitive endpoints, this research could pave the way for innovative therapeutic strategies in Alzheimer’s treatment. For a deeper dive into these findings, I highly recommend reading the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/immunobrain-presents-phase-1b-data-for-immune-checkpoint-therapy)
+Source: [longevity.technology](https://longevity.technology/news/immunobrain-presents-phase-1b-data-for-immune-checkpoint-therapy)

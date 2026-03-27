@@ -18,4 +18,4 @@ The Robust Mouse Rejuvenation (RMR) program serves as a significant case study, 
 
 For professionals in aging research, the LEV Foundation’s findings underscore the importance of strategic combinations in therapeutic development. I encourage you to explore the full article for a deeper understanding of these innovative approaches and their implications for longevity science.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/treatment-of-aging-will-require-combined-therapies-but-haphazard-combination-doesnt-work)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/treatment-of-aging-will-require-combined-therapies-but-haphazard-combination-doesnt-work)

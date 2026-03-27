@@ -18,4 +18,4 @@ Vitalist Bay 2026 promises an exceptional lineup of over 60 speakers and a rich 
 
 For professionals in aging biology and longevity therapeutics, Vitalist Bay 2026 represents a unique opportunity to engage with pioneering ideas and influential figures in the field. I encourage you to explore the full details of this exciting event at the original source.
 
-[Source: lifespan.io](https://lifespan.io/news/vitalist-bay-2026-returns-to-berkeley-may-14-17/?utm_source=rss&utm_medium=rss&utm_campaign=vitalist-bay-2026-returns-to-berkeley-may-14-17)
+Source: [lifespan.io](https://lifespan.io/news/vitalist-bay-2026-returns-to-berkeley-may-14-17/?utm_source=rss&utm_medium=rss&utm_campaign=vitalist-bay-2026-returns-to-berkeley-may-14-17)

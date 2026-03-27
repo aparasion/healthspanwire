@@ -18,4 +18,4 @@ The therapist's advice includes integrating strength training, maintaining mobil
 
 For professionals in the longevity field, this article serves as a valuable reminder of the practical steps we can advocate for in our communities. I encourage you to explore the full story to gain deeper insights into these impactful recommendations.
 
-[Source: fitandwell.com](https://www.fitandwell.com)
+Source: [fitandwell.com](https://www.fitandwell.com)

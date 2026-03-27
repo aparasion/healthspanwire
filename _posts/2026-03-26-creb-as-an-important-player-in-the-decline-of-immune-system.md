@@ -18,4 +18,4 @@ The findings highlight the importance of immune homeostasis in aging, revealing 
 
 This study underscores the potential for targeting immune regulatory pathways to mitigate age-associated dysbiosis, which could have significant implications for longevity and healthspan research.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/creb-as-an-important-player-in-the-decline-of-immune-system-control-of-gut-microbiome-composition)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/creb-as-an-important-player-in-the-decline-of-immune-system-control-of-gut-microbiome-composition)

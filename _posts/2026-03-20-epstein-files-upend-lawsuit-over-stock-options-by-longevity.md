@@ -18,4 +18,4 @@ The implications of this case extend beyond Attia's personal circumstances; they
 
 For professionals in the longevity sector, this situation serves as a reminder of the importance of maintaining ethical standards and clear communication in the pursuit of innovation. As the field evolves, ensuring that financial practices align with scientific integrity will be essential for fostering trust and advancing research.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVVB3Q1VEbnlwRzJOZ2VTQUI2dHdQbWU2TXBUOXhyMXVQRThNNFpYSWQwWGRwems0THo3TVJOQkRKRXlTMVQ3eXpuZHpQYl9panhLX29kaUhPTVluNHBOMHM1dHZBaTJVdGZKQTBxdmx5b1UwNkZ2ZjlqcjFjeXhra2NyMTlTYlpGUUJnZExlbDc2MmtITFVmQXZ5RlBfZnpoQjc5bU50OTAteV9VWktjNVhILWNTWHkwY3ZiVVp5b1NpYUlxWGFydFl3RGtlaEk?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVVB3Q1VEbnlwRzJOZ2VTQUI2dHdQbWU2TXBUOXhyMXVQRThNNFpYSWQwWGRwems0THo3TVJOQkRKRXlTMVQ3eXpuZHpQYl9panhLX29kaUhPTVluNHBOMHM1dHZBaTJVdGZKQTBxdmx5b1UwNkZ2ZjlqcjFjeXhra2NyMTlTYlpGUUJnZExlbDc2MmtITFVmQXZ5RlBfZnpoQjc5bU50OTAteV9VWktjNVhILWNTWHkwY3ZiVVp5b1NpYUlxWGFydFl3RGtlaEk?oc=5)

@@ -18,4 +18,4 @@ This development is crucial for the longevity and healthspan field, as it aligns
 
 As the landscape of Alzheimer’s diagnostics evolves, this partnership underscores the importance of integrating blood-based biomarkers into routine practice. For a deeper dive into this significant advancement, I encourage you to read the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/c2n-diagnostics-expands-alzheimers-blood-testing-to-south-korea)
+Source: [longevity.technology](https://longevity.technology/news/c2n-diagnostics-expands-alzheimers-blood-testing-to-south-korea)

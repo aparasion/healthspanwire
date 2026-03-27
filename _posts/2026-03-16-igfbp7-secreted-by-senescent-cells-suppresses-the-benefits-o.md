@@ -18,4 +18,4 @@ The implications for the longevity and healthspan research fields are significan
 
 For professionals in aging biology and therapeutics, this research underscores the importance of understanding the molecular mechanisms behind exercise responsiveness. I encourage you to delve deeper into the findings and their potential applications by exploring the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/igfbp7-secreted-by-senescent-cells-suppresses-the-benefits-of-exercise)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/igfbp7-secreted-by-senescent-cells-suppresses-the-benefits-of-exercise)

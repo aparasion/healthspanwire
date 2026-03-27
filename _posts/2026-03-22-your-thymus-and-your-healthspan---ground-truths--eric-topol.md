@@ -18,4 +18,4 @@ This decline not only impacts individual health but also has broader implication
 
 The key takeaway is that targeting thymic health may offer a promising avenue for interventions in aging, emphasizing the need for further research into thymic rejuvenation techniques as part of longevity science.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBwbTNDd2lWSVJFQ2Zscnowc0hNV0hRejQ0WWVMck93cFRuSmE2NE40a0NtbGdBajFHVE5NV1o1Rk1fRmtVcE1ERnlmX0s4ZzQ2cDFsRmZ6cHBSRzdMN0NyeGIxeHd2Z2tyMFZLNnVfZWVNQQ?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBwbTNDd2lWSVJFQ2Zscnowc0hNV0hRejQ0WWVMck93cFRuSmE2NE40a0NtbGdBajFHVE5NV1o1Rk1fRmtVcE1ERnlmX0s4ZzQ2cDFsRmZ6cHBSRzdMN0NyeGIxeHd2Z2tyMFZLNnVfZWVNQQ?oc=5)

@@ -18,4 +18,4 @@ Understanding these DNA damage signatures is significant for the longevity and h
 
 The findings underscore the importance of genomic research in advancing cancer therapeutics and highlight the potential for integrating such insights into broader longevity strategies, where cancer prevention and treatment are critical for extending healthspan.
 
-[Source: medicalxpress.com](https://medicalxpress.com)
+Source: [medicalxpress.com](https://medicalxpress.com)

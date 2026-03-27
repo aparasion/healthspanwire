@@ -18,4 +18,4 @@ NAD+ levels naturally decline with age, which has spurred interest in supplement
 
 For longevity professionals, understanding the mechanisms behind NAD+ and its impact on aging is crucial. The article offers a comprehensive overview of current findings and emerging therapeutic strategies. I encourage you to dive deeper into this topic by exploring the full article for valuable insights.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vZWRfYk1PYnlDTHd0YW82N0VPNzR1VWtJNG9BYzJhLTQwT3BMcFg1Sjh2WWczcHp1VWJtdktqTURtQ00zbXNJRlpnaTAySkxCdUIyY3M0bm90MmtJdk00?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vZWRfYk1PYnlDTHd0YW82N0VPNzR1VWtJNG9BYzJhLTQwT3BMcFg1Sjh2WWczcHp1VWJtdktqTURtQ00zbXNJRlpnaTAySkxCdUIyY3M0bm90MmtJdk00?oc=5)

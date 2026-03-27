@@ -18,4 +18,4 @@ The significance of Clene's progress lies in its promising data from biomarker a
 
 For professionals in the longevity and healthspan research fields, Clene's developments represent a noteworthy step toward potential breakthroughs in neurodegenerative therapies. I encourage you to explore the full details in the original article for deeper insights into this promising research.
 
-[Source: longevity.technology](https://longevity.technology/news/clene-reports-full-year-2025-results-with-als-drug-progress)
+Source: [longevity.technology](https://longevity.technology/news/clene-reports-full-year-2025-results-with-als-drug-progress)

@@ -18,4 +18,4 @@ This data is significant for the longevity and healthspan fields as it highlight
 
 As Totus initiates a Phase 1b trial to explore combinations with fulvestrant and CDK4/6 inhibitors, the evolving landscape of targeted cancer therapies may soon benefit from these insights. For a deeper dive into the findings, I encourage you to read the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/totus-medicines-reports-phase-1a-data-for-tos-358)
+Source: [longevity.technology](https://longevity.technology/news/totus-medicines-reports-phase-1a-data-for-tos-358)

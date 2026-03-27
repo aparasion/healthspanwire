@@ -18,4 +18,4 @@ This work is significant as it opens new avenues for therapeutic interventions t
 
 One key takeaway is that understanding the complex dynamics of cellular interactions in aging can lead to more effective, targeted therapies, potentially reshaping our approach to treating age-related disorders in the future.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/fight-aging-newsletter-march-23rd-2026)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/fight-aging-newsletter-march-23rd-2026)

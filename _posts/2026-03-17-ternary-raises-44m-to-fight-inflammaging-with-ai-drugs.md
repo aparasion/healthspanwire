@@ -18,4 +18,4 @@ The implications for longevity medicine are significant, as chronic low-level in
 
 For professionals in the field, Ternary's approach exemplifies the intersection of computational biology and therapeutic innovation. I encourage you to explore the full article for deeper insights into this promising development in longevity science.
 
-[Source: longevity.technology](https://longevity.technology/news/ternary-raises-4-4m-to-fight-inflammaging-with-ai-drugs)
+Source: [longevity.technology](https://longevity.technology/news/ternary-raises-4-4m-to-fight-inflammaging-with-ai-drugs)

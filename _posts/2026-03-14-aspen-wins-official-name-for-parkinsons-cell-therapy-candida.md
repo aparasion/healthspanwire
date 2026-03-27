@@ -18,4 +18,4 @@ The adoption of the nonproprietary name marks a significant step in the regulato
 
 For professionals in the longevity and healthspan research fields, the progress of Sasineprocel represents an important advancement in personalized regenerative therapies for neurodegenerative diseases. I encourage you to read the full article to delve deeper into Aspen's work and the implications for future treatments.
 
-[Source: longevity.technology](https://longevity.technology/news/aspen-wins-official-name-for-parkinsons-cell-therapy-candidate)
+Source: [longevity.technology](https://longevity.technology/news/aspen-wins-official-name-for-parkinsons-cell-therapy-candidate)

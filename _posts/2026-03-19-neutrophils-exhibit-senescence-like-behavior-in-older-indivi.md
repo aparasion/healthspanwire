@@ -18,4 +18,4 @@ This finding is significant for the longevity and healthspan fields, as it under
 
 For professionals in aging biology and therapeutics, this study highlights a potential intervention strategy to bolster immune defenses in the elderly. I encourage you to delve deeper into the research and its implications by reading the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/neutrophils-exhibit-senescence-like-behavior-in-older-individuals)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/neutrophils-exhibit-senescence-like-behavior-in-older-individuals)

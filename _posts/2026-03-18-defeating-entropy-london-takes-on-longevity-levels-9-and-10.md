@@ -18,4 +18,4 @@ This shift in philosophy is significant for longevity research, as it opens up n
 
 For professionals in the field, the Defeating Entropy event represents a pivotal moment to engage with cutting-edge ideas that could reshape our understanding of aging and healthspan. I highly recommend checking out the full article for a deeper dive into this transformative discussion.
 
-[Source: longevity.technology](https://longevity.technology/news/defeating-entropy-london-takes-on-longevity-levels-9-and-10)
+Source: [longevity.technology](https://longevity.technology/news/defeating-entropy-london-takes-on-longevity-levels-9-and-10)

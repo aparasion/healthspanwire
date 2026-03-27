@@ -18,4 +18,4 @@ The significance of this development lies in its potential to transform treatmen
 
 As Pretzel Therapeutics moves forward with a Phase 1 clinical study and plans for a Phase 2 trial, the implications for therapeutic strategies in mitochondrial dysfunction are substantial. For a deeper dive into these findings, I recommend checking out the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/pretzel-therapeutics-presents-px578-data-supporting-polg-disease-treatment)
+Source: [longevity.technology](https://longevity.technology/news/pretzel-therapeutics-presents-px578-data-supporting-polg-disease-treatment)

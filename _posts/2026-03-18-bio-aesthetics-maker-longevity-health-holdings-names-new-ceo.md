@@ -18,4 +18,4 @@ The appointment is significant as it reflects a growing recognition of the inter
 
 For professionals in the longevity field, this leadership transition could herald new opportunities for collaboration and research in aesthetic interventions that promote healthspan. I encourage you to read the full article for deeper insights into the company's vision and the implications for the industry.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2cwZnNZNHB3NTZIcnd3Q3FjdWhRRGVVSi0xQkQ3cUExZF9peDNRaElXa3cxWFR1cWt5bjU5YlBCZG1sSFB3ZWFYVE1Jd0NxS2NGYXVKMkZfNUgzTk1fQnJyUm9mNDNjYXRlcnFFcFB1MXh4NFBSck9JVFQxNmVIX21DbEd6REt4WDRpcVl6aDVCek94MWpkWA?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2cwZnNZNHB3NTZIcnd3Q3FjdWhRRGVVSi0xQkQ3cUExZF9peDNRaElXa3cxWFR1cWt5bjU5YlBCZG1sSFB3ZWFYVE1Jd0NxS2NGYXVKMkZfNUgzTk1fQnJyUm9mNDNjYXRlcnFFcFB1MXh4NFBSck9JVFQxNmVIX21DbEd6REt4WDRpcVl6aDVCek94MWpkWA?oc=5)

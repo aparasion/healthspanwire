@@ -18,4 +18,4 @@ This finding is particularly relevant to the longevity and healthspan fields, as
 
 For professionals in aging biology and healthspan research, this study underscores the importance of exploring non-traditional interventions for substance use reduction. I encourage you to delve into the full article for a deeper understanding of the implications for public health and therapeutic strategies.
 
-[Source: sciencedaily.com](https://www.sciencedaily.com)
+Source: [sciencedaily.com](https://www.sciencedaily.com)

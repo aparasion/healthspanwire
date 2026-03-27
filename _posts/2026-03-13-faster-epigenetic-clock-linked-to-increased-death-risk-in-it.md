@@ -18,4 +18,4 @@ This significant financial backing underscores a growing recognition of the role
 
 For professionals in the field, this investment signals an exciting opportunity to explore the intersection of epigenetics and psychiatric health. I encourage you to read the full article for a deeper dive into the implications of this funding and its potential impact on the future of longevity research.
 
-[Source: genomeweb.com](https://www.genomeweb.com)
+Source: [genomeweb.com](https://www.genomeweb.com)

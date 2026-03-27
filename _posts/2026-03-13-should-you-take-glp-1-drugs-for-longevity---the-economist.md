@@ -18,4 +18,4 @@ This development is significant for the longevity field as it highlights a shift
 
 For professionals in aging biology and healthspan research, the exploration of GLP-1 drugs represents an exciting intersection of metabolic health and longevity science. I encourage you to read the full article for a deeper dive into the potential of these therapies and their implications for future research.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFhDWElkem9aYjFfUWJqTU5RSjYtcUROX3V4UTIzelZvVjFWb3lweXBtTlo1REFGR0VsMGwyeWtZVGVqTl9iV3RwU3NPelktNXZKcWZaOHlPVS1nRW1BOHlmU1RoMGJIZW9KcDNBWjNMVTE0WmIybnhHdFRlLVBTa2VVTnBpbzBJMG5ESWFBeC04bWVGWkZ1U2J5RVJsSkFRWkJZ?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFhDWElkem9aYjFfUWJqTU5RSjYtcUROX3V4UTIzelZvVjFWb3lweXBtTlo1REFGR0VsMGwyeWtZVGVqTl9iV3RwU3NPelktNXZKcWZaOHlPVS1nRW1BOHlmU1RoMGJIZW9KcDNBWjNMVTE0WmIybnhHdFRlLVBTa2VVTnBpbzBJMG5ESWFBeC04bWVGWkZ1U2J5RVJsSkFRWkJZ?oc=5)

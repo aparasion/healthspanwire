@@ -18,4 +18,4 @@ The integration of ROKIT's algorithm is significant for the longevity field, par
 
 For professionals in the longevity sector, this development underscores the growing intersection of biomarker research and predictive analytics, highlighting the importance of inflammation metrics in therapeutic strategies.
 
-[Source: longevity.technology](https://longevity.technology/news/20-20-biolabs-secures-exclusive-u-s-license-for-ckd-prediction)
+Source: [longevity.technology](https://longevity.technology/news/20-20-biolabs-secures-exclusive-u-s-license-for-ckd-prediction)

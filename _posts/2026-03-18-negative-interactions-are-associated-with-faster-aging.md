@@ -18,4 +18,4 @@ This research highlights the often-overlooked detrimental effects of toxic relat
 
 The study underscores the importance of considering social dynamics in aging research and therapeutic strategies. For a deeper dive into these intriguing findings, I highly recommend exploring the full article.
 
-[Source: lifespan.io](https://lifespan.io/news/negative-interactions-are-associated-with-faster-aging/?utm_source=rss&utm_medium=rss&utm_campaign=negative-interactions-are-associated-with-faster-aging)
+Source: [lifespan.io](https://lifespan.io/news/negative-interactions-are-associated-with-faster-aging/?utm_source=rss&utm_medium=rss&utm_campaign=negative-interactions-are-associated-with-faster-aging)

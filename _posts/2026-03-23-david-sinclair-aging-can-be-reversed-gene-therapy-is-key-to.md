@@ -18,4 +18,4 @@ The implications of this deal extend beyond mere corporate strategy; it undersco
 
 A key takeaway for professionals in the field is the importance of interdisciplinary collaboration. The fusion of AI and sustainable energy not only presents opportunities for innovation but also invites researchers to consider how these technologies can be leveraged to advance healthspan initiatives and improve quality of life as we age.
 
-[Source: cryptobriefing.com](https://cryptobriefing.com)
+Source: [cryptobriefing.com](https://cryptobriefing.com)

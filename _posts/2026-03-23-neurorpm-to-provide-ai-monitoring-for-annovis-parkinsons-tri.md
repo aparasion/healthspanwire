@@ -18,4 +18,4 @@ This development is significant for the longevity and healthspan field as it rep
 
 A key takeaway is that the use of continuous digital biomarkers could redefine how clinical trials are conducted, paving the way for more personalized and effective interventions in neurodegenerative diseases.
 
-[Source: longevity.technology](https://longevity.technology/news/neurorpm-to-provide-ai-monitoring-for-annovis-parkinsons-trial)
+Source: [longevity.technology](https://longevity.technology/news/neurorpm-to-provide-ai-monitoring-for-annovis-parkinsons-trial)

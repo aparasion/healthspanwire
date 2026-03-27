@@ -18,4 +18,4 @@ This exploration of food spoilage is particularly relevant for longevity and hea
 
 For professionals in the field, the key takeaway is the necessity of vigilance regarding food safety to prevent exposure to harmful substances that could impact healthspan. I encourage you to read the full article for a deeper understanding of these critical issues.
 
-[Source: superagingnews.com](https://superagingnews.com/can-you-salvage-moldy-cheese-slightly-spoiled-meat-food-safety-tips-from-a-toxicologist)
+Source: [superagingnews.com](https://superagingnews.com/can-you-salvage-moldy-cheese-slightly-spoiled-meat-food-safety-tips-from-a-toxicologist)

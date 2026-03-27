@@ -18,4 +18,4 @@ The implications for the longevity and healthspan field are significant. While t
 
 For professionals in the field, the takeaway is clear: as gatekeepers of patient health, clinicians must prioritize evidence-based diagnostics over consumer-driven fads. Upholding rigorous standards in testing and treatment will ensure that the burgeoning field of longevity science maintains its credibility and effectiveness in improving healthspan.
 
-[Source: lifespan.io](https://lifespan.io/news/when-doctors-prescribe-horoscopes-the-trouble-with-biological-age-tests/?utm_source=rss&utm_medium=rss&utm_campaign=when-doctors-prescribe-horoscopes-the-trouble-with-biological-age-tests)
+Source: [lifespan.io](https://lifespan.io/news/when-doctors-prescribe-horoscopes-the-trouble-with-biological-age-tests/?utm_source=rss&utm_medium=rss&utm_campaign=when-doctors-prescribe-horoscopes-the-trouble-with-biological-age-tests)
