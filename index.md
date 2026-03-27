@@ -7,7 +7,7 @@ nav_order: 1
 
 <section class="hero">
   <div class="hero-content">
-    <h1>Longevity science, decoded daily</h1>
+    <h1>Longevity science decoded daily</h1>
     <p class="hero-subtitle">Curated coverage of healthspan research, longevity therapeutics, and the science of living longer — tracked through the signals that matter.</p>
     <div class="hero-stats">
       <div class="hero-stat">
