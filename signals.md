@@ -43,7 +43,12 @@ nav_order: 2
          data-signal-desc="{{ signal.description | escape }}"
          data-signal-status="{{ signal.current_status }}"
          data-signal-category="{{ signal.category }}"
-         data-signal-date="{{ signal.first_seen }}">
+         data-signal-date="{{ signal.first_seen }}"
+         onclick="openSignalModal('{{ signal.id }}')"
+         role="button"
+         tabindex="0"
+         onkeydown="if(event.key==='Enter'||event.key===' ')openSignalModal('{{ signal.id }}')"
+         aria-label="View signal: {{ signal.title | escape }}">
       <div class="signal-block__header">
         <span class="signal-block__category">{{ signal.category }}</span>
         <span class="status-badge status-badge--{{ signal.current_status }}">{{ signal.current_status }}</span>
@@ -52,11 +57,9 @@ nav_order: 2
       <p class="signal-block__desc">{{ signal.description }}</p>
       <div class="signal-block__footer">
         <span class="signal-block__date">Since {{ signal.first_seen }}</span>
-        <button class="signal-block__btn"
-                onclick="openSignalModal('{{ signal.id }}')"
-                aria-label="View evidence posts for {{ signal.title | escape }}">
+        <span class="signal-block__btn">
           {{ evidence_posts.size }} post{% if evidence_posts.size != 1 %}s{% endif %} &rarr;
-        </button>
+        </span>
       </div>
     </div>
   {% endfor %}
