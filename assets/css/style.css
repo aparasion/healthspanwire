@@ -5,47 +5,28 @@
 
 /* ── Tokens ─────────────────────────────────────────────── */
 :root {
-  /* Colour — Light (default) */
-  --bg:             #f7f8fa;
-  --bg-secondary:   #eef1f4;
+  /* Colour — Light (default) · derived from hswlogo.png */
+  --bg:             #f3f7ff;
+  --bg-secondary:   #e8effc;
   --surface:        #ffffff;
-  --text:           #1f2933;
-  --muted:          #5f6b76;
-  --accent:         #6f8596;
-  --accent-soft:    rgba(111, 133, 150, 0.14);
-  --brand-health:   #959da6;
-  --brand-wire:     #bcc3ca;
-  --brand-aqua:     #aab2bb;
-  --border:         rgba(31, 41, 51, 0.12);
-  --card-shadow:    0 1px 3px rgba(18, 24, 31, 0.08), 0 4px 16px rgba(18, 24, 31, 0.06);
-  --card-shadow-hover: 0 4px 12px rgba(18, 24, 31, 0.14), 0 12px 40px rgba(18, 24, 31, 0.12);
-  --gradient-hero:  linear-gradient(135deg, #f7f9fb 0%, #f0f3f6 40%, #ecf0f4 72%, #f6f8fa 100%);
-  --gradient-accent: linear-gradient(135deg, #7f8d99, #9aa6b2, #b7c0c8);
-  --glass-bg:       rgba(247, 248, 250, 0.92);
-  --glass-border:   rgba(31, 41, 51, 0.08);
-  --featured-bg:    linear-gradient(135deg, #f2f5f7 0%, #edf1f5 100%);
-  --featured-text:  #1f2933;
-  --featured-muted: #677380;
-  --bg:             #f2fcfd;
-  --bg-secondary:   #e4f6fb;
-  --surface:        #ffffff;
-  --text:           #072a36;
-  --muted:          #4f7280;
-  --accent:         #09dfdf;
-  --accent-soft:    rgba(9, 223, 223, 0.14);
-  --brand-health:   #01d2a8;
-  --brand-wire:     #23b9f6;
-  --brand-aqua:     #09dfdf;
-  --border:         rgba(7, 42, 54, 0.12);
-  --card-shadow:    0 1px 3px rgba(3, 35, 47, 0.08), 0 4px 16px rgba(3, 35, 47, 0.06);
-  --card-shadow-hover: 0 4px 12px rgba(3, 35, 47, 0.14), 0 12px 40px rgba(3, 35, 47, 0.12);
-  --gradient-hero:  linear-gradient(135deg, #eefefd 0%, #e8fbfc 35%, #e6f7ff 70%, #f2f8ff 100%);
-  --gradient-accent: linear-gradient(135deg, #01d2a8, #09dfdf, #23b9f6);
-  --glass-bg:       rgba(242, 252, 253, 0.9);
-  --glass-border:   rgba(7, 42, 54, 0.08);
-  --featured-bg:    linear-gradient(135deg, #e9fdf9 0%, #e9f4ff 100%);
-  --featured-text:  #072a36;
-  --featured-muted: #426d7f;
+  --text:           #0b2552;
+  --muted:          #4a6280;
+  --accent:         #1c5ccc;
+  --accent-soft:    rgba(28, 92, 204, 0.10);
+  --brand-health:   #2abfa6;
+  --brand-wire:     #4ca8f0;
+  --brand-aqua:     #3498cc;
+  --border:         rgba(11, 37, 82, 0.12);
+  --card-shadow:    0 1px 3px rgba(6, 22, 54, 0.08), 0 4px 16px rgba(6, 22, 54, 0.06);
+  --card-shadow-hover: 0 4px 12px rgba(6, 22, 54, 0.14), 0 12px 40px rgba(6, 22, 54, 0.10);
+  --gradient-hero:  linear-gradient(135deg, #eef3ff 0%, #e6f0fc 40%, #e2f5f1 72%, #eef5ff 100%);
+  --gradient-accent: linear-gradient(135deg, #2abfa6, #1c5ccc, #4ca8f0);
+  --glass-bg:       rgba(243, 247, 255, 0.92);
+  --glass-border:   rgba(11, 37, 82, 0.08);
+  --featured-bg:    linear-gradient(135deg, #e8effe 0%, #e0f5f0 100%);
+  --featured-text:  #0b2552;
+  --featured-muted: #4a6280;
+  --logo-wordmark:  #0b2552;
 
   /* Spacing */
   --space-1: 0.25rem;
@@ -74,46 +55,27 @@
 
 /* ── Dark Mode ──────────────────────────────────────────── */
 [data-theme="dark"] {
-  --bg:             #151a20;
-  --bg-secondary:   #1a212a;
-  --surface:        #202932;
-  --text:           #e3e8ee;
-  --muted:          #99a6b3;
-  --accent:         #9aa8b5;
-  --accent-soft:    rgba(154, 168, 181, 0.2);
-  --brand-health:   #c0c7cf;
-  --brand-wire:     #d8dde3;
-  --brand-aqua:     #cdd4db;
-  --border:         rgba(197, 206, 215, 0.18);
+  --bg:             #05101e;
+  --bg-secondary:   #0a192e;
+  --surface:        #0f2040;
+  --text:           #cce0ff;
+  --muted:          #7aa4cc;
+  --accent:         #4ca8f0;
+  --accent-soft:    rgba(76, 168, 240, 0.15);
+  --brand-health:   #2abfa6;
+  --brand-wire:     #4ca8f0;
+  --brand-aqua:     #38b0d4;
+  --border:         rgba(76, 168, 240, 0.14);
   --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.35), 0 4px 16px rgba(0, 0, 0, 0.24);
   --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.45), 0 12px 40px rgba(0, 0, 0, 0.34);
-  --gradient-hero:  linear-gradient(135deg, #131920 0%, #19212a 40%, #202a34 72%, #181f27 100%);
-  --gradient-accent: linear-gradient(135deg, #a6b1bc, #c1c9d0, #dde2e7);
-  --glass-bg:       rgba(21, 26, 32, 0.9);
-  --glass-border:   rgba(197, 206, 215, 0.14);
-  --featured-bg:    linear-gradient(135deg, #25303a 0%, #2a3440 100%);
-  --featured-text:  #e3e8ee;
-  --featured-muted: #b3bec8;
-  --bg:             #05131a;
-  --bg-secondary:   #07212b;
-  --surface:        #0b2a36;
-  --text:           #dcf8ff;
-  --muted:          #89b7c7;
-  --accent:         #09dfdf;
-  --accent-soft:    rgba(9, 223, 223, 0.18);
-  --brand-health:   #01d2a8;
-  --brand-wire:     #23b9f6;
-  --brand-aqua:     #09dfdf;
-  --border:         rgba(133, 221, 248, 0.16);
-  --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.35), 0 4px 16px rgba(0, 0, 0, 0.24);
-  --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.45), 0 12px 40px rgba(0, 0, 0, 0.34);
-  --gradient-hero:  linear-gradient(135deg, #041018 0%, #05212b 35%, #07293a 70%, #0a2231 100%);
-  --gradient-accent: linear-gradient(135deg, #01d2a8, #09dfdf, #23b9f6);
-  --glass-bg:       rgba(5, 19, 26, 0.88);
-  --glass-border:   rgba(133, 221, 248, 0.12);
-  --featured-bg:    linear-gradient(135deg, #08303a 0%, #0a2f4a 100%);
-  --featured-text:  #dcf8ff;
-  --featured-muted: #97c5d4;
+  --gradient-hero:  linear-gradient(135deg, #030c18 0%, #07152a 35%, #0b1e38 70%, #060e20 100%);
+  --gradient-accent: linear-gradient(135deg, #2abfa6, #4ca8f0, #78c4f8);
+  --glass-bg:       rgba(5, 16, 30, 0.90);
+  --glass-border:   rgba(76, 168, 240, 0.10);
+  --featured-bg:    linear-gradient(135deg, #0c1e36 0%, #0b2530 100%);
+  --featured-text:  #cce0ff;
+  --featured-muted: #88b4d4;
+  --logo-wordmark:  #cce0ff;
 }
 
 /* ── Reset ──────────────────────────────────────────────── */
@@ -405,10 +367,8 @@ hr {
   left: -50%;
   width: 200%;
   height: 200%;
-  background: radial-gradient(circle at 30% 40%, rgba(149, 157, 166, 0.09) 0%, transparent 50%),
-              radial-gradient(circle at 70% 60%, rgba(188, 195, 202, 0.07) 0%, transparent 50%);
-  background: radial-gradient(circle at 30% 40%, rgba(1, 210, 168, 0.10) 0%, transparent 50%),
-              radial-gradient(circle at 70% 60%, rgba(35, 185, 246, 0.08) 0%, transparent 50%);
+  background: radial-gradient(circle at 30% 40%, rgba(42, 191, 166, 0.10) 0%, transparent 50%),
+              radial-gradient(circle at 70% 60%, rgba(76, 168, 240, 0.08) 0%, transparent 50%);
   animation: heroGlow 15s ease-in-out infinite alternate;
   z-index: -1;
 }
@@ -592,8 +552,7 @@ hr {
   right: -30%;
   width: 600px;
   height: 600px;
-  background: radial-gradient(circle, rgba(149, 157, 166, 0.10) 0%, transparent 70%);
-  background: radial-gradient(circle, rgba(1, 210, 168, 0.16) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(42, 191, 166, 0.16) 0%, transparent 70%);
   animation: featurePulse 8s ease-in-out infinite alternate;
 }
 
@@ -604,8 +563,7 @@ hr {
   left: -20%;
   width: 500px;
   height: 500px;
-  background: radial-gradient(circle, rgba(188, 195, 202, 0.08) 0%, transparent 70%);
-  background: radial-gradient(circle, rgba(35, 185, 246, 0.12) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(76, 168, 240, 0.12) 0%, transparent 70%);
   animation: featurePulse 10s ease-in-out 2s infinite alternate;
 }
 
