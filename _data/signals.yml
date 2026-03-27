@@ -23,7 +23,7 @@
   title: Multi-omic blood panels are enabling personalized aging assessments
   category: biomarkers
   first_seen: 2026-03-14
-  current_status: emerging
+  current_status: supported
   description: Tracks whether composite blood biomarker panels (proteomics, metabolomics) are being validated for predicting biological age and disease risk.
 
 - id: caloric-restriction-mimetics
