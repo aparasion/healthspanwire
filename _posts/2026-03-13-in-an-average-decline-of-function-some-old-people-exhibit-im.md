@@ -18,4 +18,4 @@ This finding is significant for the longevity and healthspan research community,
 
 For those interested in the nuances of aging and health improvement, this study offers compelling evidence and a fresh perspective on the potential for older adults to thrive. I encourage you to explore the full article for deeper insights into these transformative findings.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/in-an-average-decline-of-function-some-old-people-exhibit-improved-function)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/in-an-average-decline-of-function-some-old-people-exhibit-improved-function)

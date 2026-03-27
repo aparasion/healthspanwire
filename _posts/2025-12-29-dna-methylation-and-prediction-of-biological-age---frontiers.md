@@ -18,4 +18,4 @@ The documentary showcases how open science fosters innovation and drives economi
 
 For longevity professionals, the takeaway is clear: embracing open science can significantly enhance research dissemination and collaboration, ultimately leading to more impactful advancements in healthspan and aging biology.
 
-[Source: frontiersin.org](https://www.frontiersin.org)
+Source: [frontiersin.org](https://www.frontiersin.org)

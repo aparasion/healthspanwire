@@ -18,4 +18,4 @@ This research underscores the urgent need for effective interventions in aging, 
 
 For professionals in longevity science, the implications are profound: fenofibrate could serve as a practical, safe option for addressing metabolic dysfunction associated with aging. I highly recommend exploring the full study for deeper insights into this promising avenue of research.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/arguing-for-ppar%ce%b1-agonist-fenofibrate-to-be-geroprotective)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/arguing-for-ppar%ce%b1-agonist-fenofibrate-to-be-geroprotective)

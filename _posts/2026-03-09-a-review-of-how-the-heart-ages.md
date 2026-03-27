@@ -18,4 +18,4 @@ Understanding these aging mechanisms is essential for developing effective thera
 
 For professionals in the field, this comprehensive overview offers valuable insights into the complex interplay of heart aging and potential therapeutic strategies. I encourage you to read the full article for a deeper understanding of these critical developments in cardiac aging research.
 
-[Source: lifespan.io](https://lifespan.io/news/a-review-of-how-the-heart-ages/?utm_source=rss&utm_medium=rss&utm_campaign=a-review-of-how-the-heart-ages)
+Source: [lifespan.io](https://lifespan.io/news/a-review-of-how-the-heart-ages/?utm_source=rss&utm_medium=rss&utm_campaign=a-review-of-how-the-heart-ages)

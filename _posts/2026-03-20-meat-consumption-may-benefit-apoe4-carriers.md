@@ -18,4 +18,4 @@ The findings challenge conventional dietary guidelines, suggesting that unproces
 
 For longevity professionals, this study underscores the need for tailored dietary recommendations based on genetic profiles. I encourage you to delve into the full article for a deeper understanding of these compelling findings and their implications for dietary practices in aging populations.
 
-[Source: lifespan.io](https://lifespan.io/news/meat-consumption-may-benefit-apoe4-carriers/?utm_source=rss&utm_medium=rss&utm_campaign=meat-consumption-may-benefit-apoe4-carriers)
+Source: [lifespan.io](https://lifespan.io/news/meat-consumption-may-benefit-apoe4-carriers/?utm_source=rss&utm_medium=rss&utm_campaign=meat-consumption-may-benefit-apoe4-carriers)

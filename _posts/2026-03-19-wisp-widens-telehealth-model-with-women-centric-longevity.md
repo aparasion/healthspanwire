@@ -18,4 +18,4 @@ This initiative is significant as it highlights a growing recognition of the nee
 
 Wisp's approach signals a shift in the longevity landscape, moving from a luxury-driven market to one that prioritizes accessibility and real-world applications. For a deeper dive into how Wisp is redefining women's longevity care, I highly recommend exploring the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/wisp-widens-telehealth-model-with-women-centric-longevity)
+Source: [longevity.technology](https://longevity.technology/news/wisp-widens-telehealth-model-with-women-centric-longevity)

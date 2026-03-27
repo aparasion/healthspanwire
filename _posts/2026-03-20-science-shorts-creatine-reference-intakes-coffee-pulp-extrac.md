@@ -18,4 +18,4 @@ In related developments, Rousselot has patented a new collagen peptide aimed at 
 
 As the market for ingestible health products continues to evolve, the focus on prevention and targeted health benefits—especially for women—underscores the potential for new therapeutic avenues in cognitive health and skin wellness. The takeaway for professionals in the longevity field is the increasing importance of integrating nutrition and beauty, signaling new opportunities for research and product development.
 
-[Source: nutraingredients.com](https://www.nutraingredients.com)
+Source: [nutraingredients.com](https://www.nutraingredients.com)

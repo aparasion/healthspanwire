@@ -18,4 +18,4 @@ Understanding the mechanisms behind MuSC activation is crucial, as their diminis
 
 The exploration of MG53 as a regulator of MuSC activation under stress conditions presents a promising avenue for developing therapies to combat age-related muscle degeneration.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/aging-impairs-activation-of-muscle-stem-cells-with-mg53-as-a-potential-target-for-therapies)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/aging-impairs-activation-of-muscle-stem-cells-with-mg53-as-a-potential-target-for-therapies)

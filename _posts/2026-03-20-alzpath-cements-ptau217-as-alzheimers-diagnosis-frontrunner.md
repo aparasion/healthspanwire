@@ -18,4 +18,4 @@ The significance of ALZpath's advancements lies in their potential to revolution
 
 For professionals in longevity science, ALZpath’s developments represent a meaningful step toward a more humane and practical diagnostic toolkit for Alzheimer’s. The implications for early intervention and treatment tracking are profound, making it essential to stay informed about these advancements. I encourage you to delve into the full article for a deeper understanding of this pivotal moment in Alzheimer’s research.
 
-[Source: longevity.technology](https://longevity.technology/news/alzpath-cements-ptau217-as-alzheimers-diagnosis-frontrunner)
+Source: [longevity.technology](https://longevity.technology/news/alzpath-cements-ptau217-as-alzheimers-diagnosis-frontrunner)

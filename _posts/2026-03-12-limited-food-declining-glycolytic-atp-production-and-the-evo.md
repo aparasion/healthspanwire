@@ -18,4 +18,4 @@ This framework connects to broader themes in aging biology, particularly regardi
 
 For longevity professionals, this study offers important insights into the evolutionary dynamics of aging and metabolic regulation. I encourage you to explore the full article for a deeper understanding of these compelling findings.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/limited-food-declining-glycolytic-atp-production-and-the-evolution-of-aging)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/limited-food-declining-glycolytic-atp-production-and-the-evolution-of-aging)

@@ -18,4 +18,4 @@ One standout moment was Sephic's launch of a "glass skin" ingredient developed t
 
 For professionals in longevity and healthspan research, this development underscores the increasing intersection of scientific validation and consumer preferences, suggesting that future innovations in beauty and health products may benefit from similar rigorous evidence-based approaches.
 
-[Source: personalcareinsights.com](https://www.personalcareinsights.com)
+Source: [personalcareinsights.com](https://www.personalcareinsights.com)

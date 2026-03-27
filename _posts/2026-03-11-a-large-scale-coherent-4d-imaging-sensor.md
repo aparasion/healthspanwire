@@ -18,4 +18,4 @@ This advancement is significant for the longevity and healthspan fields, particu
 
 The development of this FMCW LiDAR system underscores the potential for scalable imaging solutions in various sectors, including health technology. For a deeper dive into the technical details and implications of this research, I highly recommend checking out the full article.
 
-[Source: nature.com](https://www.nature.com/articles/s41586-026-10183-6)
+Source: [nature.com](https://www.nature.com/articles/s41586-026-10183-6)

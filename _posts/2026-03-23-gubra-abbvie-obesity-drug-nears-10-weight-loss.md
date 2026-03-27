@@ -18,4 +18,4 @@ The implications for the longevity and healthspan field are substantial. As obes
 
 For longevity professionals, the development of ABBV-295 underscores the potential of innovative approaches in obesity therapeutics, highlighting a shift towards combination therapies that could optimize treatment efficacy while minimizing side effects.
 
-[Source: longevity.technology](https://longevity.technology/news/gubra-abbvie-obesity-drug-nears-10-weight-loss)
+Source: [longevity.technology](https://longevity.technology/news/gubra-abbvie-obesity-drug-nears-10-weight-loss)

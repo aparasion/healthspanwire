@@ -18,4 +18,4 @@ The nutritional profiles of spring vegetables are particularly compelling. Aspar
 
 For longevity professionals, the takeaway is clear: incorporating seasonal, nutrient-dense foods into dietary recommendations can enhance health outcomes. Emphasizing whole foods like spring vegetables not only aligns with current research trends but also encourages practical, enjoyable eating habits that support long-term well-being.
 
-[Source: superagingnews.com](https://superagingnews.com/eat-the-season-5-recipes-starring-the-power-foods-of-spring)
+Source: [superagingnews.com](https://superagingnews.com/eat-the-season-5-recipes-starring-the-power-foods-of-spring)

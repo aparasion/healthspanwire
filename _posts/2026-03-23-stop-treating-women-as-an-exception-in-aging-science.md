@@ -18,4 +18,4 @@ This conversation underscores the importance of recognizing women's unique biolo
 
 The key takeaway is that longevity strategies must be tailored to the unique biological and social dynamics of women, rather than simply adjusting male-centric models. By centering female health in longevity research, we can develop more effective and safer interventions that enhance women's healthspan and overall well-being.
 
-[Source: longevity.technology](https://longevity.technology/news/stop-treating-women-as-an-exception-in-aging-science)
+Source: [longevity.technology](https://longevity.technology/news/stop-treating-women-as-an-exception-in-aging-science)

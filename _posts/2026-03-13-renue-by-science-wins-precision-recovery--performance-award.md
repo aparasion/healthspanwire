@@ -18,4 +18,4 @@ The Total NAD+ Restoration Protocol targets age-related NAD+ decline through a m
 
 For professionals in aging biology and healthspan research, this development underscores the importance of addressing NAD+ levels in longevity strategies. I encourage you to read the full article to explore the implications of this award-winning protocol and its potential impact on future research and therapeutic applications.
 
-[Source: longevity.technology](https://longevity.technology/news/renue-by-science-wins-precision-recovery-performance-award)
+Source: [longevity.technology](https://longevity.technology/news/renue-by-science-wins-precision-recovery-performance-award)

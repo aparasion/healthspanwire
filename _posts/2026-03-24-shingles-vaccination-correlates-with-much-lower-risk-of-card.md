@@ -18,4 +18,4 @@ These findings add to the growing body of evidence suggesting that late-life vac
 
 For longevity professionals, this underscores the therapeutic potential of vaccines like the shingles vaccine as a strategy for reducing cardiovascular risk in aging populations, warranting further investigation into their long-term impacts on healthspan.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/shingles-vaccination-correlates-with-much-lower-risk-of-cardiovascular-events)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/shingles-vaccination-correlates-with-much-lower-risk-of-cardiovascular-events)

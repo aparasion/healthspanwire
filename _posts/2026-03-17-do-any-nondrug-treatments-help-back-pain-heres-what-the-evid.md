@@ -18,4 +18,4 @@ This review is particularly significant for the longevity and healthspan field, 
 
 For professionals in aging biology and healthspan research, this study reinforces the critical role of activity and holistic treatment approaches in managing chronic conditions. I encourage you to delve deeper into the findings and implications of this review by exploring the full article.
 
-[Source: superagingnews.com](https://superagingnews.com/do-any-non-drug-treatments-help-back-pain-heres-what-the-evidence-says)
+Source: [superagingnews.com](https://superagingnews.com/do-any-non-drug-treatments-help-back-pain-heres-what-the-evidence-says)

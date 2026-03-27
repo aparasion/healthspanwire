@@ -18,4 +18,4 @@ This insight is significant for the longevity and healthspan field as it reframe
 
 The key takeaway is that addressing microtubule dysfunction could provide a new therapeutic angle, shifting the focus from merely targeting Aβ aggregation to considering the broader implications of tau and microtubule interactions in Alzheimer's disease.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/theorizing-on-microtubules-as-the-connection-between-amyloid-%ce%b2-and-tau-in-alzheimers-disease)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/theorizing-on-microtubules-as-the-connection-between-amyloid-%ce%b2-and-tau-in-alzheimers-disease)

@@ -18,4 +18,4 @@ The therapeutic landscape for immune aging is evolving, with strategies ranging 
 
 A key takeaway is that advancing our understanding of immune aging's complexities can inform targeted interventions, emphasizing the need for continued research into both mechanistic pathways and individualized therapeutic strategies.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/a-broad-categorization-of-issues-leading-to-immune-aging-and-potential-strategies-for-treatment)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/a-broad-categorization-of-issues-leading-to-immune-aging-and-potential-strategies-for-treatment)

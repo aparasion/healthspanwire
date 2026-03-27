@@ -18,4 +18,4 @@ This research highlights the dual role of collagen not only as a structural comp
 
 The study positions collagens as potential biomarkers and therapeutic targets for promoting healthy aging, with implications that extend beyond *C. elegans* to higher organisms, including humans.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/collagen-gene-expression-and-aging-in-nematode-worms)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/collagen-gene-expression-and-aging-in-nematode-worms)

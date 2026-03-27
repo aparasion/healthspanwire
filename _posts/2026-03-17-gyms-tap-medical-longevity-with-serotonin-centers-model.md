@@ -18,4 +18,4 @@ This model is significant for the longevity and healthspan field, as it bridges 
 
 As the fitness landscape evolves, integrating medical insights into gym routines could reshape how individuals approach their healthspan. For a deeper dive into this groundbreaking initiative, I encourage you to read the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/gyms-tap-medical-longevity-with-serotonin-centers-model)
+Source: [longevity.technology](https://longevity.technology/news/gyms-tap-medical-longevity-with-serotonin-centers-model)

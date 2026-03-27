@@ -18,4 +18,4 @@ This method is significant for the longevity and healthspan field as it addresse
 
 Veterinary professionals are encouraged to adopt this structured methodology to improve patient outcomes and owner compliance. For a deeper dive into Alvarez's insights and the implications for veterinary practice, I highly recommend checking out the full article.
 
-[Source: dvm360.com](https://www.dvm360.com)
+Source: [dvm360.com](https://www.dvm360.com)

@@ -18,4 +18,4 @@ The findings could have substantial implications for the longevity and healthspa
 
 For professionals in aging biology and healthspan research, this study underscores the importance of integrating novel therapeutics into clinical practice to improve overall well-being in aging populations.
 
-[Source: eurekalert.org](https://www.eurekalert.org)
+Source: [eurekalert.org](https://www.eurekalert.org)

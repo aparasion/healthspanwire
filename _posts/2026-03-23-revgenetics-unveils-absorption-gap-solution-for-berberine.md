@@ -18,4 +18,4 @@ This development is significant for the longevity and healthspan research commun
 
 For researchers and practitioners, the launch of DiBerberine 300x underscores the importance of bioavailability in supplement formulation, potentially paving the way for more effective longevity therapeutics.
 
-[Source: longevity.technology](https://longevity.technology/news/revgenetics-unveils-absorption-gap-solution-for-berberine)
+Source: [longevity.technology](https://longevity.technology/news/revgenetics-unveils-absorption-gap-solution-for-berberine)

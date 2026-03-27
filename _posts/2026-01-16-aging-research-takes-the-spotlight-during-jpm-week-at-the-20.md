@@ -18,4 +18,4 @@ The integration of high-quality functional antibodies and automated tools in cel
 
 For professionals in the longevity and healthspan fields, the implications of these developments are significant. They pave the way for more effective gene therapies and improved methodologies in cellular research. I highly recommend exploring the full details of this webinar to understand how these innovations can impact your work.
 
-[Source: the-scientist.com](https://www.the-scientist.com)
+Source: [the-scientist.com](https://www.the-scientist.com)

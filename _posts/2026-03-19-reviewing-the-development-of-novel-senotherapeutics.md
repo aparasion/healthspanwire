@@ -18,4 +18,4 @@ The review emphasizes a shift towards precision senotherapy, which aims to addre
 
 For longevity professionals, this synthesis underscores the potential of precision therapies in combating age-related disorders. I encourage you to delve deeper into the full review to explore these promising developments in senotherapeutics.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/reviewing-the-development-of-novel-senotherapeutics)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/reviewing-the-development-of-novel-senotherapeutics)

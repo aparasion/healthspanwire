@@ -18,4 +18,4 @@ These findings are significant for the longevity and healthspan fields, as they 
 
 For those invested in aging research and therapeutic development, the full details of this study and its implications are worth exploring further on Cognition Therapeutics' website.
 
-[Source: longevity.technology](https://longevity.technology/news/cognition-therapeutics-reports-zervimesine-slows-npi-decline-in-dlb)
+Source: [longevity.technology](https://longevity.technology/news/cognition-therapeutics-reports-zervimesine-slows-npi-decline-in-dlb)

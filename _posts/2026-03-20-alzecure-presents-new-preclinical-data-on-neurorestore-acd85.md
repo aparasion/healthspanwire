@@ -18,4 +18,4 @@ These results underscore the potential of ACD856 as a first-in-class therapeutic
 
 As AlzeCure prepares for phase II clinical trials, the implications for clinical practice and future research are substantial. For a deeper dive into the data and implications, I recommend checking out the full presentation available on AlzeCure's website.
 
-[Source: longevity.technology](https://longevity.technology/news/alzecure-presents-new-preclinical-data-on-neurorestore-acd856)
+Source: [longevity.technology](https://longevity.technology/news/alzecure-presents-new-preclinical-data-on-neurorestore-acd856)

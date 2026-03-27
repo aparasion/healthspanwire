@@ -18,4 +18,4 @@ This advancement is significant for the longevity and healthspan fields, as it a
 
 The study underscores the potential for in vivo CAR T cell engineering to revolutionize cancer treatment, paving the way for more efficient and effective immunotherapies that could improve patient outcomes and democratize access to cutting-edge therapies.
 
-[Source: lifespan.io](https://lifespan.io/news/in-vivo-created-car-t-cells-eliminate-tumors-in-mice/?utm_source=rss&utm_medium=rss&utm_campaign=in-vivo-created-car-t-cells-eliminate-tumors-in-mice)
+Source: [lifespan.io](https://lifespan.io/news/in-vivo-created-car-t-cells-eliminate-tumors-in-mice/?utm_source=rss&utm_medium=rss&utm_campaign=in-vivo-created-car-t-cells-eliminate-tumors-in-mice)

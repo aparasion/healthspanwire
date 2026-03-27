@@ -18,4 +18,4 @@ This innovative approach combines digital and biological biomarkers, enhancing p
 
 The integration of AI-driven monitoring with robust biological assays represents a significant step toward personalized medicine in neurodegenerative diseases, potentially transforming how treatment efficacy is evaluated.
 
-[Source: longevity.technology](https://longevity.technology/news/annovis-partners-with-neurorpm-on-parkinsons-study)
+Source: [longevity.technology](https://longevity.technology/news/annovis-partners-with-neurorpm-on-parkinsons-study)

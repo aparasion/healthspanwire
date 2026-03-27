@@ -18,4 +18,4 @@ Klotho has garnered attention in the longevity field for its potential to enhanc
 
 The introduction of Klotho at GARM underscores a broader movement within longevity medicine toward accessible, innovative therapies that prioritize healthspan. As the market matures, the implications for clinical practice and patient accessibility will be critical to monitor, particularly as elite offerings may pave the way for wider acceptance and integration of longevity interventions in mainstream healthcare.
 
-[Source: longevity.technology](https://longevity.technology/news/garm-expands-gene-therapy-platform-with-klotho)
+Source: [longevity.technology](https://longevity.technology/news/garm-expands-gene-therapy-platform-with-klotho)

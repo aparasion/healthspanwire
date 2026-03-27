@@ -18,4 +18,4 @@ This research is particularly relevant to the longevity and healthspan field, as
 
 As Anavex continues to explore blarcamesine's potential in neurodegenerative disorders, these findings could reshape therapeutic strategies aimed at combating diseases like Parkinson’s. For a deeper dive into the implications of this research, I highly recommend checking out the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/anavex-reports-blarcamesine-benefits-in-parkinsons-disease-model)
+Source: [longevity.technology](https://longevity.technology/news/anavex-reports-blarcamesine-benefits-in-parkinsons-disease-model)

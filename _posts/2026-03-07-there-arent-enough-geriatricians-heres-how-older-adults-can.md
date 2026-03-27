@@ -18,4 +18,4 @@ The shortage of geriatricians—fewer than 12 per 100,000 older Americans—pose
 
 For longevity professionals, this underscores the importance of advocating for a whole-person approach in aging care. I encourage you to read the full article for valuable insights on enhancing communication with healthcare providers and improving outcomes for older patients.
 
-[Source: superagingnews.com](https://superagingnews.com/there-arent-enough-geriatricians-heres-how-older-adults-can-still-get-the-right-care)
+Source: [superagingnews.com](https://superagingnews.com/there-arent-enough-geriatricians-heres-how-older-adults-can-still-get-the-right-care)

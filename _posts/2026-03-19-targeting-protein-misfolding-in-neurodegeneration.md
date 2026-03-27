@@ -18,4 +18,4 @@ This innovative approach is significant as it tackles the root causes of neurode
 
 For professionals in the longevity field, Origami’s work highlights the potential of precision medicine in restoring cellular balance and improving healthspan. To dive deeper into Dr. Hoffman's insights and the company's innovative strategies, I recommend reading the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/targeting-protein-misfolding-in-neurodegeneration)
+Source: [longevity.technology](https://longevity.technology/news/targeting-protein-misfolding-in-neurodegeneration)

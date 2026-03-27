@@ -18,4 +18,4 @@ This conversation matters deeply to the longevity and healthspan fields, as it u
 
 The key takeaway is that longevity is fostered not by pushing limits but by embracing recovery. For a deeper dive into their insights and practical strategies, I highly recommend listening to the full episode.
 
-[Source: longevity.technology](https://longevity.technology/news/peak-performance-culture-is-exhausting-our-nervous-systems)
+Source: [longevity.technology](https://longevity.technology/news/peak-performance-culture-is-exhausting-our-nervous-systems)

@@ -18,4 +18,4 @@ This finding is particularly relevant for the longevity and healthspan sectors, 
 
 For professionals in aging biology and healthspan research, this study underscores the importance of gut health in cognitive aging and invites further exploration into microbiome-based interventions. I encourage you to delve deeper into this compelling research by accessing the full article for a comprehensive understanding of its implications.
 
-[Source: nature.com](https://www.nature.com/articles/d41586-026-00492-1)
+Source: [nature.com](https://www.nature.com/articles/d41586-026-00492-1)

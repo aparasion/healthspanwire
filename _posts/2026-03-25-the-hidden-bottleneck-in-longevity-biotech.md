@@ -18,4 +18,4 @@ The longevity and healthspan field stands to benefit significantly from this dev
 
 The key takeaway is that enhancing financial infrastructure in biotech is essential for fostering innovation. As Condor's platform demonstrates, addressing financial visibility can be as crucial as scientific breakthroughs in ensuring that life-changing therapies reach patients.
 
-[Source: longevity.technology](https://longevity.technology/news/the-hidden-bottleneck-in-longevity-biotech)
+Source: [longevity.technology](https://longevity.technology/news/the-hidden-bottleneck-in-longevity-biotech)

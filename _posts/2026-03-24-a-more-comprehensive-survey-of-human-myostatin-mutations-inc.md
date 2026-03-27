@@ -18,4 +18,4 @@ This research is particularly relevant to the longevity and healthspan fields, a
 
 The study highlights the promise of myostatin blockade as a viable therapeutic strategy, paving the way for future clinical applications and deeper exploration of genetic variants that could inform personalized approaches to muscle health and metabolic resilience.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/a-more-comprehensive-survey-of-human-myostatin-mutations-increased-muscle-less-fat)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/a-more-comprehensive-survey-of-human-myostatin-mutations-increased-muscle-less-fat)

@@ -18,4 +18,4 @@ This work is pivotal for the longevity and healthspan fields, as it lays the gro
 
 For professionals in aging biology, this study underscores the importance of cell type-specific senescence signatures in clinical settings. I highly recommend exploring the full article to delve deeper into these findings and their implications for future research and therapeutic strategies.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/the-signatures-of-different-senescent-cell-types-exhibit-different-strengths-of-correlation-with-age-related-conditions)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/the-signatures-of-different-senescent-cell-types-exhibit-different-strengths-of-correlation-with-age-related-conditions)

@@ -18,4 +18,4 @@ This emerging understanding links dietary habits and physical activity to microb
 
 The implications of these findings are profound, highlighting the importance of gut health in aging. For a deeper dive into this fascinating intersection of microbiology and longevity, I highly recommend reading the full article.
 
-[Source: superagingnews.com](https://superagingnews.com/youre-only-as-old-as-your-gut-microbes-scientists-uncover-how-to-keep-your-microbiome-youthful)
+Source: [superagingnews.com](https://superagingnews.com/youre-only-as-old-as-your-gut-microbes-scientists-uncover-how-to-keep-your-microbiome-youthful)

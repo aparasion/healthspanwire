@@ -18,4 +18,4 @@ This advancement is crucial for the longevity and healthspan field, as it sugges
 
 For professionals in aging biology and longevity therapeutics, this study provides a clearer blueprint for future research and therapeutic development. I highly recommend exploring the full article for deeper insights into these findings and their implications for targeted interventions.
 
-[Source: longevity.technology](https://longevity.technology/news/new-brain-cell-map-sharpens-als-therapy-hunt)
+Source: [longevity.technology](https://longevity.technology/news/new-brain-cell-map-sharpens-als-therapy-hunt)

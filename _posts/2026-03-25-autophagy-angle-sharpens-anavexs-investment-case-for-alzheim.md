@@ -18,4 +18,4 @@ This perspective is significant for the longevity and healthspan fields, as it e
 
 For professionals in aging biology and longevity therapeutics, this study reinforces the notion that interventions focused on cellular homeostasis may yield more durable benefits in treating age-related diseases like Alzheimer’s. It highlights the need for a paradigm shift in how we approach therapeutic development, advocating for strategies that preemptively address underlying dysfunctions.
 
-[Source: longevity.technology](https://longevity.technology/news/autophagy-angle-sharpens-anavexs-investment-case-for-alzheimers)
+Source: [longevity.technology](https://longevity.technology/news/autophagy-angle-sharpens-anavexs-investment-case-for-alzheimers)

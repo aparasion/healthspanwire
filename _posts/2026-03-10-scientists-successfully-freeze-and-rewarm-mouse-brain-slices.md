@@ -18,4 +18,4 @@ This breakthrough has profound implications for the longevity and healthspan fie
 
 The research opens exciting avenues for future studies in cryobiology and its applications in medicine, including the potential for treating currently incurable diseases. For a deeper dive into the methodology and implications of this study, I highly recommend exploring the full article in the Proceedings of the National Academy of Sciences.
 
-[Source: lifespan.io](https://lifespan.io/news/scientists-successfully-freeze-and-rewarm-mouse-brain-slices/?utm_source=rss&utm_medium=rss&utm_campaign=scientists-successfully-freeze-and-rewarm-mouse-brain-slices)
+Source: [lifespan.io](https://lifespan.io/news/scientists-successfully-freeze-and-rewarm-mouse-brain-slices/?utm_source=rss&utm_medium=rss&utm_campaign=scientists-successfully-freeze-and-rewarm-mouse-brain-slices)

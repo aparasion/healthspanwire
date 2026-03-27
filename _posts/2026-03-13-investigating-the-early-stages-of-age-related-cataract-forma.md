@@ -18,4 +18,4 @@ Understanding the chemistry behind lens transparency is crucial, as the lens has
 
 This research underscores the importance of exploring nanoscale interventions in aging-related ocular conditions. For a deeper dive into the methodologies and implications of this study, I encourage you to read the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/investigating-the-early-stages-of-age-related-cataract-formation)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/investigating-the-early-stages-of-age-related-cataract-formation)

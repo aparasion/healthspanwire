@@ -18,4 +18,4 @@ This funding will directly support the registrational study arm of SER-252 under
 
 For professionals in the longevity field, this development highlights the ongoing investment in innovative therapies and the potential for SER-252 to influence treatment paradigms. I encourage you to read the full article for further insights into Serina's strategy and the implications for our field.
 
-[Source: longevity.technology](https://longevity.technology/news/serina-therapeutics-secures-up-to-30-million-to-advance-parkinsons-program)
+Source: [longevity.technology](https://longevity.technology/news/serina-therapeutics-secures-up-to-30-million-to-advance-parkinsons-program)

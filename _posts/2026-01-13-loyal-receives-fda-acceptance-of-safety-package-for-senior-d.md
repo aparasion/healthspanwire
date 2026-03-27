@@ -18,4 +18,4 @@ The acceptance of Loyal's safety package not only underscores the growing intere
 
 For longevity professionals, this advancement offers a concrete example of how veterinary medicine can inform human healthspan strategies. I encourage you to explore the full article for deeper insights into Loyal's innovative approach and its implications for the broader field.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaG9VeWYteEE0NWc5Yk83X1FoNUFaZ2VfcGlmazlRMjl5elBpTy11cjFyeWhIWGlOdEpwbXJZaUUxcUw4djNjdTBCRmVZMGhjZDZDYy1FYmNDazVOMUtWLU5wb0hQZlRaaFRSTDBBbVc0Q1p6Z1VsWFRHZWNPMV9PMFVyX0M2V1RkNmJiV3VLY3lFMVRKOHlQV25VQU5LNUplLXg3S2kxanlDNHdPNTBHU1lKbWpxSDdPVmd6T1lQT0MxQ2JtLWxVQWhTTEliNXJvcEJsREN4X3oxNUk?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaG9VeWYteEE0NWc5Yk83X1FoNUFaZ2VfcGlmazlRMjl5elBpTy11cjFyeWhIWGlOdEpwbXJZaUUxcUw4djNjdTBCRmVZMGhjZDZDYy1FYmNDazVOMUtWLU5wb0hQZlRaaFRSTDBBbVc0Q1p6Z1VsWFRHZWNPMV9PMFVyX0M2V1RkNmJiV3VLY3lFMVRKOHlQV25VQU5LNUplLXg3S2kxanlDNHdPNTBHU1lKbWpxSDdPVmd6T1lQT0MxQ2JtLWxVQWhTTEliNXJvcEJsREN4X3oxNUk?oc=5)

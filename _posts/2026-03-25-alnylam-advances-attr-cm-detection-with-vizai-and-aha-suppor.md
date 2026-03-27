@@ -18,4 +18,4 @@ These initiatives are significant as they address the critical issue of underdia
 
 A key takeaway for professionals in the longevity and healthspan research field is the potential for AI technologies to transform diagnostic pathways, underscoring the importance of integrating innovative solutions into routine clinical practices for better management of age-related diseases.
 
-[Source: longevity.technology](https://longevity.technology/news/alnylam-advances-attr-cm-detection-with-viz-ai-and-aha-support)
+Source: [longevity.technology](https://longevity.technology/news/alnylam-advances-attr-cm-detection-with-viz-ai-and-aha-support)

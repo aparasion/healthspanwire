@@ -18,4 +18,4 @@ This financial stability allows Theriva to focus on its oncology pipeline, parti
 
 For professionals in longevity and healthspan research, Theriva's strategic moves reflect a growing emphasis on oncology therapeutics, which could have implications for the development of age-related cancer treatments. I encourage you to explore the full article for a deeper understanding of Theriva's promising trajectory.
 
-[Source: longevity.technology](https://longevity.technology/news/theriva-biologics-reports-2025-results-and-pipeline-progress)
+Source: [longevity.technology](https://longevity.technology/news/theriva-biologics-reports-2025-results-and-pipeline-progress)

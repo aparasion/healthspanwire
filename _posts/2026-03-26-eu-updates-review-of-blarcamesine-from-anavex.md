@@ -18,4 +18,4 @@ This development is significant for the longevity and healthspan research commun
 
 For professionals in the field, this situation emphasizes the importance of robust data collection and analysis in the regulatory process, particularly for therapies aimed at complex conditions like Alzheimer's disease.
 
-[Source: longevity.technology](https://longevity.technology/news/eu-updates-review-of-blarcamesine-from-anavex)
+Source: [longevity.technology](https://longevity.technology/news/eu-updates-review-of-blarcamesine-from-anavex)

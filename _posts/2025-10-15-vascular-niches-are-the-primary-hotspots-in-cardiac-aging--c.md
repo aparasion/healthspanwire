@@ -18,4 +18,4 @@ Understanding the dynamics within vascular niches is essential for the longevity
 
 One key takeaway is the potential for developing interventions that specifically address the cellular and molecular changes occurring in vascular niches during aging. For a deeper dive into the implications of these findings and their relevance to future research directions, I highly recommend exploring the full article in *Circulation Research*.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUVhzQnVwZUJjb2Jnc0xhT21IWW5CUm9fcjE5dmk1RWFUWEdRM19DY2w3dnlPVU1mcXh3UlJyOXZiNi1mV2tvMFNoeG5PQWs2MVJuMzZvRUZHSVhEd3lmN0t5bVMyeVZKZUxPcUhn?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUVhzQnVwZUJjb2Jnc0xhT21IWW5CUm9fcjE5dmk1RWFUWEdRM19DY2w3dnlPVU1mcXh3UlJyOXZiNi1mV2tvMFNoeG5PQWs2MVJuMzZvRUZHSVhEd3lmN0t5bVMyeVZKZUxPcUhn?oc=5)

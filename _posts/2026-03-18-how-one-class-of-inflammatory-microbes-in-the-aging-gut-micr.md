@@ -18,4 +18,4 @@ The findings underscore the importance of gut-brain interactions in age-related 
 
 A key takeaway is the potential for interoceptomimetics to enhance gut-brain communication and mitigate cognitive decline associated with aging. For a deeper dive into these findings and their implications, I recommend exploring the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/how-one-class-of-inflammatory-microbes-in-the-aging-gut-microbiome-degrades-memory-function)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/how-one-class-of-inflammatory-microbes-in-the-aging-gut-microbiome-degrades-memory-function)

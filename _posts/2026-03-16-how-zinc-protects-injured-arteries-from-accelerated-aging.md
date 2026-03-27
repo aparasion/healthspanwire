@@ -18,4 +18,4 @@ This discovery is significant for the longevity field as it links vascular damag
 
 For professionals in aging biology and therapeutic development, this research underscores the importance of nutrient signaling in vascular health. I encourage you to read the full article for deeper insights into the pMVs/ZIP4/zinc/prelamin A signaling pathway and its implications for vascular aging.
 
-[Source: lifespan.io](https://lifespan.io/news/how-zinc-protects-injured-arteries-from-accelerated-aging/?utm_source=rss&utm_medium=rss&utm_campaign=how-zinc-protects-injured-arteries-from-accelerated-aging)
+Source: [lifespan.io](https://lifespan.io/news/how-zinc-protects-injured-arteries-from-accelerated-aging/?utm_source=rss&utm_medium=rss&utm_campaign=how-zinc-protects-injured-arteries-from-accelerated-aging)

@@ -18,4 +18,4 @@ The focus on achieving the 90-70-90 targets—90% of girls vaccinated against HP
 
 For longevity and healthspan professionals, the developments in cervical cancer prevention and treatment underscore the importance of integrating innovative therapies and public health initiatives to improve women's health outcomes globally.
 
-[Source: biospectrumasia.com](https://www.biospectrumasia.com)
+Source: [biospectrumasia.com](https://www.biospectrumasia.com)

@@ -18,4 +18,4 @@ The inclusion of Klotho is particularly noteworthy, as it targets mechanisms ass
 
 This development signals a shift towards personalized longevity protocols that do not involve permanent genetic alterations, offering a new avenue for patients seeking innovative solutions to enhance their healthspan.
 
-[Source: longevity.technology](https://longevity.technology/news/garm-adds-klotho-to-cell-and-gene-therapy-platform-in-roatan)
+Source: [longevity.technology](https://longevity.technology/news/garm-adds-klotho-to-cell-and-gene-therapy-platform-in-roatan)

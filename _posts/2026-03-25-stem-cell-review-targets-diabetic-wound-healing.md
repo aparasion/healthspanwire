@@ -18,4 +18,4 @@ This study is particularly relevant as it highlights a growing trend in regenera
 
 The implications of this research extend beyond wound care; it signals a shift in the longevity field towards prioritizing the body's repair mechanisms under stress from chronic diseases. As regenerative medicine continues to evolve, this work may pave the way for integrating these therapies into broader healthspan strategies, reinforcing the notion that effective repair is a critical frontier in longevity science.
 
-[Source: longevity.technology](https://longevity.technology/news/stem-cell-review-targets-diabetic-wound-healing)
+Source: [longevity.technology](https://longevity.technology/news/stem-cell-review-targets-diabetic-wound-healing)

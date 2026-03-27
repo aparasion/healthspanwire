@@ -18,4 +18,4 @@ This research is pivotal for the longevity and healthspan field, as it shifts th
 
 The findings underscore the importance of exploring therapeutic avenues that target chromatin accessibility and neuronal development, potentially paving the way for interventions that enhance cognitive resilience. For a deeper dive into the mechanisms at play, I highly recommend reading the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/superagers-reveal-a-regenerative-brain-signature)
+Source: [longevity.technology](https://longevity.technology/news/superagers-reveal-a-regenerative-brain-signature)

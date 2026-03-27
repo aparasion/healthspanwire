@@ -18,4 +18,4 @@ This finding is significant for the longevity and healthspan fields, as it promp
 
 For professionals in aging biology and healthspan research, this study underscores the importance of nuanced dietary recommendations and encourages further exploration into how different protein sources can influence health outcomes over time.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmF1MkJicE94a19maTlLNjQtdEJHT1FfdFd4dFExdGlQVVpMYXZjWFpJa205aWdTUTlyYmxta0pxZE1XSlVpUmhUUUlpVVhTS1FoX1M4ZUpXakp3NEJFb3RLN0l4cnh2enl4RTI0TmFnSWdjSXRCbnVYbzlQWmExRkRvd0pENGliS0daX3RUWDNPakk?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmF1MkJicE94a19maTlLNjQtdEJHT1FfdFd4dFExdGlQVVpMYXZjWFpJa205aWdTUTlyYmxta0pxZE1XSlVpUmhUUUlpVVhTS1FoX1M4ZUpXakp3NEJFb3RLN0l4cnh2enl4RTI0TmFnSWdjSXRCbnVYbzlQWmExRkRvd0pENGliS0daX3RUWDNPakk?oc=5)

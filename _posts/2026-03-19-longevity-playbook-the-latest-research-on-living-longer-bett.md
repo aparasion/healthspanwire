@@ -18,4 +18,4 @@ The findings underscore the importance of integrating lifestyle interventions, s
 
 As the field progresses, the focus on layered strategies—combining lifestyle changes with emerging pharmacological approaches like rapamycin and metformin—may pave the way for more effective aging therapies. For a deeper dive into these transformative insights, I highly recommend reading the full article.
 
-[Source: superagingnews.com](https://superagingnews.com/longevity-playbook-the-latest-research-on-living-longer-better-healthier)
+Source: [superagingnews.com](https://superagingnews.com/longevity-playbook-the-latest-research-on-living-longer-better-healthier)

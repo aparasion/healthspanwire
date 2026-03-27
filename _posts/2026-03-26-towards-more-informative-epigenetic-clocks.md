@@ -18,4 +18,4 @@ This development is crucial for the longevity and healthspan research community,
 
 The key takeaway is that integrating machine learning with mechanistic insights can lead to more informative epigenetic clocks, potentially guiding future therapeutic strategies in aging biology.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/towards-more-informative-epigenetic-clocks)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/towards-more-informative-epigenetic-clocks)

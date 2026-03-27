@@ -18,4 +18,4 @@ This trial is particularly noteworthy because it approaches muscle loss as a sys
 
 For professionals in the field, the CALM-AF-AI trial serves as a reminder of the importance of addressing the broader implications of aging. If successful, it could pave the way for innovative treatment paradigms that prioritize functional outcomes over traditional biomarkers, ultimately enhancing healthspan and quality of life for older adults.
 
-[Source: longevity.technology](https://longevity.technology/news/dual-gene-therapy-targets-muscle-aging)
+Source: [longevity.technology](https://longevity.technology/news/dual-gene-therapy-targets-muscle-aging)

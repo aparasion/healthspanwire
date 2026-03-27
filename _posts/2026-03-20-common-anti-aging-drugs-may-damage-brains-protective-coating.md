@@ -18,4 +18,4 @@ Understanding the implications of stopping medication in older patients is cruci
 
 For professionals in longevity science, the key takeaway is the potential for this research to inform clinical guidelines and therapeutic protocols, ultimately improving healthspan outcomes for older adults living with MS.
 
-[Source: multiplesclerosisnewstoday.com](https://multiplesclerosisnewstoday.com)
+Source: [multiplesclerosisnewstoday.com](https://multiplesclerosisnewstoday.com)

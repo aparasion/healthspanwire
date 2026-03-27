@@ -18,4 +18,4 @@ The significance of this initiative extends beyond environmental impact; it alig
 
 For longevity professionals, this initiative underscores the importance of integrating sustainable dietary practices into healthspan strategies, potentially contributing to better health outcomes and reduced environmental footprints in healthcare systems.
 
-[Source: plantbasednews.org](https://plantbasednews.org)
+Source: [plantbasednews.org](https://plantbasednews.org)

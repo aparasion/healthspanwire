@@ -18,4 +18,4 @@ The trial's innovative design employs a 3+3 dose-escalation approach, assessing 
 
 This trial represents a promising step towards understanding the therapeutic potential of gene therapies in addressing muscle decline, a key factor in healthspan extension.
 
-[Source: longevity.technology](https://longevity.technology/news/unlimited-bio-registers-dual-gene-therapy-trial)
+Source: [longevity.technology](https://longevity.technology/news/unlimited-bio-registers-dual-gene-therapy-trial)

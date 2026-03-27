@@ -18,4 +18,4 @@ The potential impact of this senolytic vaccine is substantial, as it aligns with
 
 For professionals in the longevity and healthspan research community, this patent represents a noteworthy step forward in the quest for effective anti-aging therapies. I encourage you to delve into the full article to explore the implications of Immorta Bio's groundbreaking work.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOandaRHVOME5qb2xVaWxLeDdjR09aMjZzVUxWQnBNbEk3QmxMMWg5T0Q1RGVoTVRPNkVvenFCZVpEbGZYeEZzT0p6eHFtcmktV1QyNjhFRzUxVTFhYVAxSmhPRE5EMXdscVQ2ZmtBdFMwT2hIUkFuYnhGazdkdUl2M0wwcFRFMkZxYjdCWFZMcw?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOandaRHVOME5qb2xVaWxLeDdjR09aMjZzVUxWQnBNbEk3QmxMMWg5T0Q1RGVoTVRPNkVvenFCZVpEbGZYeEZzT0p6eHFtcmktV1QyNjhFRzUxVTFhYVAxSmhPRE5EMXdscVQ2ZmtBdFMwT2hIUkFuYnhGazdkdUl2M0wwcFRFMkZxYjdCWFZMcw?oc=5)

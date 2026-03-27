@@ -18,4 +18,4 @@ The significance of DLT lies in its ability to streamline the collection and val
 
 For professionals in the field, DLT offers a unique opportunity to leverage advanced analytics and tailored insights for strategic decisions. I highly recommend exploring the full article to understand how DLT can enhance your research and investment strategies.
 
-[Source: longevity.technology](https://longevity.technology/news/longevity-technology-has-quietly-become-an-ai-company)
+Source: [longevity.technology](https://longevity.technology/news/longevity-technology-has-quietly-become-an-ai-company)

@@ -18,4 +18,4 @@ The implications for dermatology and longevity research are significant. Senolyt
 
 For longevity professionals, understanding these developments is crucial as they pave the way for new therapeutic strategies. I encourage you to delve deeper into this topic by exploring the full article for a comprehensive overview of the latest findings in senotherapeutics.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVJvYjQzRVBqejlhR3lCOW1iRDZ4ZXNienpmbk9JZTFNdHJQbjBDM1dGVjk2ZG4wNURPalYzQ2ZJWWxKRlYxNVFsQVJ3ZXZZX3h1cHVkaDZoOVcyNk5ZTmd2M1cxMDJjcWJKZU5ycWRZRFNWa0xRMFliS3hBMk9XNlJVdS1DUllUbXZHbVh2Z3N0bnV6OV9NMVB4cUY?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVJvYjQzRVBqejlhR3lCOW1iRDZ4ZXNienpmbk9JZTFNdHJQbjBDM1dGVjk2ZG4wNURPalYzQ2ZJWWxKRlYxNVFsQVJ3ZXZZX3h1cHVkaDZoOVcyNk5ZTmd2M1cxMDJjcWJKZU5ycWRZRFNWa0xRMFliS3hBMk9XNlJVdS1DUllUbXZHbVh2Z3N0bnV6OV9NMVB4cUY?oc=5)

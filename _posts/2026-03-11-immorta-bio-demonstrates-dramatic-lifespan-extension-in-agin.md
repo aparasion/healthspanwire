@@ -16,4 +16,4 @@ Summary generation failed due to API error.
 
 Read the full article below.
 
-[Source: prnewswire.com](https://www.prnewswire.com)
+Source: [prnewswire.com](https://www.prnewswire.com)

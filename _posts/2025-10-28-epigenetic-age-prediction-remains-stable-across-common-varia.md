@@ -18,4 +18,4 @@ The findings are significant for the longevity and healthspan fields, as they va
 
 For professionals in aging biology and related fields, this study underscores the reliability of epigenetic clocks as a tool for assessing biological age across different demographics. I encourage you to explore the full article for deeper insights into the implications of these findings.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSVRHZzhnbEF0Y1Zzb1JVN05NY2gzeTlBbnJlLUxiWXRabUlodDY1eHJTZHBCc0U2R3VVeGxZZnZFT3d0VGh3RU9lcWJNU09ubVVmOXRJNC1GYnZ6X19wcUJLVlZzelVyU0JrQVVMdjluSnJpdUp1LUw2NA?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSVRHZzhnbEF0Y1Zzb1JVN05NY2gzeTlBbnJlLUxiWXRabUlodDY1eHJTZHBCc0U2R3VVeGxZZnZFT3d0VGh3RU9lcWJNU09ubVVmOXRJNC1GYnZ6X19wcUJLVlZzelVyU0JrQVVMdjluSnJpdUp1LUw2NA?oc=5)

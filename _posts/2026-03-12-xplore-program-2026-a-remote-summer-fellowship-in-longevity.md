@@ -18,4 +18,4 @@ The program addresses a critical challenge in the longevity field: the difficult
 
 For those looking to transition from theoretical knowledge to practical contributions in the longevity sector, the Xplore Program presents a valuable opportunity. I encourage you to explore the full details of this fellowship and consider applying through the provided link.
 
-[Source: lifespan.io](https://lifespan.io/news/xplore-program-2026-a-remote-summer-fellowship-in-longevity/?utm_source=rss&utm_medium=rss&utm_campaign=xplore-program-2026-a-remote-summer-fellowship-in-longevity)
+Source: [lifespan.io](https://lifespan.io/news/xplore-program-2026-a-remote-summer-fellowship-in-longevity/?utm_source=rss&utm_medium=rss&utm_campaign=xplore-program-2026-a-remote-summer-fellowship-in-longevity)

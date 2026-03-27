@@ -18,4 +18,4 @@ This advancement is crucial for the longevity field, as it sheds light on the me
 
 The findings underscore the importance of understanding mitochondrial uptake mechanisms, paving the way for optimized therapeutic applications. For a deeper dive into this groundbreaking research, I encourage you to explore the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/a-better-view-of-how-cells-take-up-mitochondria-to-restore-function)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/a-better-view-of-how-cells-take-up-mitochondria-to-restore-function)

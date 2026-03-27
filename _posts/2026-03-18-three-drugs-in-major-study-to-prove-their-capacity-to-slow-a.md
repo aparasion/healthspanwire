@@ -18,4 +18,4 @@ The trial is particularly noteworthy as it focuses on established drugs, allowin
 
 A key takeaway is the trial's commitment to inclusivity, targeting a historically underrepresented Hispanic population in South Texas. This focus not only enriches the data but also aligns with the ethical imperative to ensure that aging research reflects diverse experiences. For a deeper dive into this promising study, I recommend exploring the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/three-drugs-in-major-study-to-prove-their-capacity-to-slow-aging)
+Source: [longevity.technology](https://longevity.technology/news/three-drugs-in-major-study-to-prove-their-capacity-to-slow-aging)

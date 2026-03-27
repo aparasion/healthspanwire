@@ -18,4 +18,4 @@ This shift underscores the importance of addressing not just medical advancement
 
 For longevity professionals, this research serves as a critical reminder that extending lifespan and healthspan requires a holistic approach. Interventions must prioritize social equity, healthy lifestyle promotion, and access to preventive care to prevent a reversal in progress made over decades.
 
-[Source: longevity.technology](https://longevity.technology/news/longevity-wake-up-call-for-younger-generations)
+Source: [longevity.technology](https://longevity.technology/news/longevity-wake-up-call-for-younger-generations)

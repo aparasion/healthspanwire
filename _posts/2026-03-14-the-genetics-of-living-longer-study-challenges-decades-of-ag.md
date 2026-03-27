@@ -18,4 +18,4 @@ This study is significant for the longevity and healthspan field as it calls int
 
 One key takeaway is the importance of diversifying genetic research to include broader populations, which may yield more accurate insights into aging. For a deeper dive into this groundbreaking study and its implications for the future of aging research, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlRQMlZObFB4cmlEZzZmLUlyMEJIRlE1MWpEMkd2WHJwekVpUzdvRTgxcU1mUjBVa09jeWNXS1BKWUxyN2dsQzVISERyOWVZcG96RURaNmdMTDl5X0VIQ202ZkMyczBqU2JkQnAyY2FwR2h6cWRmS25zeG9kU0RlNWM2SG10enhzRTVRLW1ManFTc3EyRWVpSTVhNGgtLVk?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlRQMlZObFB4cmlEZzZmLUlyMEJIRlE1MWpEMkd2WHJwekVpUzdvRTgxcU1mUjBVa09jeWNXS1BKWUxyN2dsQzVISERyOWVZcG96RURaNmdMTDl5X0VIQ202ZkMyczBqU2JkQnAyY2FwR2h6cWRmS25zeG9kU0RlNWM2SG10enhzRTVRLW1ManFTc3EyRWVpSTVhNGgtLVk?oc=5)

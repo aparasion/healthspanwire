@@ -18,4 +18,4 @@ As neurodegenerative diseases like Alzheimer’s and Parkinson’s continue to r
 
 NOVA presents a unique opportunity for professionals across various sectors to engage in meaningful discussions that could reshape the future of brain aging research and care. Attendees will leave with a deeper understanding of the interconnectedness of neuroscience, policy, and clinical practice, ultimately driving progress in the fight against neurodegenerative diseases.
 
-[Source: lifespan.io](https://lifespan.io/news/neuroscience-of-vitality-and-aging-conference-in-boston/?utm_source=rss&utm_medium=rss&utm_campaign=neuroscience-of-vitality-and-aging-conference-in-boston)
+Source: [lifespan.io](https://lifespan.io/news/neuroscience-of-vitality-and-aging-conference-in-boston/?utm_source=rss&utm_medium=rss&utm_campaign=neuroscience-of-vitality-and-aging-conference-in-boston)

@@ -18,4 +18,4 @@ This trial is significant for the longevity and healthspan field as it represent
 
 For professionals in the aging biology and therapeutic development sectors, the progression of CTx1000 offers a concrete example of how genetic medicine can address neurodegenerative diseases, potentially reshaping treatment paradigms for ALS and similar conditions.
 
-[Source: longevity.technology](https://longevity.technology/news/celosia-therapeutics-begins-phase-1b-trial-of-ctx1000-for-als)
+Source: [longevity.technology](https://longevity.technology/news/celosia-therapeutics-begins-phase-1b-trial-of-ctx1000-for-als)

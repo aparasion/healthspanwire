@@ -18,4 +18,4 @@ The significance of these findings lies in the growing interest in non-pharmaceu
 
 For longevity professionals, the takeaway is clear: creatine supplementation could serve as a simple yet effective strategy to enhance healthspan, warranting further investigation and consideration in clinical practice.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWs4UkE5UmVtdkw2V0N2VnZ5amxONGgyUEJwRmNac2pjc2owR0ZpSWs0d0k3SDhvRF8zLTFJMUhXdkJIQzRLT0ozVXZZenU4cF9QNzdmRGItZ0IwYU9KUzN2QlNza1ZnTjZvaW1KZG5tc3J0bFRSdzdRbEM1UEktTGYxZXFUdjNiVzJvWWNWRHNSUHpwcWpvWWgyNWhNZzcya0pTcVF1b2pFYkp0akEyNFZpWnAzYWFDRVFn?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWs4UkE5UmVtdkw2V0N2VnZ5amxONGgyUEJwRmNac2pjc2owR0ZpSWs0d0k3SDhvRF8zLTFJMUhXdkJIQzRLT0ozVXZZenU4cF9QNzdmRGItZ0IwYU9KUzN2QlNza1ZnTjZvaW1KZG5tc3J0bFRSdzdRbEM1UEktTGYxZXFUdjNiVzJvWWNWRHNSUHpwcWpvWWgyNWhNZzcya0pTcVF1b2pFYkp0akEyNFZpWnAzYWFDRVFn?oc=5)

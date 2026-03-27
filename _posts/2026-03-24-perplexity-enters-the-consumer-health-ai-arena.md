@@ -16,4 +16,4 @@ Perplexity has launched Perplexity Health, an AI-driven platform designed to con
 
 The implications for longevity and healthspan research are significant. By enabling users to track their health data over time and receive personalized feedback, this tool could empower individuals to identify risks and make informed decisions regarding prevention and care. Importantly, the platform includes safeguards to ensure data privacy and encourages users to seek professional medical advice when necessary, reinforcing the importance of evidence-based practices in health management.
 
-[Source: longevity.technology](https://longevity.technology/news/perplexity-enters-the-consumer-health-ai-arena)
+Source: [longevity.technology](https://longevity.technology/news/perplexity-enters-the-consumer-health-ai-arena)

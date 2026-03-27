@@ -18,4 +18,4 @@ This finding is particularly relevant in the context of aging, where muscle mass
 
 For professionals in the longevity and healthspan fields, this study highlights the potential for microbiome-targeted therapies to mitigate age-related muscle loss. I encourage you to delve deeper into the full article for a comprehensive understanding of these groundbreaking findings.
 
-[Source: lifespan.io](https://lifespan.io/news/study-links-a-gut-bacterium-to-increased-muscle-strength/?utm_source=rss&utm_medium=rss&utm_campaign=study-links-a-gut-bacterium-to-increased-muscle-strength)
+Source: [lifespan.io](https://lifespan.io/news/study-links-a-gut-bacterium-to-increased-muscle-strength/?utm_source=rss&utm_medium=rss&utm_campaign=study-links-a-gut-bacterium-to-increased-muscle-strength)

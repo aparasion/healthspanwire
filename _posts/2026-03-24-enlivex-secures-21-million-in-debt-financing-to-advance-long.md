@@ -18,4 +18,4 @@ This financial boost is significant as it underscores the increasing investment 
 
 For professionals in the longevity field, this development highlights the importance of financial backing in advancing research and therapeutic solutions. It also signals a robust market interest in longevity-focused interventions, which may lead to further innovations and collaborations in the industry.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHaGNQa1B5M01LOU0tOWJkTEQxUUhjQV94Ql9IblI4RWUtSnBNMnY4eUxEQVZwdXJvRlREYU53WXNaQTZHTDhqUVVLRDhSUk5ZSUV4dkdzQzRRN09NcnfSAWNBVV95cUxNU2gwUHpfb2xtek9CLWFJclJ5Q0QxWmxXT2xxQURqYk1LMXZ6OExJUXdWNk5RbGpHZU1LSk5XalJNSldtZDlwQmhlSEdJN1ZVSGZiazd6WWZvMzhwQlVSOEU4bE0?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHaGNQa1B5M01LOU0tOWJkTEQxUUhjQV94Ql9IblI4RWUtSnBNMnY4eUxEQVZwdXJvRlREYU53WXNaQTZHTDhqUVVLRDhSUk5ZSUV4dkdzQzRRN09NcnfSAWNBVV95cUxNU2gwUHpfb2xtek9CLWFJclJ5Q0QxWmxXT2xxQURqYk1LMXZ6OExJUXdWNk5RbGpHZU1LSk5XalJNSldtZDlwQmhlSEdJN1ZVSGZiazd6WWZvMzhwQlVSOEU4bE0?oc=5)

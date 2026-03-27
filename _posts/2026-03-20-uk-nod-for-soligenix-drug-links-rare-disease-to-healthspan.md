@@ -18,4 +18,4 @@ The significance of this development extends beyond regulatory milestones; it un
 
 For professionals in aging biology and therapeutics, the PIM designation for SGX945 offers a compelling case for the integration of rare disease innovations into longevity strategies. I encourage you to delve deeper into this story to understand its implications for both clinical practice and the evolving landscape of healthspan research.
 
-[Source: longevity.technology](https://longevity.technology/news/uk-nod-for-soligenix-drug-links-rare-disease-to-healthspan)
+Source: [longevity.technology](https://longevity.technology/news/uk-nod-for-soligenix-drug-links-rare-disease-to-healthspan)

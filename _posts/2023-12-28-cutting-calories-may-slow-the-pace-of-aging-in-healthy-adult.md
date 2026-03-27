@@ -18,4 +18,4 @@ These resources are vital for longevity professionals as they facilitate access 
 
 For professionals in the field, the takeaway is clear: leveraging these resources can enhance research initiatives and clinical practices, ultimately contributing to better healthspan outcomes. I highly recommend exploring the full range of offerings on the NIA website to fully utilize these valuable tools.
 
-[Source: nia.nih.gov](https://www.nia.nih.gov)
+Source: [nia.nih.gov](https://www.nia.nih.gov)

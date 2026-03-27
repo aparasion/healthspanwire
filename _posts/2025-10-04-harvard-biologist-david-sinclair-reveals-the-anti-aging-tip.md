@@ -18,4 +18,4 @@ This finding is significant for the longevity and healthspan field as it emphasi
 
 For professionals in aging biology and healthspan research, this study underscores the potential of physical assessments in predicting health outcomes. I encourage you to explore the full article for a deeper understanding of this promising development in longevity science.
 
-[Source: okdiario.com](https://okdiario.com)
+Source: [okdiario.com](https://okdiario.com)

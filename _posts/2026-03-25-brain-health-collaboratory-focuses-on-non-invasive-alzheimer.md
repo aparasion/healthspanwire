@@ -18,4 +18,4 @@ This partnership is significant for the longevity and healthspan field as it rep
 
 A key takeaway from this collaboration is the development of a "Brain Health Index," which will track cognitive performance and treatment responses, highlighting the importance of real-world evidence in the adoption of new therapies for Alzheimer’s disease and other neurological conditions.
 
-[Source: longevity.technology](https://longevity.technology/news/brain-health-collaboratory-focuses-on-non-invasive-alzheimers-therapy)
+Source: [longevity.technology](https://longevity.technology/news/brain-health-collaboratory-focuses-on-non-invasive-alzheimers-therapy)

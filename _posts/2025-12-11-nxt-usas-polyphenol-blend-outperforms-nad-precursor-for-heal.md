@@ -18,4 +18,4 @@ The introduction of Re-Vaya is particularly relevant as it aligns with emerging 
 
 For professionals in the field, the implications of this development are clear: ingredients like Re-Vaya may redefine nutritional strategies in metabolic health. I encourage you to read the full article for deeper insights into this innovative ingredient and its potential impact on the market.
 
-[Source: nutritioninsight.com](https://www.nutritioninsight.com)
+Source: [nutritioninsight.com](https://www.nutritioninsight.com)

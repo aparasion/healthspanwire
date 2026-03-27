@@ -18,4 +18,4 @@ The integration of clinical practice with cutting-edge research is a hallmark of
 
 A key takeaway is the college's role in shaping future leaders in medicine, highlighting the importance of robust research funding in driving innovation that directly impacts patient care and healthspan advancements.
 
-[Source: medicine.arizona.edu](https://medicine.arizona.edu)
+Source: [medicine.arizona.edu](https://medicine.arizona.edu)

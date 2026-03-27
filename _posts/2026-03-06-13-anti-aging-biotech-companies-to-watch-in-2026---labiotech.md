@@ -18,4 +18,4 @@ The significance of these startups lies in their potential to transform the land
 
 For professionals in aging biology and healthspan research, this article offers valuable insights into emerging players and trends in the anti-aging space. I encourage you to read the full piece for a deeper understanding of these startups and their potential impact on the future of longevity science.
 
-[Source: labiotech.eu](https://www.labiotech.eu)
+Source: [labiotech.eu](https://www.labiotech.eu)

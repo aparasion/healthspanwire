@@ -18,4 +18,4 @@ This perspective is particularly relevant in the evolving longevity landscape, w
 
 For professionals in the aging and healthspan fields, this approach serves as a reminder to prioritize patient education on fundamental health practices before introducing advanced technologies. I encourage you to explore the full article for deeper insights into Vail Health’s refreshing stance on longevity care.
 
-[Source: longevity.technology](https://longevity.technology/news/vail-health-makes-case-for-prevention-led-longevity)
+Source: [longevity.technology](https://longevity.technology/news/vail-health-makes-case-for-prevention-led-longevity)

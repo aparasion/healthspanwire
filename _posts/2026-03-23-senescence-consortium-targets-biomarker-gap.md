@@ -18,4 +18,4 @@ This collaboration is crucial as the field of senotherapeutics has reached a tra
 
 The SBC represents a pivotal moment for the field, emphasizing the need for shared standards in biomarker development. By fostering collaboration and aligning methodologies, the consortium aims to enhance the reproducibility and interpretability of clinical trials, ultimately paving the way for more effective interventions in aging and related diseases.
 
-[Source: longevity.technology](https://longevity.technology/news/senescence-consortium-targets-biomarker-gap)
+Source: [longevity.technology](https://longevity.technology/news/senescence-consortium-targets-biomarker-gap)

@@ -18,4 +18,4 @@ The emphasis on physical activity aligns with current research trends that advoc
 
 For longevity professionals, this finding reinforces the importance of developing comprehensive health programs that prioritize physical activity, potentially influencing future research directions and therapeutic approaches in aging biology.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUpyRnNrQ0xsWmlHX1JXSlU2Q0RhLTd5SnF6VEpPc1RvcWIyQzJQdy1URktFUzVMSU9ZQnlmR2NsNFJ0MjR4ZXlmRGFBN1AxVzNoMUpVT1hfY0NQY3FQR2M2ay1zbnlPQ1dndzR1OG1tUkN0dHp2bGxyRWlmekJMX1prZGxnZ0pk?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUpyRnNrQ0xsWmlHX1JXSlU2Q0RhLTd5SnF6VEpPc1RvcWIyQzJQdy1URktFUzVMSU9ZQnlmR2NsNFJ0MjR4ZXlmRGFBN1AxVzNoMUpVT1hfY0NQY3FQR2M2ay1zbnlPQ1dndzR1OG1tUkN0dHp2bGxyRWlmekJMX1prZGxnZ0pk?oc=5)

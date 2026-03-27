@@ -18,4 +18,4 @@ This discovery is significant for the longevity and healthspan field, as it high
 
 For those interested in the implications of this research on future therapeutic developments, I recommend exploring the full article to gain deeper insights into the genetic factors influencing brain resilience and their potential applications in human health.
 
-[Source: sciencenews.org](https://www.sciencenews.org)
+Source: [sciencenews.org](https://www.sciencenews.org)

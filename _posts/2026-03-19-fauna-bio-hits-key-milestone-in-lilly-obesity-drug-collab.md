@@ -18,4 +18,4 @@ This research is particularly relevant in the context of the competitive obesity
 
 For professionals in the longevity and healthspan fields, this partnership exemplifies the potential of leveraging comparative genomics to uncover novel therapeutic pathways. I encourage you to read the full article to delve deeper into Fauna's groundbreaking findings and their implications for future obesity treatments.
 
-[Source: longevity.technology](https://longevity.technology/news/fauna-bio-hits-key-milestone-in-lilly-obesity-drug-collab)
+Source: [longevity.technology](https://longevity.technology/news/fauna-bio-hits-key-milestone-in-lilly-obesity-drug-collab)

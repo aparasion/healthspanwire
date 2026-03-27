@@ -18,4 +18,4 @@ Wendt brings over a decade of experience from Sanofi, where he held key roles in
 
 For professionals in longevity science and healthspan research, Wendt's appointment underscores the increasing importance of strategic partnerships in biopharma. I encourage you to explore the full article for deeper insights into Alchemab's innovative strategies and future directions.
 
-[Source: longevity.technology](https://longevity.technology/news/alchemab-therapeutics-names-ulrich-wendt-chief-business-officer)
+Source: [longevity.technology](https://longevity.technology/news/alchemab-therapeutics-names-ulrich-wendt-chief-business-officer)

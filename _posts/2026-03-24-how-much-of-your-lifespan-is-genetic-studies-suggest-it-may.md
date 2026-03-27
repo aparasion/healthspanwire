@@ -18,4 +18,4 @@ This insight is particularly relevant for professionals in the longevity and hea
 
 A key takeaway for researchers and practitioners is the importance of integrating genetic data into longevity studies. This approach could enhance our ability to identify at-risk populations and tailor preventive strategies, ultimately contributing to more effective longevity interventions.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUhGdnBDNEw4eDk2WTdXa09BNVNDMEJua3JrYUFPVUQ3Y21uMndLbGFCS0U5NEtSX0NlV2M2ZzFCUUZDYUFnQ05oUURQbm9IUkJuM0Rselk1M3dGX3MzQTVfcDRGVnE1MUlDcnVvUGR0eVRmMEJXbU5MTGNaN2VSenBGZ3FGSTU0NnRGQXhNYi16eVpfU25xY2RDVzdzd1Y1cHc?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUhGdnBDNEw4eDk2WTdXa09BNVNDMEJua3JrYUFPVUQ3Y21uMndLbGFCS0U5NEtSX0NlV2M2ZzFCUUZDYUFnQ05oUURQbm9IUkJuM0Rselk1M3dGX3MzQTVfcDRGVnE1MUlDcnVvUGR0eVRmMEJXbU5MTGNaN2VSenBGZ3FGSTU0NnRGQXhNYi16eVpfU25xY2RDVzdzd1Y1cHc?oc=5)

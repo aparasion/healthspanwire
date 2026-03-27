@@ -18,4 +18,4 @@ This innovative approach integrates recent insights into damage accumulation wit
 
 For professionals in the longevity field, this model opens avenues for exploring therapeutic strategies that might leverage mechanisms of immortality and senescence retardation. I highly recommend reading the full article to delve deeper into these compelling findings.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/a-model-of-the-evolution-of-aging-that-accounts-for-immortal-species)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/a-model-of-the-evolution-of-aging-that-accounts-for-immortal-species)

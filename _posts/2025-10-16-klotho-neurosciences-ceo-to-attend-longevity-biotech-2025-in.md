@@ -18,4 +18,4 @@ This development is particularly relevant for the longevity and healthspan resea
 
 For professionals in aging biology and healthspan research, Aaru's approach signifies a shift in how market intelligence can be harnessed. I encourage you to read the full article to explore the implications of this disruptive technology on our industry.
 
-[Source: finance.yahoo.com](https://finance.yahoo.com)
+Source: [finance.yahoo.com](https://finance.yahoo.com)

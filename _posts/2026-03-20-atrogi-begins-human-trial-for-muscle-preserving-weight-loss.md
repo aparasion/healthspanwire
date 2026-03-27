@@ -18,4 +18,4 @@ The ATR-258 study, led by Associate Professor Morten Hostrup from the University
 
 As the obesity treatment landscape evolves, Atrogi’s approach highlights the importance of muscle health in aging. This trial could pave the way for therapies that not only manage weight but also enhance overall functional capacity, making it a critical development for longevity professionals. For further insights, I recommend exploring the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/atrogi-begins-human-trial-for-muscle-preserving-weight-loss)
+Source: [longevity.technology](https://longevity.technology/news/atrogi-begins-human-trial-for-muscle-preserving-weight-loss)

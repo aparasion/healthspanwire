@@ -18,4 +18,4 @@ The potential of these therapies lies in their ability to address root causes of
 
 A key takeaway from this expert roundup is the emerging consensus that a disease-first approach, rather than a strict senescence-first hypothesis, may enhance the success of senotherapeutics. By focusing on the specific cellular states driving pathologies, researchers can develop more effective and targeted interventions, ultimately paving the way for transformative therapies in aging and healthspan enhancement.
 
-[Source: lifespan.io](https://lifespan.io/news/cellular-senescence-and-senotherapeutics-the-expert-roundup/?utm_source=rss&utm_medium=rss&utm_campaign=cellular-senescence-and-senotherapeutics-the-expert-roundup)
+Source: [lifespan.io](https://lifespan.io/news/cellular-senescence-and-senotherapeutics-the-expert-roundup/?utm_source=rss&utm_medium=rss&utm_campaign=cellular-senescence-and-senotherapeutics-the-expert-roundup)

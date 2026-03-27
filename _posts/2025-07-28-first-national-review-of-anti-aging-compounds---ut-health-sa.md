@@ -18,4 +18,4 @@ This trial aligns with a growing trend in geroscience, where the focus is shifti
 
 For professionals in the field, this trial represents a pivotal moment, underscoring the importance of clinical research in translating basic science discoveries into actionable therapies for aging-related health challenges.
 
-[Source: news.uthscsa.edu](https://news.uthscsa.edu)
+Source: [news.uthscsa.edu](https://news.uthscsa.edu)

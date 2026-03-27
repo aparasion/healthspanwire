@@ -18,4 +18,4 @@ This partnership is significant for the longevity and healthspan field as it add
 
 For professionals in the aging and longevity sectors, this initiative highlights a promising trend towards sustainable, physician-led care models that can effectively respond to increasing healthcare demands. I encourage you to explore the full details of this partnership to understand its potential impact on the future of cardiac care.
 
-[Source: longevity.technology](https://longevity.technology/news/atria-health-partnership-supports-expansion-of-cardiac-care-network)
+Source: [longevity.technology](https://longevity.technology/news/atria-health-partnership-supports-expansion-of-cardiac-care-network)

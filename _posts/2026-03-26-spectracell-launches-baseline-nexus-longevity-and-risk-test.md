@@ -18,4 +18,4 @@ The implications for the longevity and healthspan field are significant. By prov
 
 For professionals in aging biology and healthspan research, Baseline Nexus represents a valuable tool for enhancing patient care and advancing our understanding of the biological underpinnings of longevity.
 
-[Source: longevity.technology](https://longevity.technology/news/spectracell-launches-baseline-nexus-longevity-and-risk-test)
+Source: [longevity.technology](https://longevity.technology/news/spectracell-launches-baseline-nexus-longevity-and-risk-test)

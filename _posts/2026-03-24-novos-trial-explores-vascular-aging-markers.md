@@ -18,4 +18,4 @@ These findings are particularly relevant as they mark a departure from the often
 
 The key takeaway is that this research underscores the potential of multi-component interventions to influence cardiovascular aging, signaling a shift toward more scientifically grounded approaches in the supplement industry. As the field evolves, the challenge remains to validate these early findings through larger, long-term studies that can demonstrate sustained effects on healthspan and longevity.
 
-[Source: longevity.technology](https://longevity.technology/news/novos-trial-explores-vascular-aging-markers)
+Source: [longevity.technology](https://longevity.technology/news/novos-trial-explores-vascular-aging-markers)

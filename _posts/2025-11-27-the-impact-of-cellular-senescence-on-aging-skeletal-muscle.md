@@ -18,4 +18,4 @@ The documentary features insights from the Frontiers in Science journal, which u
 
 For longevity professionals, this documentary serves as a reminder of the importance of collaboration and knowledge sharing in driving scientific progress. I highly recommend exploring the full story to understand how open science can shape the future of health and longevity research.
 
-[Source: frontiersin.org](https://www.frontiersin.org)
+Source: [frontiersin.org](https://www.frontiersin.org)

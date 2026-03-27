@@ -18,4 +18,4 @@ This research highlights the gut-brain axis's critical role in cognitive health,
 
 The findings underscore the importance of gut health in cognitive function and suggest that altering gut microbiota could serve as a novel strategy for enhancing memory and brain activity. For a deeper dive into the implications of this research, I highly recommend checking out the full article in Nature.
 
-[Source: lifespan.io](https://lifespan.io/news/gut-bacteria-might-affect-cognition-via-the-vagus-nerve/?utm_source=rss&utm_medium=rss&utm_campaign=gut-bacteria-might-affect-cognition-via-the-vagus-nerve)
+Source: [lifespan.io](https://lifespan.io/news/gut-bacteria-might-affect-cognition-via-the-vagus-nerve/?utm_source=rss&utm_medium=rss&utm_campaign=gut-bacteria-might-affect-cognition-via-the-vagus-nerve)

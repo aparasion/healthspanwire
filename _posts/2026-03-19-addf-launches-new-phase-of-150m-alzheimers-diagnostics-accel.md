@@ -18,4 +18,4 @@ This phase is particularly significant as it reflects renewed commitments from k
 
 For professionals in the longevity and healthspan research fields, the implications of DxA’s advancements are profound. This initiative not only accelerates the path to effective therapies but also sets a precedent for integrating diagnostics into comprehensive treatment strategies. I encourage you to explore the full article for deeper insights into this pivotal development.
 
-[Source: longevity.technology](https://longevity.technology/news/addf-launches-new-phase-of-150-million-alzheimers-diagnostics-accelerator)
+Source: [longevity.technology](https://longevity.technology/news/addf-launches-new-phase-of-150-million-alzheimers-diagnostics-accelerator)

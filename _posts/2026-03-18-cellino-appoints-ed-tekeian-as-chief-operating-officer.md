@@ -18,4 +18,4 @@ This appointment is significant for the longevity and healthspan field, as Celli
 
 For professionals in the field, Tekeian's leadership may accelerate innovation in scalable cell production technologies, paving the way for breakthroughs in regenerative medicine. I encourage you to read the full article for more insights into Cellino's ambitious plans.
 
-[Source: longevity.technology](https://longevity.technology/news/cellino-appoints-ed-tekeian-as-chief-operating-officer)
+Source: [longevity.technology](https://longevity.technology/news/cellino-appoints-ed-tekeian-as-chief-operating-officer)

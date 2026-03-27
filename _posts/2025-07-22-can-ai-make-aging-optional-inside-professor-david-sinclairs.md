@@ -18,4 +18,4 @@ The forum also spotlighted the potential of the Indian diaspora as a catalyst fo
 
 For professionals in the longevity field, the takeaway is clear: addressing systemic healthcare challenges requires not just ideas but actionable strategies that leverage the talents and insights of diverse communities.
 
-[Source: americanbazaaronline.com](https://americanbazaaronline.com)
+Source: [americanbazaaronline.com](https://americanbazaaronline.com)

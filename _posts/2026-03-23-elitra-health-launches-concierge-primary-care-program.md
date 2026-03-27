@@ -18,4 +18,4 @@ This membership-based model offers a range of services, including 24/7 physician
 
 For longevity professionals, this model underscores the growing trend towards personalized, accessible healthcare that prioritizes patient engagement and preventive strategies, potentially reshaping how primary care is delivered in the context of aging and healthspan research.
 
-[Source: longevity.technology](https://longevity.technology/news/elitra-health-launches-concierge-primary-care-program)
+Source: [longevity.technology](https://longevity.technology/news/elitra-health-launches-concierge-primary-care-program)

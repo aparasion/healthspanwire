@@ -18,4 +18,4 @@ This development is crucial for the longevity and healthspan fields, as it under
 
 The key takeaway is that integrating advanced EEG analysis into aging research could pave the way for more precise risk assessments and targeted therapeutic approaches, ultimately enhancing cognitive health in aging populations.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/an-aging-clock-built-from-sleep-electroencephalography-data)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/an-aging-clock-built-from-sleep-electroencephalography-data)

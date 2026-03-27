@@ -18,4 +18,4 @@ The article highlights a growing trend in cosmetic formulation: the use of upcyc
 
 For professionals in longevity and healthspan research, the implications of these innovations extend beyond aesthetics; they reflect a broader shift towards sustainability and efficacy in personal care products. I encourage you to explore the full article for deeper insights into these emerging trends.
 
-[Source: personalcareinsights.com](https://www.personalcareinsights.com)
+Source: [personalcareinsights.com](https://www.personalcareinsights.com)

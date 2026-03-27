@@ -18,4 +18,4 @@ This work highlights the detrimental impact of age-related inflammation on immun
 
 For professionals in longevity research, this study underscores the potential for novel treatments that address the inflammatory environment in aging. I encourage you to read the full article for a deeper understanding of these mechanisms and their implications for healthspan interventions.
 
-[Source: lifespan.io](https://lifespan.io/news/how-inflammaging-makes-pneumonia-worse-in-mice/?utm_source=rss&utm_medium=rss&utm_campaign=how-inflammaging-makes-pneumonia-worse-in-mice)
+Source: [lifespan.io](https://lifespan.io/news/how-inflammaging-makes-pneumonia-worse-in-mice/?utm_source=rss&utm_medium=rss&utm_campaign=how-inflammaging-makes-pneumonia-worse-in-mice)

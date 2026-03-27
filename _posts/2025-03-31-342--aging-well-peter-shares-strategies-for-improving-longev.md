@@ -18,4 +18,4 @@ The app complements Attia's well-regarded podcast, The Peter Attia Drive, which 
 
 For professionals in aging biology and healthspan research, the Outlive app represents a significant step toward integrating scientific knowledge with practical application, fostering a more informed approach to longevity and health optimization.
 
-[Source: peterattiamd.com](https://peterattiamd.com)
+Source: [peterattiamd.com](https://peterattiamd.com)

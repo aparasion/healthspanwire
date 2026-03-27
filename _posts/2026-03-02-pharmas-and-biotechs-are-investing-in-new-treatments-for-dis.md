@@ -18,4 +18,4 @@ The report highlights that this surge in investment is not only driven by the ag
 
 For professionals in the longevity field, this presents an exciting opportunity to engage with cutting-edge research and therapeutic strategies. I encourage you to delve deeper into Clarivate's findings to better understand the implications for our industry and the future of aging research.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0stRkIza2UwMDEtY2pQN1hMQWdmdTUtN1JkTUdGWTM0QnZJY1pPaVVFLURsUzRmS0NoaDZ0dF9UTmswR1A3eTI3U3lUbl9JRzVzcUxVVDJvSEZjaHNyZ2NWX0NQMHJDMEhxU3VRODFhcjBtajdDcDF1WXp3Q2xwc0NBWnFfbXVjd3NWdHhfNVVRWkhmRTlZNjFDdzNQdE1TMVJV?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0stRkIza2UwMDEtY2pQN1hMQWdmdTUtN1JkTUdGWTM0QnZJY1pPaVVFLURsUzRmS0NoaDZ0dF9UTmswR1A3eTI3U3lUbl9JRzVzcUxVVDJvSEZjaHNyZ2NWX0NQMHJDMEhxU3VRODFhcjBtajdDcDF1WXp3Q2xwc0NBWnFfbXVjd3NWdHhfNVVRWkhmRTlZNjFDdzNQdE1TMVJV?oc=5)

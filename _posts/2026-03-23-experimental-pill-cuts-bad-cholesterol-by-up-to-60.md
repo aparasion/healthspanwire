@@ -18,4 +18,4 @@ The significance of enlicitide lies in its ability to address one of the most pe
 
 The key takeaway for longevity professionals is that enlicitide's convenience could lead to broader adoption and adherence in managing cholesterol levels, ultimately contributing to longer, healthier lives. While further research is needed to establish its impact on hard outcomes like heart attacks and strokes, this development represents a significant step toward improving healthspan through accessible and effective cardiovascular care.
 
-[Source: longevity.technology](https://longevity.technology/news/experimental-pill-cuts-bad-cholesterol-by-up-to-60)
+Source: [longevity.technology](https://longevity.technology/news/experimental-pill-cuts-bad-cholesterol-by-up-to-60)

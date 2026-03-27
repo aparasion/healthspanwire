@@ -18,4 +18,4 @@ This finding has profound implications for the longevity and healthspan research
 
 As we continue to unravel the complexities of longevity, this study underscores the importance of considering both genetic and environmental factors. For a deeper dive into the research and its implications, I recommend exploring the full article.
 
-[Source: superagingnews.com](https://superagingnews.com/new-study-reveals-more-insight-about-genes-environment-and-longevity)
+Source: [superagingnews.com](https://superagingnews.com/new-study-reveals-more-insight-about-genes-environment-and-longevity)

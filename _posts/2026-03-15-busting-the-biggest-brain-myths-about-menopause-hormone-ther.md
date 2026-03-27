@@ -18,4 +18,4 @@ This shift in perspective is crucial for the longevity and healthspan fields, as
 
 For professionals in aging biology and healthspan research, the evolving narrative around MHT underscores the importance of tailored treatment strategies. Understanding the nuances of MHT can enhance patient care and potentially improve long-term cognitive health. I encourage you to delve into the full article for a comprehensive overview of these critical developments.
 
-[Source: superagingnews.com](https://superagingnews.com/busting-the-biggest-brain-myths-about-menopause-hormone-therapy-and-cognitive-health)
+Source: [superagingnews.com](https://superagingnews.com/busting-the-biggest-brain-myths-about-menopause-hormone-therapy-and-cognitive-health)

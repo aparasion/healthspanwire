@@ -18,4 +18,4 @@ This research underscores the importance of the innate immune system in neurodeg
 
 The implications of this work are substantial for the longevity field, as it opens the door to developing interventions that could modify immune responses to improve healthspan. For a deeper dive into the study's methodology and findings, I encourage you to explore the full article.
 
-[Source: fightaging.org](https://www.fightaging.org/archives/2026/03/fight-aging-newsletter-march-16th-2026)
+Source: [fightaging.org](https://www.fightaging.org/archives/2026/03/fight-aging-newsletter-march-16th-2026)

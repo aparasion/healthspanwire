@@ -18,4 +18,4 @@ This initiative is significant as it addresses the persistent challenges in the 
 
 The key takeaway is that by integrating AI into the drug discovery process, Biophytis and LynxKite are setting a precedent for a more disciplined approach to longevity research. If successful, this model could transform how the industry develops therapies that address the practical challenges of aging, ultimately enhancing healthspan and quality of life for older adults.
 
-[Source: longevity.technology](https://longevity.technology/news/biophytis-lynxkite-ai-alliance-broadens-longevity-drug-pipeline)
+Source: [longevity.technology](https://longevity.technology/news/biophytis-lynxkite-ai-alliance-broadens-longevity-drug-pipeline)

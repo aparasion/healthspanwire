@@ -18,4 +18,4 @@ The implications for the longevity and healthspan fields are significant. By shi
 
 As the study underscores the feasibility of passive monitoring, it invites further exploration into the role of wearables in cognitive health management. For a deeper dive into these promising findings, I highly recommend checking out the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/wearables-may-spot-brain-changes-earlier)
+Source: [longevity.technology](https://longevity.technology/news/wearables-may-spot-brain-changes-earlier)

@@ -18,4 +18,4 @@ The significance of this development lies in its clinical implications; the data
 
 As Cognito advances Spectris through the ongoing HOPE Phase 3 trial, the findings could pave the way for regulatory approvals and broader application in Alzheimer’s care. For a deeper dive into the results and their implications, I recommend checking out the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/cognito-therapeutics-presents-spectris-data-in-alzheimers-disease)
+Source: [longevity.technology](https://longevity.technology/news/cognito-therapeutics-presents-spectris-data-in-alzheimers-disease)

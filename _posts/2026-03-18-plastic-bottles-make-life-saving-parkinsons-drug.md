@@ -18,4 +18,4 @@ This research not only addresses the pressing issue of plastic pollution but als
 
 The takeaway for longevity professionals is clear: by reimagining waste as a resource, we can create a circular healthcare system that benefits both human health and the planet. I encourage you to explore the full story for deeper insights into this transformative research.
 
-[Source: longevity.technology](https://longevity.technology/news/plastic-bottles-make-life-saving-parkinsons-drug)
+Source: [longevity.technology](https://longevity.technology/news/plastic-bottles-make-life-saving-parkinsons-drug)

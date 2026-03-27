@@ -18,4 +18,4 @@ This advancement is significant for the longevity and healthspan field as it pav
 
 For professionals in the field, this represents a pivotal shift towards data-driven, individualized treatment strategies in dermatology. I highly recommend exploring the full article to delve deeper into Parallel Health's promising approach and its implications for skin aging research.
 
-[Source: longevity.technology](https://longevity.technology/news/parallel-health-unveils-skin-microbiome-mapping-technology)
+Source: [longevity.technology](https://longevity.technology/news/parallel-health-unveils-skin-microbiome-mapping-technology)

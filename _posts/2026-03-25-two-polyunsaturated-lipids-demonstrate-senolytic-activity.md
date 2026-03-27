@@ -18,4 +18,4 @@ The significance of this finding lies in the potential for these fatty acids to 
 
 The key takeaway from this research is the identification of ferroptosis as a distinct and targetable pathway for senolytic therapy, suggesting that leveraging specific bioactive lipids could lead to innovative strategies in combating aging and age-related diseases. This opens new avenues for therapeutic exploration in the longevity field.
 
-[Source: lifespan.io](https://lifespan.io/news/two-polyunsaturated-lipids-demonstrate-senolytic-activity/?utm_source=rss&utm_medium=rss&utm_campaign=two-polyunsaturated-lipids-demonstrate-senolytic-activity)
+Source: [lifespan.io](https://lifespan.io/news/two-polyunsaturated-lipids-demonstrate-senolytic-activity/?utm_source=rss&utm_medium=rss&utm_campaign=two-polyunsaturated-lipids-demonstrate-senolytic-activity)

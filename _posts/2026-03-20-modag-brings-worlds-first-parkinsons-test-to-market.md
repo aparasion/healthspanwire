@@ -18,4 +18,4 @@ This advancement is significant for the longevity and healthspan fields, as earl
 
 As the field transitions towards biomarker-driven diagnostics, PD DETECT represents a crucial step toward preventing age-related decline. For a deeper dive into this groundbreaking development, I highly recommend exploring the full article.
 
-[Source: longevity.technology](https://longevity.technology/news/modag-brings-worlds-first-parkinsons-test-to-market)
+Source: [longevity.technology](https://longevity.technology/news/modag-brings-worlds-first-parkinsons-test-to-market)

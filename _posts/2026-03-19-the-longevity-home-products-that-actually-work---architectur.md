@@ -18,4 +18,4 @@ This trend is particularly relevant for longevity and healthspan researchers, as
 
 For professionals in the field, the takeaway is clear: the design of living spaces plays a crucial role in healthspan. I encourage you to delve into the full article to discover how these innovative approaches are shaping the future of home environments and their impact on longevity.
 
-[Source: architecturaldigest.com](https://www.architecturaldigest.com)
+Source: [architecturaldigest.com](https://www.architecturaldigest.com)

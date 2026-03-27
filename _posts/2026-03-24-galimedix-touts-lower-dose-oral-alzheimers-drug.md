@@ -18,4 +18,4 @@ This development is crucial in the context of Alzheimer’s treatment, where the
 
 For longevity professionals, Galimedix's approach highlights the importance of developing treatments that not only target disease mechanisms but also fit seamlessly into patients' lives. As the longevity field continues to address the complexities of aging, innovations like this could pave the way for more sustainable and accessible therapies for chronic conditions like Alzheimer’s.
 
-[Source: longevity.technology](https://longevity.technology/news/galimedix-touts-lower-dose-oral-alzheimers-drug)
+Source: [longevity.technology](https://longevity.technology/news/galimedix-touts-lower-dose-oral-alzheimers-drug)

@@ -18,4 +18,4 @@ This study contributes to the growing evidence that exercise is a vital modifiab
 
 The implications of this research extend beyond individual fitness regimens, suggesting that resistance training should be integrated into healthspan strategies for older adults. For a deeper dive into the study and its findings, I encourage you to read the full article.
 
-[Source: lifespan.io](https://lifespan.io/news/resistance-exercise-training-slows-down-brain-aging/?utm_source=rss&utm_medium=rss&utm_campaign=resistance-exercise-training-slows-down-brain-aging)
+Source: [lifespan.io](https://lifespan.io/news/resistance-exercise-training-slows-down-brain-aging/?utm_source=rss&utm_medium=rss&utm_campaign=resistance-exercise-training-slows-down-brain-aging)
