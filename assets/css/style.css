@@ -26,7 +26,7 @@
   --featured-bg:    linear-gradient(135deg, #eef4ff 0%, #e8f7f2 100%);
   --featured-text:  #0b2552;
   --featured-muted: #4a6280;
-  --logo-wordmark:  #0b2552;
+  --logo-wordmark:  #374152;
 
   /* Spacing */
   --space-1: 0.25rem;
@@ -188,7 +188,7 @@ hr {
 }
 
 .logo-image {
-  width: 36px;
+  width: 45px;
   height: auto;
   display: block;
 }
