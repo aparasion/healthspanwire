@@ -2,6 +2,7 @@
 layout: page
 title: Signal Tracker
 permalink: /signals/
+description: "Track high-impact longevity science claims — from senolytic therapies to epigenetic clocks — with evidence-based status updates from peer-reviewed research."
 share: true
 nav: true
 nav_order: 2

@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Home
+title: "Longevity Science News & Healthspan Research"
+description: "Daily coverage of longevity science breakthroughs, healthspan research, aging biology, and the therapeutics, biomarkers, and technologies extending human lifespan."
 nav: true
+nav_title: "Home"
 nav_order: 1
 ---
 

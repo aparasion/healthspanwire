@@ -2,6 +2,7 @@
 layout: page
 title: Newsletter
 permalink: /newsletter/
+description: "Subscribe to the HealthspanWire newsletter — weekly longevity science digests, monthly research reports, and signal status alerts delivered to your inbox."
 nav: false
 ---
 

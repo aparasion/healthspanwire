@@ -2,6 +2,7 @@
 layout: page
 title: Monthly Reports
 permalink: /monthly-reports/
+description: "Monthly intelligence reports synthesizing the most significant developments in longevity science, healthspan research, aging therapeutics, and biomarker advances."
 nav: true
 nav_order: 3
 ---
