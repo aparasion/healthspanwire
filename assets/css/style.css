@@ -2871,3 +2871,130 @@ a.internal-link:hover {
     width: auto;
   }
 }
+
+/* ============================================================
+   Watched Signals Page
+   ============================================================ */
+
+/* ── Hero Section ──────────────────────────────────────── */
+.watched-hero {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto var(--space-8);
+}
+
+.watched-hero__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+  margin-bottom: var(--space-4);
+}
+
+.watched-hero__icon svg {
+  width: 24px;
+  height: 24px;
+}
+
+.watched-hero__title {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--text);
+  margin: 0 0 var(--space-3);
+}
+
+.watched-hero__desc {
+  font-size: 0.88rem;
+  color: var(--muted);
+  line-height: 1.7;
+  margin: 0 0 var(--space-3);
+}
+
+.watched-hero__note {
+  font-size: 0.78rem;
+  color: var(--muted);
+  opacity: 0.75;
+  margin: 0;
+}
+
+/* ── Watched Signals Grid ──────────────────────────────── */
+.watched-signals-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-5);
+}
+
+.watched-signal-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  box-shadow: var(--card-shadow);
+  transition: border-color 0.2s ease, box-shadow 0.15s ease;
+}
+
+.watched-signal-card:hover {
+  border-color: color-mix(in srgb, var(--accent) 25%, transparent);
+  box-shadow: var(--card-shadow-hover);
+}
+
+.watched-signal-card__stats {
+  flex: 1;
+}
+
+.watched-signal-card__evidence {
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.watched-signal-card__actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--border);
+  margin-top: auto;
+}
+
+.watched-signal-card__view {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+
+.watched-signal-card__view:hover {
+  opacity: 0.8;
+}
+
+.watched-signal-card__remove {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  padding: 4px 12px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.watched-signal-card__remove:hover {
+  color: #d14;
+  border-color: #d14;
+  background: rgba(209, 17, 68, 0.06);
+}
+
+@media (max-width: 640px) {
+  .watched-signals-grid {
+    grid-template-columns: 1fr;
+  }
+}
