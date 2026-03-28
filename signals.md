@@ -62,6 +62,14 @@ nav_order: 2
           {{ evidence_posts.size }} post{% if evidence_posts.size != 1 %}s{% endif %} &rarr;
         </span>
       </div>
+      <button class="watch-btn" id="watch-btn-{{ signal.id }}"
+              data-signal-id="{{ signal.id }}"
+              onclick="event.stopPropagation(); handleWatchToggle('{{ signal.id }}')"
+              aria-label="Watch signal: {{ signal.title | escape }}">
+        <svg class="watch-btn__icon watch-btn__icon--off" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+        <svg class="watch-btn__icon watch-btn__icon--on" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+        <span class="watch-btn__label">Watch</span>
+      </button>
     </div>
   {% endfor %}
 </div>
@@ -80,11 +88,22 @@ nav_order: 2
     <p class="signal-modal__desc" id="signal-modal-desc"></p>
     <div class="signal-modal__posts-label">Evidence posts</div>
     <div class="signal-modal__posts" id="signal-modal-posts"></div>
-    <div class="signal-modal__share" id="signal-modal-share"></div>
+    <div class="signal-modal__actions">
+      <button class="watch-btn watch-btn--modal" id="watch-btn-modal"
+              onclick="handleWatchToggle(currentModalSignalId)"
+              aria-label="Watch this signal">
+        <svg class="watch-btn__icon watch-btn__icon--off" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+        <svg class="watch-btn__icon watch-btn__icon--on" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+        <span class="watch-btn__label">Watch this signal</span>
+      </button>
+      <div class="signal-modal__share" id="signal-modal-share"></div>
+    </div>
   </div>
 </div>
 
 <script>
+var currentModalSignalId = null;
+
 const SIGNAL_POSTS = {
   {% for signal in site.data.signals %}
     {% assign evidence_posts = site.posts | where_exp: "post", "post.signal_ids contains signal.id" %}
@@ -101,7 +120,42 @@ const SIGNAL_POSTS = {
   {% endfor %}
 };
 
+// ── Watch Button Logic ────────────────────────────────────
+function refreshAllWatchButtons() {
+  document.querySelectorAll('.watch-btn[data-signal-id]').forEach(function (btn) {
+    var id = btn.getAttribute('data-signal-id');
+    var isWatched = window.isSignalWatched && window.isSignalWatched(id);
+    btn.classList.toggle('is-watched', isWatched);
+    var label = btn.querySelector('.watch-btn__label');
+    if (label) label.textContent = isWatched ? 'Watching' : 'Watch';
+    btn.setAttribute('aria-label', isWatched ? 'Stop watching signal' : 'Watch signal');
+  });
+}
+
+function refreshModalWatchButton() {
+  var modalBtn = document.getElementById('watch-btn-modal');
+  if (!modalBtn || !currentModalSignalId) return;
+  var isWatched = window.isSignalWatched && window.isSignalWatched(currentModalSignalId);
+  modalBtn.classList.toggle('is-watched', isWatched);
+  var label = modalBtn.querySelector('.watch-btn__label');
+  if (label) label.textContent = isWatched ? 'Watching this signal' : 'Watch this signal';
+  modalBtn.setAttribute('aria-label', isWatched ? 'Stop watching this signal' : 'Watch this signal');
+}
+
+function handleWatchToggle(signalId) {
+  if (!signalId || !window.toggleWatchSignal) return;
+  window.toggleWatchSignal(signalId);
+  refreshAllWatchButtons();
+  refreshModalWatchButton();
+}
+
+// Initialize watch button states on load
+document.addEventListener('DOMContentLoaded', function () {
+  refreshAllWatchButtons();
+});
+
 function openSignalModal(signalId) {
+  currentModalSignalId = signalId;
   var block = document.getElementById(signalId);
   var overlay = document.getElementById('signal-modal-overlay');
 
@@ -140,9 +194,11 @@ function openSignalModal(signalId) {
 
   overlay.hidden = false;
   document.body.classList.add('modal-open');
+  refreshModalWatchButton();
 }
 
 function closeSignalModal() {
+  currentModalSignalId = null;
   document.getElementById('signal-modal-overlay').hidden = true;
   document.body.classList.remove('modal-open');
 }
