@@ -467,7 +467,7 @@ def main() -> None:
                 continue
 
             prompt = (
-                "Write a gist for this article (120–160 words).\n"
+                "Write a gist for this article (250–350 words).\n"
                 "Frame it for a longevity science and healthspan research professional audience.\n\n"
                 f"Article text:\n{text[:15000]}"
             )
@@ -480,7 +480,7 @@ def main() -> None:
                             "role": "system",
                             "content": """You are a skilled editorial writer for a longevity science and healthspan research news platform. Your readers are professionals working in aging biology, longevity therapeutics, biotech, and healthspan research.
 
-Write a clear, engaging gist in 3-4 short paragraphs (250-450 words total).
+	Write a clear, engaging gist in 3-4 short paragraphs (250-350 words total).
 
 Opening paragraph: Lead with the most significant development in a strong, direct sentence. Establish what happened and who is involved immediately.
 
@@ -499,7 +499,7 @@ If the provided text is mostly cookie/privacy/legal notices rather than article 
                         },
                         {"role": "user", "content": prompt},
                     ],
-                    max_tokens=300,
+                    max_tokens=520,
                     temperature=0.4,
                 )
                 gist = response.choices[0].message.content.strip()
