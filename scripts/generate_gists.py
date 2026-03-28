@@ -42,11 +42,11 @@ FEEDS = [
     "https://www.science.org/action/showFeed?ui=0&mi=soqzva&type=search&feed=rss&query=%2526AllField%253Dlongevity%2526sortBy%253DEarliest%2526target%253Ddefault",
     "https://www.science.org/action/showFeed?ui=0&mi=soqzva&type=search&feed=rss&query=%2526AllField%253Ddiet%25252Bhealth%2526target%253Ddefault",
     "https://www.sciencedaily.com/rss/health_medicine.xml",
-    "https://news.google.com/rss/search?q=plasmapheresis&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=plasmapheresis OR immunoadsorption OR hemoperfusion OR "LDL apheresis"&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=senolytics OR "cellular senescence therapy" OR "plasma dilution" OR "young plasma"&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q="stem cell therapy" OR MSC therapy OR CAR-T OR "immune reprogramming"&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q="fecal microbiota transplant" OR microbiome therapy OR "hyperbaric oxygen therapy"&hl=en-US&gl=US&ceid=US:en",
+    'https://news.google.com/rss/search?q=plasmapheresis&hl=en-US&gl=US&ceid=US:en',
+    'https://news.google.com/rss/search?q=plasmapheresis OR immunoadsorption OR hemoperfusion OR "LDL apheresis"&hl=en-US&gl=US&ceid=US:en',
+    'https://news.google.com/rss/search?q=senolytics OR "cellular senescence therapy" OR "plasma dilution" OR "young plasma"&hl=en-US&gl=US&ceid=US:en',
+    'https://news.google.com/rss/search?q="stem cell therapy" OR MSC therapy OR CAR-T OR "immune reprogramming"&hl=en-US&gl=US&ceid=US:en',
+    'https://news.google.com/rss/search?q="fecal microbiota transplant" OR microbiome therapy OR "hyperbaric oxygen therapy"&hl=en-US&gl=US&ceid=US:en',
     
 ]
 
