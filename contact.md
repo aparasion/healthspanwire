@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+description: "Get in touch with HealthspanWire — share longevity research tips, corrections, or collaboration ideas on healthspan science coverage."
 nav: true
 nav_order: 5
 ---

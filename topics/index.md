@@ -43,6 +43,30 @@ description: "Browse all longevity and healthspan articles by topic — therapeu
 {% assign policy_signals = "longevity-regulatory-frameworks,longevity-funding-surge" | split: "," %}
 {% assign policy_keywords = "fda aging,regulatory,funding,venture capital,investment,government grant,clinical pathway,policy,nih,aging research funding" | split: "," %}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Longevity & Healthspan Articles by Topic",
+  "description": {{ page.description | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": {{ site.posts.size }},
+    "itemListElement": [
+      {% for post in site.posts limit: 30 %}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "url": {{ post.url | absolute_url | jsonify }},
+        "name": {{ post.title | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+}
+</script>
+
 <section class="articles-section">
   <div class="post-grid" id="topics-post-grid">
     {% for post in site.posts %}

@@ -8,3 +8,25 @@
   definition: A biomarker based on DNA methylation patterns that estimates biological age, often more predictive of health outcomes than chronological age.
 - term: Healthspan
   definition: The period of life spent in good health, free from chronic diseases and disability associated with aging.
+- term: Rapamycin
+  definition: An immunosuppressant drug that inhibits the mTOR pathway. Research shows rapamycin may extend lifespan and improve age-related health outcomes in multiple species.
+- term: Biological age
+  definition: A measure of how well or poorly your body is functioning relative to your chronological age, assessed through biomarkers such as DNA methylation, telomere length, and blood panels.
+- term: Caloric restriction
+  definition: A dietary regimen that reduces calorie intake without malnutrition. Caloric restriction is one of the most studied interventions shown to extend lifespan across species.
+- term: Telomere
+  definition: Protective caps at the ends of chromosomes that shorten with each cell division. Telomere length is associated with aging and age-related diseases.
+- term: Senescence
+  definition: A state in which cells permanently stop dividing but resist death, accumulating with age and secreting inflammatory factors that damage surrounding tissue.
+- term: GrimAge
+  definition: A second-generation epigenetic clock that predicts time to death and is considered one of the most accurate measures of biological aging.
+- term: Inflammaging
+  definition: Chronic, low-grade inflammation that increases with age and contributes to the development of age-related diseases including cardiovascular disease, diabetes, and neurodegeneration.
+- term: Proteomics
+  definition: The large-scale study of proteins in biological systems. In longevity research, proteomics identifies blood protein signatures that predict biological age and disease risk.
+- term: Yamanaka factors
+  definition: A set of four transcription factors (Oct4, Sox2, Klf4, c-Myc) that can reprogram adult cells to a pluripotent state. Partial reprogramming with Yamanaka factors is being explored to reverse cellular aging.
+- term: NMN
+  definition: Nicotinamide mononucleotide, a precursor to NAD+ that is widely studied as a supplement to boost cellular energy and combat age-related decline.
+- term: CRISPR
+  definition: A gene-editing technology that allows precise modifications to DNA. In longevity research, CRISPR is used to study and potentially modify genes associated with aging.
