@@ -2646,3 +2646,228 @@ a.internal-link:hover {
     max-height: 60vh;
   }
 }
+
+/* ============================================================
+   Signal Watchlist — Watch Buttons & Change Popup
+   ============================================================ */
+
+/* ── Watch Button (on signal blocks) ───────────────────── */
+.watch-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  padding: 4px 12px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  margin-top: var(--space-2);
+  align-self: flex-start;
+}
+
+.watch-btn__icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
+.watch-btn__icon--on {
+  display: none;
+}
+
+.watch-btn:hover {
+  color: var(--accent);
+  border-color: color-mix(in srgb, var(--accent) 40%, transparent);
+  background: var(--accent-soft);
+}
+
+.watch-btn.is-watched {
+  color: var(--accent);
+  border-color: color-mix(in srgb, var(--accent) 35%, transparent);
+  background: var(--accent-soft);
+}
+
+.watch-btn.is-watched .watch-btn__icon--off {
+  display: none;
+}
+
+.watch-btn.is-watched .watch-btn__icon--on {
+  display: inline-block;
+}
+
+/* ── Watch Button in Modal ─────────────────────────────── */
+.watch-btn--modal {
+  font-size: 0.8rem;
+  padding: 6px 16px;
+  margin-top: 0;
+}
+
+.signal-modal__actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  margin-top: var(--space-4);
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+/* ── Nav Watched Badge ─────────────────────────────────── */
+.nav-watched-count {
+  display: none;
+  font-size: 0.62rem;
+  font-weight: 700;
+  color: #fff;
+  background: var(--accent);
+  border-radius: 100px;
+  padding: 1px 6px;
+  margin-left: 4px;
+  min-width: 16px;
+  text-align: center;
+  line-height: 1.4;
+  vertical-align: 1px;
+}
+
+/* ── Watchlist Change Popup ────────────────────────────── */
+.watchlist-popup {
+  position: fixed;
+  bottom: var(--space-5);
+  right: var(--space-5);
+  z-index: 1100;
+  max-width: 400px;
+  width: calc(100% - var(--space-8));
+  animation: watchlist-slide-in 0.35s ease;
+}
+
+.watchlist-popup[hidden] {
+  display: none;
+}
+
+@keyframes watchlist-slide-in {
+  from { opacity: 0; transform: translateY(20px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.watchlist-popup__inner {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 16px 48px rgba(6, 22, 54, 0.18), 0 4px 16px rgba(6, 22, 54, 0.08);
+  overflow: hidden;
+}
+
+[data-theme="dark"] .watchlist-popup__inner {
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.5), 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.watchlist-popup__header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-4) var(--space-4) var(--space-3);
+  border-bottom: 1px solid var(--border);
+}
+
+.watchlist-popup__icon {
+  width: 18px;
+  height: 18px;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.watchlist-popup__title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text);
+  flex: 1;
+}
+
+.watchlist-popup__close {
+  background: none;
+  border: none;
+  font-size: 1.3rem;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 0 4px;
+  line-height: 1;
+  transition: color 0.15s;
+}
+
+.watchlist-popup__close:hover {
+  color: var(--text);
+}
+
+.watchlist-popup__list {
+  list-style: none;
+  margin: 0;
+  padding: var(--space-3) var(--space-4);
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.watchlist-popup__item {
+  padding: var(--space-2) 0;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.watchlist-popup__item + .watchlist-popup__item {
+  border-top: 1px solid var(--border);
+}
+
+.watchlist-popup__signal-link {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  text-decoration: none;
+  color: var(--text);
+  transition: color 0.15s;
+}
+
+.watchlist-popup__signal-link:hover {
+  color: var(--accent);
+}
+
+.watchlist-popup__signal-name {
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.watchlist-popup__diff {
+  font-size: 0.74rem;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
+.watchlist-popup__cta {
+  display: block;
+  text-align: center;
+  padding: var(--space-3) var(--space-4);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  border-top: 1px solid var(--border);
+  transition: background 0.15s;
+}
+
+.watchlist-popup__cta:hover {
+  background: var(--accent-soft);
+}
+
+@media (max-width: 640px) {
+  .watchlist-popup {
+    bottom: var(--space-3);
+    right: var(--space-3);
+    left: var(--space-3);
+    max-width: none;
+    width: auto;
+  }
+}
