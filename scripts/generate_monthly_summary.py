@@ -13,7 +13,7 @@ BASE_CATEGORY = "longevity"
 
 SYSTEM_PROMPT = """You are a senior editor writing the monthly intelligence report for a longevity science and healthspan research publication. Your readers are decision-makers, researchers, clinicians, and engaged professionals in aging biology, longevity therapeutics, nutrition science, biotech, and healthspan.
 
-This report is a **full editorial article of 2,000–2,500 words**. It synthesizes the month's developments into a coherent, deeply informed narrative — not a list of events, but a layered interpretation of what moved the field forward, what created uncertainty, and what readers should genuinely understand and track.
+This report is a **full editorial article of approximately 1,500 words**. It synthesizes the month's developments into a coherent, deeply informed narrative — not a list of events, but a layered interpretation of what moved the field forward, what created uncertainty, and what readers should genuinely understand and track.
 
 ---
 
@@ -27,27 +27,27 @@ A strong, opinionated opening that captures the defining theme or central tensio
 ---
 
 **## Scientific Frontiers**
-Cover the month's most significant findings in aging biology, molecular mechanisms, clinical trials, longevity biomarkers, and cellular/genetic research. For each major finding or study, hyperlink the relevant title or claim to its source URL using Markdown inline links: [linked text](url). Use `###` subheadings where distinct subtopics warrant it. Aim for 400–500 words.
+Cover the month's most significant findings in aging biology, molecular mechanisms, clinical trials, longevity biomarkers, and cellular/genetic research. For each major finding or study, hyperlink the relevant title or claim to its source URL using Markdown inline links: [linked text](url). Use `###` subheadings where distinct subtopics warrant it. Aim for 250–300 words.
 
 ---
 
 **## Nutrition & Lifestyle Science**
-Dedicated section for dietary interventions, nutritional compounds, fasting protocols, exercise science, sleep, and lifestyle factors with evidence in healthspan or longevity. Treat this as seriously as the molecular science — name specific nutrients, doses, protocols, and populations studied. Link claims to sources inline. Aim for 350–450 words.
+Dedicated section for dietary interventions, nutritional compounds, fasting protocols, exercise science, sleep, and lifestyle factors with evidence in healthspan or longevity. Treat this as seriously as the molecular science — name specific nutrients, doses, protocols, and populations studied. Link claims to sources inline. Aim for 200–250 words.
 
 ---
 
 **## Novel Therapies & Breakthrough Findings**
-Highlight first-in-class treatments, significant phase trial readouts, senolytics, gene therapies, epigenetic reprogramming, NAD+ pathways, or any finding that represents a genuine leap rather than an incremental step. Use a blockquote (`>`) to call out the single most important breakthrough of the month. Aim for 300–400 words.
+Highlight first-in-class treatments, significant phase trial readouts, senolytics, gene therapies, epigenetic reprogramming, NAD+ pathways, or any finding that represents a genuine leap rather than an incremental step. Use a blockquote (`>`) to call out the single most important breakthrough of the month. Aim for 150–200 words.
 
 ---
 
 **## Major Implications**
-Step back and interpret: what do this month's collective findings mean for the field? Address implications for clinical practice, research direction, regulatory thinking, or public health. This is your analytical layer — synthesize across sections, not just within them. Aim for 250–350 words.
+Step back and interpret: what do this month's collective findings mean for the field? Address implications for clinical practice, research direction, regulatory thinking, or public health. This is your analytical layer — synthesize across sections, not just within them. Aim for 150–200 words.
 
 ---
 
 **## Market & Investment Signals**
-What does this month's activity reveal about where capital, clinical development, and research priority are moving in longevity science? Name companies, deals, or strategic pivots where present in the sources. Aim for 200–300 words.
+What does this month's activity reveal about where capital, clinical development, and research priority are moving in longevity science? Name companies, deals, or strategic pivots where present in the sources. Aim for 100–150 words.
 
 ---
 
@@ -310,7 +310,7 @@ def generate_monthly_summary(period: str, force: bool = False) -> Path | None:
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt},
         ],
-        max_tokens=3500,
+        max_tokens=1800,
         temperature=0.4,
     )
     monthly_content = response.choices[0].message.content.strip()
