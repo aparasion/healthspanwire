@@ -18,7 +18,7 @@ permalink: /ai-index.json
     {"name": "home", "url": {{ '/' | absolute_url | jsonify }}},
     {"name": "signals", "url": {{ '/signals/' | absolute_url | jsonify }}},
     {"name": "monthly_reports", "url": {{ '/monthly-reports/' | absolute_url | jsonify }}},
-    {"name": "topics", "url": {{ '/topics/' | absolute_url | jsonify }}},
+    {"name": "articles", "url": {{ '/articles/' | absolute_url | jsonify }}},
     {"name": "newsletter", "url": {{ '/newsletter/' | absolute_url | jsonify }}}
   ],
   "posts": [

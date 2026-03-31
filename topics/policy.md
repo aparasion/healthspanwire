@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policy
-permalink: /topics/policy/
+permalink: /articles/policy/
 description: "Longevity policy and funding — FDA aging pathways, regulatory frameworks, venture capital trends, and government investment shaping the longevity industry."
 share: true
 topic: true
