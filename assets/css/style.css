@@ -2998,3 +2998,322 @@ a.internal-link:hover {
     grid-template-columns: 1fr;
   }
 }
+
+/* ============================================================
+   All Articles — Filter Panel & Condensed List
+   ============================================================ */
+
+/* ── Filter Panel ──────────────────────────────────────── */
+.filter-panel {
+  margin: var(--space-4) 0 var(--space-6);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.filter-toggle {
+  display: none;  /* visible on mobile only */
+  width: 100%;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 20px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text);
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+}
+
+.filter-toggle-chevron {
+  margin-left: auto;
+  transition: transform 0.2s ease;
+}
+
+.filter-toggle[aria-expanded="true"] .filter-toggle-chevron {
+  transform: rotate(180deg);
+}
+
+.filter-toggle-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 6px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: #fff;
+  background: var(--accent);
+  border-radius: 100px;
+}
+
+.filter-body {
+  padding: 20px 24px 16px;
+}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 16px;
+  align-items: flex-end;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+  min-width: 140px;
+}
+
+.filter-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.filter-select,
+.filter-input {
+  padding: 8px 12px;
+  font-size: 0.85rem;
+  font-family: inherit;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  transition: border-color 0.15s ease;
+  width: 100%;
+  appearance: auto;
+}
+
+.filter-select:focus,
+.filter-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.filter-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+.filter-reset {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--muted);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px 0;
+  transition: color 0.15s ease;
+}
+
+.filter-reset:hover {
+  color: var(--accent);
+}
+
+.filter-result-count {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+/* ── Condensed Article List ────────────────────────────── */
+.article-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.article-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.15s ease;
+}
+
+.article-row:first-child {
+  border-top: 1px solid var(--border);
+}
+
+.article-row:hover {
+  background: var(--accent-soft);
+  margin: 0 -12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: var(--radius-sm);
+}
+
+.article-row-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.article-row-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 4px;
+  flex-wrap: wrap;
+}
+
+.article-row-meta time {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.article-source-pill {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: var(--muted);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  padding: 2px 10px;
+  white-space: nowrap;
+  max-width: 160px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.article-row-title {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+}
+
+.article-row-title a {
+  color: var(--text);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.article-row-title a:hover {
+  color: var(--accent);
+}
+
+.article-row-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  padding-top: 2px;
+}
+
+/* ── Impact Pills ──────────────────────────────────────── */
+.impact-pill {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 3px 10px;
+  border-radius: 100px;
+  white-space: nowrap;
+}
+
+.impact-landmark {
+  color: #fff;
+  background: linear-gradient(135deg, #2abfa6, #1c9c86);
+}
+
+.impact-significant {
+  color: #fff;
+  background: linear-gradient(135deg, #4ca8f0, #1c5ccc);
+}
+
+.impact-noteworthy {
+  color: var(--text);
+  background: rgba(76, 168, 240, 0.15);
+  border: 1px solid rgba(76, 168, 240, 0.25);
+}
+
+.impact-general {
+  color: var(--muted);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+}
+
+/* ── Topic Badge (small) ──────────────────────────────── */
+.topic-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--muted);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+
+/* ── No Results ────────────────────────────────────────── */
+.article-list-empty {
+  text-align: center;
+  padding: var(--space-10) var(--space-4);
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* ── Responsive: Mobile filter panel ──────────────────── */
+@media (max-width: 768px) {
+  .filter-toggle {
+    display: flex;
+  }
+
+  .filter-body {
+    display: none;
+    padding: 12px 16px 16px;
+    border-top: 1px solid var(--border);
+  }
+
+  .filter-body.is-open {
+    display: block;
+    animation: fadeInDown 0.2s ease;
+  }
+
+  .filter-row {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .filter-group {
+    min-width: 100%;
+  }
+
+  .article-row {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .article-row-badges {
+    padding-top: 0;
+  }
+
+  .article-row-title {
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 769px) {
+  .filter-body {
+    display: block !important; /* always visible on desktop */
+  }
+}
