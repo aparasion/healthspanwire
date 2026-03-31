@@ -149,8 +149,15 @@ function handleWatchToggle(signalId) {
   refreshModalWatchButton();
 }
 
-// Initialize watch button states on load
+// Initialize: randomize signal order + watch button states on load
 document.addEventListener('DOMContentLoaded', function () {
+  var grid = document.querySelector('.signal-grid');
+  var blocks = Array.prototype.slice.call(grid.children);
+  for (var i = blocks.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    grid.appendChild(blocks[j]);
+    blocks[j] = blocks[i];
+  }
   refreshAllWatchButtons();
 });
 
