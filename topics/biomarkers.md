@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biomarkers
-permalink: /topics/biomarkers/
+permalink: /articles/biomarkers/
 description: "Aging biomarker research — epigenetic clocks, biological age testing, blood biomarker panels, proteomics, and the science of measuring human aging."
 share: true
 topic: true

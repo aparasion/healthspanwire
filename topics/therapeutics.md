@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Therapeutics
-permalink: /topics/therapeutics/
+permalink: /articles/therapeutics/
 description: "Longevity therapeutics news — senolytics, rapamycin, NAD+ precursors, and anti-aging drug candidates in clinical trials for healthspan extension."
 share: true
 topic: true

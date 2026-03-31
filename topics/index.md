@@ -2,7 +2,7 @@
 layout: default
 title: All Articles
 nav_title: Articles
-permalink: /topics/
+permalink: /articles/
 nav: true
 nav_order: 1
 description: "Browse all longevity and healthspan articles — filter by topic, impact, source, and date."

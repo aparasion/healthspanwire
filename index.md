@@ -145,5 +145,5 @@ nav_order: 1
 {% endif %}
 
 <div class="view-all-cta">
-  <a href="/topics/" class="view-all-link">View all articles &rarr;</a>
+  <a href="/articles/" class="view-all-link">View all articles &rarr;</a>
 </div>
