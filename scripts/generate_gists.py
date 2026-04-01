@@ -56,6 +56,7 @@ YOUR_AREA = "Longevity"
 MAX_ARTICLES = 18
 MIN_ARTICLE_CHARS = 500
 MIN_ARTICLE_WORDS = 90
+MIN_GOOGLE_NEWS_URL_PATH_CHARS = 10
 
 BOILERPLATE_PATTERNS = [
     r"\bcookies?\b",
@@ -243,6 +244,23 @@ def candidate_urls_for_entry(entry) -> list[str]:
     return deduped
 
 
+def url_looks_like_article(url: str) -> bool:
+    """Heuristic filter to avoid publisher homepages/category pages."""
+    try:
+        parsed = urlparse(url or "")
+        path = (parsed.path or "").strip("/")
+        if not path:
+            return False
+        if len(path) < MIN_GOOGLE_NEWS_URL_PATH_CHARS:
+            return False
+        # Common non-article endpoints.
+        if path in {"news", "latest", "home", "homepage", "index.html"}:
+            return False
+        return True
+    except Exception:
+        return False
+
+
 def title_keywords(title: str) -> set[str]:
     tokens = re.findall(r"[a-zA-Z]{4,}", (title or "").lower())
     return {token for token in tokens if token not in {"with", "from", "into", "that", "this"}}
@@ -255,6 +273,14 @@ def has_title_overlap(text: str, title: str) -> bool:
     text_l = text.lower()
     overlap = sum(1 for kw in keywords if kw in text_l)
     return overlap >= 1
+
+
+def title_overlap_count(text: str, title: str) -> int:
+    keywords = title_keywords(title)
+    if not keywords:
+        return 0
+    text_l = (text or "").lower()
+    return sum(1 for kw in keywords if kw in text_l)
 
 
 def boilerplate_hits(text: str) -> int:
@@ -277,6 +303,32 @@ def is_usable_article_text(text: str, title: str) -> bool:
         return False
 
     return True
+
+
+def pick_best_candidate_text(candidate_urls: list[str], title: str, google_news_source: bool) -> tuple[str, str]:
+    """
+    Choose the best candidate URL/text pair.
+    Returns (url, text). Empty text means no usable article body found.
+    """
+    best_url = candidate_urls[0] if candidate_urls else ""
+    best_text = ""
+    best_overlap = -1
+
+    for candidate_url in candidate_urls:
+        if google_news_source and not url_looks_like_article(candidate_url):
+            continue
+
+        extracted_text = extract_article_text(candidate_url)
+        if not is_usable_article_text(extracted_text, title):
+            continue
+
+        overlap = title_overlap_count(extracted_text, title)
+        if overlap > best_overlap:
+            best_overlap = overlap
+            best_url = candidate_url
+            best_text = extracted_text
+
+    return best_url, best_text
 
 
 def parse_signal_ids_from_yaml(path: str) -> list[str]:
@@ -468,23 +520,11 @@ def main() -> None:
             fallback_raw = getattr(entry, "summary", "") or getattr(entry, "description", "")
             fallback_description = normalize_text(strip_html(fallback_raw))
 
-            extracted_text = ""
-            for candidate_url in candidate_urls:
-                extracted_text = extract_article_text(candidate_url)
-                if is_usable_article_text(extracted_text, entry.title):
-                    url = candidate_url
-                    break
-                if google_news_source and extracted_text:
-                    url = candidate_url
-                    break
+            url, extracted_text = pick_best_candidate_text(candidate_urls, entry.title, google_news_source)
 
-            if is_usable_article_text(extracted_text, entry.title):
+            if extracted_text:
                 text = extracted_text
-            elif google_news_source and extracted_text:
-                text = extracted_text
-            elif is_usable_article_text(fallback_description, entry.title):
-                text = fallback_description
-            elif google_news_source and fallback_description:
+            elif not google_news_source and is_usable_article_text(fallback_description, entry.title):
                 text = fallback_description
             else:
                 print(
