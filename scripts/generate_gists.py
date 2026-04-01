@@ -401,12 +401,39 @@ def infer_signal_tags(title: str, gist: str) -> tuple[list[str], str, str]:
     return matched, stance, confidence
 
 
+
+def load_seen_entries(path: str) -> list[str]:
+    if not os.path.exists(path):
+        return []
+
+    with open(path, "r", encoding="utf-8") as seen_file:
+        raw = seen_file.read()
+
+    if not raw.strip():
+        return []
+
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        repaired = re.sub(r",\s*([\]}])", r"\1", raw)
+        if repaired == raw:
+            print(f"Warning: failed to parse {path}: {exc}. Starting with empty seen list.")
+            return []
+        try:
+            data = json.loads(repaired)
+            print(f"Warning: recovered malformed JSON in {path}: {exc}")
+        except json.JSONDecodeError:
+            print(f"Warning: failed to parse {path}: {exc}. Starting with empty seen list.")
+            return []
+
+    if not isinstance(data, list):
+        print(f"Warning: expected a list in {path}; got {type(data).__name__}. Starting with empty seen list.")
+        return []
+
+    return [entry for entry in data if isinstance(entry, str)]
+
 def main() -> None:
-    if os.path.exists(SEEN_FILE):
-        with open(SEEN_FILE, "r", encoding="utf-8") as seen_file:
-            seen = json.load(seen_file)
-    else:
-        seen = []
+    seen = load_seen_entries(SEEN_FILE)
 
     normalized_seen = {normalize_url(e) for e in seen if not e.startswith("title::")}
     seen_titles = {e[len("title::"):] for e in seen if e.startswith("title::")}
