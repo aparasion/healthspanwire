@@ -80,6 +80,10 @@ USER_PROMPT_TEMPLATE = """Create the monthly industry report for {period}.
 {article_summaries}
 """
 
+MAX_INPUT_TOKENS = 24000
+CHARS_PER_TOKEN_ESTIMATE = 4
+MAX_SUMMARY_CHARS_PER_ARTICLE = 320
+
 
 def yaml_escape(text: str) -> str:
     return (text or "").replace("\\", "\\\\").replace('"', '\\"').replace("\n", " ").strip()
@@ -156,13 +160,35 @@ def collect_month_articles(period: str) -> list[dict]:
 def build_article_prompt_rows(articles: list[dict]) -> str:
     chunks = []
     for idx, article in enumerate(articles, start=1):
+        summary = article["summary"].strip().replace("\n", " ")
+        if len(summary) > MAX_SUMMARY_CHARS_PER_ARTICLE:
+            summary = f"{summary[: MAX_SUMMARY_CHARS_PER_ARTICLE - 1].rstrip()}…"
         chunks.append(
             f"{idx}. Title: {article['title']}\n"
             f"Publisher: {article['publisher'] or 'Unknown'}\n"
             f"Source: {article['source_url'] or 'N/A'}\n"
-            f"Summary: {article['summary']}\n"
+            f"Summary: {summary}\n"
         )
     return "\n".join(chunks)
+
+
+def estimate_tokens(text: str) -> int:
+    return max(1, len(text) // CHARS_PER_TOKEN_ESTIMATE)
+
+
+def prune_articles_to_token_budget(period: str, articles: list[dict]) -> tuple[list[dict], bool]:
+    selected: list[dict] = []
+    truncated = False
+    for article in articles:
+        candidate = [*selected, article]
+        prompt = USER_PROMPT_TEMPLATE.format(period=period, article_summaries=build_article_prompt_rows(candidate))
+        total_estimated = estimate_tokens(SYSTEM_PROMPT) + estimate_tokens(prompt)
+        if total_estimated > MAX_INPUT_TOKENS:
+            truncated = True
+            break
+        selected.append(article)
+
+    return (selected if selected else articles[:1], truncated)
 
 
 def parse_inline_list(value: str) -> list[str]:
@@ -299,6 +325,12 @@ def generate_monthly_summary(period: str, force: bool = False) -> Path | None:
     if not articles:
         print(f"No articles found for {period}.")
         return None
+    articles, truncated = prune_articles_to_token_budget(period, articles)
+    if truncated:
+        print(
+            f"Prompt input exceeded token budget; summarizing top {len(articles)} articles "
+            f"for {period} to avoid request-size rate limits."
+        )
 
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     article_summaries = build_article_prompt_rows(articles)
