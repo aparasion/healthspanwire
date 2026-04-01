@@ -4,20 +4,20 @@ date: 2026-03-31T18:08:03Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "At the recent Natural Products Expo West, a range of innovative nutraceutical ingredients were highlighted, showcasing their potential to enhance health and per..."
+excerpt: "Creatine is being repositioned from a niche sports performance supplement to a broad-spectrum functional ingredient, with emerging evidence spanning cognit..."
 publisher: "nutritionaloutlook.com"
-source_url: "https://www.nutritionaloutlook.com"
-signal_ids: []
-signal_stance: mixed
-signal_confidence: low
+source_url: "https://www.nutritionaloutlook.com/view/faq-transforming-creatine-sports-functional-ingredient"
+signal_ids: [creatine-healthspan-effects]
+signal_stance: supports
+signal_confidence: high
 ---
 
-At the recent Natural Products Expo West, a range of innovative nutraceutical ingredients were highlighted, showcasing their potential to enhance health and performance across various demographics. Notably, ingredients like ashwagandha, colostrum, and probiotics were identified as key trends for product formulators, with a particular emphasis on their roles in stress management, gut health, and immune support. Companies such as Clasado Biosciences are focusing on the benefits of Bimuno GOS for athletes, illustrating the growing intersection of nutrition and performance optimization.
+Creatine is being repositioned from a niche sports performance supplement to a broad-spectrum functional ingredient, according to a Nutritional Outlook FAQ coinciding with Natural Products Expo West 2026. Industry formulators and researchers outline how creatine monohydrate—long established for its role in supporting ATP resynthesis during high-intensity effort—is now being validated across an expanding set of health endpoints that align closely with longevity and healthspan research priorities.
 
-This focus on functional ingredients is not just about market trends; it reflects a deeper understanding of the gut-immune axis and its implications for overall health. As consumer demand for scientifically validated products increases, manufacturers are responding by prioritizing clinical research and bioavailability in their formulations. For instance, the emerging ingredient RiboBeauty demonstrates a commitment to addressing skin health and hair vitality, particularly in middle-aged women, while also aligning with sustainability goals through innovative delivery systems.
+The underlying science driving this shift centers on creatine's energetic role in tissues beyond skeletal muscle. Clinical evidence highlighted in the FAQ spans cognitive function under stress and sleep deprivation, mitigation of age-related sarcopenia, support for bone mineral density in postmenopausal women, and metabolic health markers. These outcomes are particularly relevant for longevity researchers because they represent functional healthspan indicators—the ability to maintain physical capacity, cognitive performance, and metabolic resilience across the lifespan, not just peak athletic output.
 
-The implications of these trends are significant for professionals in the longevity and healthspan fields. As the market evolves, there is a clear opportunity for researchers and companies to develop products that not only target specific health concerns but also contribute to long-term wellness. The shift towards ingredients that support metabolic health and cognitive function indicates a broader recognition of the multifaceted nature of aging and health management.
+At Expo West, the commercial translation of this science was evident, with brands actively moving creatine into formulations targeting adults over 40, women's health, and cognitive wellness—categories where the addressable market dwarfs traditional sports nutrition. For professionals in the field, the FAQ reinforces that creatine now has a credible evidence base broad enough to support clinical conversations beyond the gym. The implication for longevity practice: creatine monohydrate deserves consideration as a baseline supplement for aging patients, alongside foundational recommendations for vitamin D or omega-3s.
 
-In summary, the insights from Expo West underscore the importance of integrating scientific research with consumer needs, paving the way for novel formulations that address both immediate health concerns and long-term healthspan goals. This convergence of innovation and regulation will likely shape the future landscape of nutraceutical products.
+*HealthspanWire tracks this as a research signal: [Creatine supplementation has meaningful benefits beyond athletic performance](/signals/#creatine-healthspan-effects)*
 
-Source: [nutritionaloutlook.com](https://www.nutritionaloutlook.com)
+Source: [nutritionaloutlook.com](https://www.nutritionaloutlook.com/view/faq-transforming-creatine-sports-functional-ingredient)
