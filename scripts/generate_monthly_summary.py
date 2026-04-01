@@ -27,12 +27,12 @@ A strong, opinionated opening that captures the defining theme or central tensio
 ---
 
 **## Scientific Frontiers**
-Cover the month's most significant findings in aging biology, molecular mechanisms, clinical trials, longevity biomarkers, and cellular/genetic research. For each major finding or study, hyperlink the relevant title or claim to its source URL using Markdown inline links: [linked text](url). Use `###` subheadings where distinct subtopics warrant it. Aim for 250–300 words.
+Cover the month's most significant findings in aging biology, molecular mechanisms, clinical trials, longevity biomarkers, and cellular/genetic research. For each major finding or study, hyperlink the relevant title or claim to internal HealthspanWire links using Markdown inline links: [linked text](url). Prefer each article's `Internal Article` URL and, when discussing tracked themes, link to `/signals/#<signal_id>` rather than external sources. Use `###` subheadings where distinct subtopics warrant it. Aim for 250–300 words.
 
 ---
 
 **## Nutrition & Lifestyle Science**
-Dedicated section for dietary interventions, nutritional compounds, fasting protocols, exercise science, sleep, and lifestyle factors with evidence in healthspan or longevity. Treat this as seriously as the molecular science — name specific nutrients, doses, protocols, and populations studied. Link claims to sources inline. Aim for 200–250 words.
+Dedicated section for dietary interventions, nutritional compounds, fasting protocols, exercise science, sleep, and lifestyle factors with evidence in healthspan or longevity. Treat this as seriously as the molecular science — name specific nutrients, doses, protocols, and populations studied. Link claims to internal HealthspanWire articles/signals inline. Aim for 200–250 words.
 
 ---
 
@@ -62,13 +62,13 @@ What does this month's activity reveal about where capital, clinical development
 - **Bold** key terms, compound names, institutions, or findings on first mention.
 - Use `>` blockquotes for standout quotes, key data points, or the single most important finding of the month.
 - Separate each major section with `---`.
-- Hyperlink specific article titles, study names, or named claims to their source URL inline: [claim or title](source_url). Do this naturally — link the most meaningful anchor text, not every sentence.
+- Hyperlink specific article titles, study names, or named claims to internal URLs provided in the input (`Internal Article`, optional `Signal Links`) inline. Do this naturally — link the most meaningful anchor text, not every sentence.
 - Write in full paragraphs. No bullet lists except sparingly in "What to Watch."
 
 ## Editorial Standards
 
 - Synthesize across sources — surface patterns and tensions rather than summarizing articles one by one.
-- Only draw on information present in the provided source summaries.
+- Only draw on information present in the provided source summaries. Do not link out to external domains in the body of the monthly report.
 - Write in a confident, clear editorial voice. Specific over generic. Analytical over descriptive.
 - No hype, no speculation beyond what sources support.
 - Avoid clichés: "science is advancing", "researchers are increasingly", "promising new research".
@@ -120,6 +120,14 @@ def post_month_from_filename(path: Path) -> str | None:
     return f"{match.group(1)}-{match.group(2)}"
 
 
+def build_internal_post_url(path: Path) -> str:
+    match = re.match(r"^(\d{4})-(\d{2})-(\d{2})-(.+)\.md$", path.name)
+    if not match:
+        return ""
+    year, month, day, slug = match.groups()
+    return f"/{year}/{month}/{day}/{slug}/"
+
+
 def is_monthly_post(front_matter: dict) -> bool:
     categories = front_matter.get("categories", "")
     return MONTHLY_CATEGORY in categories
@@ -143,6 +151,8 @@ def collect_month_articles(period: str) -> list[dict]:
         excerpt = front_matter.get("excerpt", "").strip().strip('"')
 
         summary_text = excerpt if excerpt else body[:500]
+        signal_ids = parse_inline_list(front_matter.get("signal_ids", ""))
+        signal_links = [f"/signals/#{signal_id}" for signal_id in signal_ids]
         if not title:
             continue
 
@@ -151,6 +161,8 @@ def collect_month_articles(period: str) -> list[dict]:
                 "title": title,
                 "publisher": publisher,
                 "source_url": source_url,
+                "internal_url": build_internal_post_url(path),
+                "signal_links": signal_links,
                 "summary": summary_text,
             }
         )
@@ -166,7 +178,9 @@ def build_article_prompt_rows(articles: list[dict]) -> str:
         chunks.append(
             f"{idx}. Title: {article['title']}\n"
             f"Publisher: {article['publisher'] or 'Unknown'}\n"
-            f"Source: {article['source_url'] or 'N/A'}\n"
+            f"Internal Article: {article['internal_url'] or 'N/A'}\n"
+            f"Source (reference only): {article['source_url'] or 'N/A'}\n"
+            f"Signal Links: {', '.join(article['signal_links']) if article['signal_links'] else 'N/A'}\n"
             f"Summary: {summary}\n"
         )
     return "\n".join(chunks)
