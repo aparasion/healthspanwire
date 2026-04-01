@@ -19,6 +19,7 @@ FEEDS = [
     "https://lifespan.io/feed/",
     "https://www.fightaging.org/feed",
     "https://www.nature.com/nataging.rss",
+	"https://www.nutritionaloutlook.com/rss.xml",
     "https://news.google.com/rss/search?q=healthspan&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=longevity&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=lifespan+extension&hl=en-US&gl=US&ceid=US:en",
