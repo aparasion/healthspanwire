@@ -1,14 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdENIWlVDS2dlOWVicFdYZjU3SWhldk1TcDk0Q1k4eDBMTEE1RzZQcnhyMDRsMUZaZ2wzNGZVNzltUmZ6MGQ0Rzh2Uk5lTUJFQVA5MkJCVExxaWxTN2xTc2tKcWZpTWl6U2JIakZNMzd5X05QN3RCbi1KSkdBOXd2VW1Ca1cxdw?oc=5",
-  "https://medicalxpress.com",
-  "title::preclinical study finds senolytics clear up to 70 of zombie cells medical xpress",
-  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVBmT2NxdFY4clh6MmR0dGRKakN4RE1oTERYbER4dTdJMHBwaHg0ZVk4RGd4bTFVZHFBTG5oRlRlUko0VEtMY3JzR0ZjaHQ0NFh0SC1jcWhya1JKX0Q0b3pRemJzTkxBalBBekQ1RDRIQkRKVEtCNXJaMTQwcTFKMnI3V0RiSzMwRFdKWlRTU0ltTlNobGMtN0U5a05fbkhL?oc=5",
-  "https://www.frontiersin.org",
-  "title::dna methylation and prediction of biological age frontiers",
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVlOSk0zM3pOcnlnQW9Ea2xHOHFZV1lDbTRBOXc3Qm9fY2NEVTRkdUM4WjJkVWlWVGV3TDhKN3BJTWRjaVhmTHNZTUdIX1VaS3h5YTlXM3Q4elg2cWxuTmxMYU5UUWtCYXlhNTB4MGpCOEpncEd3a1h1aWI5Sm1kVkJ2T19fVE1ONEg0REJ4QVQtTUIyOE9YRGx1QmROajhFSzZRNDR6ZXd5Zm5vNkRNUkQxRC1JZExZRG1KcUN3SQ?oc=5",
-  "https://www.genomeweb.com",
-  "title::faster epigenetic clock linked to increased death risk in italian aging study genomeweb",
-  "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNWFJblF0aGFaSG9HcmRnamt6Q3VhcFRNSDJzRGlJNGhRUVREeFA1dzJxd25Ucnp1UWZWcENMcWlCYkl0YlhFLVpjbllXa0llYl8yV1dseUtCZ0VQMUZpT2c4eWJMZGswdXFMSFhxWlF0UXc?oc=5",
   "https://www.axios.com",
   "title::what peter attias new book outlive says about living a long life axios",
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVJvYjQzRVBqejlhR3lCOW1iRDZ4ZXNienpmbk9JZTFNdHJQbjBDM1dGVjk2ZG4wNURPalYzQ2ZJWWxKRlYxNVFsQVJ3ZXZZX3h1cHVkaDZoOVcyNk5ZTmd2M1cxMDJjcWJKZU5ycWRZRFNWa0xRMFliS3hBMk9XNlJVdS1DUllUbXZHbVh2Z3N0bnV6OV9NMVB4cUY?oc=5",
@@ -498,5 +488,15 @@
   "https://www.globenewswire.com/news-release/2026/04/02/3267224/0/en/Neutrolis-Announces-Positive-First-in-Human-Phase-1a-Results-from-LIBERATE-I-Trial-of-NTR-1011-a-First-in-Class-DNASE1L3-Fusion-Protein.html",
   "title::neutrolis announces positive firstinhuman phase 1a results from liberatei trial of ntr1011 a firstinclass dnase1l3 fusion protein",
   "https://www.globenewswire.com/news-release/2026/04/02/3267226/0/en/Skye-Bioscience-Treats-First-Patient-in-Nimacimab-Higher-Dose-Expansion-Study-Evaluating-Exposure-Response-to-Inform-Phase-2b-Dose-Selection-for-GLP-1-Combination-Development.html",
-  "title::skye bioscience treats first patient in nimacimab higherdose expansion study evaluating exposureresponse to inform phase 2b dose selection for glp1 combination development"
+  "title::skye bioscience treats first patient in nimacimab higherdose expansion study evaluating exposureresponse to inform phase 2b dose selection for glp1 combination development",
+  "https://www.globenewswire.com/news-release/2026/04/02/3267259/0/en/MDIC-appoints-Philips-Chief-Medical-Officer-Carla-Goulart-Peron-as-new-board-member.html",
+  "title::mdic appoints philips chief medical officer carla goulart peron as new board member",
+  "https://www.globenewswire.com/news-release/2026/04/02/3267294/0/en/Bionano-Announces-Publication-from-Johns-Hopkins-and-MD-Anderson-Showing-that-OGM-can-Outperform-Traditional-Methods-in-Analysis-of-Multiple-Myeloma.html",
+  "title::bionano announces publication from johns hopkins and md anderson showing that ogm can outperform traditional methods in analysis of multiple myeloma",
+  "https://www.globenewswire.com/news-release/2026/04/02/3267296/0/en/Revolution-Medicines-Begins-Treating-Patients-in-Phase-3-RASolute-303-Trial-Evaluating-Daraxonrasib-as-First-Line-Treatment-for-Patients-with-Metastatic-Pancreatic-Cancer.html",
+  "title::revolution medicines begins treating patients in phase 3 rasolute 303 trial evaluating daraxonrasib as first line treatment for patients with metastatic pancreatic cancer",
+  "https://www.globenewswire.com/news-release/2026/04/02/3267241/0/en/MiNK-Therapeutics-to-Present-New-Data-at-ASGCT-2026-Highlighting-Context-Dependent-Activity-of-iNKT-Cell-Therapy.html",
+  "title::mink therapeutics to present new data at asgct 2026 highlighting contextdependent activity of inkt cell therapy",
+  "https://www.globenewswire.com/news-release/2026/04/02/3267245/0/en/Plus-Therapeutics-Secures-Highmark-Coverage-for-CNSide-CSF-Assay-Expanding-Reimbursement-to-75-Million-Covered-Lives.html",
+  "title::plus therapeutics secures highmark coverage for cnside csf assay expanding reimbursement to 75 million covered lives"
 ]
