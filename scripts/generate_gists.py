@@ -49,6 +49,7 @@ FEEDS = [
     'https://news.google.com/rss/search?q="stem cell therapy" OR MSC therapy OR CAR-T OR "immune reprogramming"&hl=en-US&gl=US&ceid=US:en',
     'https://news.google.com/rss/search?q="fecal microbiota transplant" OR microbiome therapy OR "hyperbaric oxygen therapy"&hl=en-US&gl=US&ceid=US:en',
 	"https://investor.lilly.com/rss/news-releases.xml?items=10",
+	"https://www.globenewswire.com/RssFeed/subjectcode/20-Health/feedTitle/GlobeNewswire%20-%20Health",
     
 ]
 
