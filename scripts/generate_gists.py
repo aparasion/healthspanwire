@@ -48,6 +48,7 @@ FEEDS = [
     'https://news.google.com/rss/search?q=senolytics OR "cellular senescence therapy" OR "plasma dilution" OR "young plasma"&hl=en-US&gl=US&ceid=US:en',
     'https://news.google.com/rss/search?q="stem cell therapy" OR MSC therapy OR CAR-T OR "immune reprogramming"&hl=en-US&gl=US&ceid=US:en',
     'https://news.google.com/rss/search?q="fecal microbiota transplant" OR microbiome therapy OR "hyperbaric oxygen therapy"&hl=en-US&gl=US&ceid=US:en',
+	"https://investor.lilly.com/rss/news-releases.xml?items=10",
     
 ]
 
