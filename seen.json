@@ -1,12 +1,4 @@
 [
-  "https://fortune.com",
-  "title::this startup has the lead in longevity securing the first fdaapproved partial deaging human trial fortune",
-  "https://news.google.com/rss/articles/CBMitAJBVV95cUxNSVp3d0FobDItLTZ6R1dwMnduejQxdTZGUGdERTNKTmRQU0FLVUF3aVZMWkFqVklPNlhrZjh3bUhOLXV2NE5qMl9vZFljNWNNQ2t3b0JoR0hjNWp5aTFQZmVtMzRxV1ZKSnNIRFBES2FTZkVXOGY5dHl0LU5DMlBGUmtpRmxhRlV1eUdUekFXdXJYNklPZzV0dmw0UkczblZTMTVueUREdjNockJLbklneGhyQXBIcl9lcXhVdXdjZ0N5LS12djNFblJSNVd3Vm9HV1hEelpCZDR4OTd5MlNHNFBQQUU2aWU4b3IwdnpPX3hiNC1LOGRIejdKdkZLeXd0cU42c3JJM2xqVmdfcmpKVVdUSjhZcEdkSkZEbzQ4RDdLcHFNb1otYlNSdTdtMnFIRVFkaA?oc=5",
-  "https://www.cureus.com",
-  "title::severe familial chylomicronemia syndrome with refractory hypertriglyceridemia and multisystem complications managed with chronic plasmapheresis and olezarsen a case report cureus",
-  "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SekxlM3NDeWJrUlE4U2ZaZ2xIX005cmlVRFp0VXRIWlpSaVFXZVdna2l1NzE1cTY5LTNLMVRXdmZoV0FnbmVkS3k4NHdwbnRHQkN6WUh4UW84UEUzMFdNNnZra2hXZ3hWMnU4ZXJqMUNXRDhUR1ZB?oc=5",
-  "https://neurologytoday.aan.com",
-  "title::aan releases guideline update on plasmapheresis neurology today",
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd25idkxQNVVsRm1oUHVsdW1pYWVjY0dwTmtHYmdpQ1pleXVuMUlJTk9TM1NmWEw4aHBkaHpubGt1LXB4cTFHRy1lMjczRDhKWWxaOGNJTGt1VTBtZE5jZzlGZ1NKdHVHVzlpY3gwM2NQRGpjREFlU3lTOXgzc0swdmwtOXJoS1NUemEw?oc=5",
   "https://finance.yahoo.com",
   "title::fresenius kabis adaptive nomogram used on aurora xi plasmapheresis system now operating nationwide at biolife plasma centers yahoo finance",
@@ -498,5 +490,13 @@
   "https://www.globenewswire.com/news-release/2026/04/06/3268471/0/id/Egg-Medical-Meluncurkan-EggNest-Complete-Flex-Perlindungan-Bebas-Apron-Tanpa-Pekerjaan-Konstruksi-Waktu-Henti-atau-Gangguan.html",
   "title::egg medical meluncurkan eggnest complete flex perlindungan bebas apron tanpa pekerjaan konstruksi waktu henti atau gangguan",
   "https://www.globenewswire.com/news-release/2026/04/06/3268471/0/ja/%E3%82%A8%E3%83%83%E3%82%B0-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB-%E3%82%A8%E3%83%83%E3%82%B0%E3%83%8D%E3%82%B9%E3%83%88-%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88-%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9-EggNest-Complete-Flex-%E3%82%92%E7%99%BA%E5%A3%B2-%E5%B7%A5%E4%BA%8B%E3%82%84%E7%A8%BC%E5%83%8D%E5%81%9C%E6%AD%A2-%E6%A5%AD%E5%8B%99%E4%B8%AD%E6%96%AD%E3%81%AA%E3%81%8F-%E3%82%A8%E3%83%97%E3%83%AD%E3%83%B3%E4%B8%8D%E8%A6%81%E3%81%AE%E9%98%B2%E8%AD%B7%E3%82%92%E5%AE%9F%E7%8F%BE.html",
-  "title::eggnest complete flex"
+  "title::eggnest complete flex",
+  "https://www.fiercebiotech.com/medtech/us-uk-regulators-bolster-medical-device-collaboration-while-lifting-tariffs",
+  "title::us uk regulators bolster medical device collaboration while lifting tariffs",
+  "https://www.globenewswire.com/news-release/2026/04/06/3268533/0/en/Yuzu-Health-Raises-35-Million-Series-A-to-Modernize-Health-Insurance-Plan-Infrastructure.html",
+  "title::yuzu health raises 35 million series a to modernize health insurance plan infrastructure",
+  "https://www.globenewswire.com/news-release/2026/04/06/3268535/0/en/HairClub-Launches-100-000-Aderans-Helping-Hearts-Fund-to-Support-Employees-Facing-Life-s-Unexpected-Hardships.html",
+  "title::hairclub launches 100000 aderans helping hearts fund to support employees facing lifes unexpected hardships",
+  "https://www.globenewswire.com/news-release/2026/04/06/3268530/24180/en/Celldex-Therapeutics-Announces-Closing-of-Public-Offering-of-Common-Stock-and-Full-Exercise-of-Underwriters-Option-to-Purchase-Additional-Shares.html",
+  "title::celldex therapeutics announces closing of public offering of common stock and full exercise of underwriters option to purchase additional shares"
 ]
