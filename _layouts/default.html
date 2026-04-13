@@ -293,21 +293,11 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // ── Sticky header — scroll shadow + hide on scroll down ───
+  // ── Sticky header — scroll shadow ─────────────────────────
   var siteHeader = document.querySelector('.site-header');
   if (siteHeader) {
-    var lastScrollY = window.scrollY;
     window.addEventListener('scroll', function () {
-      var y = window.scrollY;
-      // Shadow once page leaves top
-      siteHeader.classList.toggle('is-scrolled', y > 4);
-      // Hide on scroll down past 80px; reveal on scroll up
-      if (y > lastScrollY && y > 80) {
-        siteHeader.classList.add('is-hidden');
-      } else {
-        siteHeader.classList.remove('is-hidden');
-      }
-      lastScrollY = y;
+      siteHeader.classList.toggle('is-scrolled', window.scrollY > 4);
     }, { passive: true });
   }
 
