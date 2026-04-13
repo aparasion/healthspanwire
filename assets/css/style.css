@@ -165,8 +165,7 @@ hr {
   backdrop-filter: blur(20px) saturate(180%);
   -webkit-backdrop-filter: blur(20px) saturate(180%);
   border-bottom: 1px solid var(--border);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  will-change: transform;
+  transition: box-shadow 0.3s ease;
 }
 
 /* Lifted shadow once page is scrolled */
@@ -178,10 +177,6 @@ hr {
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.35);
 }
 
-/* Hide on scroll-down, reveal on scroll-up */
-.site-header.is-hidden {
-  transform: translateY(-100%);
-}
 
 .header-shell {
   width: 100%;
