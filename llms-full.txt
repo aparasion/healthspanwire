@@ -27,7 +27,7 @@ Updated: {{ site.time | date: "%Y-%m-%d" }}
 - Author: {{ post.author | default: site.author }}
 - Categories: {{ post.categories | join: ", " }}
 - Tags: {{ post.tags | join: ", " }}
-- Description: {{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 320 }}
+- Description: {{ post.description | default: post.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 320 }}
 {% if post.source_url %}- Source URL: {{ post.source_url }}{% endif %}
 
 {% endfor %}
