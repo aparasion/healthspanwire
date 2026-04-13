@@ -156,7 +156,7 @@ hr {
   margin: 0 auto;
 }
 
-/* ── Site Header — Glass Morphism ───────────────────────── */
+/* ── Site Header — Sticky + Glass Morphism ──────────────── */
 .site-header {
   position: sticky;
   top: 0;
@@ -165,6 +165,22 @@ hr {
   backdrop-filter: blur(20px) saturate(180%);
   -webkit-backdrop-filter: blur(20px) saturate(180%);
   border-bottom: 1px solid var(--border);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  will-change: transform;
+}
+
+/* Lifted shadow once page is scrolled */
+.site-header.is-scrolled {
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] .site-header.is-scrolled {
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.35);
+}
+
+/* Hide on scroll-down, reveal on scroll-up */
+.site-header.is-hidden {
+  transform: translateY(-100%);
 }
 
 .header-shell {
@@ -262,8 +278,20 @@ hr {
 }
 
 .site-nav a.active {
-  color: var(--text);
+  color: var(--accent);
   font-weight: 600;
+  position: relative;
+}
+
+.site-nav ul .active::after {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 14px;
+  right: 14px;
+  height: 2px;
+  background: var(--accent);
+  border-radius: 1px;
 }
 
 /* ── Hamburger Toggle ────────────────────────────────────── */
