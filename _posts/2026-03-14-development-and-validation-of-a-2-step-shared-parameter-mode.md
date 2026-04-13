@@ -4,7 +4,7 @@ date: 2026-03-14T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have developed a robust method for **imputing dementia status and onset time** using data from the Cardiovascular Health Study (CHS). Utilizing a **..."
+excerpt: "Researchers have developed a robust method for imputing dementia status and onset time using data from the Cardiovascular Health Study (CHS). Utilizing a ..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag072/8522959?rss=1"
 signal_ids: []

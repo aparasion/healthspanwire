@@ -4,7 +4,7 @@ date: 2026-04-08T00:52:22Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at Cornell University have made significant strides in male contraception by developing a **reversible, nonhormonal method** that effectively halts..."
+excerpt: "Researchers at Cornell University have made significant strides in male contraception by developing a reversible, nonhormonal method that effectively halts..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260407193844.htm"
 signal_ids: []

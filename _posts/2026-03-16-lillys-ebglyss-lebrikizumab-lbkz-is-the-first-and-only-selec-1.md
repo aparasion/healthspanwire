@@ -4,7 +4,7 @@ date: 2026-03-16T10:45:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Lilly's **EBGLYSS** (lebrikizumab-lbkz) has emerged as the first selective **IL-13 inhibitor** to demonstrate positive Phase 3 results in pediatric patients age..."
+excerpt: "Lilly's EBGLYSS (lebrikizumab-lbkz) has emerged as the first selective IL-13 inhibitor to demonstrate positive Phase 3 results in pediatric patients age..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/lillys-ebglyss-lebrikizumab-lbkz-first-and-only-selective-il-13"
 signal_ids: []

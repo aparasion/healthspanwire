@@ -4,7 +4,7 @@ date: 2026-03-26T10:42:12Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Radiology* reveals that AI-generated \"deepfake\" X-rays are so realistic that they can deceive both radiologists and AI detection mo..."
+excerpt: "A recent study published in Radiology reveals that AI-generated \"deepfake\" X-rays are so realistic that they can deceive both radiologists and AI detection mo..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/03/260326011452.htm"
 signal_ids: []

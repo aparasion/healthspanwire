@@ -4,7 +4,7 @@ date: 2026-04-10T14:12:15Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent review by Professor Yan-Jiang Wang and colleagues, published in *Science China Life Sciences*, advocates for a **multi-pronged approach** to Alzheimer’..."
+excerpt: "A recent review by Professor Yan-Jiang Wang and colleagues, published in Science China Life Sciences, advocates for a multi-pronged approach to Alzheimer’..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-07T14:32:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Beacon Biosignals has successfully upsized its Series B financing round to **$97 million**, bringing its total funding to over **$132 million**. This extension..."
+excerpt: "Beacon Biosignals has successfully upsized its Series B financing round to $97 million, bringing its total funding to over $132 million. This extension..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/beacon-biosignals-upsizes-series-b-to-more-than-97-million"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-02-27T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent retrospective cohort study evaluated the **duration of antipsychotic (AP) treatment** among nursing home residents with dementia, revealing critical in..."
+excerpt: "A recent retrospective cohort study evaluated the duration of antipsychotic (AP) treatment among nursing home residents with dementia, revealing critical in..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag060/8501988?rss=1"
 signal_ids: []

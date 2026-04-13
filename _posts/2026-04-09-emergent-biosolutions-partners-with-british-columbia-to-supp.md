@@ -4,7 +4,7 @@ date: 2026-04-09T20:25:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Emergent BioSolutions has partnered with the B.C. Provincial Health Services Authority (PHSA) to supply **NARCAN® Nasal Spray** for the province's Take-Home Nal..."
+excerpt: "Emergent BioSolutions has partnered with the B.C. Provincial Health Services Authority (PHSA) to supply NARCAN® Nasal Spray for the province's Take-Home Nal..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271432/33240/en/Emergent-BioSolutions-Partners-with-British-Columbia-to-Supply-NARCAN-Nasal-Spray-for-the-Launch-of-the-Expanded-BC-Take-Home-Naloxone-Program.html"
 signal_ids: []

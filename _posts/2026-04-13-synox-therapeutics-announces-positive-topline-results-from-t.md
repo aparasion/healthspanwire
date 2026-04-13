@@ -4,7 +4,7 @@ date: 2026-04-13T06:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **TANGENT study** has demonstrated that **emactuzumab**, a targeted CSF-1R inhibitor, meets its primary and secondary endpoints with high statistical signif..."
+excerpt: "The TANGENT study has demonstrated that emactuzumab, a targeted CSF-1R inhibitor, meets its primary and secondary endpoints with high statistical signif..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272195/0/en/SynOx-Therapeutics-Announces-Positive-Topline-Results-from-the-Phase-3-TANGENT-Study-Supporting-Emactuzumab-as-a-Differentiated-Next-generation-Treatment-for-Patients-with-Tenosyno.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2025-10-15T07:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have identified vascular niches as critical hotspots in cardiac aging, according to a recent study published in *Circulation Research*. This work, s..."
+excerpt: "Researchers have identified vascular niches as critical hotspots in cardiac aging, according to a recent study published in Circulation Research. This work, s..."
 publisher: "news.google.com"
 source_url: "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUVhzQnVwZUJjb2Jnc0xhT21IWW5CUm9fcjE5dmk1RWFUWEdRM19DY2w3dnlPVU1mcXh3UlJyOXZiNi1mV2tvMFNoeG5PQWs2MVJuMzZvRUZHSVhEd3lmN0t5bVMyeVZKZUxPcUhn?oc=5"
 signal_ids: []

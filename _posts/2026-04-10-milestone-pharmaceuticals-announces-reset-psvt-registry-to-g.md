@@ -4,7 +4,7 @@ date: 2026-04-10T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Milestone® Pharmaceuticals Inc. has announced the initiation of the **RESET-PSVT** registry, a Phase 4, multicenter, prospective observational study aimed at ga..."
+excerpt: "Milestone® Pharmaceuticals Inc. has announced the initiation of the RESET-PSVT registry, a Phase 4, multicenter, prospective observational study aimed at ga..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271699/0/en/Milestone-Pharmaceuticals-Announces-RESET-PSVT-Registry-to-Generate-Real-World-Evidence-on-CARDAMYST-etripamil-Nasal-Spray-in-Patients-With-PSVT.html"
 signal_ids: []

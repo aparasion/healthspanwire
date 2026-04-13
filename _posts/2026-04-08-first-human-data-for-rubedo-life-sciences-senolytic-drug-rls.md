@@ -4,7 +4,7 @@ date: 2026-04-08T10:18:23Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Rubedo Life Sciences has announced promising preliminary results from a Phase 1 clinical trial of its senolytic drug **RLS-1496**, which targets the **GPX4** me..."
+excerpt: "Rubedo Life Sciences has announced promising preliminary results from a Phase 1 clinical trial of its senolytic drug RLS-1496, which targets the GPX4 me..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/first-human-data-for-rubedo-life-sciences-senolytic-drug-rls-1496"
 signal_ids: [senolytic-clinical-validation]

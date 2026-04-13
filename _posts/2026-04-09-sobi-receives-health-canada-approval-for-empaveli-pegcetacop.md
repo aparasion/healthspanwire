@@ -4,7 +4,7 @@ date: 2026-04-09T20:21:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Health Canada has approved EMPAVELI® (pegcetacoplan), the first treatment specifically for C3 glomerulopathy (C3G) and primary immune-complex membranoprolifer..."
+excerpt: "Health Canada has approved EMPAVELI® (pegcetacoplan), the first treatment specifically for C3 glomerulopathy (C3G) and primary immune-complex membranoprolifer..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271427/0/en/Sobi-Receives-Health-Canada-Approval-for-EMPAVELI-pegcetacoplan-for-the-Treatment-of-C3G-and-Primary-IC-MPGN.html"
 signal_ids: []

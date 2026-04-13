@@ -4,7 +4,7 @@ date: 2026-04-04T12:25:07Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in **PLOS Climate** by researchers María Dolores Gadea Rivas and Jesús Gonzalo reveals that climate change is manifesting unevenly acro..."
+excerpt: "A recent study published in PLOS Climate by researchers María Dolores Gadea Rivas and Jesús Gonzalo reveals that climate change is manifesting unevenly acro..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260403224502.htm"
 signal_ids: []

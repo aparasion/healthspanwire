@@ -4,7 +4,7 @@ date: 2026-04-09T07:09:30Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent research from Vanderbilt University Medical Center reveals that both **weight loss drugs** (specifically GLP-1 receptor agonists like semaglutide and tir..."
+excerpt: "Recent research from Vanderbilt University Medical Center reveals that both weight loss drugs (specifically GLP-1 receptor agonists like semaglutide and tir..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260408225948.htm"
 signal_ids: []

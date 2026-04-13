@@ -4,7 +4,7 @@ date: 2026-04-09T19:45:41Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Young APOE4 knockin (E4-KI) mice exhibit hippocampal region-specific network hyperexcitability, a phenomenon that predicts later cognitive deficits. This stud..."
+excerpt: "Young APOE4 knockin (E4-KI) mice exhibit hippocampal region-specific network hyperexcitability, a phenomenon that predicts later cognitive deficits. This stud..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01096-0"
 signal_ids: []

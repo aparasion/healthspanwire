@@ -4,7 +4,7 @@ date: 2026-04-12T11:43:05Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**A multi-phase clinical trial is set to investigate the optimal dosing of rapamycin for anti-aging applications, spearheaded by an academic consortium. This in..."
+excerpt: "A multi-phase clinical trial is set to investigate the optimal dosing of rapamycin for anti-aging applications, spearheaded by an academic consortium. This in..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/fight-aging-newsletter-april-13th-2026"
 signal_ids: []

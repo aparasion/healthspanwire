@@ -4,7 +4,7 @@ date: 2026-01-11T08:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Aging Cell* explores the epigenetic age responses of astronauts exposed to the unique conditions of space, positioning them as a no..."
+excerpt: "A recent study published in Aging Cell explores the epigenetic age responses of astronauts exposed to the unique conditions of space, positioning them as a no..."
 publisher: "news.google.com"
 source_url: "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxSjlZejFTWjVSRkhsOXRzNkhFRmFTN0JvbTBsNWJIWThheHJlZXZnYklKNFY4UHB2Um9xMklEbnhnTWRKcFNhMC0wWG5adlowZEl1a3FxX2l1dUpWNzU3MzRTaHA?oc=5"
 signal_ids: []

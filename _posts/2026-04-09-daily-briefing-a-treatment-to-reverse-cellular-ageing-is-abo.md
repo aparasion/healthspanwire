@@ -4,7 +4,7 @@ date: 2026-04-09T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study has demonstrated that a **single DNA modification** in a non-coding region of the X chromosome, specifically enhancer 13 (En13), can induce **sex..."
+excerpt: "A recent study has demonstrated that a single DNA modification in a non-coding region of the X chromosome, specifically enhancer 13 (En13), can induce sex..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/d41586-026-01207-2"
 signal_ids: []

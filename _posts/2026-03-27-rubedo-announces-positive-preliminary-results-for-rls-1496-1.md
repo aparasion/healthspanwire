@@ -4,7 +4,7 @@ date: 2026-03-27T17:33:34Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Rubedo Life Sciences, Inc. has announced **positive preliminary results** from its Phase 1 clinical trial of RLS-1496, a **first-in-class GPX4 modulator** targe..."
+excerpt: "Rubedo Life Sciences, Inc. has announced positive preliminary results from its Phase 1 clinical trial of RLS-1496, a first-in-class GPX4 modulator targe..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/rubedo-announces-positive-preliminary-results-for-rls-1496/?utm_source=rss&utm_medium=rss&utm_campaign=rubedo-announces-positive-preliminary-results-for-rls-1496"
 signal_ids: []

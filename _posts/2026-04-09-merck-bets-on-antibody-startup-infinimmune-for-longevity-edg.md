@@ -4,7 +4,7 @@ date: 2026-04-09T17:11:41Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Merck has entered a significant collaboration with the California-based biotech startup Infinimmune, potentially worth up to **$838 million**, to discover novel..."
+excerpt: "Merck has entered a significant collaboration with the California-based biotech startup Infinimmune, potentially worth up to $838 million, to discover novel..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/merck-bets-on-antibody-startup-infinimmune-for-longevity-edge"
 signal_ids: []

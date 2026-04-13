@@ -4,7 +4,7 @@ date: 2026-04-13T14:15:24Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **Asia Summit on Global Health (ASGH)**, scheduled for May 11-12, 2026, in Hong Kong, aims to tackle critical commercialization challenges facing biotech ex..."
+excerpt: "The Asia Summit on Global Health (ASGH), scheduled for May 11-12, 2026, in Hong Kong, aims to tackle critical commercialization challenges facing biotech ex..."
 publisher: "fiercebiotech.com"
 source_url: "https://www.fiercebiotech.com/sponsored/biotech-giants-and-investors-gather-solve-commercialisation-puzzle-may-hong-kong"
 signal_ids: []

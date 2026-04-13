@@ -4,7 +4,7 @@ date: 2026-04-08T16:58:21Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers from the University of Oxford and the Francis Crick Institute have elucidated the functional consequences of mutations in the **RNU4-2** non-coding..."
+excerpt: "Researchers from the University of Oxford and the Francis Crick Institute have elucidated the functional consequences of mutations in the RNU4-2 non-coding..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/tiny-gene-reveals-splicings-role-in-disease"
 signal_ids: []

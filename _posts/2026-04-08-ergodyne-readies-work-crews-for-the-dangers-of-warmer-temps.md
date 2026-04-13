@@ -4,7 +4,7 @@ date: 2026-04-08T17:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Ergodyne has launched a new line of cooling gear and worksite shelters aimed at mitigating heat stress risks for workers during the upcoming summer months. Th..."
+excerpt: "Ergodyne has launched a new line of cooling gear and worksite shelters aimed at mitigating heat stress risks for workers during the upcoming summer months. Th..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270428/0/en/Ergodyne-Readies-Work-Crews-for-the-Dangers-of-Warmer-Temps.html"
 signal_ids: []

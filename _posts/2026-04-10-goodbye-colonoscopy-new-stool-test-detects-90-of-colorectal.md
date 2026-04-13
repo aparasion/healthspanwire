@@ -4,7 +4,7 @@ date: 2026-04-10T02:23:41Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the **Université de Genève** have developed a groundbreaking stool test that detects **90% of colorectal cancers**, leveraging advanced machine l..."
+excerpt: "Researchers at the Université de Genève have developed a groundbreaking stool test that detects 90% of colorectal cancers, leveraging advanced machine l..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260409221823.htm"
 signal_ids: [gut-microbiome-aging]

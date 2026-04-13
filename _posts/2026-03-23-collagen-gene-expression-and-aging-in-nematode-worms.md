@@ -4,7 +4,7 @@ date: 2026-03-23T10:07:51Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study has revealed significant insights into collagen gene expression and its relationship with aging in *Caenorhabditis elegans*. Researchers found th..."
+excerpt: "A recent study has revealed significant insights into collagen gene expression and its relationship with aging in Caenorhabditis elegans. Researchers found th..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/03/collagen-gene-expression-and-aging-in-nematode-worms"
 signal_ids: []

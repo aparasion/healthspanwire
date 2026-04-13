@@ -4,7 +4,7 @@ date: 2026-04-11T13:54:18Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from **Lund University** reveals that **early adulthood obesity** significantly increases the risk of **premature death**, particularly from dise..."
+excerpt: "A recent study from Lund University reveals that early adulthood obesity significantly increases the risk of premature death, particularly from dise..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411022023.htm"
 signal_ids: []

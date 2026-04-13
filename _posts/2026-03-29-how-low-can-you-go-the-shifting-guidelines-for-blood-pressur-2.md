@@ -4,7 +4,7 @@ date: 2026-03-29T14:10:27Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Mark Supiano, a geriatrician at the University of Utah, has highlighted the critical intersection of **hypertension management** and cognitive health in older a..."
+excerpt: "Mark Supiano, a geriatrician at the University of Utah, has highlighted the critical intersection of hypertension management and cognitive health in older a..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/how-low-can-you-go-the-shifting-guidelines-for-blood-pressure-control"
 signal_ids: []

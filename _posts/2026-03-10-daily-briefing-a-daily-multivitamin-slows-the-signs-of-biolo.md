@@ -4,7 +4,7 @@ date: 2026-03-10T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent research published in *Nature Medicine* indicates that daily multivitamin supplementation can effectively slow biological aging markers in older adults...."
+excerpt: "Recent research published in Nature Medicine indicates that daily multivitamin supplementation can effectively slow biological aging markers in older adults...."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/d41586-026-00792-6"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-08T07:46:11Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Givaudan Active Beauty has announced a collaboration with Haut.AI to showcase **AI-driven ingredient demonstrations** at in-cosmetics Global 2026 in Paris, set..."
+excerpt: "Givaudan Active Beauty has announced a collaboration with Haut.AI to showcase AI-driven ingredient demonstrations at in-cosmetics Global 2026 in Paris, set..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/givaudan-showcases-ai-powered-ingredient-demos-with-haut-ai"
 signal_ids: []

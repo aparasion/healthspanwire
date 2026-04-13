@@ -4,7 +4,7 @@ date: 2026-04-10T17:10:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**The Ebony Canal: Global Birth Equity Tour** is set to launch, spearheaded by director Emmai Alaquiva and narrated by Viola Davis. This award-winning documenta..."
+excerpt: "The Ebony Canal: Global Birth Equity Tour is set to launch, spearheaded by director Emmai Alaquiva and narrated by Viola Davis. This award-winning documenta..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271958/0/en/The-Ebony-Canal-Announces-Global-Birth-Equity-Tour-Following-Award-Winning-Season.html"
 signal_ids: []

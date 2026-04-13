@@ -4,7 +4,7 @@ date: 2026-04-03T10:22:08Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers propose that **atrial fibrillation (AF)** and **heart failure (HF)** may be manifestations of a shared underlying condition, specifically linked to..."
+excerpt: "Researchers propose that atrial fibrillation (AF) and heart failure (HF) may be manifestations of a shared underlying condition, specifically linked to..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/proposing-atrial-fibrillation-and-heart-failure-to-be-manifestations-of-the-same-condition"
 signal_ids: []

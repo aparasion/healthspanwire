@@ -4,7 +4,7 @@ date: 2026-04-04T05:16:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "HiWell Absorfyx has launched its **Saw Palmetto Complex**, a multifunctional supplement aimed at addressing prostate health, urinary comfort, and hair thinning..."
+excerpt: "HiWell Absorfyx has launched its Saw Palmetto Complex, a multifunctional supplement aimed at addressing prostate health, urinary comfort, and hair thinning..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/04/3268176/0/en/HiWell-Absorfyx-Launches-Advanced-Saw-Palmetto-Formula-for-Prostate-Urinary-and-Hair-Health.html"
 signal_ids: []

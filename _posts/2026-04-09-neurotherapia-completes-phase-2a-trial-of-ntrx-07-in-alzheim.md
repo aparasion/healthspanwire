@@ -4,7 +4,7 @@ date: 2026-04-09T05:51:09Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "NeuroTherapia, Inc. has successfully completed a **28-day double-masked Phase 2a trial** for its oral candidate, **NTRX-07**, targeting patients with Alzheimer’..."
+excerpt: "NeuroTherapia, Inc. has successfully completed a 28-day double-masked Phase 2a trial for its oral candidate, NTRX-07, targeting patients with Alzheimer’..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/neurotherapia-completes-phase-2a-trial-of-ntrx-07-in-alzheimers"
 signal_ids: []

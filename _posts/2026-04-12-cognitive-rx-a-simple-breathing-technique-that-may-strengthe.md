@@ -4,7 +4,7 @@ date: 2026-04-12T19:04:04Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at Rutgers University have unveiled compelling evidence that **resonance breathing**, characterized by a controlled rhythm of approximately **six br..."
+excerpt: "Researchers at Rutgers University have unveiled compelling evidence that resonance breathing, characterized by a controlled rhythm of approximately six br..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/cognitive-rx-a-simple-breathing-technique-that-may-strengthen-the-aging-brain"
 signal_ids: []

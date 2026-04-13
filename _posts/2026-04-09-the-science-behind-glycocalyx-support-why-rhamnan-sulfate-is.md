@@ -4,7 +4,7 @@ date: 2026-04-09T14:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Calroy Health Sciences has unveiled significant findings regarding **Rhamnan sulfate**, a marine-derived polysaccharide extracted from the green alga *Monostrom..."
+excerpt: "Calroy Health Sciences has unveiled significant findings regarding Rhamnan sulfate, a marine-derived polysaccharide extracted from the green alga Monostrom..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271114/0/en/The-Science-Behind-Glycocalyx-Support-Why-Rhamnan-Sulfate-Is-Different.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-08T18:13:18Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Acoramidis, a novel therapeutic agent, has shown promising long-term efficacy in treating transthyretin amyloid cardiomyopathy (ATTR-CM), as evidenced by data..."
+excerpt: "Acoramidis, a novel therapeutic agent, has shown promising long-term efficacy in treating transthyretin amyloid cardiomyopathy (ATTR-CM), as evidenced by data..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/data-on-the-effective-long-term-treatment-of-transthyretin-amyloidosis"
 signal_ids: []

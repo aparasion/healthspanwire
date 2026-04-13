@@ -4,7 +4,7 @@ date: 2026-04-07T07:56:04Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from the University of California San Diego reveals that just **seven days of intensive meditation** can lead to significant neurobiological chan..."
+excerpt: "A recent study from the University of California San Diego reveals that just seven days of intensive meditation can lead to significant neurobiological chan..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260406192913.htm"
 signal_ids: []

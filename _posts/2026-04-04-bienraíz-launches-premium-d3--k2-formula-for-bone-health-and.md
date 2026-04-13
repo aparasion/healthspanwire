@@ -4,7 +4,7 @@ date: 2026-04-04T04:01:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "BienRaíz has launched its latest supplement, **BienRaíz D3 + K2**, aimed at enhancing **calcium utilization** and promoting both **skeletal and cardiovascular h..."
+excerpt: "BienRaíz has launched its latest supplement, BienRaíz D3 + K2, aimed at enhancing calcium utilization and promoting both skeletal and cardiovascular h..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/04/3268175/0/en/BienRa%C3%ADz-Launches-Premium-D3-K2-Formula-for-Bone-Health-and-Heart-Function.html"
 signal_ids: []

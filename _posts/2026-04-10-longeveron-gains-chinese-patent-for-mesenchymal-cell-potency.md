@@ -4,7 +4,7 @@ date: 2026-04-10T14:36:09Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Longeveron has secured **Patent No. 2026031300230720** from the China National Intellectual Property Administration, which covers **potency assay methods** for..."
+excerpt: "Longeveron has secured Patent No. 2026031300230720 from the China National Intellectual Property Administration, which covers potency assay methods for..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/longeveron-gains-chinese-patent-for-mesenchymal-cell-potency-assays"
 signal_ids: []

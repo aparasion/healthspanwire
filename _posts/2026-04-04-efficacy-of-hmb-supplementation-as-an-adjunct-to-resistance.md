@@ -4,7 +4,7 @@ date: 2026-04-04T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A systematic review and meta-analysis conducted on 561 participants across 13 randomized controlled trials has revealed that **β-hydroxy β-methylbutyrate (HMB)..."
+excerpt: "A systematic review and meta-analysis conducted on 561 participants across 13 randomized controlled trials has revealed that β-hydroxy β-methylbutyrate (HMB)..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag073/8586702?rss=1"
 signal_ids: []

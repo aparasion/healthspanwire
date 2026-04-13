@@ -4,7 +4,7 @@ date: 2026-03-17T17:22:35Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A comprehensive review by the **Cochrane Collaboration** has synthesized data from 31 systematic reviews involving **97,000 individuals** to evaluate the effica..."
+excerpt: "A comprehensive review by the Cochrane Collaboration has synthesized data from 31 systematic reviews involving 97,000 individuals to evaluate the effica..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/do-any-non-drug-treatments-help-back-pain-heres-what-the-evidence-says"
 signal_ids: []

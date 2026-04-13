@@ -4,7 +4,7 @@ date: 2026-04-08T11:45:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The global **infusion pumps and devices market** is projected to expand from **$9 billion in 2024 to $14.2 billion by 2030**, representing a **compound annual g..."
+excerpt: "The global infusion pumps and devices market is projected to expand from $9 billion in 2024 to $14.2 billion by 2030, representing a compound annual g..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270016/0/en/Global-Infusion-Pumps-and-Devices-Market-to-Reach-14-2-Billion-by-2030-as-Chronic-Disease-Burden-Aging-Populations-and-Smart-Pump-Innovation-Drive-Growth.html"
 signal_ids: []

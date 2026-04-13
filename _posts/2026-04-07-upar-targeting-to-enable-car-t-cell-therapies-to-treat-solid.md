@@ -4,7 +4,7 @@ date: 2026-04-07T10:11:39Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have identified **uPAR** (urokinase plasminogen activator receptor) as a promising target for enhancing **CAR T cell therapies** aimed at treating s..."
+excerpt: "Researchers have identified uPAR (urokinase plasminogen activator receptor) as a promising target for enhancing CAR T cell therapies aimed at treating s..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/upar-targeting-to-enable-car-t-cell-therapies-to-treat-solid-cancers"
 signal_ids: [senolytic-clinical-validation]

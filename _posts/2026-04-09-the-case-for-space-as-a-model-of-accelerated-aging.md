@@ -4,7 +4,7 @@ date: 2026-04-09T19:45:30Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**NASA's exploration of spaceflight as a model for human aging reveals significant insights into the biological processes underlying aging.** The study highligh..."
+excerpt: "NASA's exploration of spaceflight as a model for human aging reveals significant insights into the biological processes underlying aging. The study highligh..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01105-2"
 signal_ids: [blood-biomarker-panels]

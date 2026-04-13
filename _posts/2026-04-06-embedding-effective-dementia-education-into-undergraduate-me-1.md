@@ -4,7 +4,7 @@ date: 2026-04-06T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study highlights the critical gap in **dementia education** within undergraduate healthcare curricula, revealing systemic barriers that hinder effectiv..."
+excerpt: "A recent study highlights the critical gap in dementia education within undergraduate healthcare curricula, revealing systemic barriers that hinder effectiv..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag071/8607735?rss=1"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T10:59:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "C4 Therapeutics (C4T) has announced a collaboration with Roche to develop **degrader-antibody conjugates (DACs)** targeting two undisclosed oncology indications..."
+excerpt: "C4 Therapeutics (C4T) has announced a collaboration with Roche to develop degrader-antibody conjugates (DACs) targeting two undisclosed oncology indications..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270765/0/en/C4-Therapeutics-Expands-Long-Term-Partnership-with-Roche-Through-New-Collaboration-Agreement-Focused-on-Discovering-and-Developing-Degrader-Antibody-Conjugates-DACs.html"
 signal_ids: []

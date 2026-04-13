@@ -4,7 +4,7 @@ date: 2026-04-13T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Kymera Therapeutics has received **Fast Track designation** from the FDA for its investigational oral drug, **KT-621**, a first-in-class **STAT6 degrader** targ..."
+excerpt: "Kymera Therapeutics has received Fast Track designation from the FDA for its investigational oral drug, KT-621, a first-in-class STAT6 degrader targ..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272365/0/en/Kymera-Therapeutics-Announces-U-S-FDA-Fast-Track-Designation-for-KT-621-a-First-in-Class-Oral-STAT6-Degrader-for-the-Treatment-of-Moderate-to-Severe-Asthma.html"
 signal_ids: []

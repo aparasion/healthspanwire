@@ -4,7 +4,7 @@ date: 2026-04-09T11:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "InflaRx N.V. has announced significant in vitro findings regarding **izicopan**, an oral C5a receptor (C5aR) inhibitor, demonstrating that it does not exhibit *..."
+excerpt: "InflaRx N.V. has announced significant in vitro findings regarding izicopan, an oral C5a receptor (C5aR) inhibitor, demonstrating that it does not exhibit ..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270828/0/en/InflaRx-Reports-New-Mechanistic-Data-for-Izicopan-Supporting-its-Potential-as-a-Best-in-Class-C5aR-Inhibitor.html"
 signal_ids: []

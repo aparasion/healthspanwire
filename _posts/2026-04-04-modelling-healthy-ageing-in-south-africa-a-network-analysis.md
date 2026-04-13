@@ -4,7 +4,7 @@ date: 2026-04-04T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study utilizing **network analysis** has unveiled critical insights into the interdependencies among cognitive, physical, emotional, and functional cap..."
+excerpt: "A recent study utilizing network analysis has unveiled critical insights into the interdependencies among cognitive, physical, emotional, and functional cap..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag074/8586708?rss=1"
 signal_ids: []

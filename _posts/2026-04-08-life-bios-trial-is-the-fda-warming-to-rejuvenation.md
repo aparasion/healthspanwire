@@ -4,7 +4,7 @@ date: 2026-04-08T20:34:59Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Life Biosciences is advancing the field of rejuvenation therapies by initiating the first human trials of **ER-100**, an epigenetic treatment aimed at partially..."
+excerpt: "Life Biosciences is advancing the field of rejuvenation therapies by initiating the first human trials of ER-100, an epigenetic treatment aimed at partially..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/life-bios-trial-is-the-fda-warming-to-rejuvenation/?utm_source=rss&utm_medium=rss&utm_campaign=life-bios-trial-is-the-fda-warming-to-rejuvenation"
 signal_ids: []

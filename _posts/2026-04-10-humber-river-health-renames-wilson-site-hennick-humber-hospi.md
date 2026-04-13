@@ -4,7 +4,7 @@ date: 2026-04-10T15:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Humber River Health has announced a significant transformation with the renaming of its Wilson site to **Hennick Humber Hospital**, following a **$50 million ph..."
+excerpt: "Humber River Health has announced a significant transformation with the renaming of its Wilson site to Hennick Humber Hospital, following a $50 million ph..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271820/0/en/Humber-River-Health-Renames-Wilson-Site-Hennick-Humber-Hospital-Following-Transformational-50-Million-Gift.html"
 signal_ids: []

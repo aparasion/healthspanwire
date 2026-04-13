@@ -4,7 +4,7 @@ date: 2026-04-09T03:57:17Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at **Flinders University**, led by Dr. Witold Bloch, have developed an innovative **nano-sized molecular cage** that effectively captures **short-ch..."
+excerpt: "Researchers at Flinders University, led by Dr. Witold Bloch, have developed an innovative nano-sized molecular cage that effectively captures short-ch..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260408225951.htm"
 signal_ids: []

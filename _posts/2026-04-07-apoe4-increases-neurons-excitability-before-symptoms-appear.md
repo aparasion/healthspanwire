@@ -4,7 +4,7 @@ date: 2026-04-07T16:10:44Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the Gladstone Institutes have unveiled significant insights into the **hyperexcitability of hippocampal neurons** associated with the **APOE4 all..."
+excerpt: "Researchers at the Gladstone Institutes have unveiled significant insights into the hyperexcitability of hippocampal neurons associated with the APOE4 all..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/apoe4-increases-neurons-excitability-before-symptoms-appear/?utm_source=rss&utm_medium=rss&utm_campaign=apoe4-increases-neurons-excitability-before-symptoms-appear"
 signal_ids: []

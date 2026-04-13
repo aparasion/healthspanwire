@@ -4,7 +4,7 @@ date: 2026-04-13T11:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "NorthStrive Biosciences Inc. has achieved a significant milestone with the transfer of its **EL-32 Working Cell Bank (WCB)** to a U.S.-based third-party ferment..."
+excerpt: "NorthStrive Biosciences Inc. has achieved a significant milestone with the transfer of its EL-32 Working Cell Bank (WCB) to a U.S.-based third-party ferment..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272385/0/en/NorthStrive-Biosciences-Announces-U-S-Arrival-of-EL-32-Working-Cell-Bank-and-Initiation-of-Manufacturing-Optimization-for-Dual-Myostatin-Assets-Targeting-Muscle-Preservation-with-G.html"
 signal_ids: []

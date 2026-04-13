@@ -4,7 +4,7 @@ date: 2026-04-12T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study investigates the impact of a **24-week resistance exercise (RE)** program on Alzheimer’s disease (AD) brain signatures in cognitively unimpaired..."
+excerpt: "A recent study investigates the impact of a 24-week resistance exercise (RE) program on Alzheimer’s disease (AD) brain signatures in cognitively unimpaired..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag086/8651858?rss=1"
 signal_ids: []

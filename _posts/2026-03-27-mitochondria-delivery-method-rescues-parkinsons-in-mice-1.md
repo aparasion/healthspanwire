@@ -4,7 +4,7 @@ date: 2026-03-27T16:02:03Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A novel **mitochondrial delivery method** developed by Chinese researchers demonstrates significant therapeutic potential for **Parkinson's disease** and **Leig..."
+excerpt: "A novel mitochondrial delivery method developed by Chinese researchers demonstrates significant therapeutic potential for Parkinson's disease and Leig..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/mitochondria-delivery-method-rescues-parkinsons-in-mice/?utm_source=rss&utm_medium=rss&utm_campaign=mitochondria-delivery-method-rescues-parkinsons-in-mice"
 signal_ids: []

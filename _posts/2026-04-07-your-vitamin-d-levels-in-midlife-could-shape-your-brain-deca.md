@@ -4,7 +4,7 @@ date: 2026-04-07T11:47:09Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Neurology Open Access* highlights a significant correlation between **midlife vitamin D levels** and long-term brain health, partic..."
+excerpt: "A recent study published in Neurology Open Access highlights a significant correlation between midlife vitamin D levels and long-term brain health, partic..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260407073850.htm"
 signal_ids: []

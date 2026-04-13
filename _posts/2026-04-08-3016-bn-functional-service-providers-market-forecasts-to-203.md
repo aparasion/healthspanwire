@@ -4,7 +4,7 @@ date: 2026-04-08T12:58:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **global functional service providers (FSPs) market** is projected to grow from approximately **USD 15.50 billion in 2024** to **USD 30.16 billion by 2034**..."
+excerpt: "The global functional service providers (FSPs) market is projected to grow from approximately USD 15.50 billion in 2024 to USD 30.16 billion by 2034..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270138/0/en/30-16-BN-Functional-Service-Providers-Market-Forecasts-to-2034-Rising-Trial-Complexity-Cost-Pressures-Demand-for-Flexible-Scalable-Outsourcing-Models.html"
 signal_ids: []

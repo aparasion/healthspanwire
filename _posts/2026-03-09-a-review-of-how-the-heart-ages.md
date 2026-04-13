@@ -4,7 +4,7 @@ date: 2026-03-09T17:23:52Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent review published in the *European Heart Journal* explores the multifaceted aging process of the human heart, detailing both cellular and structural cha..."
+excerpt: "A recent review published in the European Heart Journal explores the multifaceted aging process of the human heart, detailing both cellular and structural cha..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/a-review-of-how-the-heart-ages/?utm_source=rss&utm_medium=rss&utm_campaign=a-review-of-how-the-heart-ages"
 signal_ids: [senolytic-clinical-validation]

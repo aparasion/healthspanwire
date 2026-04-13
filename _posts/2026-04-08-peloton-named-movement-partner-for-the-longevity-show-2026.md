@@ -4,7 +4,7 @@ date: 2026-04-08T17:28:47Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Peloton has been named the Movement Partner for The Longevity Show 2026, marking a significant shift in the longevity field towards integrating physical activ..."
+excerpt: "Peloton has been named the Movement Partner for The Longevity Show 2026, marking a significant shift in the longevity field towards integrating physical activ..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/peloton-named-movement-partner-for-the-longevity-show-2026"
 signal_ids: []

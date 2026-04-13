@@ -4,7 +4,7 @@ date: 2026-04-07T11:01:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Invivyd, Inc. has launched the **Antibodies for Any Body** campaign, aimed at enhancing public understanding of antibodies and their critical role in immune hea..."
+excerpt: "Invivyd, Inc. has launched the Antibodies for Any Body campaign, aimed at enhancing public understanding of antibodies and their critical role in immune hea..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268977/0/en/Invivyd-Launches-Antibodies-for-Any-Body-in-Partnership-with-World-Champion-Skier-Lindsey-Vonn-to-Inspire-Actions-that-Help-Support-Immune-Health.html"
 signal_ids: []

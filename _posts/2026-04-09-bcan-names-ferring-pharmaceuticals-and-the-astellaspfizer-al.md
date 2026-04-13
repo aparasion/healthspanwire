@@ -4,7 +4,7 @@ date: 2026-04-09T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **Bladder Cancer Advocacy Network (BCAN)** has announced that **Ferring Pharmaceuticals** and the **Astellas/Pfizer Alliance** will serve as National Presen..."
+excerpt: "The Bladder Cancer Advocacy Network (BCAN) has announced that Ferring Pharmaceuticals and the Astellas/Pfizer Alliance will serve as National Presen..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270891/0/en/BCAN-Names-Ferring-Pharmaceuticals-and-the-Astellas-Pfizer-Alliance-as-National-Presenting-Sponsors-of-the-2026-Walks-to-End-Bladder-Cancer.html"
 signal_ids: []

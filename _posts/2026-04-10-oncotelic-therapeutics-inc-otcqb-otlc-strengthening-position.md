@@ -4,7 +4,7 @@ date: 2026-04-10T12:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Oncotelic Therapeutics Inc. has recently been highlighted in an editorial by AINewsWire, emphasizing the transformative role of **artificial intelligence (AI)**..."
+excerpt: "Oncotelic Therapeutics Inc. has recently been highlighted in an editorial by AINewsWire, emphasizing the transformative role of artificial intelligence (AI)..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271722/0/en/Oncotelic-Therapeutics-Inc-OTCQB-OTLC-Strengthening-Position-with-AI-Driven-Tech-in-Automated-Compliance-Space.html"
 signal_ids: []

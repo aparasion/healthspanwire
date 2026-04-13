@@ -4,7 +4,7 @@ date: 2026-04-08T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Amarin Corporation has underscored the critical role of **icosapent ethyl (IPE)** in managing **residual cardiovascular (CV) risk** at the 2026 American College..."
+excerpt: "Amarin Corporation has underscored the critical role of icosapent ethyl (IPE) in managing residual cardiovascular (CV) risk at the 2026 American College..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270041/18362/en/American-College-of-Cardiology-ACC-Scientific-Sessions-2026-Underscore-the-Need-for-Complementary-Therapies-Including-Icosapent-Ethyl-IPE-in-Treatment-of-Elevated-Triglycerides-and.html"
 signal_ids: []

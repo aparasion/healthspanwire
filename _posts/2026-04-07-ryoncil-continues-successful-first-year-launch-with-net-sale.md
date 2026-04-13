@@ -4,7 +4,7 @@ date: 2026-04-07T01:03:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Mesoblast Limited reports a significant milestone with **Ryoncil® (remestemcel-L-rknd)** achieving net sales of **$30.3 million** for Q1 2026, contributing to n..."
+excerpt: "Mesoblast Limited reports a significant milestone with Ryoncil® (remestemcel-L-rknd) achieving net sales of $30.3 million for Q1 2026, contributing to n..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268787/0/en/Ryoncil-Continues-Successful-First-Year-Launch-with-Net-Sales-of-US-30-3M-in-March-Quarter.html"
 signal_ids: []

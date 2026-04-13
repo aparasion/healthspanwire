@@ -4,7 +4,7 @@ date: 2026-04-04T03:38:49Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent Phase III clinical trial has demonstrated that **baxdrostat**, a novel antihypertensive medication, significantly reduces blood pressure in patients wh..."
+excerpt: "A recent Phase III clinical trial has demonstrated that baxdrostat, a novel antihypertensive medication, significantly reduces blood pressure in patients wh..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260403232124.htm"
 signal_ids: []

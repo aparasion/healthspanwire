@@ -4,7 +4,7 @@ date: 2026-04-06T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Danielle Chammas**, a palliative-care physician at UCSF, highlights the intersection of **poetry and medicine** through her published poem \"Defiance,\" which r..."
+excerpt: "Danielle Chammas, a palliative-care physician at UCSF, highlights the intersection of poetry and medicine through her published poem \"Defiance,\" which r..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/d41586-026-01028-3"
 signal_ids: []

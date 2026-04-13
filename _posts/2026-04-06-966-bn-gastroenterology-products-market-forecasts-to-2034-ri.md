@@ -4,7 +4,7 @@ date: 2026-04-06T13:29:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **global gastroenterology products market** is poised for significant growth, with a projected increase from **USD 5.15 billion in 2024** to **USD 9.66 bill..."
+excerpt: "The global gastroenterology products market is poised for significant growth, with a projected increase from USD 5.15 billion in 2024 to USD 9.66 bill..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268494/0/en/9-66-BN-Gastroenterology-Products-Market-Forecasts-to-2034-Rising-aging-population-advancing-endoscopic-tech-and-expanding-healthcare-in-developing-regions.html"
 signal_ids: []

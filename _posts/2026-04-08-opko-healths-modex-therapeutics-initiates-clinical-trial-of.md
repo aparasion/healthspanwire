@@ -4,7 +4,7 @@ date: 2026-04-08T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "ModeX Therapeutics has initiated a Phase 1 clinical trial for **MDX2301**, a **tetravalent bispecific antibody** aimed at preventing COVID-19 by neutralizing al..."
+excerpt: "ModeX Therapeutics has initiated a Phase 1 clinical trial for MDX2301, a tetravalent bispecific antibody aimed at preventing COVID-19 by neutralizing al..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270045/0/en/OPKO-Health-s-ModeX-Therapeutics-Initiates-Clinical-Trial-of-MDX2301-for-the-Prevention-of-COVID-19.html"
 signal_ids: []

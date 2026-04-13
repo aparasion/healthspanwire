@@ -4,7 +4,7 @@ date: 2026-03-15T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent research highlights the critical impact of **clustering effects** in preclinical lifespan studies, particularly in the context of shared housing for expe..."
+excerpt: "Recent research highlights the critical impact of clustering effects in preclinical lifespan studies, particularly in the context of shared housing for expe..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag074/8524750?rss=1"
 signal_ids: []

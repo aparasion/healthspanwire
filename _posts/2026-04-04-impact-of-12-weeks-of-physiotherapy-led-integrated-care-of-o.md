@@ -4,7 +4,7 @@ date: 2026-04-04T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study has demonstrated the efficacy of a **Physiotherapy-led, Person-Centred Integrated Care (PTICOPE)** program in enhancing intrinsic capacity (IC) a..."
+excerpt: "A recent study has demonstrated the efficacy of a Physiotherapy-led, Person-Centred Integrated Care (PTICOPE) program in enhancing intrinsic capacity (IC) a..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag072/8586691?rss=1"
 signal_ids: []

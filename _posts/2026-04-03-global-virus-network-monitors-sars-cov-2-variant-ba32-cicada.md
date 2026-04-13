@@ -4,7 +4,7 @@ date: 2026-04-03T16:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The Global Virus Network (GVN) is currently tracking the SARS-CoV-2 variant **BA.3.2**, also known informally as the “cicada” variant. This sublineage of the **..."
+excerpt: "The Global Virus Network (GVN) is currently tracking the SARS-CoV-2 variant BA.3.2, also known informally as the “cicada” variant. This sublineage of the ..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/03/3268089/0/en/Global-Virus-Network-Monitors-SARS-CoV-2-Variant-BA-3-2-Cicada-Emphasizes-No-Cause-for-Alarm.html"
 signal_ids: []

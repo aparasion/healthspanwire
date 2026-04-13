@@ -4,7 +4,7 @@ date: 2026-04-09T13:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "LivTech has announced its acquisition of Alora Healthcare Systems, a move that integrates Alora's **AI-enhanced home health care software** with LivTech's robus..."
+excerpt: "LivTech has announced its acquisition of Alora Healthcare Systems, a move that integrates Alora's AI-enhanced home health care software with LivTech's robus..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271014/0/en/LivTech-Acquires-Alora-Healthcare-Systems-Further-Expanding-Leadership-in-Home-Based-Care-Technology.html"
 signal_ids: []

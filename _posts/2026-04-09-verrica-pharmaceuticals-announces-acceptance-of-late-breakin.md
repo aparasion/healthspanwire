@@ -4,7 +4,7 @@ date: 2026-04-09T20:05:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Verrica Pharmaceuticals has announced the acceptance of a late-breaking abstract detailing Phase 2 exploratory data for **VP-315**, a novel oncolytic peptide ai..."
+excerpt: "Verrica Pharmaceuticals has announced the acceptance of a late-breaking abstract detailing Phase 2 exploratory data for VP-315, a novel oncolytic peptide ai..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271414/0/en/Verrica-Pharmaceuticals-Announces-Acceptance-of-Late-Breaking-Abstract-Highlighting-Potential-Abscopal-Effect-of-VP-315-for-the-Treatment-of-Basal-Cell-Carcinoma-at-the-Upcoming-20.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-13T10:02:24Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Research highlights significant sex differences in response to longevity interventions, emphasizing the need for tailored approaches.** A comprehensive review..."
+excerpt: "Research highlights significant sex differences in response to longevity interventions, emphasizing the need for tailored approaches. A comprehensive review..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/reviewing-what-is-known-of-sex-differences-in-response-to-established-longevity-interventions"
 signal_ids: []

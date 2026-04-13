@@ -4,7 +4,7 @@ date: 2026-04-03T18:33:29Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Recent research highlights the cGAS-STING pathway's role in the aging ovary, revealing its potential as a target for therapeutic intervention. The study discu..."
+excerpt: "Recent research highlights the cGAS-STING pathway's role in the aging ovary, revealing its potential as a target for therapeutic intervention. The study discu..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/signal-reprogramming-as-an-approach-to-the-challenge-of-cgas-sting-overactivation"
 signal_ids: []

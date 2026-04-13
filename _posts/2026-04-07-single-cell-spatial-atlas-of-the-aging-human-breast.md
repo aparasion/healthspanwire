@@ -4,7 +4,7 @@ date: 2026-04-07T23:06:11Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**A recent study employing imaging mass cytometry (IMC) has revealed significant age-related alterations in normal breast tissue architecture and cellular dynam..."
+excerpt: "A recent study employing imaging mass cytometry (IMC) has revealed significant age-related alterations in normal breast tissue architecture and cellular dynam..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01104-3"
 signal_ids: []

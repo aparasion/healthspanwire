@@ -4,7 +4,7 @@ date: 2026-04-09T18:53:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Kildare Road Medical Centre in Blacktown, Australia, has reinforced its commitment to community healthcare by continuing its participation in the **Australian G..."
+excerpt: "Kildare Road Medical Centre in Blacktown, Australia, has reinforced its commitment to community healthcare by continuing its participation in the Australian G..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271370/0/en/Medical-Centre-in-Blacktown-goes-Bulk-Billed.html"
 signal_ids: []

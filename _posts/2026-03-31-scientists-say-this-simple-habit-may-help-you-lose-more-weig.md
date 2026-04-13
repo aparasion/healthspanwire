@@ -4,7 +4,7 @@ date: 2026-03-31T03:45:16Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Health Psychology* by researchers from the Oregon Research Institute reveals that adhering to a consistent meal routine can signifi..."
+excerpt: "A recent study published in Health Psychology by researchers from the Oregon Research Institute reveals that adhering to a consistent meal routine can signifi..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/03/260330233357.htm"
 signal_ids: []

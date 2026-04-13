@@ -4,7 +4,7 @@ date: 2026-04-05T11:16:49Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent developments highlight the potential of **gut microbiome modulation** as a therapeutic strategy for neurodegenerative diseases. Research indicates that a..."
+excerpt: "Recent developments highlight the potential of gut microbiome modulation as a therapeutic strategy for neurodegenerative diseases. Research indicates that a..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/fight-aging-newsletter-april-6th-2026"
 signal_ids: [gut-microbiome-aging]

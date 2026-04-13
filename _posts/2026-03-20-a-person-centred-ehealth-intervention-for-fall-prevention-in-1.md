@@ -4,7 +4,7 @@ date: 2026-03-20T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent secondary analysis of the **GERONTACCESS** trial has revealed promising findings regarding the implementation of a **gerontological telemedicine progra..."
+excerpt: "A recent secondary analysis of the GERONTACCESS trial has revealed promising findings regarding the implementation of a gerontological telemedicine progra..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag053/8530444?rss=1"
 signal_ids: []

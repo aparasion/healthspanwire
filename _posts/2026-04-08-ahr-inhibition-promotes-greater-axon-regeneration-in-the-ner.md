@@ -4,7 +4,7 @@ date: 2026-04-08T10:22:07Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have identified the **aryl hydrocarbon receptor (AhR)** as a critical regulator of axon regeneration in the nervous system, revealing its dual role..."
+excerpt: "Researchers have identified the aryl hydrocarbon receptor (AhR) as a critical regulator of axon regeneration in the nervous system, revealing its dual role..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/ahr-inhibition-promotes-greater-axon-regeneration-in-the-nervous-system"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-07T10:57:46Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the University of Florida and Trinity College Dublin have identified the **SLC35F2 gene** as the long-sought transporter responsible for the cell..."
+excerpt: "Researchers at the University of Florida and Trinity College Dublin have identified the SLC35F2 gene as the long-sought transporter responsible for the cell..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260407004815.htm"
 signal_ids: []

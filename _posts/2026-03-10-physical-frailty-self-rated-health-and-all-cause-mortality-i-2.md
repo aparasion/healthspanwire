@@ -4,7 +4,7 @@ date: 2026-03-10T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**A recent study utilizing data from the National Health and Aging Trends Study has elucidated the independent roles of physical frailty and self-rated health (..."
+excerpt: "A recent study utilizing data from the National Health and Aging Trends Study has elucidated the independent roles of physical frailty and self-rated health (..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag067/8513617?rss=1"
 signal_ids: []

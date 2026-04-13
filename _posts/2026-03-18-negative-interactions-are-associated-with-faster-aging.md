@@ -4,7 +4,7 @@ date: 2026-03-18T16:03:38Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Proceedings of the National Academy of Sciences* reveals a significant link between negative social interactions—termed \"hasslers\"—..."
+excerpt: "A recent study published in Proceedings of the National Academy of Sciences reveals a significant link between negative social interactions—termed \"hasslers\"—..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/negative-interactions-are-associated-with-faster-aging/?utm_source=rss&utm_medium=rss&utm_campaign=negative-interactions-are-associated-with-faster-aging"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T10:06:04Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent retrospective cohort study utilizing data from the IQVIA PharMetrics Plus for Academics database has revealed that **high-dose inactivated influenza va..."
+excerpt: "A recent retrospective cohort study utilizing data from the IQVIA PharMetrics Plus for Academics database has revealed that high-dose inactivated influenza va..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/high-dose-influenza-vaccine-correlates-with-greater-reduction-in-dementia-risk"
 signal_ids: []

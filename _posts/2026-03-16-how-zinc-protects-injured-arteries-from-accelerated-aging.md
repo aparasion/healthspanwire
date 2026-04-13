@@ -4,7 +4,7 @@ date: 2026-03-16T16:12:59Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have identified a novel mechanism by which zinc can protect injured arteries from accelerated aging, as detailed in a recent study published in *Agi..."
+excerpt: "Researchers have identified a novel mechanism by which zinc can protect injured arteries from accelerated aging, as detailed in a recent study published in Agi..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/how-zinc-protects-injured-arteries-from-accelerated-aging/?utm_source=rss&utm_medium=rss&utm_campaign=how-zinc-protects-injured-arteries-from-accelerated-aging"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-03-16T11:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Eli Lilly and Company has announced that **Zepbound (tirzepatide)** is now available for self-pay pricing, starting at **$299 per month** for the 2.5 mg dose, a..."
+excerpt: "Eli Lilly and Company has announced that Zepbound (tirzepatide) is now available for self-pay pricing, starting at $299 per month for the 2.5 mg dose, a..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/media-statement-zepbound-tirzepatide-kwikpen-now-available-self"
 signal_ids: []

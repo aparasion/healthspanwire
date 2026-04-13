@@ -4,7 +4,7 @@ date: 2026-04-03T11:05:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **Longevity Show** highlights a pivotal shift in occupational health, where the focus is transitioning from compliance and risk management to **proactive pr..."
+excerpt: "The Longevity Show highlights a pivotal shift in occupational health, where the focus is transitioning from compliance and risk management to proactive pr..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/occupational-health-meets-longevity"
 signal_ids: []

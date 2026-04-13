@@ -4,7 +4,7 @@ date: 2026-04-13T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Ocular Therapeutix has presented compelling **post-hoc analyses** from the SOL-1 Phase 3 trial of **AXPAXLI** (OTX-TKI) at the 14th Annual Vit-Buckle Society Me..."
+excerpt: "Ocular Therapeutix has presented compelling post-hoc analyses from the SOL-1 Phase 3 trial of AXPAXLI (OTX-TKI) at the 14th Annual Vit-Buckle Society Me..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272358/0/en/Ocular-Therapeutix-Announces-Additional-Positive-Week-52-Data-from-Landmark-SOL-1-Phase-3-Trial-of-AXPAXLI-in-Wet-AMD.html"
 signal_ids: []

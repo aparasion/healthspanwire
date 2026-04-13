@@ -4,7 +4,7 @@ date: 2026-04-09T05:46:09Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Airna has initiated a Phase 1 clinical trial for AIR-001, an RNA-editing therapeutic targeting **alpha-1 antitrypsin deficiency (AATD)**. The open-label RepAIR1..."
+excerpt: "Airna has initiated a Phase 1 clinical trial for AIR-001, an RNA-editing therapeutic targeting alpha-1 antitrypsin deficiency (AATD). The open-label RepAIR1..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/airna-doses-first-patient-in-phase-1-trial-of-air-001-for-aatd"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-03-11T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Nature* reveals that a specific gut bacterium, *Parabacteroides goldsteinii*, contributes to cognitive decline in aging mice by dis..."
+excerpt: "A recent study published in Nature reveals that a specific gut bacterium, Parabacteroides goldsteinii, contributes to cognitive decline in aging mice by dis..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/d41586-026-00768-6"
 signal_ids: []

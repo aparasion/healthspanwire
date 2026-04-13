@@ -4,7 +4,7 @@ date: 2026-04-02T18:07:46Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Nature Aging* reveals that longitudinal changes in multiple epigenetic clocks are independently associated with long-term mortality..."
+excerpt: "A recent study published in Nature Aging reveals that longitudinal changes in multiple epigenetic clocks are independently associated with long-term mortality..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01095-1"
 signal_ids: [epigenetic-clock-adoption]

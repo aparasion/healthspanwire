@@ -4,7 +4,7 @@ date: 2026-04-06T12:14:33Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at **Leipzig University** have identified the receptor **GPR133** as a critical regulator of bone strength, presenting a novel therapeutic target fo..."
+excerpt: "Researchers at Leipzig University have identified the receptor GPR133 as a critical regulator of bone strength, presenting a novel therapeutic target fo..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260406080131.htm"
 signal_ids: []

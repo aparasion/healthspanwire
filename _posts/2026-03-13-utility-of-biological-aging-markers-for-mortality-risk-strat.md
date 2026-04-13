@@ -4,7 +4,7 @@ date: 2026-03-13T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study involving **4,000 older adults** from the Mr. OS and Ms. OS cohort has elucidated the associations between various **biological aging (BA) marker..."
+excerpt: "A recent study involving 4,000 older adults from the Mr. OS and Ms. OS cohort has elucidated the associations between various biological aging (BA) marker..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag073/8520912?rss=1"
 signal_ids: []

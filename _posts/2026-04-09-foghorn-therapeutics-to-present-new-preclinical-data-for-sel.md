@@ -4,7 +4,7 @@ date: 2026-04-09T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Foghorn Therapeutics Inc. has announced promising preclinical data for its selective SMARCA2 inhibitor, **FHD-909**, which demonstrates potential for combinatio..."
+excerpt: "Foghorn Therapeutics Inc. has announced promising preclinical data for its selective SMARCA2 inhibitor, FHD-909, which demonstrates potential for combinatio..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270778/0/en/Foghorn-Therapeutics-to-Present-New-Preclinical-Data-for-Selective-SMARCA2-Inhibitor-FHD-909-and-Selective-CBP-EP300-and-ARID1B-Degrader-Programs-at-the-2026-AACR-Annual-Meeting.html"
 signal_ids: []

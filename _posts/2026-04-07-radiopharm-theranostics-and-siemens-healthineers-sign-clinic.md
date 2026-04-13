@@ -4,7 +4,7 @@ date: 2026-04-07T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Radiopharm Theranostics has reported promising interim results from its Phase 2b trial of **RAD101**, a novel imaging small molecule targeting **fatty acid synt..."
+excerpt: "Radiopharm Theranostics has reported promising interim results from its Phase 2b trial of RAD101, a novel imaging small molecule targeting fatty acid synt..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268954/0/en/Radiopharm-Theranostics-and-Siemens-Healthineers-Sign-Clinical-Supply-Agreement-for-RAD101-in-the-U-S.html"
 signal_ids: []

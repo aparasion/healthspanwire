@@ -4,7 +4,7 @@ date: 2026-04-06T15:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**HairClub** has launched the **Aderans Helping Hearts Fund**, an employee relief initiative aimed at providing confidential financial assistance to its workfor..."
+excerpt: "HairClub has launched the Aderans Helping Hearts Fund, an employee relief initiative aimed at providing confidential financial assistance to its workfor..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268535/0/en/HairClub-Launches-100-000-Aderans-Helping-Hearts-Fund-to-Support-Employees-Facing-Life-s-Unexpected-Hardships.html"
 signal_ids: []

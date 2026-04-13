@@ -4,7 +4,7 @@ date: 2026-03-27T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent pilot trial conducted across five community-based Otago exercise classes has demonstrated that **floor-rise training (FRT)** can significantly enhance..."
+excerpt: "A recent pilot trial conducted across five community-based Otago exercise classes has demonstrated that floor-rise training (FRT) can significantly enhance..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag064/8550894?rss=1"
 signal_ids: []

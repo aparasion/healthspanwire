@@ -4,7 +4,7 @@ date: 2026-04-09T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study has highlighted the alarming presence of **microplastics and nanoplastics (MNPs)** in the human heart, linking these contaminants to increased ri..."
+excerpt: "A recent study has highlighted the alarming presence of microplastics and nanoplastics (MNPs) in the human heart, linking these contaminants to increased ri..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270887/0/en/The-Growing-Connection-Between-Microplastics-and-the-Human-Heart.html"
 signal_ids: []

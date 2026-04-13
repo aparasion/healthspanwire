@@ -4,7 +4,7 @@ date: 2026-04-09T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Soleo Health has announced the opening of a new **ambulatory infusion center (AIC)** in Austin, Texas, aimed at enhancing patient access to specialized infusion..."
+excerpt: "Soleo Health has announced the opening of a new ambulatory infusion center (AIC) in Austin, Texas, aimed at enhancing patient access to specialized infusion..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270776/0/en/Soleo-Health-Opens-New-Ambulatory-Infusion-Center-in-Austin-Texas.html"
 signal_ids: []

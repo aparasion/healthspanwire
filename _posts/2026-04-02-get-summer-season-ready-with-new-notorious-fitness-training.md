@@ -4,7 +4,7 @@ date: 2026-04-02T19:35:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Notorious Fitness**, under the leadership of Brandon Grant, has launched its **Summer Season Training Packages** in Las Vegas, targeting residents eager to op..."
+excerpt: "Notorious Fitness, under the leadership of Brandon Grant, has launched its Summer Season Training Packages in Las Vegas, targeting residents eager to op..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267797/0/en/Get-Summer-Season-Ready-with-New-Notorious-Fitness-Training-Plans.html"
 signal_ids: []

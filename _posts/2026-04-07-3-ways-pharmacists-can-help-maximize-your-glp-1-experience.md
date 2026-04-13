@@ -4,7 +4,7 @@ date: 2026-04-07T15:01:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent data from a KFF Health poll reveals that approximately **1 in 8 American adults** are currently using **GLP-1 medications** for diabetes management or we..."
+excerpt: "Recent data from a KFF Health poll reveals that approximately 1 in 8 American adults are currently using GLP-1 medications for diabetes management or we..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269426/0/en/3-Ways-Pharmacists-Can-Help-Maximize-Your-GLP-1-Experience.html"
 signal_ids: []

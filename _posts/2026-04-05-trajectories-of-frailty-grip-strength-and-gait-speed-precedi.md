@@ -4,7 +4,7 @@ date: 2026-04-05T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study has identified significant **functional decline** as a precursor to dementia, highlighting the trajectories of **frailty**, **grip strength**, an..."
+excerpt: "A recent study has identified significant functional decline as a precursor to dementia, highlighting the trajectories of frailty, grip strength, an..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag062/8586851?rss=1"
 signal_ids: []

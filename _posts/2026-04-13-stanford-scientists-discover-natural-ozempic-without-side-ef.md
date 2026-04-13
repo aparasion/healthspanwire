@@ -4,7 +4,7 @@ date: 2026-04-13T02:34:37Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Scientists at Stanford Medicine have identified a novel peptide, **BRP**, that mimics the appetite-suppressing effects of semaglutide (Ozempic) but with fewer s..."
+excerpt: "Scientists at Stanford Medicine have identified a novel peptide, BRP, that mimics the appetite-suppressing effects of semaglutide (Ozempic) but with fewer s..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260412221946.htm"
 signal_ids: []

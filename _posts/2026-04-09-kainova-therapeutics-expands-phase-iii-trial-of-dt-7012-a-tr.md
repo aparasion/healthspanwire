@@ -4,7 +4,7 @@ date: 2026-04-09T07:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Kainova Therapeutics has initiated the European expansion of its DOMISOL Phase I/II clinical trial, marking a key milestone in the global development of **DT-70..."
+excerpt: "Kainova Therapeutics has initiated the European expansion of its DOMISOL Phase I/II clinical trial, marking a key milestone in the global development of DT-70..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270669/0/en/Kainova-Therapeutics-Expands-Phase-I-II-Trial-of-DT-7012-a-Treg-depleting-Anti-CCR8-Antibody-with-First-Patient-Dosed-in-Europe.html"
 signal_ids: []

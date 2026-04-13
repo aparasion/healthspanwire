@@ -4,7 +4,7 @@ date: 2026-04-08T14:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **2026 Vail Hip Summit**, organized by the Steadman Philippon Research Institute (SPRI) in collaboration with the Hospital for Special Surgery (HSS), will t..."
+excerpt: "The 2026 Vail Hip Summit, organized by the Steadman Philippon Research Institute (SPRI) in collaboration with the Hospital for Special Surgery (HSS), will t..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270262/0/en/Steadman-Philippon-Research-Institute-and-Hospital-for-Special-Surgery-to-Host-Vail-Hip-Summit-April-9-11-at-Four-Seasons-Resort-Vail.html"
 signal_ids: []

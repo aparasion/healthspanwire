@@ -4,7 +4,7 @@ date: 2026-04-09T14:10:59Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at **Osaka Metropolitan University** have discovered that dragonflies possess a remarkable ability to perceive deep red light, edging into near-infr..."
+excerpt: "Researchers at Osaka Metropolitan University have discovered that dragonflies possess a remarkable ability to perceive deep red light, edging into near-infr..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260409101059.htm"
 signal_ids: []

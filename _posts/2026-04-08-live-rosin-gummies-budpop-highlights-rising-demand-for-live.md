@@ -4,7 +4,7 @@ date: 2026-04-08T05:34:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "BudPop's recent internal survey reveals a significant shift in consumer preferences within the hemp edibles market, with **68% of respondents** moving away from..."
+excerpt: "BudPop's recent internal survey reveals a significant shift in consumer preferences within the hemp edibles market, with 68% of respondents moving away from..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269807/0/en/Live-Rosin-Gummies-BudPop-Highlights-Rising-Demand-for-Live-Rosin-Gummies-in-2026-as-Consumers-Shift-Toward-Solventless-Cannabis-Edibles.html"
 signal_ids: []

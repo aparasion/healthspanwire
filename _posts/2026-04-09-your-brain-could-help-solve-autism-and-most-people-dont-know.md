@@ -4,7 +4,7 @@ date: 2026-04-09T02:18:02Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent survey conducted by **Autism BrainNet** reveals a significant gap in public understanding regarding the role of **brain donation** in autism research...."
+excerpt: "A recent survey conducted by Autism BrainNet reveals a significant gap in public understanding regarding the role of brain donation in autism research...."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260408095346.htm"
 signal_ids: []

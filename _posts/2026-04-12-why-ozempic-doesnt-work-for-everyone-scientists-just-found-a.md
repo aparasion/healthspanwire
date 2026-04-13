@@ -4,7 +4,7 @@ date: 2026-04-12T12:58:54Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from Stanford Medicine has identified **genetic variants** linked to a phenomenon termed **GLP-1 resistance**, which may explain why approximatel..."
+excerpt: "A recent study from Stanford Medicine has identified genetic variants linked to a phenomenon termed GLP-1 resistance, which may explain why approximatel..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411022029.htm"
 signal_ids: []

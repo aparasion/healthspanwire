@@ -4,7 +4,7 @@ date: 2026-04-09T14:12:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The global **noninvasive cancer diagnostics market** is poised for significant growth, projected to expand from **$112.8 billion in 2024 to $165.2 billion by 20..."
+excerpt: "The global noninvasive cancer diagnostics market is poised for significant growth, projected to expand from $112.8 billion in 2024 to $165.2 billion by 20..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271135/0/en/Global-Noninvasive-Cancer-Diagnostics-Market-to-Reach-165-2-Billion-by-2030-as-Liquid-Biopsy-AI-Enabled-Screening-and-Multi-Cancer-Detection-Tests-Transform-Oncology.html"
 signal_ids: []

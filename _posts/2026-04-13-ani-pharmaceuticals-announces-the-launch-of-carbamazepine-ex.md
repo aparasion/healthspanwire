@@ -4,7 +4,7 @@ date: 2026-04-13T10:50:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "ANI Pharmaceuticals, Inc. has launched **Carbamazepine Extended-Release Capsules** in 100 mg, 200 mg, and 300 mg dosages, marking a significant addition to its..."
+excerpt: "ANI Pharmaceuticals, Inc. has launched Carbamazepine Extended-Release Capsules in 100 mg, 200 mg, and 300 mg dosages, marking a significant addition to its..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272337/0/en/ANI-Pharmaceuticals-Announces-the-Launch-of-Carbamazepine-Extended-Release-Capsules.html"
 signal_ids: []

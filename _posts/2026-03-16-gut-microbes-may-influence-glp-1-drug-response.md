@@ -4,7 +4,7 @@ date: 2026-03-16T17:50:47Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent review in the *British Journal of Clinical Pharmacology* reveals that gut microbiome composition may significantly influence the efficacy of GLP-1 drug..."
+excerpt: "A recent review in the British Journal of Clinical Pharmacology reveals that gut microbiome composition may significantly influence the efficacy of GLP-1 drug..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/gut-microbes-may-influence-glp-1-drug-response"
 signal_ids: [gut-microbiome-aging]

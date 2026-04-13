@@ -4,7 +4,7 @@ date: 2026-04-07T23:06:28Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study employing a **Perturb-seq-based CRISPR–dCas9–KRAB knockdown system** has systematically analyzed **32 high-abundance long noncoding RNAs (lncRNAs..."
+excerpt: "A recent study employing a Perturb-seq-based CRISPR–dCas9–KRAB knockdown system has systematically analyzed 32 high-abundance long noncoding RNAs (lncRNAs..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01100-7"
 signal_ids: []

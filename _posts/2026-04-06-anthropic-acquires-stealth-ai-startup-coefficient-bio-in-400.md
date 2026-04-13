@@ -4,7 +4,7 @@ date: 2026-04-06T16:10:21Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Anthropic has made a significant move in the healthcare sector with its acquisition of **Coefficient Bio**, a stealth AI biotech startup, in a **$400 million st..."
+excerpt: "Anthropic has made a significant move in the healthcare sector with its acquisition of Coefficient Bio, a stealth AI biotech startup, in a $400 million st..."
 publisher: "fiercebiotech.com"
 source_url: "https://www.fiercebiotech.com/biotech/anthropic-acquires-stealth-ai-startup-coefficient-bio-400m-deal"
 signal_ids: []

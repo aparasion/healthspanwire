@@ -4,7 +4,7 @@ date: 2026-04-07T11:19:47Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at **Johns Hopkins Medicine** have identified the gene **KLF5** as a pivotal factor in the **metastasis of pancreatic cancer**, revealing that it op..."
+excerpt: "Researchers at Johns Hopkins Medicine have identified the gene KLF5 as a pivotal factor in the metastasis of pancreatic cancer, revealing that it op..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260406192919.htm"
 signal_ids: []

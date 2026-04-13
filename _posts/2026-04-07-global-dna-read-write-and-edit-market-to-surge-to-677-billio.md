@@ -4,7 +4,7 @@ date: 2026-04-07T17:44:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **global DNA read, write, and edit market** is set to surge from **$21.4 billion in 2024 to $67.7 billion by 2030**, reflecting a **compound annual growth r..."
+excerpt: "The global DNA read, write, and edit market is set to surge from $21.4 billion in 2024 to $67.7 billion by 2030, reflecting a compound annual growth r..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269543/0/en/Global-DNA-Read-Write-and-Edit-Market-to-Surge-to-67-7-Billion-by-2030-Driven-by-CRISPR-Advances-Genomic-Diagnostics-and-Expanding-Clinical-Applications.html"
 signal_ids: []

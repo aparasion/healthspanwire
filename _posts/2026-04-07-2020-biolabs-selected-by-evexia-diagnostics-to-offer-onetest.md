@@ -4,7 +4,7 @@ date: 2026-04-07T12:31:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "20/20 BioLabs has announced a strategic partnership with Evexia Diagnostics, enabling the integration of its **OneTest™ for Cancer** into Evexia’s extensive net..."
+excerpt: "20/20 BioLabs has announced a strategic partnership with Evexia Diagnostics, enabling the integration of its OneTest™ for Cancer into Evexia’s extensive net..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269139/0/en/20-20-BioLabs-Selected-by-Evexia-Diagnostics-to-Offer-OneTest-for-Cancer-Through-Evexia-Platform.html"
 signal_ids: []

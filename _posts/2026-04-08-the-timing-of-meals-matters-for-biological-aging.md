@@ -4,7 +4,7 @@ date: 2026-04-08T16:11:37Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study utilizing data from the National Health and Nutrition Examination Survey (NHANES) reveals a significant relationship between **meal timing** and..."
+excerpt: "A recent study utilizing data from the National Health and Nutrition Examination Survey (NHANES) reveals a significant relationship between meal timing and..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/the-timing-of-meals-matters-for-biological-aging/?utm_source=rss&utm_medium=rss&utm_campaign=the-timing-of-meals-matters-for-biological-aging"
 signal_ids: []

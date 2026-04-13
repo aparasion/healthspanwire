@@ -28,7 +28,7 @@ permalink: /ai-index.json
       "url": {{ post.url | absolute_url | jsonify }},
       "date": {{ post.date | date_to_xmlschema | jsonify }},
       "author": {{ post.author | default: site.author | jsonify }},
-      "description": {{ post.description | default: post.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 220 | jsonify }},
+      "description": {{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 220 | jsonify }},
       "categories": {{ post.categories | jsonify }},
       "tags": {{ post.tags | jsonify }},
       "signal_id": {{ post.signal_id | default: nil | jsonify }},

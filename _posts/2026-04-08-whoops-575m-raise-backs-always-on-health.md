@@ -4,7 +4,7 @@ date: 2026-04-08T17:10:39Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**WHOOP**, the human performance company recognized for its innovative screenless wristband, has secured **$575 million in Series G funding**, achieving a valua..."
+excerpt: "WHOOP, the human performance company recognized for its innovative screenless wristband, has secured $575 million in Series G funding, achieving a valua..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/whoops-575m-raise-backs-always-on-health"
 signal_ids: []

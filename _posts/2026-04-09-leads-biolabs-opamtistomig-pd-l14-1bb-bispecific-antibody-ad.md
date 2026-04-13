@@ -4,7 +4,7 @@ date: 2026-04-09T08:34:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Nanjing Leads Biolabs Co., Ltd. has announced the successful completion of the safety run-in stage of a Phase II clinical trial for its bispecific antibody, **O..."
+excerpt: "Nanjing Leads Biolabs Co., Ltd. has announced the successful completion of the safety run-in stage of a Phase II clinical trial for its bispecific antibody, O..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270693/0/en/Leads-Biolabs-Opamtistomig-PD-L1-4-1BB-Bispecific-Antibody-Advances-to-Expansion-Phase-in-First-Line-Biliary-Tract-Cancer-Following-Positive-Safety-and-Preliminary-Efficacy-Results.html"
 signal_ids: []

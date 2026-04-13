@@ -4,7 +4,7 @@ date: 2026-04-09T20:21:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**EMPAVELIMD (pegcétacoplan)** has received approval from Health Canada as the first treatment for adults and pediatric patients aged 12 and older with **C3 glo..."
+excerpt: "EMPAVELIMD (pegcétacoplan) has received approval from Health Canada as the first treatment for adults and pediatric patients aged 12 and older with C3 glo..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271427/0/fr/Sobi-re%C3%A7oit-l-autorisation-par-Sant%C3%A9-Canada-pour-EMPAVELIMD-pegc%C3%A9tacoplan-dans-le-traitement-de-la-GC3-et-de-la-GNMP-CI-primitive.html"
 signal_ids: []

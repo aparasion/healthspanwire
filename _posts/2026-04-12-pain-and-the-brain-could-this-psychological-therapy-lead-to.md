@@ -4,7 +4,7 @@ date: 2026-04-12T19:01:57Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in **JAMA Network Open** by a research team led by Yoni Ashar has unveiled promising insights into the treatment of chronic back pain t..."
+excerpt: "A recent study published in JAMA Network Open by a research team led by Yoni Ashar has unveiled promising insights into the treatment of chronic back pain t..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/pain-and-the-brain-could-this-psychological-therapy-lead-to-quicker-recovery-from-chronic-back-pain"
 signal_ids: []

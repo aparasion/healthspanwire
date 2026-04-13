@@ -4,7 +4,7 @@ date: 2026-04-07T10:22:42Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have identified a critical role of **BCL-2** in the context of **cellular senescence** and **pulmonary fibrosis**, particularly in idiopathic pulmon..."
+excerpt: "Researchers have identified a critical role of BCL-2 in the context of cellular senescence and pulmonary fibrosis, particularly in idiopathic pulmon..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/bcl-2-and-cellular-senescence-in-pulmonary-fibrosis"
 signal_ids: [senolytic-clinical-validation]

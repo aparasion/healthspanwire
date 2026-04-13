@@ -4,7 +4,7 @@ date: 2026-03-27T13:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Lilly's **EBGLYSS** (lebrikizumab-lbkz), an interleukin-13 (IL-13) inhibitor, has demonstrated remarkable efficacy in delivering **up to four years of durable d..."
+excerpt: "Lilly's EBGLYSS (lebrikizumab-lbkz), an interleukin-13 (IL-13) inhibitor, has demonstrated remarkable efficacy in delivering up to four years of durable d..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/lillys-ebglyss-lebrikizumab-lbkz-delivered-four-years-durable"
 signal_ids: []

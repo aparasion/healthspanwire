@@ -4,7 +4,7 @@ date: 2026-04-04T11:52:49Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent insights into **age-related sleep changes** reveal that older adults may not actually need less sleep, but rather struggle to achieve deep, restorative s..."
+excerpt: "Recent insights into age-related sleep changes reveal that older adults may not actually need less sleep, but rather struggle to achieve deep, restorative s..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/is-lighter-sleep-a-normal-part-of-aging-or-a-sign-of-something-more-serious"
 signal_ids: []

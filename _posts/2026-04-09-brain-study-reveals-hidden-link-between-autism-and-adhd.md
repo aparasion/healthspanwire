@@ -4,7 +4,7 @@ date: 2026-04-09T12:21:49Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from the Child Mind Institute, published in **Molecular Psychiatry**, reveals a significant biological link between **autism spectrum disorder (A..."
+excerpt: "A recent study from the Child Mind Institute, published in Molecular Psychiatry, reveals a significant biological link between autism spectrum disorder (A..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260408225941.htm"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-13T07:51:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Boehringer Ingelheim has introduced **LENZELTA®**, a novel vaccine designed to significantly reduce the incidence and severity of clinical mastitis in dairy cow..."
+excerpt: "Boehringer Ingelheim has introduced LENZELTA®, a novel vaccine designed to significantly reduce the incidence and severity of clinical mastitis in dairy cow..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272229/0/en/Boehringer-Ingelheim-introduces-LENZELTA-A-new-vaccine-advancing-mastitis-prevention-in-dairy-cows.html"
 signal_ids: []

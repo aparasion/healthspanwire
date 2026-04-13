@@ -4,7 +4,7 @@ date: 2026-04-12T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent cluster-randomized trial conducted in Norwegian municipalities evaluated a **tailored implementation strategy** for falls prevention interventions, foc..."
+excerpt: "A recent cluster-randomized trial conducted in Norwegian municipalities evaluated a tailored implementation strategy for falls prevention interventions, foc..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag089/8651854?rss=1"
 signal_ids: []

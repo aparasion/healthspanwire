@@ -4,7 +4,7 @@ date: 2026-04-06T10:11:10Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study utilizing data from the **Australian Longitudinal Study on Women's Health** has provided robust evidence linking **consistent physical activity**..."
+excerpt: "A recent study utilizing data from the Australian Longitudinal Study on Women's Health has provided robust evidence linking consistent physical activity..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/physical-activity-correlates-with-a-sizable-difference-to-late-life-mortality"
 signal_ids: []

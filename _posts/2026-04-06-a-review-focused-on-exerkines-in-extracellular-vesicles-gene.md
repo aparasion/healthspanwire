@@ -4,7 +4,7 @@ date: 2026-04-06T10:22:30Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent advancements in understanding **exerkines**—signaling molecules produced by muscle tissue in response to physical activity—highlight their role in promot..."
+excerpt: "Recent advancements in understanding exerkines—signaling molecules produced by muscle tissue in response to physical activity—highlight their role in promot..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/a-review-focused-on-exerkines-in-extracellular-vesicles-generated-by-muscle-tissue"
 signal_ids: []

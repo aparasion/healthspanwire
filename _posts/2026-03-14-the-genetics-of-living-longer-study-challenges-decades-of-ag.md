@@ -4,7 +4,7 @@ date: 2026-03-14T12:27:22Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *SciTechDaily* challenges long-held assumptions about the genetics of aging, revealing that certain genetic variants previously thou..."
+excerpt: "A recent study published in SciTechDaily challenges long-held assumptions about the genetics of aging, revealing that certain genetic variants previously thou..."
 publisher: "news.google.com"
 source_url: "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlRQMlZObFB4cmlEZzZmLUlyMEJIRlE1MWpEMkd2WHJwekVpUzdvRTgxcU1mUjBVa09jeWNXS1BKWUxyN2dsQzVISERyOWVZcG96RURaNmdMTDl5X0VIQ202ZkMyczBqU2JkQnAyY2FwR2h6cWRmS25zeG9kU0RlNWM2SG10enhzRTVRLW1ManFTc3EyRWVpSTVhNGgtLVk?oc=5"
 signal_ids: []

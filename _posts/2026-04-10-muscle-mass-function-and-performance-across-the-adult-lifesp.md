@@ -4,7 +4,7 @@ date: 2026-04-10T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**D₃-creatine (D₃Cr) dilution emerges as a robust biomarker for assessing total body skeletal muscle mass, revealing critical insights into muscle function and..."
+excerpt: "D₃-creatine (D₃Cr) dilution emerges as a robust biomarker for assessing total body skeletal muscle mass, revealing critical insights into muscle function and..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag088/8651017?rss=1"
 signal_ids: []

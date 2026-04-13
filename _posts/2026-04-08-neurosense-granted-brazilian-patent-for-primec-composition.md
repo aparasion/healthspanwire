@@ -4,7 +4,7 @@ date: 2026-04-08T07:31:11Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "NeuroSense has secured Brazilian Patent No. BR 112024007727-6 for its **PrimeC composition**, which combines **ciprofloxacin** and **celecoxib** in a unique syn..."
+excerpt: "NeuroSense has secured Brazilian Patent No. BR 112024007727-6 for its PrimeC composition, which combines ciprofloxacin and celecoxib in a unique syn..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/neurosense-granted-brazilian-patent-for-primec-composition"
 signal_ids: []

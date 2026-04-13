@@ -4,7 +4,7 @@ date: 2026-04-08T01:37:16Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the University of Illinois at Urbana-Champaign have introduced **Connectome-seq**, a novel technique utilizing RNA \"barcodes\" to map neuronal con..."
+excerpt: "Researchers at the University of Illinois at Urbana-Champaign have introduced Connectome-seq, a novel technique utilizing RNA \"barcodes\" to map neuronal con..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260407193848.htm"
 signal_ids: []

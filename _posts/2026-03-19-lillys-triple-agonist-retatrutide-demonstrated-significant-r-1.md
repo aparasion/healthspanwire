@@ -4,7 +4,7 @@ date: 2026-03-19T10:45:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Lilly's investigational **triple agonist**, retatrutide, has shown promising results in its Phase 3 trial, TRANSCEND-T2D-1, for the treatment of **type 2 diabet..."
+excerpt: "Lilly's investigational triple agonist, retatrutide, has shown promising results in its Phase 3 trial, TRANSCEND-T2D-1, for the treatment of type 2 diabet..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-demonstrated-significant"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T13:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "MMI (Medical Microinstruments, Inc.) has announced the U.S. commercial launch of its **Robotic Suture**, a groundbreaking innovation specifically designed for t..."
+excerpt: "MMI (Medical Microinstruments, Inc.) has announced the U.S. commercial launch of its Robotic Suture, a groundbreaking innovation specifically designed for t..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271035/0/en/MMI-Introduces-World-s-First-Microsurgical-Suture-for-Robotics.html"
 signal_ids: []

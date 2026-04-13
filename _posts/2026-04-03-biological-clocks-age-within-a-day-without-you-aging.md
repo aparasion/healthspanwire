@@ -4,7 +4,7 @@ date: 2026-04-03T10:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Raghav Sehgal and Albert Higgins-Chen's recent research highlights the variability of biological age clocks, revealing that these metrics can fluctuate signif..."
+excerpt: "Raghav Sehgal and Albert Higgins-Chen's recent research highlights the variability of biological age clocks, revealing that these metrics can fluctuate signif..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/biological-clocks-age-within-a-day-without-you-aging"
 signal_ids: [epigenetic-clock-adoption]

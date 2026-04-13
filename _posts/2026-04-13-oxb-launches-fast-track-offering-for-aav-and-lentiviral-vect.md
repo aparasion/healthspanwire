@@ -4,7 +4,7 @@ date: 2026-04-13T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "OXB has launched a **fast-track development and manufacturing service** aimed at biotechs facing timeline constraints, significantly accelerating the pathway to..."
+excerpt: "OXB has launched a fast-track development and manufacturing service aimed at biotechs facing timeline constraints, significantly accelerating the pathway to..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272348/0/en/OXB-launches-fast-track-offering-for-AAV-and-lentiviral-vector-platforms-accelerating-viral-vector-development-and-manufacture.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T05:36:09Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Boston-based Life Biosciences has successfully closed an **$80 million Series D financing**, fully subscribed, which will bolster operations through the latter..."
+excerpt: "Boston-based Life Biosciences has successfully closed an $80 million Series D financing, fully subscribed, which will bolster operations through the latter..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/life-biosciences-secures-80-million-series-d-financing"
 signal_ids: []

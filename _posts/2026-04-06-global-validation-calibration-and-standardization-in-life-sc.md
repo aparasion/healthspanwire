@@ -4,7 +4,7 @@ date: 2026-04-06T18:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The global market for **validation, calibration, and standardization** in life sciences is on track to expand from **$2.7 billion in 2024 to $3.9 billion by 203..."
+excerpt: "The global market for validation, calibration, and standardization in life sciences is on track to expand from $2.7 billion in 2024 to $3.9 billion by 203..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268627/0/en/Global-Validation-Calibration-and-Standardization-in-Life-Sciences-Market-to-Reach-3-9-Billion-by-2030-Fueled-by-Regulatory-Demands-and-Digital-Transformation.html"
 signal_ids: []

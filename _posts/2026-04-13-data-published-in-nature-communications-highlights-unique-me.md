@@ -4,7 +4,7 @@ date: 2026-04-13T05:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "BioVersys, in collaboration with GSK and academic partners, has published pre-clinical data in *Nature Communications* on **AlpE**, a novel drug combination of..."
+excerpt: "BioVersys, in collaboration with GSK and academic partners, has published pre-clinical data in Nature Communications on AlpE, a novel drug combination of..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272190/0/en/Data-Published-in-Nature-Communications-Highlights-Unique-Mechanism-of-Action-of-Alpibectir-in-Combination-with-Ethionamide-AlpE.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T14:48:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Çakırtepe Hospital in Ünye, Türkiye, has successfully performed its inaugural **Unilateral Biportal Endoscopy (UBE)** procedure, marking a significant advanceme..."
+excerpt: "Çakırtepe Hospital in Ünye, Türkiye, has successfully performed its inaugural Unilateral Biportal Endoscopy (UBE) procedure, marking a significant advanceme..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271173/0/en/%C3%87ak%C4%B1rtepe-Hospital-Performs-Its-First-UBE-Spine-Surgery-in-%C3%9Cnye.html"
 signal_ids: []

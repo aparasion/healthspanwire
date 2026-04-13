@@ -4,7 +4,7 @@ date: 2026-02-20T17:11:45Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Science* has significantly revised our understanding of the genetic influence on human longevity, suggesting that genetics may acco..."
+excerpt: "A recent study published in Science has significantly revised our understanding of the genetic influence on human longevity, suggesting that genetics may acco..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/new-study-reveals-more-insight-about-genes-environment-and-longevity"
 signal_ids: []

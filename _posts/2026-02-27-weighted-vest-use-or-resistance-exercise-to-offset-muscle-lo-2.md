@@ -4,7 +4,7 @@ date: 2026-02-27T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **INVEST in Bone Health Trial** reveals critical insights into the interplay between weight loss and musculoskeletal health, particularly through the lens o..."
+excerpt: "The INVEST in Bone Health Trial reveals critical insights into the interplay between weight loss and musculoskeletal health, particularly through the lens o..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag062/8501989?rss=1"
 signal_ids: []

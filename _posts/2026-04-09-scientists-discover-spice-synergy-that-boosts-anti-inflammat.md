@@ -4,7 +4,7 @@ date: 2026-04-09T06:57:22Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at **Tokyo University of Science**, led by Professor **Gen-ichiro Arimura**, have unveiled a significant breakthrough in understanding the **synergi..."
+excerpt: "Researchers at Tokyo University of Science, led by Professor Gen-ichiro Arimura, have unveiled a significant breakthrough in understanding the synergi..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260408225950.htm"
 signal_ids: []

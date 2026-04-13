@@ -4,7 +4,7 @@ date: 2026-04-10T17:05:21Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Mitrix Bio has announced preliminary Phase 1 safety results for its **mitochondrial transplantation** approach, marking a significant shift from theoretical fra..."
+excerpt: "Mitrix Bio has announced preliminary Phase 1 safety results for its mitochondrial transplantation approach, marking a significant shift from theoretical fra..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/mitrix-moves-mitochondria-into-the-clinic"
 signal_ids: []

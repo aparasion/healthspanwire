@@ -4,7 +4,7 @@ date: 2026-04-07T09:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Allergan Aesthetics has spotlighted a significant intersection between **weight-loss therapies** and **aesthetic medicine** at the 2026 American Academy of Derm..."
+excerpt: "Allergan Aesthetics has spotlighted a significant intersection between weight-loss therapies and aesthetic medicine at the 2026 American Academy of Derm..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/allergan-aesthetics-finds-its-next-growth-engine-in-glp-1s"
 signal_ids: []

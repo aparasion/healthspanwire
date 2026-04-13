@@ -4,7 +4,7 @@ date: 2026-04-07T16:18:21Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Research from **Fauna Bio** and **Rejuvenate Bio** highlights the potential of leveraging animal biology to address aging challenges. In a recent episode of *Lo..."
+excerpt: "Research from Fauna Bio and Rejuvenate Bio highlights the potential of leveraging animal biology to address aging challenges. In a recent episode of Lo..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/what-animals-can-teach-us-about-reversing-age-related-disease"
 signal_ids: []

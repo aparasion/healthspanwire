@@ -4,7 +4,7 @@ date: 2026-04-07T16:10:44Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**APOE4** has been shown to increase neuronal excitability in the hippocampus of mice prior to the onset of cognitive symptoms associated with Alzheimer’s disea..."
+excerpt: "APOE4 has been shown to increase neuronal excitability in the hippocampus of mice prior to the onset of cognitive symptoms associated with Alzheimer’s disea..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/apoe4-increases-neurons-excitability-before-symptoms-appear/?utm_source=rss&utm_medium=rss&utm_campaign=apoe4-increases-neurons-excitability-before-symptoms-appear"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-12T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent prospective study involving **683 older patients** (average age 77.3) hospitalized in acute medical units highlights the detrimental impact of **physic..."
+excerpt: "A recent prospective study involving 683 older patients (average age 77.3) hospitalized in acute medical units highlights the detrimental impact of physic..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag076/8651856?rss=1"
 signal_ids: []

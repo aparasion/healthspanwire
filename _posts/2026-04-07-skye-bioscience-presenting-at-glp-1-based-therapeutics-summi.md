@@ -4,7 +4,7 @@ date: 2026-04-07T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Skye Bioscience, Inc. is set to present its innovative approach to obesity treatment at the GLP-1-Based Therapeutics Summit in Boston, focusing on **nimacimab**..."
+excerpt: "Skye Bioscience, Inc. is set to present its innovative approach to obesity treatment at the GLP-1-Based Therapeutics Summit in Boston, focusing on nimacimab..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268967/0/en/Skye-Bioscience-Presenting-at-GLP-1-Based-Therapeutics-Summit.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-11T12:58:31Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers from the University of Colorado Boulder have made a significant discovery by detecting **Medium Chain Chlorinated Paraffins (MCCPs)** in the air for..."
+excerpt: "Researchers from the University of Colorado Boulder have made a significant discovery by detecting Medium Chain Chlorinated Paraffins (MCCPs) in the air for..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411084441.htm"
 signal_ids: []

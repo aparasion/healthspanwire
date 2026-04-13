@@ -4,7 +4,7 @@ date: 2026-04-07T23:05:50Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Henze et al. have advanced our understanding of microglial aging by employing **multiplexed error-robust fluorescence in situ hybridization (MERFISH)** alongsid..."
+excerpt: "Henze et al. have advanced our understanding of microglial aging by employing multiplexed error-robust fluorescence in situ hybridization (MERFISH) alongsid..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01109-y"
 signal_ids: []

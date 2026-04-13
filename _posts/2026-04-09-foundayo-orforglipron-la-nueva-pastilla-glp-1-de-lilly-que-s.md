@@ -4,7 +4,7 @@ date: 2026-04-09T21:17:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Eli Lilly has launched **Foundayo™ (orforglipron)**, an oral GLP-1 receptor agonist approved by the FDA for weight management in adults with obesity or overweig..."
+excerpt: "Eli Lilly has launched Foundayo™ (orforglipron), an oral GLP-1 receptor agonist approved by the FDA for weight management in adults with obesity or overweig..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/foundayotm-orforglipron-la-nueva-pastilla-glp-1-de-lilly-que-se"
 signal_ids: []

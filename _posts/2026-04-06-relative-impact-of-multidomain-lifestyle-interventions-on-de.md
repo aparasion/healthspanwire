@@ -4,7 +4,7 @@ date: 2026-04-06T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from the U.S. POINTER trial reveals that **multidomain lifestyle interventions** significantly impact frailty indices (FIs) among older adults at..."
+excerpt: "A recent study from the U.S. POINTER trial reveals that multidomain lifestyle interventions significantly impact frailty indices (FIs) among older adults at..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glag094/8614600?rss=1"
 signal_ids: []
