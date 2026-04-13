@@ -293,6 +293,24 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // ── Sticky header — scroll shadow + hide on scroll down ───
+  var siteHeader = document.querySelector('.site-header');
+  if (siteHeader) {
+    var lastScrollY = window.scrollY;
+    window.addEventListener('scroll', function () {
+      var y = window.scrollY;
+      // Shadow once page leaves top
+      siteHeader.classList.toggle('is-scrolled', y > 4);
+      // Hide on scroll down past 80px; reveal on scroll up
+      if (y > lastScrollY && y > 80) {
+        siteHeader.classList.add('is-hidden');
+      } else {
+        siteHeader.classList.remove('is-hidden');
+      }
+      lastScrollY = y;
+    }, { passive: true });
+  }
+
   // ── Open external links in new tab ───────────────────────
   document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach(function (link) {
     if (link.hostname !== window.location.hostname) {
