@@ -4,7 +4,7 @@ date: 2026-04-09T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Cerevance has announced promising results from two Phase 2 trials evaluating **Solengepras**, a novel, once-daily oral **GPR6 inhibitor** aimed at treating Park..."
+excerpt: "Cerevance has announced promising results from two Phase 2 trials evaluating Solengepras, a novel, once-daily oral GPR6 inhibitor aimed at treating Park..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270868/0/en/Cerevance-to-Present-Positive-Phase-2-Solengepras-Data-in-Parkinson-s-Disease-at-the-American-Academy-of-Neurology-2026-Annual-Meeting.html"
 signal_ids: []

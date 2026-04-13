@@ -4,7 +4,7 @@ date: 2026-04-01T16:21:41Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**João Pedro de Magalhães has initiated a fundraiser to sustain the Human Ageing Genomic Resources database, a pivotal tool that has become a cornerstone for ag..."
+excerpt: "João Pedro de Magalhães has initiated a fundraiser to sustain the Human Ageing Genomic Resources database, a pivotal tool that has become a cornerstone for ag..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/rejuvenation-roundup-march-2026/?utm_source=rss&utm_medium=rss&utm_campaign=rejuvenation-roundup-march-2026"
 signal_ids: []

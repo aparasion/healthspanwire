@@ -4,7 +4,7 @@ date: 2026-04-08T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Biora Therapeutics has reported **over 25% oral bioavailability** for its innovative BioJet™ platform, a swallowable autoinjector designed for the oral delivery..."
+excerpt: "Biora Therapeutics has reported over 25% oral bioavailability for its innovative BioJet™ platform, a swallowable autoinjector designed for the oral delivery..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270049/0/en/Biora-Therapeutics-Advances-BioJet-Swallowable-Autoinjector.html"
 signal_ids: []

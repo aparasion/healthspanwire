@@ -4,7 +4,7 @@ date: 2026-04-12T10:42:12Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the **Scripps Research Institute** have developed a novel **nanodisc technology** that allows for the study of viral proteins in a manner that cl..."
+excerpt: "Researchers at the Scripps Research Institute have developed a novel nanodisc technology that allows for the study of viral proteins in a manner that cl..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411022027.htm"
 signal_ids: []

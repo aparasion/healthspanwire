@@ -4,7 +4,7 @@ date: 2026-04-10T13:55:45Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the University of Chicago have identified **zeaxanthin**, a carotenoid primarily recognized for its role in eye health, as a potent enhancer of *..."
+excerpt: "Researchers at the University of Chicago have identified zeaxanthin, a carotenoid primarily recognized for its role in eye health, as a potent enhancer of ..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260410083114.htm"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T13:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **Global Alzheimer’s Platform Foundation (GAP)** has announced a significant collaboration with **Siemens Healthineers** for the **Bio-Hermes-002 study**, a..."
+excerpt: "The Global Alzheimer’s Platform Foundation (GAP) has announced a significant collaboration with Siemens Healthineers for the Bio-Hermes-002 study, a..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271042/0/en/Global-Alzheimer-s-Platform-Foundation-Announces-Strategic-Collaboration-and-Partnership-with-Siemens-Healthineers-for-the-Transformative-Bio-Hermes-002-Study.html"
 signal_ids: []

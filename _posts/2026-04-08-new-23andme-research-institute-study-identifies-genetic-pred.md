@@ -4,7 +4,7 @@ date: 2026-04-08T15:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the **23andMe Research Institute** have published a pivotal study in *Nature* that uncovers genetic predictors influencing the efficacy and side..."
+excerpt: "Researchers at the 23andMe Research Institute have published a pivotal study in Nature that uncovers genetic predictors influencing the efficacy and side..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270332/0/en/New-23andMe-Research-Institute-Study-Identifies-Genetic-Predictors-for-GLP-1-Weight-Loss-Efficacy-and-Side-Effects.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-10T11:26:46Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**A recent study utilizing single-cell RNA sequencing has unveiled significant sex-specific differences in immunosenescence, highlighting how biological sex inf..."
+excerpt: "A recent study utilizing single-cell RNA sequencing has unveiled significant sex-specific differences in immunosenescence, highlighting how biological sex inf..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01099-x"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-10T16:59:50Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "AliveCor has successfully registered its **Kardia 12L ECG System** in Vietnam, marking a significant advancement in digital cardiac care across Southeast Asia...."
+excerpt: "AliveCor has successfully registered its Kardia 12L ECG System in Vietnam, marking a significant advancement in digital cardiac care across Southeast Asia...."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/alivecor-brings-ai-heart-diagnostics-to-vietnam"
 signal_ids: []

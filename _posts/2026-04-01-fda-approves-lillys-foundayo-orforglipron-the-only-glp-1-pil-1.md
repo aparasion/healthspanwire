@@ -4,7 +4,7 @@ date: 2026-04-01T15:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The FDA has approved **Foundayo™ (orforglipron)**, a groundbreaking oral GLP-1 receptor agonist designed for weight management, marking it as the only pill in t..."
+excerpt: "The FDA has approved Foundayo™ (orforglipron), a groundbreaking oral GLP-1 receptor agonist designed for weight management, marking it as the only pill in t..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill"
 signal_ids: []

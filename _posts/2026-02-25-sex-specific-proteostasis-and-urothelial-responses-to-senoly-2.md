@@ -4,7 +4,7 @@ date: 2026-02-25T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**A recent study investigates the sex-specific mechanisms underlying lower urinary tract dysfunction (LUTD) in aging, revealing significant insights into the th..."
+excerpt: "A recent study investigates the sex-specific mechanisms underlying lower urinary tract dysfunction (LUTD) in aging, revealing significant insights into the th..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag059/8497878?rss=1"
 signal_ids: [senolytic-clinical-validation]

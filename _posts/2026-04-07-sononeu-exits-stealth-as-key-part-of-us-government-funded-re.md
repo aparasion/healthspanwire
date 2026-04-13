@@ -4,7 +4,7 @@ date: 2026-04-07T07:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**SonoNeu**, a biotechnology company co-founded by Sreekanth Chalasani, PhD, has emerged from stealth mode to spearhead a groundbreaking initiative in **sonogen..."
+excerpt: "SonoNeu, a biotechnology company co-founded by Sreekanth Chalasani, PhD, has emerged from stealth mode to spearhead a groundbreaking initiative in sonogen..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268843/0/en/SonoNeu-exits-stealth-as-key-part-of-US-Government-funded-research-program-worth-up-to-41-3m-to-advance-sonogenetics-into-clinic.html"
 signal_ids: []

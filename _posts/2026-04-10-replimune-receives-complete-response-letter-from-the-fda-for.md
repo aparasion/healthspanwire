@@ -4,7 +4,7 @@ date: 2026-04-10T21:02:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Replimune Group, Inc. has received a **complete response letter (CRL)** from the FDA regarding its Biologics License Application (BLA) for **RP1** in combinatio..."
+excerpt: "Replimune Group, Inc. has received a complete response letter (CRL) from the FDA regarding its Biologics License Application (BLA) for RP1 in combinatio..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3272063/0/en/Replimune-Receives-Complete-Response-Letter-from-the-FDA-for-RP1-Biologics-License-Application-for-the-Treatment-of-Advanced-Melanoma.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-07T07:22:01Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from the University of California, Riverside, reveals that **dietary proteins**, particularly **casein from dairy** and **wheat gluten**, can sig..."
+excerpt: "A recent study from the University of California, Riverside, reveals that dietary proteins, particularly casein from dairy and wheat gluten, can sig..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260406192907.htm"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-07T11:37:31Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Scientists at **Oregon State University** have made a significant breakthrough by capturing real-time chemical interactions that contribute to **Alzheimer’s dis..."
+excerpt: "Scientists at Oregon State University have made a significant breakthrough by capturing real-time chemical interactions that contribute to Alzheimer’s dis..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260406192922.htm"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-10T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Correction has been issued for the article titled “Multi-omic profiling reveals age-related immune dynamics in healthy adults,” originally published in *Nature*..."
+excerpt: "Correction has been issued for the article titled “Multi-omic profiling reveals age-related immune dynamics in healthy adults,” originally published in Nature..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s41586-026-10484-w"
 signal_ids: [blood-biomarker-panels]

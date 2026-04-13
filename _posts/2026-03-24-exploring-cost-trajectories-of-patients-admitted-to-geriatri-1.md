@@ -4,7 +4,7 @@ date: 2026-03-24T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent analysis of administrative claims data from Statistics Netherlands has unveiled significant insights into **geriatric rehabilitation (GR)** costs and t..."
+excerpt: "A recent analysis of administrative claims data from Statistics Netherlands has unveiled significant insights into geriatric rehabilitation (GR) costs and t..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag058/8539771?rss=1"
 signal_ids: []

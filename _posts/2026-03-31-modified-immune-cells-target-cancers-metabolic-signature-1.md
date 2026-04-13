@@ -4,7 +4,7 @@ date: 2026-03-31T16:05:48Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at Stanford University have identified **GPR183**, a metabolite-sensing receptor, as a pivotal target for enhancing the infiltration of immune cells..."
+excerpt: "Researchers at Stanford University have identified GPR183, a metabolite-sensing receptor, as a pivotal target for enhancing the infiltration of immune cells..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/modified-immune-cells-target-cancers-metabolic-signature/?utm_source=rss&utm_medium=rss&utm_campaign=modified-immune-cells-target-cancers-metabolic-signature"
 signal_ids: []

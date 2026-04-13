@@ -4,7 +4,7 @@ date: 2026-04-11T14:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Klaiyi Hair** has launched a campaign to highlight the significance of **scalp health** as part of women’s overall wellness, particularly in light of National..."
+excerpt: "Klaiyi Hair has launched a campaign to highlight the significance of scalp health as part of women’s overall wellness, particularly in light of National..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/11/3272112/0/en/Upcoming-National-Women-s-Health-Week-Promoting-Scalp-Care-and-Breathable-Wig-Solutions.html"
 signal_ids: []

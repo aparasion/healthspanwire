@@ -4,7 +4,7 @@ date: 2026-03-15T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Metabolic syndrome (MetSyn) has been identified as a significant predictor of pre-frailty and frailty in midlife women, according to a longitudinal study from..."
+excerpt: "Metabolic syndrome (MetSyn) has been identified as a significant predictor of pre-frailty and frailty in midlife women, according to a longitudinal study from..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag058/8524748?rss=1"
 signal_ids: []

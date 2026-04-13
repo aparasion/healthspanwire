@@ -4,7 +4,7 @@ date: 2026-04-09T10:36:40Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at **Case Western Reserve University** have identified a significant link between gut bacteria and the progression of **Amyotrophic Lateral Sclerosi..."
+excerpt: "Researchers at Case Western Reserve University have identified a significant link between gut bacteria and the progression of Amyotrophic Lateral Sclerosi..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260408225944.htm"
 signal_ids: [gut-microbiome-aging]

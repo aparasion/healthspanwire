@@ -4,7 +4,7 @@ date: 2026-04-03T09:36:08Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Designs for Health has introduced **NeuroCalm Peptide**, a novel once-daily capsule targeting the gut-brain axis to enhance emotional well-being and stress resi..."
+excerpt: "Designs for Health has introduced NeuroCalm Peptide, a novel once-daily capsule targeting the gut-brain axis to enhance emotional well-being and stress resi..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/designs-for-health-launches-neurocalm-peptide-for-gut-brain-support"
 signal_ids: [gut-microbiome-aging]

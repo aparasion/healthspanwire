@@ -4,7 +4,7 @@ date: 2026-03-27T15:28:46Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Magnesium's Role in Longevity and Fitness Optimization**: Recent insights underscore the critical importance of **magnesium** in both overall health and fitne..."
+excerpt: "Magnesium's Role in Longevity and Fitness Optimization: Recent insights underscore the critical importance of magnesium in both overall health and fitne..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/magnesium-and-you-muscle-cramps-sleep-and-performance"
 signal_ids: []

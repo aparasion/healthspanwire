@@ -4,7 +4,7 @@ date: 2026-04-03T16:00:39Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Insilico Medicine and Eli Lilly have entered a transformative collaboration valued at up to **$2.75 billion**, marking a significant shift in the landscape of A..."
+excerpt: "Insilico Medicine and Eli Lilly have entered a transformative collaboration valued at up to $2.75 billion, marking a significant shift in the landscape of A..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/insilico-and-eli-lilly-announce-a-major-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=insilico-and-eli-lilly-announce-a-major-collaboration"
 signal_ids: []

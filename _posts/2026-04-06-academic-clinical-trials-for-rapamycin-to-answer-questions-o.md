@@ -4,7 +4,7 @@ date: 2026-04-06T18:22:06Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A multi-phase clinical study is underway to investigate the **biological effects of rapamycin** in older adults, addressing critical gaps in our understanding o..."
+excerpt: "A multi-phase clinical study is underway to investigate the biological effects of rapamycin in older adults, addressing critical gaps in our understanding o..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/academic-clinical-trials-for-rapamycin-to-answer-questions-on-dosing-for-anti-aging-use"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-10T16:13:53Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Extracellular vesicles (EVs) derived from senescent hepatocytes have been identified as significant promoters of tumor metastasis in aged mice.** This study r..."
+excerpt: "Extracellular vesicles (EVs) derived from senescent hepatocytes have been identified as significant promoters of tumor metastasis in aged mice. This study r..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01102-5"
 signal_ids: [senolytic-clinical-validation]

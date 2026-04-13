@@ -4,7 +4,7 @@ date: 2026-04-03T20:05:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Intellia Therapeutics, Inc. has recently expanded its talent pool by awarding **inducement grants** to 13 new employees under its **2024 Inducement Plan**. This..."
+excerpt: "Intellia Therapeutics, Inc. has recently expanded its talent pool by awarding inducement grants to 13 new employees under its 2024 Inducement Plan. This..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/03/3268135/0/en/Intellia-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html"
 signal_ids: []

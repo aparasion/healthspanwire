@@ -4,7 +4,7 @@ date: 2026-04-09T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Amneal Pharmaceuticals has launched **bimatoprost ophthalmic solution 0.01%**, a generic equivalent of Allergan's LUMIGAN®, aimed at managing elevated intraocul..."
+excerpt: "Amneal Pharmaceuticals has launched bimatoprost ophthalmic solution 0.01%, a generic equivalent of Allergan's LUMIGAN®, aimed at managing elevated intraocul..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270871/0/en/Amneal-Launches-Bimatoprost-Ophthalmic-Solution-0-01.html"
 signal_ids: []

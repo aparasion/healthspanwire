@@ -4,7 +4,7 @@ date: 2026-04-10T14:36:08Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Mesoblast has secured **Investigational New Drug (IND)** clearance from the FDA to initiate a registrational clinical trial for **Ryoncil (remestemcel-L-rknd)**..."
+excerpt: "Mesoblast has secured Investigational New Drug (IND) clearance from the FDA to initiate a registrational clinical trial for Ryoncil (remestemcel-L-rknd)..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/mesoblast-receives-ind-clearance-for-registrational-trial-of-ryoncil"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T15:41:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Joyce University of Nursing and Health Sciences** has achieved the prestigious **2026 USA Today Top Workplaces award** for the third consecutive year, undersc..."
+excerpt: "Joyce University of Nursing and Health Sciences has achieved the prestigious 2026 USA Today Top Workplaces award for the third consecutive year, undersc..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271217/0/en/Joyce-University-Named-a-2026-USA-Today-Top-Workplace-for-Third-Consecutive-Year.html"
 signal_ids: []

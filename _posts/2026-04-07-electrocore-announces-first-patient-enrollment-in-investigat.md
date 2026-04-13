@@ -4,7 +4,7 @@ date: 2026-04-07T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**electroCore, Inc.** has initiated a clinical study evaluating the safety and efficacy of its **gammaCore™ non-invasive vagus nerve stimulation (nVNS)** device..."
+excerpt: "electroCore, Inc. has initiated a clinical study evaluating the safety and efficacy of its gammaCore™ non-invasive vagus nerve stimulation (nVNS) device..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269061/0/en/electroCore-Announces-First-Patient-Enrollment-in-Investigator-Led-Study-of-gammaCore-nVNS-for-PTSD.html"
 signal_ids: []

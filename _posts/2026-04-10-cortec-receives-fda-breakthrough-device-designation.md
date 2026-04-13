@@ -4,7 +4,7 @@ date: 2026-04-10T14:31:09Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **FDA** has granted **Breakthrough Device Designation** to **CorTec’s Brain Interchange system**, a pioneering approach utilizing **direct cortical electric..."
+excerpt: "The FDA has granted Breakthrough Device Designation to CorTec’s Brain Interchange system, a pioneering approach utilizing direct cortical electric..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/cortec-receives-fda-breakthrough-device-designation"
 signal_ids: []

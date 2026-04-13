@@ -4,7 +4,7 @@ date: 2026-04-13T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Spyre Therapeutics has announced promising results from the Phase 2 SKYLINE trial of **SPY001**, an investigational anti-α4β7 antibody designed to treat moderat..."
+excerpt: "Spyre Therapeutics has announced promising results from the Phase 2 SKYLINE trial of SPY001, an investigational anti-α4β7 antibody designed to treat moderat..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272353/0/en/Spyre-Announces-Potential-Best-in-Class-SPY001-Part-A-Induction-Results-from-SKYLINE-Trial-in-Moderate-to-Severe-Ulcerative-Colitis-Patients.html"
 signal_ids: []

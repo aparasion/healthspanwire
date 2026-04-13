@@ -4,7 +4,7 @@ date: 2026-04-09T16:58:23Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Scala Biodesign has secured **$16 million** in Series A funding to enhance its protein design platform, **ScalaOS**, aimed at revolutionizing the development of..."
+excerpt: "Scala Biodesign has secured $16 million in Series A funding to enhance its protein design platform, ScalaOS, aimed at revolutionizing the development of..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/scala-biodesign-lands-16m-to-speed-protein-rd"
 signal_ids: []

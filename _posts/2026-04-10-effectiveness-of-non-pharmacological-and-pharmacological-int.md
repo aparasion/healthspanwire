@@ -4,7 +4,7 @@ date: 2026-04-10T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A systematic review and meta-analysis led by researchers aimed to evaluate the efficacy of both **non-pharmacological** and **pharmacological interventions** fo..."
+excerpt: "A systematic review and meta-analysis led by researchers aimed to evaluate the efficacy of both non-pharmacological and pharmacological interventions fo..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag085/8651025?rss=1"
 signal_ids: []

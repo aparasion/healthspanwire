@@ -4,7 +4,7 @@ date: 2026-04-09T17:23:42Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Fountain Life has launched **APEX**, a premium membership program that redefines preventive healthcare by integrating continuous monitoring with performance ass..."
+excerpt: "Fountain Life has launched APEX, a premium membership program that redefines preventive healthcare by integrating continuous monitoring with performance ass..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/fountain-life-adds-apex-to-premium-longevity-program"
 signal_ids: []

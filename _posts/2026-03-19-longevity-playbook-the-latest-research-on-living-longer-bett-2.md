@@ -4,7 +4,7 @@ date: 2026-03-19T15:43:46Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers are making significant strides in **longevity science**, particularly in the development of blood tests that can estimate the biological age of vari..."
+excerpt: "Researchers are making significant strides in longevity science, particularly in the development of blood tests that can estimate the biological age of vari..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/longevity-playbook-the-latest-research-on-living-longer-better-healthier"
 signal_ids: []

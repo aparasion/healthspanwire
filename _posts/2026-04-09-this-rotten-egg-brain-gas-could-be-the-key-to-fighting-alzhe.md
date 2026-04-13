@@ -4,7 +4,7 @@ date: 2026-04-09T02:59:33Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at **Johns Hopkins Medicine** have identified a critical role for the protein **Cystathionine γ-lyase (CSE)** in the production of trace amounts of..."
+excerpt: "Researchers at Johns Hopkins Medicine have identified a critical role for the protein Cystathionine γ-lyase (CSE) in the production of trace amounts of..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260408225933.htm"
 signal_ids: []

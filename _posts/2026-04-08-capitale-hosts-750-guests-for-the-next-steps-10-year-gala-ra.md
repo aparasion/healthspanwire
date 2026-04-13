@@ -4,7 +4,7 @@ date: 2026-04-08T22:04:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **Next Step** organization recently celebrated a decade of impact at Capitale in New York City, highlighting its mission to support amputees through communi..."
+excerpt: "The Next Step organization recently celebrated a decade of impact at Capitale in New York City, highlighting its mission to support amputees through communi..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270594/0/en/CAPITALE-HOSTS-750-GUESTS-FOR-THE-NEXT-STEP-S-10-YEAR-GALA-RAISING-500-000-TO-SUPPORT-ISRAEL-MEDICAL-FUND-CENTER.html"
 signal_ids: []

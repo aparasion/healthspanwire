@@ -4,7 +4,7 @@ date: 2026-04-13T12:45:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**U.S. Oral Surgery Management (USOSM) is launching a nationwide initiative to provide free oral cancer screenings from April 13 to 17, 2026, in collaboration w..."
+excerpt: "U.S. Oral Surgery Management (USOSM) is launching a nationwide initiative to provide free oral cancer screenings from April 13 to 17, 2026, in collaboration w..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272515/0/en/Free-Oral-Cancer-Screenings-in-Honor-of-Oral-Head-and-Neck-Cancer-Awareness-Month.html"
 signal_ids: []

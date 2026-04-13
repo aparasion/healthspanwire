@@ -4,7 +4,7 @@ date: 2026-04-10T12:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "FibroBiologics, Inc. has unveiled promising preclinical data on its **proprietary thymic organoid platform**, which shows potential for reversing **age-related..."
+excerpt: "FibroBiologics, Inc. has unveiled promising preclinical data on its proprietary thymic organoid platform, which shows potential for reversing age-related..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271716/0/en/FibroBiologics-Presents-Novel-Thymus-Organoid-Platform-to-Combat-Age-Related-Immune-Decline-at-Keystone-Symposia-on-Aging-and-Immunity.html"
 signal_ids: []

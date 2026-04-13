@@ -4,7 +4,7 @@ date: 2026-04-08T10:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**AtaiBeckley Inc.** has reported promising **Phase 2a results** for **BPL-003** (mebufotenin benzoate), an intranasal treatment for **treatment-resistant depre..."
+excerpt: "AtaiBeckley Inc. has reported promising Phase 2a results for BPL-003 (mebufotenin benzoate), an intranasal treatment for treatment-resistant depre..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269923/0/en/AtaiBeckley-s-BPL-003-Shows-Rapid-Durable-Antidepressant-Response-in-Treatment-Resistant-Depression-Patients-on-SSRIs-Phase-2a-Data-Published-in-CNS-Drugs.html"
 signal_ids: []

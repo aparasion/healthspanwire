@@ -4,7 +4,7 @@ date: 2026-04-03T09:31:08Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Annovis has secured **U.S. Patent No. 12,582,632 B2**, which encompasses both the prevention and treatment of neurological injuries stemming from brain infectio..."
+excerpt: "Annovis has secured U.S. Patent No. 12,582,632 B2, which encompasses both the prevention and treatment of neurological injuries stemming from brain infectio..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/annovis-wins-u-s-patent-for-buntanetap-in-brain-infection-injuries"
 signal_ids: []

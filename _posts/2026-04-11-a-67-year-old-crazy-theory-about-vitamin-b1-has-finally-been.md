@@ -4,7 +4,7 @@ date: 2026-04-11T12:33:37Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the University of California, Riverside, have successfully stabilized a highly reactive **carbene** in water, confirming a **67-year-old hypothes..."
+excerpt: "Researchers at the University of California, Riverside, have successfully stabilized a highly reactive carbene in water, confirming a 67-year-old hypothes..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411081426.htm"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-02T16:13:40Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Research published in *Aging Cell* reveals that the enzyme **Pck1** plays a critical role in maintaining metabolic health in adipose tissue, particularly in mit..."
+excerpt: "Research published in Aging Cell reveals that the enzyme Pck1 plays a critical role in maintaining metabolic health in adipose tissue, particularly in mit..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/how-an-enzymes-depletion-makes-fat-worse/?utm_source=rss&utm_medium=rss&utm_campaign=how-an-enzymes-depletion-makes-fat-worse"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-05T23:48:12Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at McMaster University and The Hospital for Sick Children have identified a critical interaction between **oligodendrocytes** and glioblastoma cells..."
+excerpt: "Researchers at McMaster University and The Hospital for Sick Children have identified a critical interaction between oligodendrocytes and glioblastoma cells..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
 signal_ids: []

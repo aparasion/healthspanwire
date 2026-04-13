@@ -4,7 +4,7 @@ date: 2026-04-06T10:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Catalyst Precision Health, a New York startup co-founded by Dr. Westley Spiro and Matt Renart, has introduced a **physician-led model** that integrates **in-hom..."
+excerpt: "Catalyst Precision Health, a New York startup co-founded by Dr. Westley Spiro and Matt Renart, has introduced a physician-led model that integrates in-hom..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/catalyst-precision-health-debuts-at-home-mens-longevity-care"
 signal_ids: []

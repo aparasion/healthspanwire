@@ -4,7 +4,7 @@ date: 2026-04-10T10:22:29Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have developed a novel **gene therapy** approach targeting heart regeneration post-myocardial infarction by leveraging the **NPPA gene** to enhance..."
+excerpt: "Researchers have developed a novel gene therapy approach targeting heart regeneration post-myocardial infarction by leveraging the NPPA gene to enhance..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/nppa-gene-therapy-to-encourage-greater-regeneration-following-heart-attack"
 signal_ids: []

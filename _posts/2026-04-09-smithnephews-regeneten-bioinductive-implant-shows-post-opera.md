@@ -4,7 +4,7 @@ date: 2026-04-09T11:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Smith+Nephew has released groundbreaking results from the first randomized controlled trial (RCT) assessing the **REGENETEN Bioinductive Implant** for partial-t..."
+excerpt: "Smith+Nephew has released groundbreaking results from the first randomized controlled trial (RCT) assessing the REGENETEN Bioinductive Implant for partial-t..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270834/0/en/Smith-Nephew-s-REGENETEN-Bioinductive-Implant-shows-post-operative-recovery-times-halved-and-high-healing-rates-for-partial-thickness-rotator-cuff-tears1.html"
 signal_ids: []

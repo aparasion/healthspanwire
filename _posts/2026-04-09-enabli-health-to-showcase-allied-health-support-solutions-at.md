@@ -4,7 +4,7 @@ date: 2026-04-09T14:07:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Enabli Health is spearheading a transformative approach to address the **growing allied health shortages** impacting healthcare delivery. By participating in ke..."
+excerpt: "Enabli Health is spearheading a transformative approach to address the growing allied health shortages impacting healthcare delivery. By participating in ke..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271128/0/en/Enabli-Health-to-Showcase-Allied-Health-Support-Solutions-at-Leading-Conferences-this-Spring.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-02T07:46:10Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Annovis has published a comprehensive historical review of Buntanetap in *The Scientist*, detailing its evolution from a 19th-century poison to a promising inve..."
+excerpt: "Annovis has published a comprehensive historical review of Buntanetap in The Scientist, detailing its evolution from a 19th-century poison to a promising inve..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/annovis-publishes-historical-review-of-buntanetap"
 signal_ids: []

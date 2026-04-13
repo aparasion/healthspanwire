@@ -4,7 +4,7 @@ date: 2026-04-10T18:16:51Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Influenza vaccination has been shown to significantly reduce cardiovascular risk following infection, particularly in older adults. A recent self-controlled c..."
+excerpt: "Influenza vaccination has been shown to significantly reduce cardiovascular risk following infection, particularly in older adults. A recent self-controlled c..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/influenza-vaccination-reduces-cardiovascular-risk-following-infection"
 signal_ids: []

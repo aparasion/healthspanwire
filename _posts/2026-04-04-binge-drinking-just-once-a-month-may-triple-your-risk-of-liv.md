@@ -4,7 +4,7 @@ date: 2026-04-04T12:29:44Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study led by researchers at Keck Medicine of USC reveals that **episodic heavy drinking**, defined as consuming four or more drinks in a day for women..."
+excerpt: "A recent study led by researchers at Keck Medicine of USC reveals that episodic heavy drinking, defined as consuming four or more drinks in a day for women..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260404082652.htm"
 signal_ids: []

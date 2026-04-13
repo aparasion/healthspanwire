@@ -4,7 +4,7 @@ date: 2026-04-09T17:04:47Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Annovis Bio's lead drug candidate, buntanetap, is advancing through its Phase 3 clinical trials for Alzheimer's disease, with 70% patient enrollment achieved...."
+excerpt: "Annovis Bio's lead drug candidate, buntanetap, is advancing through its Phase 3 clinical trials for Alzheimer's disease, with 70% patient enrollment achieved...."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/annovis-traces-buntanetaps-road-to-alzheimers"
 signal_ids: []

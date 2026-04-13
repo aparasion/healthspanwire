@@ -4,7 +4,7 @@ date: 2026-04-07T17:47:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Methodist Healthcare Ministries of South Texas, Inc. (MHM) has announced a **$237.5 million investment** for 2026, marking an **11% increase** from the previous..."
+excerpt: "Methodist Healthcare Ministries of South Texas, Inc. (MHM) has announced a $237.5 million investment for 2026, marking an 11% increase from the previous..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269544/0/en/MHM-Invests-237-5-Million-to-Create-a-Healthier-Future-Across-South-Texas.html"
 signal_ids: []

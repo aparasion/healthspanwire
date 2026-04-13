@@ -4,7 +4,7 @@ date: 2026-04-07T17:19:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Natural Remedies has been awarded the **2026 ABC Varro E. Tyler Commercial Investment in Phytomedicinal Research Award** by the American Botanical Council (ABC)..."
+excerpt: "Natural Remedies has been awarded the 2026 ABC Varro E. Tyler Commercial Investment in Phytomedicinal Research Award by the American Botanical Council (ABC)..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269534/0/en/Natural-Remedies-Awarded-American-Botanical-Council-s-2026-Varro-E-Tyler-Commercial-Investment-in-Phytomedicinal-Research-Award.html"
 signal_ids: []

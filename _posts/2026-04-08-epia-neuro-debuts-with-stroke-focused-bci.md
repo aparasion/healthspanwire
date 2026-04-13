@@ -4,7 +4,7 @@ date: 2026-04-08T16:27:12Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Epia Neuro, a San Francisco-based startup, has launched an **implantable brain-computer interface (BCI)** aimed at helping stroke survivors regain functional in..."
+excerpt: "Epia Neuro, a San Francisco-based startup, has launched an implantable brain-computer interface (BCI) aimed at helping stroke survivors regain functional in..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/epia-neuro-debuts-with-stroke-focused-bci"
 signal_ids: []

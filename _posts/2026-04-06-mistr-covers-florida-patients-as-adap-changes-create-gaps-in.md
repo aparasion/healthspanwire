@@ -4,7 +4,7 @@ date: 2026-04-06T16:14:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "MISTR has announced the provision of **free, long-term HIV care** to individuals affected by recent changes to Florida’s AIDS Drug Assistance Program (ADAP), wh..."
+excerpt: "MISTR has announced the provision of free, long-term HIV care to individuals affected by recent changes to Florida’s AIDS Drug Assistance Program (ADAP), wh..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268598/0/en/MISTR-Covers-Florida-Patients-as-ADAP-Changes-Create-Gaps-in-HIV-Treatment-Access.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-13T14:15:34Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Regeneron Pharmaceuticals has announced a strategic partnership with Telix Pharmaceuticals, committing **$40 million upfront** to advance four solid tumor progr..."
+excerpt: "Regeneron Pharmaceuticals has announced a strategic partnership with Telix Pharmaceuticals, committing $40 million upfront to advance four solid tumor progr..."
 publisher: "fiercebiotech.com"
 source_url: "https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-04T06:37:14Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The White House has proposed a **$15.8 billion budget cut** for the Department of Health and Human Services (HHS) for fiscal year 2027, aiming to streamline ope..."
+excerpt: "The White House has proposed a $15.8 billion budget cut for the Department of Health and Human Services (HHS) for fiscal year 2027, aiming to streamline ope..."
 publisher: "fiercebiotech.com"
 source_url: "https://www.fiercebiotech.com/providers/white-house-floats-125-budget-cut-hhs-fy2027-reiterates-reorganization-plan"
 signal_ids: []

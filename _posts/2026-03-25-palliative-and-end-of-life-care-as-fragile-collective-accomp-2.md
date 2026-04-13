@@ -4,7 +4,7 @@ date: 2026-03-25T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The increasing global life expectancy has intensified the demand for **comprehensive palliative and end-of-life care**, particularly for older adults facing chr..."
+excerpt: "The increasing global life expectancy has intensified the demand for comprehensive palliative and end-of-life care, particularly for older adults facing chr..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag064/8540166?rss=1"
 signal_ids: []

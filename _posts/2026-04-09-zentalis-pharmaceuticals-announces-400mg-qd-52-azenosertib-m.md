@@ -4,7 +4,7 @@ date: 2026-04-09T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Zentalis Pharmaceuticals has announced a significant advancement in the clinical development of **azenosertib**, a first-in-class WEE1 inhibitor, following a pl..."
+excerpt: "Zentalis Pharmaceuticals has announced a significant advancement in the clinical development of azenosertib, a first-in-class WEE1 inhibitor, following a pl..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270889/0/en/Zentalis-Pharmaceuticals-Announces-400mg-QD-5-2-Azenosertib-Monotherapy-as-the-Pivotal-Study-Dose-in-Cyclin-E1-Positive-Platinum-Resistant-Ovarian-Cancer.html"
 signal_ids: []

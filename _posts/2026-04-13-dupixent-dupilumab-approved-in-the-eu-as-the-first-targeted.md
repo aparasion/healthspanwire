@@ -4,7 +4,7 @@ date: 2026-04-13T05:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The European Commission has approved **Dupixent® (dupilumab)** for the treatment of moderate-to-severe chronic spontaneous urticaria (CSU) in children aged 2 to..."
+excerpt: "The European Commission has approved Dupixent® (dupilumab) for the treatment of moderate-to-severe chronic spontaneous urticaria (CSU) in children aged 2 to..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272191/0/en/Dupixent-dupilumab-Approved-in-the-EU-as-the-First-Targeted-Medicine-to-Treat-Young-Children-with-Chronic-Spontaneous-Urticaria-CSU.html"
 signal_ids: []

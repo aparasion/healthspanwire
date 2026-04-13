@@ -4,7 +4,7 @@ date: 2026-04-09T14:20:32Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Gilead Sciences has expanded its oncology pipeline by exercising an option for Kymera Therapeutics' preclinical anticancer candidate, **KT-200**, a **molecular..."
+excerpt: "Gilead Sciences has expanded its oncology pipeline by exercising an option for Kymera Therapeutics' preclinical anticancer candidate, KT-200, a molecular..."
 publisher: "fiercebiotech.com"
 source_url: "https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-preclinical-protein-degrader-burgeoning-oncology-pipeline"
 signal_ids: []

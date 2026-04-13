@@ -4,7 +4,7 @@ date: 2026-04-06T15:13:21Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **U.S. FDA** and the **U.K.’s Medicines and Healthcare products Regulatory Agency (MHRA)** have formalized an enhanced collaboration aimed at accelerating t..."
+excerpt: "The U.S. FDA and the U.K.’s Medicines and Healthcare products Regulatory Agency (MHRA) have formalized an enhanced collaboration aimed at accelerating t..."
 publisher: "fiercebiotech.com"
 source_url: "https://www.fiercebiotech.com/medtech/us-uk-regulators-bolster-medical-device-collaboration-while-lifting-tariffs"
 signal_ids: []

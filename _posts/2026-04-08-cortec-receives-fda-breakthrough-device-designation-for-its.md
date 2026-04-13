@@ -4,7 +4,7 @@ date: 2026-04-08T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "CorTec GmbH has received **Breakthrough Device Designation** from the FDA for its **Brain Interchange™ system**, a fully implantable brain-computer interface (B..."
+excerpt: "CorTec GmbH has received Breakthrough Device Designation from the FDA for its Brain Interchange™ system, a fully implantable brain-computer interface (B..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270076/0/en/CorTec-Receives-FDA-Breakthrough-Device-Designation-for-Its-Brain-Interchange-System-in-Stroke-Rehabilitation-the-First-BCI-Worldwide-Designated-for-Stroke-Motor-Rehabilitation.html"
 signal_ids: []

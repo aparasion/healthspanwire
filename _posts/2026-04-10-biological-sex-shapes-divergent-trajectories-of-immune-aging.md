@@ -4,7 +4,7 @@ date: 2026-04-10T11:26:24Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Single-cell profiling of nearly **1,000 individuals** has unveiled that **immune aging** exhibits distinct cellular and transcriptional trajectories based on bi..."
+excerpt: "Single-cell profiling of nearly 1,000 individuals has unveiled that immune aging exhibits distinct cellular and transcriptional trajectories based on bi..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01110-5"
 signal_ids: []

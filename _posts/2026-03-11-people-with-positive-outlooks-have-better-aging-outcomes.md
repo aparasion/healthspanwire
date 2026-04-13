@@ -4,7 +4,7 @@ date: 2026-03-11T16:04:49Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Geriatrics* reveals that older adults with positive beliefs about aging can experience significant improvements in both cognitive a..."
+excerpt: "A recent study published in Geriatrics reveals that older adults with positive beliefs about aging can experience significant improvements in both cognitive a..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/people-with-positive-outlooks-have-better-aging-outcomes/?utm_source=rss&utm_medium=rss&utm_campaign=people-with-positive-outlooks-have-better-aging-outcomes"
 signal_ids: []

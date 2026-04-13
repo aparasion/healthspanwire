@@ -4,7 +4,7 @@ date: 2026-04-07T07:31:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **influenza vaccine market** is projected to grow from **USD 8.73 billion in 2025** to **USD 9.38 billion in 2026**, with an anticipated **CAGR of 7.49%** t..."
+excerpt: "The influenza vaccine market is projected to grow from USD 8.73 billion in 2025 to USD 9.38 billion in 2026, with an anticipated CAGR of 7.49% t..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268850/0/en/Influenza-Vaccine-Market-Forecast-2031-Quadrivalent-Vaccines-Held-71-68-Share-in-2025-Says-a-Mordor-Intelligence-Report.html"
 signal_ids: []

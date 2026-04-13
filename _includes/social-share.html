@@ -22,7 +22,7 @@
 {% if include.share_desc %}
   {% assign _share_desc = include.share_desc | url_encode %}
 {% else %}
-  {% assign _share_desc = page.description | default: page.excerpt | markdownify | strip_html | truncate: 160 | url_encode %}
+  {% assign _share_desc = page.description | default: page.excerpt | strip_html | truncate: 160 | url_encode %}
 {% endif %}
 
 <div class="social-share" aria-label="Share this page">

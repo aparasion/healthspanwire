@@ -4,7 +4,7 @@ date: 2026-04-09T08:32:44Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers from **Kyoto University** and **RIKEN**, led by Osamu Takeuchi and Takuhiro Ito, have uncovered a previously unrecognized layer of genetic regulatio..."
+excerpt: "Researchers from Kyoto University and RIKEN, led by Osamu Takeuchi and Takuhiro Ito, have uncovered a previously unrecognized layer of genetic regulatio..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260408225946.htm"
 signal_ids: []

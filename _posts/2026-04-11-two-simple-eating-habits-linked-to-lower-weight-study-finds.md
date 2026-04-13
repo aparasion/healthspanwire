@@ -4,7 +4,7 @@ date: 2026-04-11T13:24:37Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from the **Barcelona Institute for Global Health (ISGlobal)** highlights the impact of meal timing on body mass index (BMI), revealing that exten..."
+excerpt: "A recent study from the Barcelona Institute for Global Health (ISGlobal) highlights the impact of meal timing on body mass index (BMI), revealing that exten..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411090018.htm"
 signal_ids: []

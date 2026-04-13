@@ -4,7 +4,7 @@ date: 2026-04-08T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "iBio, Inc. has announced the initiation of a first-in-human clinical trial for **IBIO-600**, a long-acting anti-myostatin monoclonal antibody aimed at preservin..."
+excerpt: "iBio, Inc. has announced the initiation of a first-in-human clinical trial for IBIO-600, a long-acting anti-myostatin monoclonal antibody aimed at preservin..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269981/0/en/iBio-Received-Regulatory-Clearance-to-Initiate-Its-Phase-1-Clinical-Trial-of-IBIO-600-in-Australia.html"
 signal_ids: []

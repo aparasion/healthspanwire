@@ -4,7 +4,7 @@ date: 2026-04-07T18:19:39Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**R3 Bio and Kind Biotechnology are advancing the field of regenerative medicine by developing multi-organ pseudo-embryos, which mimic the functionality of real..."
+excerpt: "R3 Bio and Kind Biotechnology are advancing the field of regenerative medicine by developing multi-organ pseudo-embryos, which mimic the functionality of real..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/the-road-to-producing-new-bodies-starts-with-multi-organ-pseudo-embryos"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-10T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A systematic review led by researchers sought to evaluate **prognostic tools** for predicting **6-month mortality** in individuals with dementia residing in car..."
+excerpt: "A systematic review led by researchers sought to evaluate prognostic tools for predicting 6-month mortality in individuals with dementia residing in car..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag087/8651022?rss=1"
 signal_ids: []

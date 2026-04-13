@@ -4,7 +4,7 @@ date: 2026-03-24T20:54:50Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **Boomers Today podcast** features an insightful discussion between host Frank Samson and Dr. Adam Solomon, addressing the impending **shortage of primary c..."
+excerpt: "The Boomers Today podcast features an insightful discussion between host Frank Samson and Dr. Adam Solomon, addressing the impending shortage of primary c..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/the-future-of-primary-care-physicians-its-changing-and-heres-why"
 signal_ids: []

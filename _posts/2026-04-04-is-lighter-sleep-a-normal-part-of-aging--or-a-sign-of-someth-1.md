@@ -4,7 +4,7 @@ date: 2026-04-04T11:52:49Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent insights into the neurobiology of aging reveal that older adults experience **fragmented sleep** not due to a decreased need for rest, but rather due to..."
+excerpt: "Recent insights into the neurobiology of aging reveal that older adults experience fragmented sleep not due to a decreased need for rest, but rather due to..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/is-lighter-sleep-a-normal-part-of-aging-or-a-sign-of-something-more-serious"
 signal_ids: []

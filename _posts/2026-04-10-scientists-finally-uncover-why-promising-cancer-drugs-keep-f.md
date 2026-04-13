@@ -4,7 +4,7 @@ date: 2026-04-10T03:42:35Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the **Max Planck Institute of Immunobiology and Epigenetics** have identified a critical distinction between two closely related BET proteins, **..."
+excerpt: "Researchers at the Max Planck Institute of Immunobiology and Epigenetics have identified a critical distinction between two closely related BET proteins, ..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260409101055.htm"
 signal_ids: []

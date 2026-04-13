@@ -4,7 +4,7 @@ date: 2026-04-07T09:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A new preclinical study from **Case Western Reserve University** and **University Hospitals** introduces an innovative **engineered immune-cell therapy**, terme..."
+excerpt: "A new preclinical study from Case Western Reserve University and University Hospitals introduces an innovative engineered immune-cell therapy, terme..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/new-car-t-approach-may-extend-osteosarcoma-survival"
 signal_ids: []

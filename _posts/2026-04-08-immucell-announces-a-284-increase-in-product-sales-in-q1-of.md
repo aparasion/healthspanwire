@@ -4,7 +4,7 @@ date: 2026-04-08T20:05:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "ImmuCell Corporation has reported a **28.4% increase** in total sales for Q1 2026, reaching **$10.4 million** compared to the same period in 2025. Domestic sale..."
+excerpt: "ImmuCell Corporation has reported a 28.4% increase in total sales for Q1 2026, reaching $10.4 million compared to the same period in 2025. Domestic sale..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270500/0/en/ImmuCell-Announces-a-28-4-Increase-in-Product-Sales-in-Q1-of-2026-based-on-Preliminary-Unaudited-Sales-Results.html"
 signal_ids: []

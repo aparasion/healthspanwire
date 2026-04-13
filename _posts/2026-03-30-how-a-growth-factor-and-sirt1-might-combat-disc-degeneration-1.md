@@ -4,7 +4,7 @@ date: 2026-03-30T16:04:43Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have identified a promising therapeutic approach to combat intervertebral disc degeneration (IDD) through the administration of the growth factor **..."
+excerpt: "Researchers have identified a promising therapeutic approach to combat intervertebral disc degeneration (IDD) through the administration of the growth factor ..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/how-a-growth-factor-and-sirt1-might-combat-disc-degeneration/?utm_source=rss&utm_medium=rss&utm_campaign=how-a-growth-factor-and-sirt1-might-combat-disc-degeneration"
 signal_ids: []

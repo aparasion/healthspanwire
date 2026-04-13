@@ -4,7 +4,7 @@ date: 2026-04-03T10:16:25Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have identified significant correlations between the **oral microbiome**, **periodontal disease**, and **cognitive decline** through a comprehensive..."
+excerpt: "Researchers have identified significant correlations between the oral microbiome, periodontal disease, and cognitive decline through a comprehensive..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/oral-microbiome-changes-in-the-correlation-between-periodontal-disease-and-cognitive-decline"
 signal_ids: []

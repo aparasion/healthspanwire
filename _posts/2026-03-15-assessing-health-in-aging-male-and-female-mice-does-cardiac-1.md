@@ -4,7 +4,7 @@ date: 2026-03-15T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Research on aging conducted with **old mice** reveals that **age-related cardiac dysfunction** is significantly influenced by **sex**, highlighting the need for..."
+excerpt: "Research on aging conducted with old mice reveals that age-related cardiac dysfunction is significantly influenced by sex, highlighting the need for..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glag075/8524751?rss=1"
 signal_ids: []

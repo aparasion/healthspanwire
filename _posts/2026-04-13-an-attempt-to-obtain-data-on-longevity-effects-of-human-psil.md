@@ -4,7 +4,7 @@ date: 2026-04-13T10:22:52Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent investigation into the **longevity effects of psilocybin** use among humans highlights the complexities of translating findings from animal models to h..."
+excerpt: "A recent investigation into the longevity effects of psilocybin use among humans highlights the complexities of translating findings from animal models to h..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/an-attempt-to-obtain-data-on-longevity-effects-of-human-psilocybin-use"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T17:24:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Loyola University New Orleans has secured **$2.85 million** in federal funding aimed at enhancing nursing education within its College of Nursing and Health. Th..."
+excerpt: "Loyola University New Orleans has secured $2.85 million in federal funding aimed at enhancing nursing education within its College of Nursing and Health. Th..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271320/0/en/Loyola-University-New-Orleans-College-of-Nursing-and-Health-Awarded-2-85-Million-to-Expand-Nursing-Education-and-Training.html"
 signal_ids: []

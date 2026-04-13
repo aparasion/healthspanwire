@@ -4,7 +4,7 @@ date: 2026-04-06T14:53:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Celldex Therapeutics has successfully closed an underwritten public offering of **11,896,750 shares** of its common stock, raising approximately **$345 million*..."
+excerpt: "Celldex Therapeutics has successfully closed an underwritten public offering of 11,896,750 shares of its common stock, raising approximately $345 million..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268530/24180/en/Celldex-Therapeutics-Announces-Closing-of-Public-Offering-of-Common-Stock-and-Full-Exercise-of-Underwriters-Option-to-Purchase-Additional-Shares.html"
 signal_ids: []

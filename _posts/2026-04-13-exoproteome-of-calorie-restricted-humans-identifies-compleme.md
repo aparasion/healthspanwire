@@ -4,7 +4,7 @@ date: 2026-04-13T10:12:32Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**In a recent study from the CALERIE trial, researchers applied proteomics to plasma samples from participants who achieved an average of **14% caloric restrict..."
+excerpt: "In a recent study from the CALERIE trial, researchers applied proteomics to plasma samples from participants who achieved an average of 14% caloric restrict..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01107-0"
 signal_ids: [blood-biomarker-panels]

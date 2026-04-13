@@ -4,7 +4,7 @@ date: 2026-04-11T12:13:19Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent research from the DZNE and Ludwig-Maximilians-Universität München reveals that **olfactory dysfunction** may serve as an early indicator of Alzheimer’s d..."
+excerpt: "Recent research from the DZNE and Ludwig-Maximilians-Universität München reveals that olfactory dysfunction may serve as an early indicator of Alzheimer’s d..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411043048.htm"
 signal_ids: []

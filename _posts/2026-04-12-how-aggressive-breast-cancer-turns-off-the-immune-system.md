@@ -4,7 +4,7 @@ date: 2026-04-12T11:03:28Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the **Instituto de Tecnologia Química e Biológica António Xavier** of NOVA University of Lisbon are launching the **BRIDGE project**, aimed at un..."
+excerpt: "Researchers at the Instituto de Tecnologia Química e Biológica António Xavier of NOVA University of Lisbon are launching the BRIDGE project, aimed at un..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411022031.htm"
 signal_ids: []

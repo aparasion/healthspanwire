@@ -4,7 +4,7 @@ date: 2026-04-04T11:57:58Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent insights into the diverse spectrum of **dementia** highlight the existence of over **100 subtypes**, each presenting unique symptoms and challenges. Whil..."
+excerpt: "Recent insights into the diverse spectrum of dementia highlight the existence of over 100 subtypes, each presenting unique symptoms and challenges. Whil..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/the-four-types-of-dementia-most-people-dont-know-exist"
 signal_ids: []

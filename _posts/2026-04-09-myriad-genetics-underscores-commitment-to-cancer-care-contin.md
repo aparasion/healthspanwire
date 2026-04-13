@@ -4,7 +4,7 @@ date: 2026-04-09T13:15:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Myriad Genetics, Inc. has announced the presentation of significant data at the Society of Gynecologic Oncology (SGO) Annual Meeting, highlighting their **Preci..."
+excerpt: "Myriad Genetics, Inc. has announced the presentation of significant data at the Society of Gynecologic Oncology (SGO) Annual Meeting, highlighting their Preci..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271066/15459/en/Myriad-Genetics-Underscores-Commitment-to-Cancer-Care-Continuum-with-New-Data-Presentations-at-SGO-Annual-Meeting.html"
 signal_ids: []

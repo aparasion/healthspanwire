@@ -4,7 +4,7 @@ date: 2026-04-03T15:07:50Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**NASA's exploration of the aging process in astronauts highlights the profound impact of spaceflight on human biology, revealing accelerated aging effects acro..."
+excerpt: "NASA's exploration of the aging process in astronauts highlights the profound impact of spaceflight on human biology, revealing accelerated aging effects acro..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01105-2"
 signal_ids: [blood-biomarker-panels]

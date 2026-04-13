@@ -4,7 +4,7 @@ date: 2026-04-07T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from the Toledo Study for Healthy Aging has elucidated the relationship between **osteosarcopenia**—the coexistence of osteopenia/osteoporosis an..."
+excerpt: "A recent study from the Toledo Study for Healthy Aging has elucidated the relationship between osteosarcopenia—the coexistence of osteopenia/osteoporosis an..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glag090/8626955?rss=1"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-03-12T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *Science* reveals that sleep patterns and activity levels in the African turquoise killifish can predict lifespan, highlighting the..."
+excerpt: "A recent study published in Science reveals that sleep patterns and activity levels in the African turquoise killifish can predict lifespan, highlighting the..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/d41586-026-00782-8"
 signal_ids: []

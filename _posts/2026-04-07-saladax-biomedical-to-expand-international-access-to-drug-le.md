@@ -4,7 +4,7 @@ date: 2026-04-07T13:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Saladax Biomedical, Inc. has forged a strategic distribution agreement with Thermo Fisher Scientific to enhance global access to its **therapeutic drug monitori..."
+excerpt: "Saladax Biomedical, Inc. has forged a strategic distribution agreement with Thermo Fisher Scientific to enhance global access to its therapeutic drug monitori..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269234/0/en/Saladax-Biomedical-to-Expand-International-Access-to-Drug-Level-Testing-for-Psychiatry-and-Oncology.html"
 signal_ids: []

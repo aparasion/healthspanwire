@@ -4,7 +4,7 @@ date: 2026-03-17T15:57:24Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers from the University of Almería, University of Granada, and Leiden University Medical Center have identified a gut bacterium, *Roseburia inulinivoran..."
+excerpt: "Researchers from the University of Almería, University of Granada, and Leiden University Medical Center have identified a gut bacterium, Roseburia inulinivoran..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/study-links-a-gut-bacterium-to-increased-muscle-strength/?utm_source=rss&utm_medium=rss&utm_campaign=study-links-a-gut-bacterium-to-increased-muscle-strength"
 signal_ids: []

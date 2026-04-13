@@ -4,7 +4,7 @@ date: 2026-04-09T10:22:24Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**PANoptosis emerges as a critical programmed cell death mechanism in the context of cardiac aging, as highlighted in a recent review. This mode of cell death i..."
+excerpt: "PANoptosis emerges as a critical programmed cell death mechanism in the context of cardiac aging, as highlighted in a recent review. This mode of cell death i..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/panoptosis-in-the-aging-of-the-heart"
 signal_ids: []

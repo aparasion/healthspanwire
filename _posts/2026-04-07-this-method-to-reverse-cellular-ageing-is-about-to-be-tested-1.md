@@ -4,7 +4,7 @@ date: 2026-04-07T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Yuancheng Ryan Lu and his team at the Whitehead Institute are poised to launch a groundbreaking clinical trial aimed at **reversing cellular aging**. This trial..."
+excerpt: "Yuancheng Ryan Lu and his team at the Whitehead Institute are poised to launch a groundbreaking clinical trial aimed at reversing cellular aging. This trial..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/d41586-026-01024-7"
 signal_ids: []

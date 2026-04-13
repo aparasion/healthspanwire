@@ -4,7 +4,7 @@ date: 2026-04-09T05:41:09Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "AliveCor has achieved regulatory registration in Vietnam for its **Kardia 12L electrocardiogram system**, which integrates **KAI 12L AI technology**. This porta..."
+excerpt: "AliveCor has achieved regulatory registration in Vietnam for its Kardia 12L electrocardiogram system, which integrates KAI 12L AI technology. This porta..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/alivecor-expands-ai-12-lead-cardiac-diagnostics-to-vietnam"
 signal_ids: []

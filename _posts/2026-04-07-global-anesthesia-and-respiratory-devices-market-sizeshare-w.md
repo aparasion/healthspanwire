@@ -4,7 +4,7 @@ date: 2026-04-07T21:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Healthcare Foresights has released a comprehensive report on the **Anesthesia and Respiratory Devices Market**, which was valued at approximately **USD 57.2 bil..."
+excerpt: "Healthcare Foresights has released a comprehensive report on the Anesthesia and Respiratory Devices Market, which was valued at approximately USD 57.2 bil..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269732/0/en/Global-Anesthesia-and-Respiratory-Devices-Market-Size-Share-Worth-USD-100-5-Billion-by-2035-at-a-5-8-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segm.html"
 signal_ids: []

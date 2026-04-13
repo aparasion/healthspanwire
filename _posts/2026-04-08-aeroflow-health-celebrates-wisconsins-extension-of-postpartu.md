@@ -4,7 +4,7 @@ date: 2026-04-08T13:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Aeroflow Health has successfully advocated for the passage of Senate Bill 23, now 2025 Wisconsin Act 102, which expands postpartum Medicaid coverage from 60 d..."
+excerpt: "Aeroflow Health has successfully advocated for the passage of Senate Bill 23, now 2025 Wisconsin Act 102, which expands postpartum Medicaid coverage from 60 d..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270177/0/en/Aeroflow-Health-Celebrates-Wisconsin-s-Extension-of-Postpartum-Care.html"
 signal_ids: []

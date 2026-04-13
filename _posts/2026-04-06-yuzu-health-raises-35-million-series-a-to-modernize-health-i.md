@@ -4,7 +4,7 @@ date: 2026-04-06T15:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Yuzu Health has secured a **$35 million Series A** funding round, bringing its total capital to **$40 million**. This funding, led by General Catalyst and Chemi..."
+excerpt: "Yuzu Health has secured a $35 million Series A funding round, bringing its total capital to $40 million. This funding, led by General Catalyst and Chemi..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268533/0/en/Yuzu-Health-Raises-35-Million-Series-A-to-Modernize-Health-Insurance-Plan-Infrastructure.html"
 signal_ids: []

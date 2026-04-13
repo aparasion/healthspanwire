@@ -4,7 +4,7 @@ date: 2026-04-10T12:15:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The **global bispecific antibodies market** is poised for significant growth, projected to escalate from **$12.9 billion in 2024 to $22.3 billion by 2030**, ref..."
+excerpt: "The global bispecific antibodies market is poised for significant growth, projected to escalate from $12.9 billion in 2024 to $22.3 billion by 2030, ref..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271710/0/en/Global-Bispecific-Antibodies-Market-to-Reach-22-3-Billion-by-2030-as-Immuno-Oncology-Innovation-and-R-D-Investment-Accelerate.html"
 signal_ids: []

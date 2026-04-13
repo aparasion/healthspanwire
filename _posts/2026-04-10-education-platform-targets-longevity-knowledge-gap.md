@@ -4,7 +4,7 @@ date: 2026-04-10T17:30:46Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Longevity.Technology has launched a **curated Education and Training Marketplace**, designed to address the fragmented landscape of knowledge in the rapidly evo..."
+excerpt: "Longevity.Technology has launched a curated Education and Training Marketplace, designed to address the fragmented landscape of knowledge in the rapidly evo..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/education-platform-targets-longevity-knowledge-gap"
 signal_ids: []

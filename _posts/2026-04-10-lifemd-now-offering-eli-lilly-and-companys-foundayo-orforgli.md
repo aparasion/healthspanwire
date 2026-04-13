@@ -4,7 +4,7 @@ date: 2026-04-10T12:15:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "LifeMD, Inc. has announced the integration of **Foundayo™ (orforglipron)** into its weight management program, following its FDA approval on April 1, 2026. Deve..."
+excerpt: "LifeMD, Inc. has announced the integration of Foundayo™ (orforglipron) into its weight management program, following its FDA approval on April 1, 2026. Deve..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271709/6480/en/LifeMD-Now-Offering-Eli-Lilly-and-Company-s-Foundayo-orforglipron-a-New-GLP-1-Pill-for-Weight-Management.html"
 signal_ids: []

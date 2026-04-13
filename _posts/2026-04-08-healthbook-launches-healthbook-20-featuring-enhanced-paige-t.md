@@ -4,7 +4,7 @@ date: 2026-04-08T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "HealthBook+ has launched **HealthBook+ 2.0**, an advanced clinical intelligence solution, at the Hint Summit 2026. This updated platform features a significantl..."
+excerpt: "HealthBook+ has launched HealthBook+ 2.0, an advanced clinical intelligence solution, at the Hint Summit 2026. This updated platform features a significantl..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270059/0/en/HealthBook-Launches-HealthBook-2-0-Featuring-Enhanced-PaiGE-the-Agentic-Medical-Partner-at-HINT-Summit-2026.html"
 signal_ids: []

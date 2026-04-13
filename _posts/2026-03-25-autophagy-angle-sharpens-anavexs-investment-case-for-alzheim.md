@@ -4,7 +4,7 @@ date: 2026-03-25T18:31:06Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A new study from researchers at the University of California, published in *Proceedings of the National Academy of Sciences Nexus*, challenges the traditional n..."
+excerpt: "A new study from researchers at the University of California, published in Proceedings of the National Academy of Sciences Nexus, challenges the traditional n..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/autophagy-angle-sharpens-anavexs-investment-case-for-alzheimers"
 signal_ids: []

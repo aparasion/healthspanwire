@@ -4,7 +4,7 @@ date: 2026-04-06T11:26:51Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Extracellular vesicles (EVs) derived from senescent hepatocytes have been identified as key facilitators of metastasis in aging, according to a recent study c..."
+excerpt: "Extracellular vesicles (EVs) derived from senescent hepatocytes have been identified as key facilitators of metastasis in aging, according to a recent study c..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01102-5"
 signal_ids: [senolytic-clinical-validation]

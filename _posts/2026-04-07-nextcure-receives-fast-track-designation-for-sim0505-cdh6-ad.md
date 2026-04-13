@@ -4,7 +4,7 @@ date: 2026-04-07T12:05:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The FDA has granted **Fast Track designation** to **SIM0505**, an investigational antibody-drug conjugate (ADC) developed by NextCure, Inc., for the treatment o..."
+excerpt: "The FDA has granted Fast Track designation to SIM0505, an investigational antibody-drug conjugate (ADC) developed by NextCure, Inc., for the treatment o..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269101/0/en/NextCure-Receives-Fast-Track-Designation-for-SIM0505-CDH6-ADC-in-Ovarian-Cancer.html"
 signal_ids: []

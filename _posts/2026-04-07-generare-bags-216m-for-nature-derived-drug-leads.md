@@ -4,7 +4,7 @@ date: 2026-04-07T10:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Paris-based biotech company **Generare** has made significant strides in drug discovery, claiming to have identified more than **200 novel small molecules** in..."
+excerpt: "Paris-based biotech company Generare has made significant strides in drug discovery, claiming to have identified more than 200 novel small molecules in..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/generare-bags-21-6m-for-nature-derived-drug-leads"
 signal_ids: []

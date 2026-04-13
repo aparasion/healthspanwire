@@ -4,7 +4,7 @@ date: 2026-04-06T13:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Egg Medical has launched **EggNest™ Complete Flex**, a groundbreaking radiation protection system that allows clinicians to operate safely without traditional l..."
+excerpt: "Egg Medical has launched EggNest™ Complete Flex, a groundbreaking radiation protection system that allows clinicians to operate safely without traditional l..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268471/0/fr/Egg-Medical-pr%C3%A9sente-EggNest-Complete-Flex-une-protection-sans-tablier-sans-travaux-sans-interruption-de-service-ni-perturbation.html"
 signal_ids: []

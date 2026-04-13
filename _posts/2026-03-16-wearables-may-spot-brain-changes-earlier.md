@@ -4,7 +4,7 @@ date: 2026-03-16T17:51:53Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study published in *npj Digital Medicine* reveals that consumer wearables, such as smartwatches, may effectively detect early cognitive and mood change..."
+excerpt: "A recent study published in npj Digital Medicine reveals that consumer wearables, such as smartwatches, may effectively detect early cognitive and mood change..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/wearables-may-spot-brain-changes-earlier"
 signal_ids: []

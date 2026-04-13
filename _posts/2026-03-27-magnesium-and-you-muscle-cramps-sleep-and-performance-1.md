@@ -4,7 +4,7 @@ date: 2026-03-27T15:28:46Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Magnesium's Role in Health and Fitness: A Critical Mineral for Longevity**   Recent insights highlight **magnesium** as a pivotal mineral not only for overall..."
+excerpt: "Magnesium's Role in Health and Fitness: A Critical Mineral for Longevity   Recent insights highlight magnesium as a pivotal mineral not only for overall..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/magnesium-and-you-muscle-cramps-sleep-and-performance"
 signal_ids: []

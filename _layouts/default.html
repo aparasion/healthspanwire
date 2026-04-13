@@ -8,7 +8,7 @@
   {% elsif page.title %}
     {% assign seo_title = page.title | append: ' | HealthspanWire' %}
   {% endif %}
-  {% assign seo_description = page.description | default: page.excerpt | default: site.description | markdownify | strip_html | normalize_whitespace %}
+  {% assign seo_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace %}
   {% assign seo_description = seo_description | truncate: 160 %}
   {% assign seo_image = page.image | default: site.social_image | default: '/assets/images/hswlogo.png' %}
   {% assign seo_image_url = seo_image | absolute_url %}

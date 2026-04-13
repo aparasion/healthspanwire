@@ -4,7 +4,7 @@ date: 2026-04-08T13:41:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "ROOT Brands® has introduced **CRUSH™ and SCULPT™**, a targeted nutritional protocol aimed at addressing the **“GLP‑1 gap”**—a growing concern among healthcare p..."
+excerpt: "ROOT Brands® has introduced CRUSH™ and SCULPT™, a targeted nutritional protocol aimed at addressing the “GLP‑1 gap”—a growing concern among healthcare p..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270248/0/en/ROOT-Brands-Addresses-the-GLP-1-Gap-with-CRUSH-and-SCULPT-a-Science-Driven-Protocol-for-Metabolic-and-Muscle-Support-After-Ozempic-and-Wegovy.html"
 signal_ids: []

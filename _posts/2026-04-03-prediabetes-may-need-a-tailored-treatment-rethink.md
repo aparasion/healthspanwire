@@ -4,7 +4,7 @@ date: 2026-04-03T10:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "New research presented at the American Heart Association’s EPI|Lifestyle Scientific Sessions 2026 reveals that **prediabetes** in younger adults (ages 18-40) ma..."
+excerpt: "New research presented at the American Heart Association’s EPI|Lifestyle Scientific Sessions 2026 reveals that prediabetes in younger adults (ages 18-40) ma..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/prediabetes-may-need-a-tailored-treatment-rethink"
 signal_ids: []

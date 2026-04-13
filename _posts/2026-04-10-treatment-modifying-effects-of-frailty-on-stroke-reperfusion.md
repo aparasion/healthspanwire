@@ -4,7 +4,7 @@ date: 2026-04-10T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent systematic review and meta-analysis has established a significant correlation between **pre-stroke frailty** and adverse outcomes following **reperfusi..."
+excerpt: "A recent systematic review and meta-analysis has established a significant correlation between pre-stroke frailty and adverse outcomes following reperfusi..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag080/8651038?rss=1"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-07T20:06:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Fantastic Pest Control** has introduced a state-of-the-art **heat treatment** technology to combat the growing problem of bed bug infestations in London. This..."
+excerpt: "Fantastic Pest Control has introduced a state-of-the-art heat treatment technology to combat the growing problem of bed bug infestations in London. This..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269631/0/en/As-Easter-Travel-Triggers-Bed-Bug-Infestation-Warning-Fantastic-Pest-Control-Rolls-Out-Faster-More-Efficient-Low-pesticide-Heat-Treatment.html"
 signal_ids: []

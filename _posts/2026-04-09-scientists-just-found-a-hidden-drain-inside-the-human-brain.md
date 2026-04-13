@@ -4,7 +4,7 @@ date: 2026-04-09T14:11:49Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the Medical University of South Carolina (MUSC) have unveiled a previously unidentified **waste-removal pathway** in the human brain, centered ar..."
+excerpt: "Researchers at the Medical University of South Carolina (MUSC) have unveiled a previously unidentified waste-removal pathway in the human brain, centered ar..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260408225934.htm"
 signal_ids: []

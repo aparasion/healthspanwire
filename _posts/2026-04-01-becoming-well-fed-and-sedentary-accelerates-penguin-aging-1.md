@@ -4,7 +4,7 @@ date: 2026-04-01T20:00:16Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study led by researchers from Europe has revealed that **sedentary lifestyles and abundant food** in zoo-housed king penguins accelerate their **epigen..."
+excerpt: "A recent study led by researchers from Europe has revealed that sedentary lifestyles and abundant food in zoo-housed king penguins accelerate their epigen..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/becoming-well-fed-and-sedentary-accelerates-penguin-aging/?utm_source=rss&utm_medium=rss&utm_campaign=becoming-well-fed-and-sedentary-accelerates-penguin-aging"
 signal_ids: [epigenetic-clock-adoption]

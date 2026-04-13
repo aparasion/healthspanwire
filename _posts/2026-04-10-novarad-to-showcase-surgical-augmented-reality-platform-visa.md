@@ -4,7 +4,7 @@ date: 2026-04-10T17:32:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Novarad is set to unveil its innovative surgical augmented reality platform, VisAR, at the Society of Interventional Radiology (SIR) Annual Scientific Meeting..."
+excerpt: "Novarad is set to unveil its innovative surgical augmented reality platform, VisAR, at the Society of Interventional Radiology (SIR) Annual Scientific Meeting..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271968/0/en/Novarad-to-Showcase-Surgical-Augmented-Reality-Platform-VisAR-at-SIR-2026.html"
 signal_ids: []

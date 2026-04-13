@@ -4,7 +4,7 @@ date: 2026-04-06T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent retrospective cohort study conducted in Ontario, Canada, analyzed the impact of **emergency department (ED) transfers** on long-term care (LTC) residen..."
+excerpt: "A recent retrospective cohort study conducted in Ontario, Canada, analyzed the impact of emergency department (ED) transfers on long-term care (LTC) residen..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag066/8607731?rss=1"
 signal_ids: []

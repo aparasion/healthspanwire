@@ -4,7 +4,7 @@ date: 2026-04-08T20:05:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "RxSight, Inc. has achieved a significant milestone with over **300,000 Light Adjustable Lens® (LAL®) implants** performed since its launch, as announced ahead o..."
+excerpt: "RxSight, Inc. has achieved a significant milestone with over 300,000 Light Adjustable Lens® (LAL®) implants performed since its launch, as announced ahead o..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270503/0/en/RxSight-Highlights-300-000-Light-Adjustable-Lens-Implant-Milestone-and-Strong-Scientific-Presence-at-ASCRS-2026.html"
 signal_ids: []

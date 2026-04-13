@@ -4,7 +4,7 @@ date: 2026-04-08T12:34:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Ritedose Corporation** has entered a strategic partnership with **Tenpoint Therapeutics** to manufacture **YUVEZZI™**, the first FDA-approved dual-agent eye d..."
+excerpt: "Ritedose Corporation has entered a strategic partnership with Tenpoint Therapeutics to manufacture YUVEZZI™, the first FDA-approved dual-agent eye d..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270117/0/en/Ritedose-Announces-Manufacturing-for-Tenpoint-Therapeutics-Presbyopia-Eye-Drop.html"
 signal_ids: []

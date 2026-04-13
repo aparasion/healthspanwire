@@ -4,7 +4,7 @@ date: 2026-04-13T08:12:37Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A groundbreaking study from the **Weizmann Institute of Science** has redefined the genetic contribution to human lifespan, revealing that genetics may account..."
+excerpt: "A groundbreaking study from the Weizmann Institute of Science has redefined the genetic contribution to human lifespan, revealing that genetics may account..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411022047.htm"
 signal_ids: []

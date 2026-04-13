@@ -4,7 +4,7 @@ date: 2026-03-16T17:47:14Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "In a recent episode of *Longevity.Technology UNLOCKED*, Dr. David Rabin and Dr. Pedram Shojai challenge the prevailing culture of relentless peak performance, h..."
+excerpt: "In a recent episode of Longevity.Technology UNLOCKED, Dr. David Rabin and Dr. Pedram Shojai challenge the prevailing culture of relentless peak performance, h..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/peak-performance-culture-is-exhausting-our-nervous-systems"
 signal_ids: []

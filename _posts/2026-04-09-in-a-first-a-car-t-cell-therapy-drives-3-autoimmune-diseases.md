@@ -4,7 +4,7 @@ date: 2026-04-09T17:38:02Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Miltenyi Biomedicine's **zorpocabtagene-autoleucel (zorpo-cel)**, a CD19-targeting CAR-T cell therapy, has demonstrated remarkable efficacy by treating a patien..."
+excerpt: "Miltenyi Biomedicine's zorpocabtagene-autoleucel (zorpo-cel), a CD19-targeting CAR-T cell therapy, has demonstrated remarkable efficacy by treating a patien..."
 publisher: "fiercebiotech.com"
 source_url: "https://www.fiercebiotech.com/research/first-car-t-cell-therapy-drives-3-autoimmune-diseases-remission-once"
 signal_ids: []

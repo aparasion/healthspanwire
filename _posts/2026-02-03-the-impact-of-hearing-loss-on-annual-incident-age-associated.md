@@ -4,7 +4,7 @@ date: 2026-02-03T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study utilizing the **DeciBHAL microsimulation model** has revealed that **141,000 new dementia cases** in the U.S. in 2022 can be attributed to hearin..."
+excerpt: "A recent study utilizing the DeciBHAL microsimulation model has revealed that 141,000 new dementia cases in the U.S. in 2022 can be attributed to hearin..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gerona/glaf295/8456452?rss=1"
 signal_ids: []

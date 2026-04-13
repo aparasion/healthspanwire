@@ -4,7 +4,7 @@ date: 2026-04-04T03:21:18Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Laromestrocel**, an allogeneic preparation of culture-expanded mesenchymal stem cells, is being investigated for its potential to address **inflammaging**, **..."
+excerpt: "Laromestrocel, an allogeneic preparation of culture-expanded mesenchymal stem cells, is being investigated for its potential to address inflammaging, ..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01114-1"
 signal_ids: []

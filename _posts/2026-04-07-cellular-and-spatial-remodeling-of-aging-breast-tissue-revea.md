@@ -4,7 +4,7 @@ date: 2026-04-07T23:05:59Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study employing **imaging mass cytometry** has unveiled significant insights into the **multicellular dynamics of aging breast tissue**. Researchers an..."
+excerpt: "A recent study employing imaging mass cytometry has unveiled significant insights into the multicellular dynamics of aging breast tissue. Researchers an..."
 publisher: "nature.com"
 source_url: "https://www.nature.com/articles/s43587-026-01111-4"
 signal_ids: []

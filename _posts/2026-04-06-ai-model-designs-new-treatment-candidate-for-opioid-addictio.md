@@ -4,7 +4,7 @@ date: 2026-04-06T19:36:57Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at GATC Health have leveraged artificial intelligence to develop a novel compound, **GATC-1021**, which effectively reduces opioid cravings in addic..."
+excerpt: "Researchers at GATC Health have leveraged artificial intelligence to develop a novel compound, GATC-1021, which effectively reduces opioid cravings in addic..."
 publisher: "fiercebiotech.com"
 source_url: "https://www.fiercebiotech.com/research/ai-model-designs-new-treatment-opioid-addiction-cuts-cravings-rats"
 signal_ids: []

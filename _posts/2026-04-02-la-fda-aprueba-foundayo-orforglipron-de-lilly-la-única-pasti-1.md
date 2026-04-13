@@ -4,7 +4,7 @@ date: 2026-04-02T16:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "La FDA ha aprobado **Foundayo™ (orforglipron)** de Eli Lilly, un nuevo agonista del receptor GLP-1 que se presenta en forma de pastilla y puede ser administrado..."
+excerpt: "La FDA ha aprobado Foundayo™ (orforglipron) de Eli Lilly, un nuevo agonista del receptor GLP-1 que se presenta en forma de pastilla y puede ser administrado..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/la-fda-aprueba-foundayotm-orforglipron-de-lilly-la-unica"
 signal_ids: []

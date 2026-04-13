@@ -4,7 +4,7 @@ date: 2026-04-10T17:02:30Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "NeuroTherapia has announced promising early results from its Phase 2a trial of **NTRX-07**, an oral candidate for Alzheimer’s disease that may be addressing the..."
+excerpt: "NeuroTherapia has announced promising early results from its Phase 2a trial of NTRX-07, an oral candidate for Alzheimer’s disease that may be addressing the..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/neurotherapia-clears-phase-2a-in-novel-alzheimers-treatment"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T18:49:18Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have identified **Arginase-1 (Arg-1)** as a pivotal gene influencing macrophage behavior in cartilage, revealing its role in the age-related decline..."
+excerpt: "Researchers have identified Arginase-1 (Arg-1) as a pivotal gene influencing macrophage behavior in cartilage, revealing its role in the age-related decline..."
 publisher: "fightaging.org"
 source_url: "https://www.fightaging.org/archives/2026/04/arg-1-makes-macrophages-more-inflammatory-impairing-cartilage-regeneration-with-age"
 signal_ids: []

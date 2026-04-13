@@ -4,7 +4,7 @@ date: 2026-04-10T18:29:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Matricis.ai has initiated a clinical collaboration with SimonMed Imaging to pilot **EndomAI**, an artificial intelligence platform designed to enhance the detec..."
+excerpt: "Matricis.ai has initiated a clinical collaboration with SimonMed Imaging to pilot EndomAI, an artificial intelligence platform designed to enhance the detec..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271987/0/en/Matricis-ai-Launches-First-U-S-Clinical-Pilot-of-EndomAI-for-AI-Assisted-Detection-of-Endometriosis-with-SimonMed.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-03T09:46:08Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Superpower has announced a strategic partnership with Grail to integrate the **Galleri multi-cancer early detection test** into its preventative health platform..."
+excerpt: "Superpower has announced a strategic partnership with Grail to integrate the Galleri multi-cancer early detection test into its preventative health platform..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/superpower-partners-with-grail-to-add-galleri-cancer-screening"
 signal_ids: []

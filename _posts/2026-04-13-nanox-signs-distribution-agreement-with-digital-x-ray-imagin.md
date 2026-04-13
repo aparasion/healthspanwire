@@ -4,7 +4,7 @@ date: 2026-04-13T12:10:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Nano X Imaging Ltd.** has made significant strides in expanding its U.S. commercial presence with a new distribution agreement between its subsidiary, **Nanox..."
+excerpt: "Nano X Imaging Ltd. has made significant strides in expanding its U.S. commercial presence with a new distribution agreement between its subsidiary, Nanox..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272473/0/en/Nanox-Signs-Distribution-Agreement-with-Digital-X-Ray-Imaging-to-Expand-Nanox-ARC-Adoption-in-Arkansas.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "HUTCHMED has announced the upcoming presentation of promising preclinical data for **HMPL-A580**, a first-in-class PI3K/PIKK-EGFR Antibody-Targeted Therapy Conj..."
+excerpt: "HUTCHMED has announced the upcoming presentation of promising preclinical data for HMPL-A580, a first-in-class PI3K/PIKK-EGFR Antibody-Targeted Therapy Conj..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270617/0/en/HUTCHMED-Highlights-Data-to-be-Presented-at-AACR-Annual-Meeting-2026.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-07T05:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Sanofi's **lunsekimig**, a novel bispecific Nanobody® VHH, has shown promising results in recent Phase 2 clinical trials targeting chronic respiratory diseases...."
+excerpt: "Sanofi's lunsekimig, a novel bispecific Nanobody® VHH, has shown promising results in recent Phase 2 clinical trials targeting chronic respiratory diseases...."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268809/0/en/Press-Release-Sanofi-s-lunsekimig-met-primary-and-key-secondary-endpoints-in-phase-2-respiratory-studies-in-asthma-and-CRSwNP.html"
 signal_ids: []

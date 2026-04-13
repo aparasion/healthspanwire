@@ -4,7 +4,7 @@ date: 2026-04-03T09:41:08Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Well Health has entered a strategic partnership with AliveCor to enhance cardiac care for Canadian users of the Kardia platform by integrating **cardiologist-re..."
+excerpt: "Well Health has entered a strategic partnership with AliveCor to enhance cardiac care for Canadian users of the Kardia platform by integrating cardiologist-re..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/well-health-partners-with-alivecor-for-cardiologist-review"
 signal_ids: []

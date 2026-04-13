@@ -4,7 +4,7 @@ date: 2026-04-09T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent analysis from the FIRE trial, involving **1,445 patients aged ≥75 years** with myocardial infarction (MI) and multivessel disease, has revealed critica..."
+excerpt: "A recent analysis from the FIRE trial, involving 1,445 patients aged ≥75 years with myocardial infarction (MI) and multivessel disease, has revealed critica..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag078/8650485?rss=1"
 signal_ids: []

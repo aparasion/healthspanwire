@@ -4,7 +4,7 @@ date: 2026-04-07T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Corbus Pharmaceuticals has received FDA alignment on its proposed registrational study design for **CRB-701**, a next-generation antibody-drug conjugate (ADC) t..."
+excerpt: "Corbus Pharmaceuticals has received FDA alignment on its proposed registrational study design for CRB-701, a next-generation antibody-drug conjugate (ADC) t..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269055/0/en/Corbus-Pharmaceuticals-Announces-Broad-Alignment-with-FDA-on-Registration-Path-for-CRB-701-in-Second-Line-HNSCC-and-Cervical-Cancer.html"
 signal_ids: []

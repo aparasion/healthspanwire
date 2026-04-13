@@ -4,7 +4,7 @@ date: 2026-04-08T14:50:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Booking Health** has released its 2026 report on **advanced treatment strategies for head and neck cancer (HNC)**, highlighting significant advancements in **..."
+excerpt: "Booking Health has released its 2026 report on advanced treatment strategies for head and neck cancer (HNC), highlighting significant advancements in ..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270321/0/en/Booking-Health-Releases-2026-Report-on-Advanced-Head-and-Neck-Cancer-Treatment-for-International-Patients.html"
 signal_ids: []

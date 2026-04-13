@@ -4,7 +4,7 @@ date: 2026-04-07T14:08:48Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Eli Lilly has invested **10 million Swiss francs ($12.5 million)** into AC Immune to advance their collaboration on Alzheimer’s disease, specifically targeting..."
+excerpt: "Eli Lilly has invested 10 million Swiss francs ($12.5 million) into AC Immune to advance their collaboration on Alzheimer’s disease, specifically targeting..."
 publisher: "fiercebiotech.com"
 source_url: "https://www.fiercebiotech.com/biotech/lilly-pays-ac-immune-125m-expand-alzheimers-collab-small-molecule-draws-closer-clinic"
 signal_ids: []

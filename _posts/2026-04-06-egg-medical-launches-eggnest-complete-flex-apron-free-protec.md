@@ -4,7 +4,7 @@ date: 2026-04-06T13:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Egg Medical has introduced the **EggNest™ Complete Flex**, a novel **Enhanced Radiation Protection Device (ERPD)** that allows clinicians to operate without tra..."
+excerpt: "Egg Medical has introduced the EggNest™ Complete Flex, a novel Enhanced Radiation Protection Device (ERPD) that allows clinicians to operate without tra..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268467/0/en/Egg-Medical-Launches-EggNest-Complete-Flex-Apron-Free-Protection-Without-Construction-Downtime-or-Disruption.html"
 signal_ids: []

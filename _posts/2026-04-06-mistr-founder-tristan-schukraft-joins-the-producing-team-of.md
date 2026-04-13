@@ -4,7 +4,7 @@ date: 2026-04-06T19:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Tristan Schukraft, Founder and CEO of MISTR, has joined the producing team of the Broadway musical **Titanique**, a comedic reinterpretation of the classic film..."
+excerpt: "Tristan Schukraft, Founder and CEO of MISTR, has joined the producing team of the Broadway musical Titanique, a comedic reinterpretation of the classic film..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268638/0/en/MISTR-Founder-Tristan-Schukraft-Joins-the-Producing-Team-of-Titanique.html"
 signal_ids: []

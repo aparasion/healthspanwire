@@ -4,7 +4,7 @@ date: 2026-04-13T12:32:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Neuronetics, Inc. has announced a significant policy update from Optum/United Healthcare/United Behavioral Health, which now allows **psychiatric mental health..."
+excerpt: "Neuronetics, Inc. has announced a significant policy update from Optum/United Healthcare/United Behavioral Health, which now allows psychiatric mental health..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272510/0/en/Optum-United-Healthcare-United-Behavioral-Health-Expands-NeuroStar-TMS-Coverage-to-Include-Psychiatric-Mental-Health-Nurse-Practitioners.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-06T09:00:20Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers from Ruhr University Bochum and Heidelberg University have identified **bemnifosbuvir**, a nucleotide analogue currently in clinical trials for hepa..."
+excerpt: "Researchers from Ruhr University Bochum and Heidelberg University have identified bemnifosbuvir, a nucleotide analogue currently in clinical trials for hepa..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260405003949.htm"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-09T10:45:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Lilly has launched Foundayo™ (orforglipron), an oral GLP-1 receptor agonist for weight management, now available in the U.S. This innovative treatment is nota..."
+excerpt: "Lilly has launched Foundayo™ (orforglipron), an oral GLP-1 receptor agonist for weight management, now available in the U.S. This innovative treatment is nota..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/foundayotm-orforglipron-lillys-new-oral-glp-1-pill-weight-loss"
 signal_ids: []

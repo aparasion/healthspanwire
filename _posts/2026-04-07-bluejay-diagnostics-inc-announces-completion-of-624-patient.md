@@ -4,7 +4,7 @@ date: 2026-04-07T10:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Bluejay Diagnostics has successfully enrolled **624 patients** in its pivotal SYMON-II Trial, aimed at validating the **Symphony™ IL-6 Test** for assessing pati..."
+excerpt: "Bluejay Diagnostics has successfully enrolled 624 patients in its pivotal SYMON-II Trial, aimed at validating the Symphony™ IL-6 Test for assessing pati..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268930/0/en/Bluejay-Diagnostics-Inc-Announces-Completion-of-624-Patient-Enrollments-in-SYMON-II-Pivotal-Clinical-Trial.html"
 signal_ids: []

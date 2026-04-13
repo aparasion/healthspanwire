@@ -4,7 +4,7 @@ date: 2026-04-12T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent analysis of data from the **Moli-sani Study** involving **20,975 adults** has elucidated the significant relationship between **frailty** and various a..."
+excerpt: "A recent analysis of data from the Moli-sani Study involving 20,975 adults has elucidated the significant relationship between frailty and various a..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag091/8651857?rss=1"
 signal_ids: []

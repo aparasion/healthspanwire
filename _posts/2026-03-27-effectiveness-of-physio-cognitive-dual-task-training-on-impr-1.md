@@ -4,7 +4,7 @@ date: 2026-03-27T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Physio-cognitive dual-task training (PCDT)** has emerged as a potential intervention for enhancing cognitive and physical outcomes in older adults with neuroc..."
+excerpt: "Physio-cognitive dual-task training (PCDT) has emerged as a potential intervention for enhancing cognitive and physical outcomes in older adults with neuroc..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag061/8550895?rss=1"
 signal_ids: []

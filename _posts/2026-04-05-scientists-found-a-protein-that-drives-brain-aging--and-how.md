@@ -4,7 +4,7 @@ date: 2026-04-05T11:08:57Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at UC San Francisco have identified **FTL1**, a protein that significantly contributes to **brain aging** and cognitive decline. In experiments with..."
+excerpt: "Researchers at UC San Francisco have identified FTL1, a protein that significantly contributes to brain aging and cognitive decline. In experiments with..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260405065236.htm"
 signal_ids: []

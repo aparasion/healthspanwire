@@ -4,7 +4,7 @@ date: 2026-04-13T04:20:02Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from Queen Mary University of London has demonstrated that **zilebesiran**, an investigational drug, can significantly enhance blood pressure con..."
+excerpt: "A recent study from Queen Mary University of London has demonstrated that zilebesiran, an investigational drug, can significantly enhance blood pressure con..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260411022035.htm"
 signal_ids: []

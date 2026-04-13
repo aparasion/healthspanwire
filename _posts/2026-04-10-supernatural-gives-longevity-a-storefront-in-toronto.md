@@ -4,7 +4,7 @@ date: 2026-04-10T17:01:45Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Supernatural**, a new concept in Toronto’s Yorkville neighborhood, is redefining the approach to **longevity** by transforming it from a clinical experience i..."
+excerpt: "Supernatural, a new concept in Toronto’s Yorkville neighborhood, is redefining the approach to longevity by transforming it from a clinical experience i..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/supernatural-gives-longevity-a-storefront-in-toronto"
 signal_ids: []

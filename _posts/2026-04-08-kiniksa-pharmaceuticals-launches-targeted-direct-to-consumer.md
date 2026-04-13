@@ -4,7 +4,7 @@ date: 2026-04-08T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Kiniksa Pharmaceuticals has launched the **Heart’s Home™** campaign to enhance awareness and empower patients regarding **ARCALYST**, the first FDA-approved the..."
+excerpt: "Kiniksa Pharmaceuticals has launched the Heart’s Home™ campaign to enhance awareness and empower patients regarding ARCALYST, the first FDA-approved the..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270058/0/en/Kiniksa-Pharmaceuticals-Launches-Targeted-Direct-To-Consumer-TV-Campaign-for-ARCALYST-rilonacept-in-Recurrent-Pericarditis.html"
 signal_ids: []

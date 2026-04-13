@@ -4,7 +4,7 @@ date: 2026-04-10T03:05:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Manhattan Mental Health Counseling (MMHC) has expanded its telehealth services to accept **TRICARE Select** and **TRICARE Reserve Select**, providing military f..."
+excerpt: "Manhattan Mental Health Counseling (MMHC) has expanded its telehealth services to accept TRICARE Select and TRICARE Reserve Select, providing military f..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271503/0/en/TRICARE-Now-Covers-Online-Therapy-in-New-York-0-Copay-for-Active-Duty-Families-Through-MMHC.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-05T03:06:31Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the University of Birmingham have unveiled a groundbreaking study that identifies specific **gut bacteria and metabolites** as potential biomarke..."
+excerpt: "Researchers at the University of Birmingham have unveiled a groundbreaking study that identifies specific gut bacteria and metabolites as potential biomarke..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260403224500.htm"
 signal_ids: []

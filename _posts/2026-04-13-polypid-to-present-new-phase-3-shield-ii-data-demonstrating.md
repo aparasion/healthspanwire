@@ -4,7 +4,7 @@ date: 2026-04-13T13:15:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "PolyPid Ltd. has unveiled promising pharmacokinetic data from its Phase 3 SHIELD II trial of **D-PLEX₁₀₀**, a novel local antibiotic delivery system designed to..."
+excerpt: "PolyPid Ltd. has unveiled promising pharmacokinetic data from its Phase 3 SHIELD II trial of D-PLEX₁₀₀, a novel local antibiotic delivery system designed to..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272567/0/en/PolyPid-to-Present-New-Phase-3-SHIELD-II-Data-Demonstrating-D-PLEX-Sustained-Local-Release-at-ESCMID-Global-2026.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-07T11:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Everbright Health has launched an **AI-enabled platform** designed to enhance the identification, engagement, and management of patients eligible for advanced m..."
+excerpt: "Everbright Health has launched an AI-enabled platform designed to enhance the identification, engagement, and management of patients eligible for advanced m..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268996/0/en/Everbright-Health-Announces-AI-Enabled-Platform-to-Unlock-Access-to-Advanced-Mental-Health-Interventions.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-08T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "MEDvidi has launched its **AI Prescribing Assistant**, designed to streamline medication renewals for patients with ADHD, anxiety, and depression. This innovati..."
+excerpt: "MEDvidi has launched its AI Prescribing Assistant, designed to streamline medication renewals for patients with ADHD, anxiety, and depression. This innovati..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269974/0/en/MEDvidi-Launches-AI-Prescribing-Assistant-to-Tackle-America-s-Mental-Health-Access-Crisis.html"
 signal_ids: []

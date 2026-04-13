@@ -4,7 +4,7 @@ date: 2026-04-10T15:59:16Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "The recent study from the Daegu Gyeongbuk Institute of Science and Technology reveals that **overexpression of somatostatin (SST)** in a mouse model of Alzheime..."
+excerpt: "The recent study from the Daegu Gyeongbuk Institute of Science and Technology reveals that overexpression of somatostatin (SST) in a mouse model of Alzheime..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/affecting-a-signaling-pathway-alleviates-alzheimers-in-mice/?utm_source=rss&utm_medium=rss&utm_campaign=affecting-a-signaling-pathway-alleviates-alzheimers-in-mice"
 signal_ids: []

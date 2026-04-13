@@ -4,7 +4,7 @@ date: 2026-04-09T17:02:58Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have demonstrated that a **combination treatment** of nicotinamide mononucleotide (NMN) and apigenin, referred to as **N + A**, significantly enhanc..."
+excerpt: "Researchers have demonstrated that a combination treatment of nicotinamide mononucleotide (NMN) and apigenin, referred to as N + A, significantly enhanc..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/a-combination-nad-treatment-has-benefits-for-mice/?utm_source=rss&utm_medium=rss&utm_campaign=a-combination-nad-treatment-has-benefits-for-mice"
 signal_ids: []

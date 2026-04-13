@@ -4,7 +4,7 @@ date: 2026-04-13T10:45:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Lilly's **Jaypirca (pirtobrutinib)** has demonstrated a significant extension in **progression-free survival (PFS)** when combined with a venetoclax time-limite..."
+excerpt: "Lilly's Jaypirca (pirtobrutinib) has demonstrated a significant extension in progression-free survival (PFS) when combined with a venetoclax time-limite..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/lillys-jaypirca-pirtobrutinib-significantly-extended-progression"
 signal_ids: []

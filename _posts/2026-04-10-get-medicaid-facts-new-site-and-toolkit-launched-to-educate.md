@@ -4,7 +4,7 @@ date: 2026-04-10T13:25:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Cook County Health has launched **Get Medicaid Facts**, a microsite and communications toolkit aimed at supporting enrollees, healthcare providers, and communit..."
+excerpt: "Cook County Health has launched Get Medicaid Facts, a microsite and communications toolkit aimed at supporting enrollees, healthcare providers, and communit..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271760/0/en/Get-Medicaid-Facts-New-Site-and-Toolkit-Launched-to-Educate-Public-About-Looming-Medicaid-Eligibility-Changes.html"
 signal_ids: []

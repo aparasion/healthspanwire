@@ -4,7 +4,7 @@ date: 2026-04-07T12:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Valitor has announced promising preclinical data on **VLTR-559**, a novel long-acting anti-VEGF biologic aimed at treating wet age-related macular degeneration..."
+excerpt: "Valitor has announced promising preclinical data on VLTR-559, a novel long-acting anti-VEGF biologic aimed at treating wet age-related macular degeneration..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269085/0/en/Valitor-Announces-Oral-Presentation-at-the-Upcoming-Association-for-Research-in-Vision-and-Ophthalmology-ARVO-2026-Annual-Meeting.html"
 signal_ids: []

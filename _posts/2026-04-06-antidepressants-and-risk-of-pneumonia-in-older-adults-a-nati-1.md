@@ -4,7 +4,7 @@ date: 2026-04-06T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study utilizing data from the Korea National Health Insurance Service–Senior Cohort has established a significant association between **antidepressant..."
+excerpt: "A recent study utilizing data from the Korea National Health Insurance Service–Senior Cohort has established a significant association between antidepressant..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag070/8607732?rss=1"
 signal_ids: []

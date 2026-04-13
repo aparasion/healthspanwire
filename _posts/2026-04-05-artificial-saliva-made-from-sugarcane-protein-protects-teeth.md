@@ -4,7 +4,7 @@ date: 2026-04-05T04:38:05Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the Bauru School of Dentistry, University of São Paulo, have developed a novel **artificial saliva** using a sugarcane protein known as **CANECPI..."
+excerpt: "Researchers at the Bauru School of Dentistry, University of São Paulo, have developed a novel artificial saliva using a sugarcane protein known as CANECPI..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260403224458.htm"
 signal_ids: []

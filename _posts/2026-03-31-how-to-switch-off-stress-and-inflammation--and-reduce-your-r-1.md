@@ -4,7 +4,7 @@ date: 2026-03-31T16:07:29Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Recent research highlights the **vagus nerve** as a pivotal player in combating **chronic inflammation**, a condition linked to numerous age-related diseases su..."
+excerpt: "Recent research highlights the vagus nerve as a pivotal player in combating chronic inflammation, a condition linked to numerous age-related diseases su..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/how-to-switch-off-stress-and-inflammation-and-reduce-your-risk-for-chronic-disease"
 signal_ids: []

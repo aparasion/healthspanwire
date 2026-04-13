@@ -4,7 +4,7 @@ date: 2026-03-24T20:53:46Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Spring's arrival brings a nutritional renaissance, particularly through the seasonal bounty of vegetables and proteins that support longevity. Asparagus, peas..."
+excerpt: "Spring's arrival brings a nutritional renaissance, particularly through the seasonal bounty of vegetables and proteins that support longevity. Asparagus, peas..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/eat-the-season-5-recipes-starring-the-power-foods-of-spring"
 signal_ids: []

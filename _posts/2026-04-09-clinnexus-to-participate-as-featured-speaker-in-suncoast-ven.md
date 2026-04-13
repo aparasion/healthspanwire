@@ -4,7 +4,7 @@ date: 2026-04-09T19:36:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "ClinNEXUS, a data-driven healthcare company, is set to play a pivotal role at the upcoming **Suncoast Ventures 2nd Annual Gateway Conference** on April 14-15 in..."
+excerpt: "ClinNEXUS, a data-driven healthcare company, is set to play a pivotal role at the upcoming Suncoast Ventures 2nd Annual Gateway Conference on April 14-15 in..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271389/0/en/ClinNEXUS-to-Participate-as-Featured-Speaker-in-Suncoast-Ventures-Gateway-Conference-on-Healthcare-Innovation.html"
 signal_ids: []

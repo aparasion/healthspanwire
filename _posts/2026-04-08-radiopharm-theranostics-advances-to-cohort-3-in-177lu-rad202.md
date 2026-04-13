@@ -4,7 +4,7 @@ date: 2026-04-08T11:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Radiopharm Theranostics has received a **positive recommendation** from its Data Safety and Monitoring Committee (DSMC) to escalate the dose of its clinical-sta..."
+excerpt: "Radiopharm Theranostics has received a positive recommendation from its Data Safety and Monitoring Committee (DSMC) to escalate the dose of its clinical-sta..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269961/0/en/Radiopharm-Theranostics-Advances-to-Cohort-3-in-177Lu-RAD202-Phase-1-Dose-Escalating-Clinical-Trial.html"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-03-28T19:15:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Lilly's Phase 3b TOGETHER-PsA study demonstrates that the combination of Taltz (ixekizumab) and Zepbound (tirzepatide) significantly outperforms Taltz monothe..."
+excerpt: "Lilly's Phase 3b TOGETHER-PsA study demonstrates that the combination of Taltz (ixekizumab) and Zepbound (tirzepatide) significantly outperforms Taltz monothe..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/phase-3b-data-presented-aad-annual-meeting-show-lillys-taltz"
 signal_ids: []

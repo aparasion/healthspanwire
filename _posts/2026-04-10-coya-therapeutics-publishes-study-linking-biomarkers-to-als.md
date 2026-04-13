@@ -4,7 +4,7 @@ date: 2026-04-10T14:31:08Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Coya Therapeutics has published a significant longitudinal biomarker study in the *Annals of Clinical and Translational Neurology*, spearheaded by Dr. David Bee..."
+excerpt: "Coya Therapeutics has published a significant longitudinal biomarker study in the Annals of Clinical and Translational Neurology, spearheaded by Dr. David Bee..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/coya-therapeutics-publishes-study-linking-biomarkers-to-als-outcomes"
 signal_ids: []

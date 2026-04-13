@@ -4,7 +4,7 @@ date: 2026-04-08T16:30:42Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Boston-based biotech Life Biosciences has secured **$80 million** in Series D funding to advance its pioneering **cell reset therapy**, ER-100, which aims to re..."
+excerpt: "Boston-based biotech Life Biosciences has secured $80 million in Series D funding to advance its pioneering cell reset therapy, ER-100, which aims to re..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/life-biosciences-lands-80m-to-push-cell-reset-therapy"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-04-12T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent systematic review and meta-analysis has highlighted the impact of **medication review and deprescribing interventions** on polypharmacy among older adu..."
+excerpt: "A recent systematic review and meta-analysis has highlighted the impact of medication review and deprescribing interventions on polypharmacy among older adu..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag084/8651855?rss=1"
 signal_ids: []

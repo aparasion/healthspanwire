@@ -4,7 +4,7 @@ date: 2026-04-02T08:27:44Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers at the Université de Genève have developed a **programmable DNA-based drug delivery system** that targets cancer cells with remarkable precision whi..."
+excerpt: "Researchers at the Université de Genève have developed a programmable DNA-based drug delivery system that targets cancer cells with remarkable precision whi..."
 publisher: "sciencedaily.com"
 source_url: "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
 signal_ids: []

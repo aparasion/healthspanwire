@@ -4,7 +4,7 @@ date: 2026-04-08T12:30:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "RenovoRx, Inc. has secured a **Notice of Allowance** for its first Japanese patent application, enhancing the intellectual property protection for its **RenovoC..."
+excerpt: "RenovoRx, Inc. has secured a Notice of Allowance for its first Japanese patent application, enhancing the intellectual property protection for its RenovoC..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270110/0/en/RenovoRx-Secures-First-Notice-of-Allowance-for-Japanese-Patent-Covering-its-RenovoCath-Device-for-Targeted-Local-Drug-Delivery-via-the-Vasa-Vasorum.html"
 signal_ids: []

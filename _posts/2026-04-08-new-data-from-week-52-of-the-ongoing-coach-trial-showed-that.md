@@ -4,7 +4,7 @@ date: 2026-04-08T12:01:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Ascendis Pharma has reported significant findings from the ongoing Phase 2 COACH Trial, demonstrating that the combination therapy of **TransCon CNP** and **Tra..."
+excerpt: "Ascendis Pharma has reported significant findings from the ongoing Phase 2 COACH Trial, demonstrating that the combination therapy of TransCon CNP and Tra..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270080/0/en/New-Data-from-Week-52-of-the-Ongoing-COACH-Trial-Showed-that-TransCon-hGH-Accelerated-TransCon-CNP-s-Benefits-Beyond-Linear-Growth-in-Children-with-Achondroplasia.html"
 signal_ids: []

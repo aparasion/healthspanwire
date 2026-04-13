@@ -4,7 +4,7 @@ date: 2026-04-10T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "**Automated segmentation of whole-body MRI data from the UK Biobank has enabled researchers to quantify prostate volume in 30,616 men, revealing significant ins..."
+excerpt: "Automated segmentation of whole-body MRI data from the UK Biobank has enabled researchers to quantify prostate volume in 30,616 men, revealing significant ins..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag090/8651036?rss=1"
 signal_ids: []

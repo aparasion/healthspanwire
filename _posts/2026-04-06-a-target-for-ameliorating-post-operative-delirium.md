@@ -4,7 +4,7 @@ date: 2026-04-06T16:14:44Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Researchers have identified **RUVBL2** as a promising therapeutic target for mitigating **post-operative delirium** (POD) in older adults, a condition that sign..."
+excerpt: "Researchers have identified RUVBL2 as a promising therapeutic target for mitigating post-operative delirium (POD) in older adults, a condition that sign..."
 publisher: "lifespan.io"
 source_url: "https://lifespan.io/news/a-target-for-ameliorating-post-operative-delirium/?utm_source=rss&utm_medium=rss&utm_campaign=a-target-for-ameliorating-post-operative-delirium"
 signal_ids: []

@@ -4,7 +4,7 @@ date: 2026-03-23T00:00:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "A recent study from the New York University Women’s Health Study has elucidated the impact of **neighborhood walkability (NW)** on the long-term cognitive healt..."
+excerpt: "A recent study from the New York University Women’s Health Study has elucidated the impact of neighborhood walkability (NW) on the long-term cognitive healt..."
 publisher: "academic.oup.com"
 source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag054/8537496?rss=1"
 signal_ids: []

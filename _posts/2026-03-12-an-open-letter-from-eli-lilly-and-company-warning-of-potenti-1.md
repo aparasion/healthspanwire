@@ -4,7 +4,7 @@ date: 2026-03-12T08:45:00Z
 layout: post
 categories: [longevity]
 tags: [longevity, healthspan, news, gist]
-excerpt: "Eli Lilly and Company has issued a **public warning** regarding the safety risks associated with compounded tirzepatide mixed with vitamin B12. Their testing re..."
+excerpt: "Eli Lilly and Company has issued a public warning regarding the safety risks associated with compounded tirzepatide mixed with vitamin B12. Their testing re..."
 publisher: "investor.lilly.com"
 source_url: "https://investor.lilly.com/news-releases/news-release-details/open-letter-eli-lilly-and-company-warning-potential-patient"
 signal_ids: []
