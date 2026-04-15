@@ -10,7 +10,7 @@
   {% endif %}
   {% assign seo_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace %}
   {% assign seo_description = seo_description | truncate: 160 %}
-  {% assign seo_image = page.image | default: site.social_image | default: '/assets/images/hswlogo.png' %}
+  {% assign seo_image = page.image | default: site.social_image | default: '/assets/images/social-preview.png' %}
   {% assign seo_image_url = seo_image | absolute_url %}
   {% assign canonical_url = page.url | replace:'index.html','' | absolute_url %}
 
@@ -101,7 +101,7 @@
     "@type": "Organization",
     "name": "HealthspanWire",
     "url": {{ site.url | jsonify }},
-    "logo": {{ site.social_image | default: '/assets/images/hswlogo.png' | absolute_url | jsonify }},
+    "logo": {{ site.social_image | default: '/assets/images/social-preview.png' | absolute_url | jsonify }},
     "description": {{ site.description | jsonify }},
     "sameAs": [
       "https://x.com/healthspanwire"
