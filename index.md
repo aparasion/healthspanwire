@@ -76,7 +76,7 @@ nav_order: 1
         <span class="featured-badge">Latest</span>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
-        <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+        <p>{{ post.excerpt | markdownify | strip_html | truncate: 200 }}</p>
       </article>
 
       <div class="post-grid reveal-stagger">
@@ -84,7 +84,7 @@ nav_order: 1
       <article class="post-card" data-post-date="{{ post.date | date: '%Y-%m-%d' }}">
         <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        <p>{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</p>
         <a href="{{ post.url | relative_url }}" class="read-more">Read more &rarr;</a>
       </article>
     {% endif %}
@@ -110,7 +110,7 @@ nav_order: 1
       <article class="post-card" data-post-date="{{ post.date | date: '%Y-%m-%d' }}">
         <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        <p>{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</p>
         <a href="{{ post.url | relative_url }}" class="read-more">Read more &rarr;</a>
       </article>
     {% endfor %}
@@ -136,7 +136,7 @@ nav_order: 1
       <article class="post-card" data-post-date="{{ post.date | date: '%Y-%m-%d' }}">
         <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        <p>{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</p>
         <a href="{{ post.url | relative_url }}" class="read-more">Read more &rarr;</a>
       </article>
     {% endfor %}
