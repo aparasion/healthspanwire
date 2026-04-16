@@ -500,7 +500,7 @@ def main() -> None:
 
         feed = fetch_feed(feed_url)
 
-        for entry in feed.entries[:10]:
+        for entry in feed.entries[:15]:
             if count >= MAX_ARTICLES:
                 break
 
@@ -526,7 +526,7 @@ def main() -> None:
 
             if extracted_text:
                 text = extracted_text
-            elif not google_news_source and is_usable_article_text(fallback_description, entry.title):
+            elif is_usable_article_text(fallback_description, entry.title):
                 text = fallback_description
             else:
                 print(
@@ -668,7 +668,7 @@ Source: [{safe_publisher}]({safe_source_url})
 
     print(f"Generated {len(posts)} individual gist posts")
     with open(SEEN_FILE, "w", encoding="utf-8") as seen_file:
-        json.dump(seen[-500:], seen_file, indent=2)
+        json.dump(seen[-2000:], seen_file, indent=2)
 
 
 if __name__ == "__main__":

@@ -5,6 +5,13 @@ on:
     - cron: "33 * * * *"
   workflow_dispatch:        # allows manual trigger from GitHub UI
 
+permissions:
+  contents: write           # required for git push from Actions
+
+concurrency:
+  group: daily-news-gists
+  cancel-in-progress: false  # queue rather than drop concurrent triggers
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
