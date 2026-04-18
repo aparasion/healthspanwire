@@ -3,13 +3,9 @@ layout: page
 title: Contact
 permalink: /contact/
 description: "Get in touch with HealthspanWire — share longevity research tips, corrections, or collaboration ideas on healthspan science coverage."
-nav: true
+nav: false
 nav_order: 5
 ---
-
-Have a tip, insight, correction, or contribution idea?
-
-Send a message below.
 
 <form action="https://formspree.io/f/xgoljzky"
       method="POST"

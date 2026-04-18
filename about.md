@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 description: "HealthspanWire is an independent publication tracking longevity science, healthspan research, aging biology breakthroughs, and the future of human lifespan."
-nav: true
+nav: false
 nav_order: 4
 ---
 
