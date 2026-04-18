@@ -1537,6 +1537,21 @@ article.post h1 {
   line-height: 1.5;
 }
 
+.footer-social {
+  margin-top: var(--space-4);
+}
+
+.footer-social-link {
+  display: inline-flex;
+  align-items: center;
+  color: var(--muted);
+  transition: color 0.2s;
+}
+
+.footer-social-link:hover {
+  color: var(--text);
+}
+
 .footer-nav-title {
   font-size: 0.75rem;
   font-weight: 700;
