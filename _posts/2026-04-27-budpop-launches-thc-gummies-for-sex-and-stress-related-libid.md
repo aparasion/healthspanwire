@@ -7,7 +7,7 @@ tags: [longevity, healthspan, news, gist]
 excerpt: "BudPop has launched a new line of **Delta-9 THC + CBG + CBC + CBN gummies** aimed at enhancing adult intimacy and addressing stress-related libido issues. These..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281350/0/en/BudPop-Launches-THC-Gummies-for-Sex-and-Stress-Related-Libido-Support.html"
-signal_ids: []
+signal_ids: [sex-healthspan-lifespan]
 signal_stance: mentions
 signal_confidence: low
 ---

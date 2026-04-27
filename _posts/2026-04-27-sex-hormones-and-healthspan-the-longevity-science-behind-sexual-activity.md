@@ -7,9 +7,9 @@ tags: [longevity, healthspan, news, gist]
 excerpt: "A growing body of evidence—anchored in telomere biology, cardiovascular epidemiology, and neuroendocrinology—positions regular sexual activity as a measurable contributor to healthspan, with data showing up to 49% lower all-cause mortality among sexually active adults compared to those who are largely abstinent..."
 publisher: "youtube.com"
 source_url: "https://www.youtube.com/watch?v=PnpHwhTWw0c"
-signal_ids: [epigenetic-clock-adoption]
-signal_stance: mentions
-signal_confidence: low
+signal_ids: [sex-healthspan-lifespan, epigenetic-clock-adoption]
+signal_stance: supports
+signal_confidence: high
 ---
 
 Sexual health has long been treated as peripheral to longevity medicine. A lecture by **Dr. Rena Malik**—board-certified urologist, pelvic surgeon, and Director of Female Pelvic Medicine & Reconstructive Surgery at the **University of Maryland Medical Center**—reframes the question, presenting sexual function not as a lifestyle amenity but as a clinically relevant domain with measurable effects on biological aging, hormonal homeostasis, and all-cause mortality risk.

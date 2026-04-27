@@ -7,9 +7,9 @@ tags: [longevity, healthspan, news, gist]
 excerpt: "The Women’s Health Initiative Memory Study (WHIMS) has prompted a reevaluation of menopause hormone therapy (MHT) and its implications for brain health. Initial..."
 publisher: "superagingnews.com"
 source_url: "https://superagingnews.com/busting-the-biggest-brain-myths-about-menopause-hormone-therapy-and-cognitive-health"
-signal_ids: []
-signal_stance: mixed
-signal_confidence: low
+signal_ids: [sex-healthspan-lifespan]
+signal_stance: supports
+signal_confidence: medium
 ---
 
 The Women’s Health Initiative Memory Study (WHIMS) has prompted a reevaluation of menopause hormone therapy (MHT) and its implications for brain health. Initially, findings from the early 2000s suggested that MHT increased risks for heart disease, stroke, breast cancer, and dementia, leading to a decline in its use. However, recent analyses indicate that timing and type of MHT are critical factors influencing outcomes, particularly regarding cognitive health.

@@ -7,9 +7,9 @@ tags: [longevity, healthspan, news, gist]
 excerpt: "**Life Extension has launched Advanced Male Sexual Support, a scientifically formulated supplement designed to enhance multiple aspects of male sexual health, i..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278110/0/en/Concerned-About-Supporting-Erectile-Health-Life-Extension-Launches-New-Men-s-Sexual-Health-Supplement.html"
-signal_ids: []
-signal_stance: mentions
-signal_confidence: low
+signal_ids: [sex-healthspan-lifespan]
+signal_stance: supports
+signal_confidence: medium
 ---
 
 **Life Extension has launched Advanced Male Sexual Support, a scientifically formulated supplement designed to enhance multiple aspects of male sexual health, including erectile function, desire, stamina, and overall satisfaction. This product combines clinically validated ingredients such as pomegranate and cacao extracts with a proprietary fenugreek blend to improve the bioavailability of luteolin, a compound known for its potential benefits in men’s health.**
