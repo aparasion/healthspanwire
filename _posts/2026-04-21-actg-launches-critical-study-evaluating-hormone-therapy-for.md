@@ -7,8 +7,8 @@ tags: [longevity, healthspan, news, gist]
 excerpt: "ACTG has launched the **HoT study** (A5424), a pivotal phase 4 clinical trial aimed at evaluating the **safety and efficacy of menopausal hormone therapy** for..."
 publisher: "globenewswire.com"
 source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278131/0/en/ACTG-Launches-Critical-Study-Evaluating-Hormone-Therapy-for-Women-Living-with-HIV-in-the-Menopause-Transition.html"
-signal_ids: []
-signal_stance: mixed
+signal_ids: [sex-healthspan-lifespan]
+signal_stance: mentions
 signal_confidence: low
 ---
 

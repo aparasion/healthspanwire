@@ -7,9 +7,9 @@ tags: [longevity, healthspan, news, gist]
 excerpt: "PDE5 inhibitors, traditionally used for erectile dysfunction and pulmonary hypertension, are garnering interest in longevity research for their potential role i..."
 publisher: "longevity.technology"
 source_url: "https://longevity.technology/news/erectile-dysfunction-drugs-and-longevity"
-signal_ids: []
-signal_stance: mixed
-signal_confidence: low
+signal_ids: [sex-healthspan-lifespan]
+signal_stance: supports
+signal_confidence: medium
 ---
 
 PDE5 inhibitors, traditionally used for erectile dysfunction and pulmonary hypertension, are garnering interest in longevity research for their potential role in enhancing healthspan. A recent review highlights that while these compounds, such as sildenafil and tadalafil, do not directly address aging's root causes, they may improve vascular health and tissue function under stress by blocking phosphodiesterase-5, thus extending nitric oxide signaling and promoting better blood flow. This mechanism addresses critical issues associated with aging, such as endothelial dysfunction and reduced nitric oxide bioavailability, which can affect multiple organ systems.
