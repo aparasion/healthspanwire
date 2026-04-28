@@ -225,20 +225,22 @@ hr {
 
 .logo-text {
   font-size: 1.1rem;
-  font-weight: 500;
   letter-spacing: -0.01em;
-  color: var(--logo-wordmark);
 }
 
-.site-logo .brand-health,
-.site-logo .brand-wire,
-.footer-logo .brand-health,
-.footer-logo .brand-wire {
-  color: var(--logo-wordmark);
+.brand-health {
+  color: var(--brand-health);
+  font-weight: 300;
+  opacity: 0.85;
 }
 
-.brand-health { color: var(--brand-health); }
-.brand-wire   { color: var(--brand-wire); }
+.brand-wire {
+  color: var(--brand-wire);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.88em;
+}
 
 /* ── Navigation — Right Aligned ────────────────────────── */
 .site-nav {
@@ -1499,9 +1501,7 @@ article.post h1 {
 
 .footer-logo-text {
   font-size: 1rem;
-  font-weight: 500;
   letter-spacing: -0.01em;
-  color: var(--logo-wordmark);
 }
 
 .footer-tagline {
