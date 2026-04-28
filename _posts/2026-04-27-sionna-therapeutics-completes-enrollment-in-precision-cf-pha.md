@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281460/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Sionna Therapeutics has successfully completed enrollment for its **PreciSION CF Phase 2a proof-of-concept trial**, evaluating **SION-719**, a first-in-class **nucleotide binding domain 1 (NBD1) stabilizer**, in conjunction with the standard of care, **Trikafta®** (elexacaftor/tezacaftor/ivacaftor). This trial is particularly significant as it represents the first clinical investigation of an NBD1 stabilizer in cystic fibrosis (CF) patients, specifically targeting the **F508del mutation**, the most prevalent CF-causing genetic alteration.

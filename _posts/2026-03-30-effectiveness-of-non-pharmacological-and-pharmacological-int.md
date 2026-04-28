@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag068/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent systematic review and meta-analysis has highlighted the efficacy of both non-pharmacological and pharmacological interventions in preventing delirium among older adults, a condition that significantly impacts morbidity and mortality rates in this population. The study, which included 87 trials with nearly 19,300 participants, underscores the importance of effective preventive measures for delirium, particularly in non-cardiovascular surgical and medical settings.

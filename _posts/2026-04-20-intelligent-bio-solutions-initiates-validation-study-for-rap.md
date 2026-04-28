@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277120/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Intelligent Bio Solutions Inc. (INBS) has initiated a **validation study** aimed at reducing the analysis time of its **Intelligent Fingerprinting Drug Screening System** from ten minutes to under three minutes. This development is pivotal as it targets the burgeoning global roadside drug testing market, projected to reach **$1.62 billion by 2030**. The current system already allows for sample collection in under a minute, and faster results will enhance its appeal to law enforcement agencies, which are increasingly focused on combating impaired driving.

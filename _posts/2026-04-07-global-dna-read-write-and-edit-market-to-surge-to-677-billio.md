@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269543/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 The **global DNA read, write, and edit market** is set to surge from **$21.4 billion in 2024 to $67.7 billion by 2030**, reflecting a **compound annual growth rate (CAGR) of 21.2%**. This growth is driven by advancements in **genome editing**, increasing demand for **genomic diagnostics**, and heightened private investment in **CRISPR-based therapeutics**. The report highlights that North America holds a substantial **43.5% market share**, underscoring its leadership in **genomics research** and **pharmaceutical R&D**.

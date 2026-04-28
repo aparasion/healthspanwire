@@ -10,6 +10,8 @@ source_url: "https://medicalxpress.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 A recent study from the University of Manchester and The Institute of Cancer Research has mapped 134 DNA damage signatures across 16 different cancers, providing crucial insights into the genetic underpinnings of tumor behavior. This comprehensive analysis of over 11,000 tumors reveals distinct patterns of DNA damage that could inform more targeted therapeutic strategies in oncology.

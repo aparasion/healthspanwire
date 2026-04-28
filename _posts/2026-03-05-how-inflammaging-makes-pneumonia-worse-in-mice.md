@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/how-inflammaging-makes-pneumonia-worse-in-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers have uncovered a critical link between inflammaging and pneumonia susceptibility in older mice, revealing that chronic inflammation hampers neutrophil function. The study, published in *Aging Cell*, demonstrates that older neutrophils exhibit traits of both immaturity and senescence, leading to impaired immune responses against infections like Streptococcus pneumoniae. Notably, blocking tumor necrosis factor alpha (TNFα) restored neutrophil efficacy, significantly reducing bacterial loads in treated mice.

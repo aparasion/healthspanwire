@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276978/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Helus Pharma™ has responded positively to the recent White House Executive Order aimed at accelerating the research, regulatory pathways, and patient access to psychedelic treatments. This initiative is particularly relevant as Helus Pharma develops **novel serotonergic agonists (NSAs)**, with their lead candidate, **HLP003**, currently in Phase 3 clinical trials for the adjunctive treatment of major depressive disorder (MDD). The Executive Order emphasizes the urgent need for innovative therapies in mental health, highlighting the potential for **FDA Breakthrough Therapy designation** to expedite the review process for psychedelic treatments.

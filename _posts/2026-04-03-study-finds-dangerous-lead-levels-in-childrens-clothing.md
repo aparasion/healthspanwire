@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260402042737.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 A recent study led by researchers at Marian University has uncovered alarming levels of lead in children's clothing, with every tested garment exceeding U.S. safety limits. The investigation, presented at the American Chemical Society's spring meeting, highlights the potential dangers associated with fast fashion, particularly for young children who frequently chew on their clothes. Brightly colored fabrics, especially those dyed in red and yellow, were found to contain particularly high levels of lead, likely due to the use of lead(II) acetate in the dyeing process.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alzheimers-risk-gene-reveals-hidd
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Research from the Buck Institute for Research on Aging reveals that the **APOE4 variant**, a significant genetic risk factor for Alzheimer’s disease, adversely affects **bone quality** in female mice. Despite normal imaging results, these mice exhibited marked deficits in bone strength, attributed to **disruption of osteocytes**, the cells responsible for maintaining bone microarchitecture. This study, published in *Advanced Science*, challenges the traditional view of Alzheimer’s as solely a brain disorder by demonstrating that the effects of APOE4 extend to skeletal health, indicating a systemic interplay between neurodegenerative and bone diseases.

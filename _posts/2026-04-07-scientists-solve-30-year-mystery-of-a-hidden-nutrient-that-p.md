@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260407004815.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers at the University of Florida and Trinity College Dublin have identified the **SLC35F2 gene** as the long-sought transporter responsible for the cellular absorption of **queuosine**, a micronutrient vital for **brain health**, **memory**, and **cancer defense**. This breakthrough, published in the Proceedings of the National Academy of Sciences, resolves a 30-year mystery regarding how queuosine enters human cells, which has significant implications for understanding its role in health and disease.

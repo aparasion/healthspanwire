@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 **Metabolic syndrome (MetSyn) has been identified as a significant predictor of pre-frailty and frailty in midlife women, according to a longitudinal study from the Study of Women’s Health Across the Nation.** The research involved 1,769 women aged 42-52 at baseline, with assessments of MetSyn conducted using ATP III criteria over multiple visits. The findings reveal that women with MetSyn had adjusted odds ratios (aOR) of 2.77 for pre-frailty and 8.73 for frailty compared to those without MetSyn, underscoring the syndrome's role as a critical risk factor in this demographic.

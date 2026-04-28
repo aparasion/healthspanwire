@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272567/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 PolyPid Ltd. has unveiled promising pharmacokinetic data from its Phase 3 SHIELD II trial of **D-PLEX₁₀₀**, a novel local antibiotic delivery system designed to prevent surgical site infections (SSIs) following abdominal colorectal surgery. The trial results, set to be presented at the **ESCMID Global 2026** congress, demonstrate that D-PLEX₁₀₀ achieves **sustained doxycycline release** for up to **763 hours** post-application, with minimal systemic exposure—plasma concentrations remaining below **100 ng/mL** compared to significantly higher levels seen with oral doxycycline.

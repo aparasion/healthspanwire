@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281701/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Alpha Tau Medical Ltd. has achieved a significant milestone with the acceptance of its abstract titled “Combined Safety and Efficacy Results from Three Clinical Studies Evaluating Alpha Radiotherapy for Advanced Pancreatic Cancer” at the 2026 American Society of Clinical Oncology (ASCO) Annual Meeting. This pooled analysis encompasses safety and efficacy data from **58 patients** across three prospective clinical studies conducted in Canada and Israel, focusing on the **endoscopic ultrasound (EUS)-guided intratumoral Alpha DaRT treatment** for patients with locally advanced or metastatic pancreatic ductal adenocarcinoma (PDAC).

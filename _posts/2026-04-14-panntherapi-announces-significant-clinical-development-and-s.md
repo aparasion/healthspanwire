@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/14/3273005/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 PannTheraPi has filed a regulatory submission to initiate a **Phase 2a trial** for its drug candidate **PTI5803**, targeting **focal cortical dysplasia (FCD)**, a rare and severe form of drug-resistant epilepsy. This oral small molecule aims to address significant unmet medical needs in both adults and children suffering from this condition, which currently has limited treatment options. The trial will assess the **safety, tolerability, pharmacological profile**, and initial efficacy signals of PTI5803, marking a critical step in its clinical development.

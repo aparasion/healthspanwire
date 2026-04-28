@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268471/0/zh-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Egg Medical** has unveiled the **EggNest™ Complete Flex**, a groundbreaking advancement in radiation protection that allows clinicians to operate safely without lead aprons or with only ultra-light lead aprons, all without the need for construction, structural modifications, or disruption of surgical workflows. The first live surgery utilizing this technology will be performed by Dr. Jasvindar Singh at Barnes-Jewish Hospital on April 8, 2026, as part of the ARCH 2026 conference.

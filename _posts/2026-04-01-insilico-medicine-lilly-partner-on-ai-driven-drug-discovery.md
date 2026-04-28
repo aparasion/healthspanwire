@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/insilico-medicine-lilly-partner-o
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "noteworthy"
 ---
 
 Insilico Medicine has entered into a significant drug discovery collaboration with Eli Lilly and Company, leveraging Insilico's advanced AI engine to expedite the development of novel therapeutics across various therapeutic areas. This partnership grants Lilly an exclusive worldwide license to develop and commercialize a portfolio of promising oral therapeutics currently in preclinical stages, while also establishing joint R&D programs focused on targets selected by Lilly. The financial implications of this agreement are substantial, with Insilico set to receive an upfront payment of $115 million and potential total deal value reaching approximately $2.75 billion, alongside tiered royalties on future sales.

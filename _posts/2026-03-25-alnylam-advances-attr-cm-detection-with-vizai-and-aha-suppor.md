@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alnylam-advances-attr-cm-detectio
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Alnylam Pharmaceuticals is launching a series of initiatives aimed at enhancing the early detection and care coordination for transthyretin-mediated amyloid cardiomyopathy (ATTR-CM). The company is collaborating with Viz.ai to create an AI-driven care pathway that integrates an FDA-cleared echocardiography algorithm, Us2.ai, with electronic health records. This partnership includes the AWARE implementation study, set to begin at five U.S. health systems, which will evaluate the integration of AI screening into standard clinical workflows to generate real-world evidence for broader adoption.

@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/regulatory/judge-rules-hhs-must-face-
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A federal judge has upheld a lawsuit from 19 states challenging the restructuring of the Department of Health and Human Services (HHS) initiated by Health Secretary Robert F. Kennedy Jr. on March 27, 2025. Judge Melissa R. DuBose of the U.S. District Court for the District of Rhode Island ruled that the states presented "sufficient, plausible allegations" that the actions taken by HHS were "arbitrary and capricious." The restructuring involved significant layoffs, including termination notices to 10,000 employees, the consolidation of 28 agencies into 15, and the closure of half of HHS's offices.

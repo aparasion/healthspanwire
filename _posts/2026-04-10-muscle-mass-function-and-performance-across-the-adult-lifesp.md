@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag088/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **D₃-creatine (D₃Cr) dilution emerges as a robust biomarker for assessing total body skeletal muscle mass, revealing critical insights into muscle function and performance across the lifespan. A recent study involving 895 adults, segmented into younger (30-69 years) and older (70+ years) cohorts, demonstrated significant age-related declines in D₃Cr muscle mass, particularly in men, where the decline accelerated from −0.5% per year in young adults to −1.4% per year in the oldest-old. This decline correlated with decreases in leg strength and walking speed, underscoring the intricate relationship between muscle mass and functional performance.**

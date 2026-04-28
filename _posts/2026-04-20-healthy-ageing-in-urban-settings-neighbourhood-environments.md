@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag099/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent cross-sectional study involving **5,068 urban adults aged ≥50 years** in Brazil has elucidated the interplay between **intrinsic capacity** and **neighbourhood environments** in influencing **social participation**. The research, part of the 2015–16 Brazilian Longitudinal Study of Ageing, assessed intrinsic capacity through a composite measure encompassing cognitive, psychological, sensory, locomotor, and vitality domains. Neighbourhood environments were evaluated using a 15-item perception scale and a derived indicator focusing on mobility barriers and access to food outlets.

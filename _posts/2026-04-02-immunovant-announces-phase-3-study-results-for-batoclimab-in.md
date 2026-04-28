@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267162/0/en/
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Immunovant, Inc. has announced the topline results from two Phase 3 clinical trials evaluating batoclimab for the treatment of moderate-to-severe thyroid eye disease (TED). Unfortunately, both studies failed to meet their primary endpoint of a ≥2mm proptosis responder rate at Week 24, despite showing that patients experienced greater proptosis improvement during the initial high-dose treatment period compared to the subsequent low-dose phase. Importantly, safety profiles remained consistent with earlier studies, with no new safety concerns identified.

@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260416071953.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers at the **John Innes Centre** have unveiled a novel mechanism by which bacteria disseminate **antibiotic resistance genes** through the action of gene transfer agents (GTAs). These virus-like particles, originally derived from ancient phages, have been co-opted by bacteria to facilitate horizontal gene transfer. The study identifies a critical three-gene cluster, **LypABC**, that regulates the lysis of bacterial cells, allowing for the release of these GTA particles filled with DNA.

@@ -10,6 +10,8 @@ source_url: "https://www.outsideonline.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 In a gripping portrayal of survival, Charlize Theron stars in the upcoming film "Apex," where she embodies Sasha, a climber and kayaker navigating both the physical and emotional challenges of grief. Set against the stunning backdrop of Australia’s Blue Mountains, the film showcases intense free solo climbing scenes that highlight not only Theron’s physical prowess but also the psychological depth of her character as she confronts danger and loss.

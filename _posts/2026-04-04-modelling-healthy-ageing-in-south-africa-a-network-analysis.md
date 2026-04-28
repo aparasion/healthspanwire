@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag074/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study utilizing **network analysis** has unveiled critical insights into the interdependencies among cognitive, physical, emotional, and functional capacities affecting healthy aging in older adults in rural South Africa. By analyzing data from **4,783 participants** aged 40 and above from the HAALSI study, researchers employed **Mixed Graphical Models (MGMs)** to assess conditional associations among 12 key variables, including cognitive function, depressive symptoms, and physical capacity.

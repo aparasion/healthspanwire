@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260408225950.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Researchers at **Tokyo University of Science**, led by Professor **Gen-ichiro Arimura**, have unveiled a significant breakthrough in understanding the **synergistic effects of plant-derived compounds** on inflammation. Their study demonstrates that combining everyday phytochemicals—specifically **menthol**, **1,8-cineole**, and **capsaicin**—can amplify anti-inflammatory responses in immune cells by up to **100 times** compared to individual compounds. This finding highlights the potential of these natural ingredients to work together, activating distinct cellular pathways to enhance their overall efficacy.

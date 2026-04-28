@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/engineered-stem-cells-become-lifelong-protein-f
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 Researchers at Rockefeller University have developed a groundbreaking approach to enhance immune responses by genetically engineering **hematopoietic stem and progenitor cells (HSPCs)** to produce **broadly neutralizing antibodies (bNAbs)** against pathogens such as HIV, malaria, and influenza. This innovative method leverages a small number of edited B cells, enabling them to act as lifelong protein factories, continuously producing essential antibodies and potentially other therapeutic proteins throughout the body.

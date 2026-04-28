@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275605/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 The U.S. cardiovascular devices market is poised for significant growth, projected to nearly double from **$22.08 billion in 2025 to $41.29 billion by 2032**. This expansion is driven by aging populations and the integration of next-generation diagnostic platforms, particularly as **75% of U.S. health systems** implement AI-powered clinical tools, with a focus on cardiac imaging. Companies like **VentriPoint Diagnostics**, **GE HealthCare**, **Medtronic**, **Intuitive Surgical**, and **Johnson & Johnson** are well-positioned to capitalize on this convergence of hardware and software advancements.

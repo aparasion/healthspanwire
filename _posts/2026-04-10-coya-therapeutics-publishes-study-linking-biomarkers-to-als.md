@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/coya-therapeutics-publishes-study
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Coya Therapeutics has published a significant longitudinal biomarker study in the *Annals of Clinical and Translational Neurology*, spearheaded by Dr. David Beers and Dr. Stanley Appel. This research analyzed serum samples from 100 patients with sporadic or familial amyotrophic lateral sclerosis (ALS) against 100 age- and sex-matched healthy controls, focusing on three key biomarkers: **4-hydroxy-2-nonenal (4-HNE)**, **lipopolysaccharide binding protein (LBP)**, and **neurofilament light chain (NfL)**, all measured via ELISA. The findings revealed that levels of 4-HNE and LBP were significantly elevated at diagnosis and increased with disease progression, correlating strongly with progression rates and survival (p < 0.001). In contrast, NfL showed an initial elevation at diagnosis but a more limited increase over time, also correlating with survival (p = 0.001).

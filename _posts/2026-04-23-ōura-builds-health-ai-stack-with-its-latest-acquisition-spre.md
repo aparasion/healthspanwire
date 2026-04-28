@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/oura-builds-health-ai-stack-with-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 ŌURA is strategically evolving from a consumer-facing wearable device into a comprehensive health infrastructure platform through a series of acquisitions, the most notable being **Galen AI**. This acquisition allows ŌURA to integrate disparate health data sources—medical records, lab results, medications, and wearable data—into a cohesive system that provides real-time, AI-driven health insights. CEO Tom Hale emphasizes the goal of enhancing personalized health guidance, leveraging the expertise of Galen AI's founders in both health and artificial intelligence.

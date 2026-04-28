@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276995/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 ENvue Medical, Inc. has announced the implementation of its **ENvue™ Navigation Platform** at a Virginia-based regional medical center, marking a significant shift in feeding tube placement procedures from interventional radiology to a **nursing-led bedside model**. This transition allows trained nursing staff to perform the procedure directly at the point of care, enhancing operational efficiency and aligning with the growing emphasis on patient-centered care. The platform, which has received FDA 510(k) clearance for adult use, utilizes a minimally invasive electromagnetic navigation system to provide **real-time visualization** of tube movement, thereby supporting informed clinical decision-making.

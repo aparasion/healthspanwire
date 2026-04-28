@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/d41586-026-00768-6"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study published in *Nature* reveals that a specific gut bacterium, *Parabacteroides goldsteinii*, contributes to cognitive decline in aging mice by disrupting gut-brain signaling. Researchers observed that young mice living with older counterparts exhibited memory deficits akin to those of the older mice, suggesting a microbiome influence on cognitive function. This discovery highlights a potential link between gut health and age-related cognitive decline, which could have significant implications for therapeutic strategies targeting the gut microbiome.

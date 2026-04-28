@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276903/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Psyence Biomedical Ltd. has made significant strides in the **global ibogaine market**, positioning itself as a leader in the development and manufacturing of pharmaceutical-grade ibogaine. The company has established a **GMP-compliant manufacturing platform** through its collaboration with PsyLabs, which allows for the ethical sourcing and production of ibogaine directly from its natural habitat in Africa. This vertical integration not only ensures high-quality output but also addresses the critical supply constraints currently hindering clinical progress in ibogaine research and application.

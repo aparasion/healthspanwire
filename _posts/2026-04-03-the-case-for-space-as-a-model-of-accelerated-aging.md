@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01105-2"
 signal_ids: [blood-biomarker-panels]
 signal_stance: supports
 signal_confidence: medium
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 **NASA's exploration of the aging process in astronauts highlights the profound impact of spaceflight on human biology, revealing accelerated aging effects across multiple physiological systems.** Researchers have identified that astronauts, despite their robust health, experience significant declines in **cardiovascular, musculoskeletal, cognitive, and immune functions** during space missions. These changes stem from four primary environmental stressors: **microgravity, circadian disruption, ionizing radiation, and social isolation**. By examining how these factors influence biological processes such as **mitochondrial dysfunction and chronic inflammation**, the study positions spaceflight as a unique model for understanding human aging.

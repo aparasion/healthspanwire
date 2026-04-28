@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272515/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **U.S. Oral Surgery Management (USOSM) is launching a nationwide initiative to provide free oral cancer screenings from April 13 to 17, 2026, in collaboration with the Head & Neck Cancer Foundation. This effort involves 49 surgeon partners across 14 states, aiming to enhance community awareness and early detection of oral, head, and neck cancers. With an estimated 60,480 new cases and 13,150 deaths projected for 2026, the initiative underscores the critical role of early diagnosis in improving survival rates, which can reach 80-90% when detected early.**

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267472/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Curonix LLC has reached a significant milestone in chronic pain management with the recent reimbursement updates for its Freedom® Peripheral Nerve Stimulator (PNS) System. Aetna has officially recognized this innovative device as a covered treatment for members suffering from intractable neuropathic pain, contingent on medical necessity and adherence to specific criteria. This recognition by Aetna, alongside additional coverage from Health Alliance Plan of Michigan, Select Health, Sentara Health Plan, and University of Utah Health Plans, expands access to a total of 27 million covered lives across the United States, marking a pivotal moment for non-opioid pain management solutions.

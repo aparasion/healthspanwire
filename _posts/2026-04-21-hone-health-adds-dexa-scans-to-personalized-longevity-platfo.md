@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/hone-health-adds-dexa-scans-to-pe
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Hone Health has integrated **BodySpec’s clinical-grade DEXA scans** into its telehealth platform, marking a significant advancement in the way body composition is assessed and monitored. This partnership aims to provide deeper insights into an individual's health, moving beyond simple weight measurements to a nuanced understanding of muscle, fat, and bone density changes over time. By incorporating DEXA scans, Hone Health enhances its vision of a “Personalized OS for Longevity,” where various health data points—blood work, hormone levels, and now body composition—are interconnected, allowing for a comprehensive view of patient health.

@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Lilly has announced significant updates regarding the CMMI BALANCE Model, which will enhance access to GLP-1 medications, including Zepbound® (tirzepatide) and potentially orforglipron, for Medicare beneficiaries starting January 1, 2027. Under this model, most patients will have their out-of-pocket costs capped at $50 per month after meeting their deductible, with a temporary structure allowing for a maximum of $245 per month before the deductible is reached. This initiative aims to lower financial barriers for patients requiring these therapies, reflecting a commitment to improving patient access and affordability.

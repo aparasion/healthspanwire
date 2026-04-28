@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267224/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Neutrolis, Inc. has announced promising topline results from the Phase 1a portion of its LIBERATE-I trial, evaluating NTR-1011, a novel DNASE1L3 fusion protein aimed at dismantling Neutrophil Extracellular Traps (NETs) implicated in autoimmune diseases like systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA). The study demonstrated a favorable safety and tolerability profile across multiple dosing levels, with no serious adverse events or immunogenicity reported, paving the way for the upcoming Phase 1b trial set to begin in mid-2026.

@@ -10,6 +10,8 @@ source_url: "https://www.the-scientist.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "noteworthy"
 ---
 
 In a recent webinar, Stefan Radtke unveiled advancements in high-throughput single-cell readouts that enhance the precision of gene editing outcomes following autologous hematopoietic stem cell gene therapy. This approach promises to improve the reliability and translatability of research findings, crucial for developing effective longevity therapeutics.

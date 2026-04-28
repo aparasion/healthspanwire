@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/superagers-reveal-a-regenerative-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A groundbreaking study has revealed that sustained neurogenesis and epigenetic regulation are linked to preserved memory in aging and resistance to Alzheimer’s disease. Researchers analyzed postmortem human hippocampal tissue, employing single-nucleus RNA sequencing and chromatin accessibility profiling to uncover how neurogenesis varies across different cognitive states, particularly highlighting the unique resilience of “SuperAgers” — individuals over 80 who perform at levels akin to much younger adults.

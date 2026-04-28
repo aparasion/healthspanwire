@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/premaz-expands-early-brain-screen
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A new partnership between PREMAZ, a digital cognitive assessment tool developed by Zest Science and the University of Cambridge, and Health is One, a UK-based well-being organization, aims to integrate early cognitive screening into everyday wellness services. This collaboration marks a significant shift from traditional cognitive assessments, which often occur only after noticeable symptoms arise, to a proactive approach that emphasizes early detection and prevention of cognitive decline.

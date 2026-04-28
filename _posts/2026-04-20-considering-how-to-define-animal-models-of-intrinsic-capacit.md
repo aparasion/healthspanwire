@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/04/considering-how-to-defi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The recent discourse on **intrinsic capacity (IC)** in aging, initiated by the WHO, has prompted researchers to explore its measurement in animal models. While IC encompasses a range of physical and mental capacities, including **motor skills, sensory function, vitality, psychological wellness,** and **cognition**, the lack of consensus on measurement techniques has hindered progress. Despite numerous studies attempting to correlate IC with health data, the absence of standardized methodologies complicates comparisons across research efforts. The current paper seeks to refine the conversation by proposing the use of animal models to longitudinally track IC during aging, addressing the challenges inherent in human studies.

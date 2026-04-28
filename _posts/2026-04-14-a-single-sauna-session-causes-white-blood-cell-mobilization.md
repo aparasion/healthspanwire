@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/a-single-sauna-session-causes-white-blood-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study from the University of Eastern Finland has demonstrated that a **30-minute sauna session significantly increases circulating white blood cell (WBC) counts** in adults, suggesting a potential mechanism for the health benefits associated with regular sauna use. Notably, the study found that while total WBC counts rose immediately after sauna exposure, the mobilization of specific cell types varied, with **neutrophils and lymphocytes returning to baseline levels shortly after**, while the MXD cell group remained elevated, particularly in women.

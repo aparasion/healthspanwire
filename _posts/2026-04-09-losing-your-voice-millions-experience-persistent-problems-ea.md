@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270691/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 The American Speech-Language-Hearing Association (ASHA) is amplifying awareness of vocal health in recognition of World Voice Day on April 16, 2026. With the theme “Caring for Our Voices!”, ASHA emphasizes the importance of recognizing **warning signs** of voice disorders, particularly among professionals who rely heavily on their vocal cords, such as teachers, coaches, and performers. Persistent symptoms like **hoarseness**, vocal fatigue, or discomfort can indicate serious underlying issues, necessitating professional evaluation and intervention.

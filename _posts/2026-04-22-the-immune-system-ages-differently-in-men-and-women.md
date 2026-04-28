@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/the-immune-system-ages-differently-in-men-and-w
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 A recent study led by Marta Melé at the Barcelona Supercomputing Center has uncovered significant **sex-dependent differences** in the aging immune system, revealing how these variations impact disease susceptibility and immune function. The research analyzed over **1 million peripheral blood mononuclear cells (PBMCs)** from 416 male and 566 female donors aged 19 to 97 years, employing a **single-cell analysis** approach to capture age-related changes in immune cell subpopulations and gene expression.

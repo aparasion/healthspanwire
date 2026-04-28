@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260330233357.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study published in *Health Psychology* by researchers from the Oregon Research Institute reveals that adhering to a consistent meal routine can significantly enhance weight loss outcomes. Over a 12-week behavioral weight loss program, participants who maintained stable calorie intakes and repeated meals lost an average of 5.9% of their body weight, compared to 4.3% for those with varied diets. This research underscores the potential benefits of simplifying dietary choices in a landscape filled with tempting food options.

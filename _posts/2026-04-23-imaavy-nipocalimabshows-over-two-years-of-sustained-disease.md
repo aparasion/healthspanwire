@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280240/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **Nipocalimab (IMAAVY®) has demonstrated sustained clinical improvements in adult patients with antibody-positive generalized myasthenia gravis (gMG) over a follow-up period extending to 120 weeks. The ongoing open-label extension of the Phase 3 Vivacity-MG3 study reveals significant reductions in total immunoglobulin G (IgG) levels and improvements in quality of life metrics, such as the MG-ADL and QMG scores, highlighting the drug's potential to maintain low disease activity and minimize symptom impact.**

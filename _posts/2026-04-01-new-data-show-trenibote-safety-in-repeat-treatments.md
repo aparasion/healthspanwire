@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/new-data-show-trenibote-safety-in
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 Allergan Aesthetics, a subsidiary of AbbVie, recently unveiled promising findings at the American Academy of Dermatology meeting, presenting data on their investigational neurotoxin TrenibotE and insights into the aesthetic concerns of patients undergoing GLP-1 agonist treatment for weight loss. In an 18-week, open-label Phase 3 study, TrenibotE demonstrated a consistent safety profile with no new safety concerns or neutralizing antibody development, showing rapid onset of effects as early as eight hours, although with a shorter duration of approximately two to three weeks.

@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/insilico-and-eli-lilly-announce-a-major-co
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Insilico Medicine has announced a significant collaboration with Eli Lilly, potentially valued at **$2.75 billion**, marking a pivotal shift in the relationship between the two companies. Initially focused on software licensing, this new agreement allows Lilly to license drug assets from Insilico’s pipeline, reflecting a deeper trust in Insilico's capabilities. The collaboration underscores Insilico's **Pharma.AI platform**, which automates the drug discovery process and has already demonstrated accelerated timelines, as seen with the AI-discovered drug **rentosertib**, which progressed to Phase 1 trials in under 30 months.

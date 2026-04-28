@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/eat-the-season-5-recipes-starring-the-po
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Spring has arrived, bringing with it a bounty of vibrant produce that not only delights the palate but also supports health and longevity. Asparagus, peas, fennel, radishes, and leafy greens are now in season, each offering unique nutritional benefits that can enhance healthspan. These vegetables are rich in vitamins, minerals, and protective compounds that contribute to reduced risks of cardiovascular disease, metabolic disorders, and certain cancers.

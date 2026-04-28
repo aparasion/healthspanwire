@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269981/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 iBio, Inc. has announced the initiation of a first-in-human clinical trial for **IBIO-600**, a long-acting anti-myostatin monoclonal antibody aimed at preserving muscle mass and improving body composition in overweight and obese adults. Following the acknowledgment of a Clinical Trial Notification (CTN) from Australia's Therapeutic Goods Administration (TGA) and ethics approval from a Human Research Ethics Committee (HREC), the company expects to dose the first participant in the second quarter of 2026. This trial will be a randomized, double-blind, placebo-controlled study assessing the safety, tolerability, pharmacokinetics, and pharmacodynamics of IBIO-600.

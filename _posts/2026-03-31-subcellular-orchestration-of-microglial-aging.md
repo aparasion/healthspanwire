@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01109-y"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers led by Henze et al. have made significant strides in understanding the subcellular transcriptional organization of microglia, revealing how their morphology changes with aging and age-related diseases. By employing multiplexed error-robust fluorescence in situ hybridization (MERFISH) alongside fluorescent immunohistochemistry, the team uncovered age-associated alterations in microglial transcript localization patterns. This innovative approach highlights the complex cellular remodeling processes that contribute to brain aging and the functional diversity of microglia.

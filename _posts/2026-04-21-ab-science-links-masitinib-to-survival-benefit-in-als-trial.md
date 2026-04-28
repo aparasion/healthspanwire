@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/ab-science-links-masitinib-to-sur
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 AB Science has released a medRxiv preprint detailing a significant analysis of long-term survivors of amyotrophic lateral sclerosis (ALS) treated with **masitinib** at a dosage of **4.5 mg/kg/day** in the phase 2b/3 **AB10015 study**. The analysis, which included **130 masitinib-treated patients**, revealed a **5-year survival rate** of **42.3%** from disease onset, with this figure increasing to **52.9%** in patients who had not experienced a complete loss of functionality prior to treatment. These findings contrast sharply with historical benchmarks of approximately **23.5%**, highlighting the potential of masitinib in extending survival for ALS patients.

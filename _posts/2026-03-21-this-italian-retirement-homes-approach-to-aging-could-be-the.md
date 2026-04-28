@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ja1lTekZfY3J3bl
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent initiative at an Italian retirement home is garnering attention for its innovative approach to aging, which emphasizes nutrition and social engagement as critical components of longevity. By integrating a diet rich in fresh, local ingredients with communal dining experiences, the facility aims to enhance both physical health and emotional well-being among its residents.

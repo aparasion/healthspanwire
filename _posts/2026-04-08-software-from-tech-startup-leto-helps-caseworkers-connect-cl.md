@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269987/18360
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Leto Tech PBC has launched an innovative software platform designed to enhance the efficiency of connecting clients with community resources, functioning as a customizable electronic version of a social worker's binder. Developed from research at Purdue University, this platform allows users to create tailored digital binders that can be searched by various criteria, including screening questions and keywords. The software aims to streamline the referral process to local social services, facilitating better care coordination among health centers and social service organizations.

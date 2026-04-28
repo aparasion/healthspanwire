@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270887/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study has highlighted the alarming presence of **microplastics and nanoplastics (MNPs)** in the human heart, linking these contaminants to increased risks of cardiovascular events. Conducted by Anathapindika Health, the research builds on previous findings that connected MNPs to cardiovascular disease, emphasizing the need for urgent attention to this emerging health threat. The study monitored **257 patients** with carotid artery plaque over nearly three years, revealing that those with detectable MNPs faced a significantly higher risk of myocardial infarction, stroke, or death compared to those without MNPs.

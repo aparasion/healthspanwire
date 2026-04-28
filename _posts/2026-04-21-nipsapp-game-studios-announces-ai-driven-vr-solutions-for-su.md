@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278279/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 NipsApp Game Studios, traditionally known for its mobile and PC game development, is pivoting towards **immersive technologies** with significant real-world applications. Founder and CEO Nipin P N has announced a strategic shift focusing on **AI-driven VR and AR** systems designed for training in high-stakes environments, including healthcare and industrial safety. This transition aims to leverage the company's expertise in engaging users to enhance training efficacy, particularly for medical professionals and workers in high-risk industries.

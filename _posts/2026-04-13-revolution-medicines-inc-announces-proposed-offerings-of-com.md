@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272883/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Revolution Medicines has announced a dual public offering aimed at raising **$1 billion** through **$750 million** in common stock and **$250 million** in convertible senior notes due 2033. This strategic financial maneuver is designed to bolster the company’s pipeline of **RAS(ON) inhibitors**, which target RAS-addicted cancers—a significant area of oncology due to the prevalence of RAS mutations in various malignancies.

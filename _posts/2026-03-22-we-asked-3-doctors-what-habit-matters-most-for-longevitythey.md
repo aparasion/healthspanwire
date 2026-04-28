@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUpyRnNrQ0xsWm
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Three doctors specializing in longevity have unanimously identified a single habit as the most crucial for extending lifespan: regular physical activity. This consensus underscores the significant role exercise plays in promoting health and longevity, as it not only helps maintain a healthy weight but also enhances cardiovascular health, boosts mood, and improves cognitive function.

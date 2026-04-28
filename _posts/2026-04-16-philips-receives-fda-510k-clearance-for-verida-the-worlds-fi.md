@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275385/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Royal Philips has secured **FDA 510(k) clearance** for its **Spectral CT Verida system**, a significant advancement in imaging technology that integrates **always-on spectral imaging** with an **AI-powered reconstruction engine**. This next-generation system employs a **third-generation Nano-panel Precise dual-layer detector** to enhance image quality by reducing noise, allowing clinicians to customize image de-noising settings. With a remarkable capability to reconstruct **145 images per second**, Verida can complete entire CT exams in under **30 seconds**, effectively doubling throughput to **up to 270 exams daily**.

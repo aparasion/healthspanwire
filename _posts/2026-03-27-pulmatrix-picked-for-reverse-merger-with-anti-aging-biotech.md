@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/pulmatrix-picked-reverse-merg
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Pulmatrix, previously set to merge with Cullgen, has shifted its trajectory by announcing a merger with Eos SENOLYTIX, a biotech focusing on age-related muscle loss. This strategic move will pivot Pulmatrix’s operations under the Eos SENOLYTIX banner, with a new Nasdaq ticker symbol "EOSX." The merger, which has been approved by both companies' boards, is expected to finalize by mid-2026 and will see Pulmatrix shareholders owning approximately 6% of the new entity.

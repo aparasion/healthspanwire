@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/a-proteomic-map-of-the-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Researchers have developed a comprehensive proteomic map that elucidates the interconnected hallmarks of aging, based on a detailed analysis of protein expression and localization in yeast. This study reveals that aging processes are not isolated; instead, they interact dynamically, with significant implications for understanding age-related cellular dysfunction.

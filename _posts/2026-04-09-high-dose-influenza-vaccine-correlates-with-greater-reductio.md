@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/04/high-dose-influenza-vac
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent retrospective cohort study utilizing data from the IQVIA PharMetrics Plus for Academics database has revealed that **high-dose inactivated influenza vaccines (H-IIV)** are associated with a significantly lower risk of developing **Alzheimer's disease (AD)** compared to standard-dose vaccines (S-IIV) in older adults. The study analyzed a population of 120,775 individuals aged 65 and older who received H-IIV, finding that they exhibited a reduced incidence of AD during the 25 months following vaccination. This suggests a potential biological mechanism at play, rather than solely behavioral factors associated with health-conscious individuals who choose to get vaccinated.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270076/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 CorTec GmbH has received **Breakthrough Device Designation** from the FDA for its **Brain Interchange™ system**, a fully implantable brain-computer interface (BCI) aimed at enhancing motor recovery in individuals with chronic stroke-related impairments. This designation is reserved for medical technologies that promise significant improvements in treating life-threatening or debilitating conditions, facilitating expedited development and regulatory engagement. The Brain Interchange system integrates neural signal recording with adaptive stimulation in a closed-loop format and is currently undergoing clinical evaluation at the University of Washington, marking a pivotal moment in stroke rehabilitation.

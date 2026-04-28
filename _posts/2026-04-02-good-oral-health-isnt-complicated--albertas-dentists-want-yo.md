@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267100/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Alberta's dental community has launched a campaign this Oral Health Month emphasizing the importance of fundamental oral care practices that could significantly impact overall health. Dr. Carol Martin, President of the Alberta Dental Association, highlights that brushing twice daily, flossing, maintaining a balanced diet, and regular dental visits remain the most effective strategies for promoting oral and systemic health. In a landscape filled with fleeting wellness trends, this return to basics serves as a reminder of the proven efficacy of evidence-based dental care.

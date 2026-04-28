@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVVB3Q1VEbnlwRz
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Peter Attia, a prominent figure in longevity science, is facing a significant legal challenge as new evidence from the Epstein files has emerged, potentially altering the landscape of a lawsuit concerning stock options. This development raises questions about the intersection of scientific expertise and financial dealings, particularly in the burgeoning field of longevity therapeutics.

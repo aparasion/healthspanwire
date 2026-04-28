@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmF1MkJicE94a1
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A new 20-year study challenges the prevailing notion that certain protein sources are detrimental to longevity. Researchers analyzed dietary patterns and health outcomes in a large cohort, revealing that moderate consumption of specific protein types, including those previously labeled as unhealthy, may not negatively impact lifespan as once thought. 

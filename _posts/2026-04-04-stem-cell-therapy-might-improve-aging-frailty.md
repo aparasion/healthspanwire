@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01114-1"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 **Laromestrocel**, an allogeneic preparation of culture-expanded mesenchymal stem cells, is being investigated for its potential to address **inflammaging**, **vascular dysfunction**, and **abnormal skeletal muscle function**—key contributors to frailty in older adults. Joshua Hare, chief scientific officer of Longeveron, emphasizes the therapeutic principle behind this approach, which aims to provide an off-the-shelf solution for treating aging frailty. The hypothesis stems from previous trials indicating that this cell therapy could enhance mobility in older populations suffering from frailty-related hypomobility.

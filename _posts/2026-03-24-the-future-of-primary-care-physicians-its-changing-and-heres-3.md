@@ -10,6 +10,7 @@ source_url: "https://superagingnews.com/the-future-of-primary-care-physicians-it
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The latest episode of the Boomers Today podcast features an insightful discussion between host Frank Samson and Dr. Adam Solomon, focusing on the impending **shortage of primary care physicians** as the aging population continues to grow. This trend poses significant challenges for healthcare delivery, particularly for **SuperAgers**, who require tailored and effective care. Dr. Solomon emphasizes the urgency of addressing this gap while exploring innovative approaches to primary care that could enhance patient outcomes.

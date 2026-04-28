@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/life-bios-trial-is-the-fda-warming-to-reju
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Life Biosciences is poised to revolutionize the field of longevity with its upcoming human trials for ER-100, an epigenetic therapy aimed at cellular reprogramming in the human eye. This Investigational New Drug (IND) filing, cleared by the FDA in January 2026, targets optic nerve disorders such as glaucoma and non-arteritic anterior ischemic optic neuropathy. The trial will initially assess safety and tolerability, marking a significant step in addressing age-related diseases through active cellular rejuvenation rather than merely slowing decline.

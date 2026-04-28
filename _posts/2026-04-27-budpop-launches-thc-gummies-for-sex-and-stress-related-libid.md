@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281350/0/en/
 signal_ids: [sex-healthspan-lifespan]
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 BudPop has launched a new line of **Delta-9 THC + CBG + CBC + CBN gummies** aimed at enhancing adult intimacy and addressing stress-related libido issues. These gummies utilize **nano-emulsified Delta-9 THC**, which allows for faster onset of effects—within 30 to 45 minutes—compared to traditional edibles. This product is compliant with the Farm Bill and is available for purchase online, reflecting a growing trend in the cannabis industry where intimacy products saw an **86% increase in sales** in 2025.

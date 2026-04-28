@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260411022031.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers at the **Instituto de Tecnologia Química e Biológica António Xavier** of NOVA University of Lisbon are launching the **BRIDGE project**, aimed at unraveling the mechanisms by which aggressive breast cancer evades the immune system. This initiative seeks to identify **biomarkers** that can predict disease progression and inform personalized treatment strategies. By utilizing real patient samples, the team plans to translate laboratory findings into clinically applicable tools that can enhance the management of this challenging cancer subtype.

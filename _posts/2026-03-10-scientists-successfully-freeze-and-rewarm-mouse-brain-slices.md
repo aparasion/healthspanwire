@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/scientists-successfully-freeze-and-rewarm-
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers at Friedrich-Alexander-Universität Erlangen-Nürnberg have made significant strides in cryopreservation by successfully vitrifying mouse brain slices and an entire brain, preserving much of its structure and function. Their proprietary vitrification technique prevents ice crystal formation, which typically damages cellular architecture during freezing, allowing for the preservation of neuronal function upon rewarming.

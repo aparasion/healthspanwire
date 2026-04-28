@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/givaudan-showcases-ai-powered-ing
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Givaudan Active Beauty has announced a collaboration with Haut.AI to showcase **AI-driven ingredient demonstrations** at in-cosmetics Global 2026 in Paris, set for April 14-16, 2026. This partnership will leverage Haut.AI’s **SkinGPT generative simulation** and a live AI Skin Expert, allowing attendees to take selfies, digitally apply Givaudan formulations, and visualize potential changes in skin parameters over time. A highlight of the demonstration will be Givaudan’s latest active ingredient, **PrimalHyal NeuroYouth**, which specifically targets the **Neuro Skin Aging pathway** and promotes **nerve fiber regeneration** and **neuronal function**.

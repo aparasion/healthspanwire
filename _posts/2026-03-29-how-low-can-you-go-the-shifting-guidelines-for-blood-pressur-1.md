@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/how-low-can-you-go-the-shifting-guidelin
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Mark Supiano, a geriatrician at the University of Utah, has emphasized the critical link between **hypertension management** and cognitive health in older adults, following his experience with a 78-year-old patient who presented with short-term memory loss and elevated blood pressure. Despite being on two antihypertensive medications, her blood pressure remained high, prompting Supiano to implement lifestyle changes and medication adjustments that eventually reduced her systolic readings to below 120 mmHg. This case underscores the evolving understanding of blood pressure thresholds, particularly in light of the **2017 AHA/ACC guidelines** that advocate for more aggressive treatment in older adults.

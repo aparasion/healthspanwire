@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/a-target-for-ameliorating-post-operative-d
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers have identified **RUVBL2** as a promising therapeutic target for mitigating **post-operative delirium** (POD) in older adults, a condition that significantly exacerbates cognitive decline. In a rat model of mild cognitive impairment, silencing the RUVBL2 gene led to improved cognitive outcomes following anaesthetic surgery, highlighting its role in the metabolic changes that occur in microglial cells within the hippocampus post-surgery.

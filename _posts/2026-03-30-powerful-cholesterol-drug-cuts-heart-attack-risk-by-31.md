@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260330001129.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Researchers at Mass General Brigham have unveiled promising results indicating that the cholesterol-lowering drug evolocumab can significantly reduce the risk of first-time heart attacks and strokes in high-risk diabetic patients, even before the onset of atherosclerosis. This finding, presented at the American College of Cardiology's Annual Scientific Session and published in JAMA, challenges the long-held practice of reserving intensive cholesterol-lowering therapies for individuals already diagnosed with cardiovascular disease.

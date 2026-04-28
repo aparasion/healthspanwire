@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277739/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Avricore Health Inc. has successfully implemented its HealthTab™ point-of-care testing platform, screening over **3,500 patients** across community pharmacies in North East and North Central London. This initiative, which includes a pilot program for **HbA1c testing** aimed at diabetes screening, achieved a monthly testing average that is **ten times higher** than previous efforts in Canada. The company has outlined its UK expansion strategy in a presentation titled “The Path Forward,” indicating a robust plan for scaling its operations within the NHS framework.

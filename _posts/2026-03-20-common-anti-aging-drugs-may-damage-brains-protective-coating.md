@@ -10,6 +10,8 @@ source_url: "https://multiplesclerosisnewstoday.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 The Accelerated Cure Project for Multiple Sclerosis (ACP) has secured funding to analyze and disseminate findings from the DISCO-MS study, which investigates the feasibility of discontinuing disease-modifying therapies in older adults with stable multiple sclerosis (MS). This initiative, supported by the Eugene Washington Foundation, aims to enhance treatment decision-making for this demographic, potentially reshaping clinical approaches to MS management.

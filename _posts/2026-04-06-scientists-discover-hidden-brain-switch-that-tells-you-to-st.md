@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260406192811.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers from the University of Maryland and the University of Concepción have uncovered a novel mechanism in appetite regulation that highlights the role of **astrocytes**—previously regarded as mere support cells—in signaling fullness. Their study, published in the *Proceedings of the National Academy of Sciences*, reveals that after a meal, glucose triggers **tanycytes** to release lactate, which then activates astrocytes, leading to the suppression of appetite through glutamate signaling to fullness neurons. This discovery redefines our understanding of the neurobiological circuits involved in hunger regulation.

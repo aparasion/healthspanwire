@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Lilly's investigational **triple agonist**, retatrutide, has shown promising results in its Phase 3 trial, TRANSCEND-T2D-1, for the treatment of **type 2 diabetes**. The trial demonstrated an average reduction in **A1C levels** of 1.7% to 2.0% across various doses after 40 weeks, with participants on the 12 mg dose losing an average of **36.6 lbs** (16.8% of body weight). Notably, the weight loss continued without plateauing throughout the study duration, addressing a significant challenge in managing obesity alongside diabetes.

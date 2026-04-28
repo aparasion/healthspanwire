@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/the-oldest-old-become-longevity-b
 signal_ids: [blood-biomarker-panels]
 signal_stance: mixed
 signal_confidence: medium
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 Human Longevity, Inc. (HLI) has partnered with the LEV Foundation to explore the blood of centenarians and supercentenarians, aiming to uncover the biological factors that contribute to their exceptional health and longevity. This collaboration shifts the focus from theoretical models to real-world evidence, leveraging the unique insights provided by individuals who have successfully navigated the aging process. By analyzing blood samples through a multi-omic approach, researchers hope to identify biomarkers and pathways that characterize those who age more slowly, potentially informing future diagnostics and therapeutics.

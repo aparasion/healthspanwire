@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag075/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent **network meta-analysis** has elucidated the comparative effectiveness of various **reminiscence-based therapies** on psychological well-being in older adults without diagnosed mild cognitive impairment (MCI) or dementia. Conducted across six databases, the analysis synthesized data from **33 randomized controlled trials** involving **2,512 participants**, focusing on interventions aimed at reducing depressive symptoms and enhancing life satisfaction.

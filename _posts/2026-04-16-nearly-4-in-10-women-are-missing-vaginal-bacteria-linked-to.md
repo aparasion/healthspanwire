@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275402/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Analysis by **Tiny Health** reveals that **39% of women** sampled exhibited low or absent levels of **Lactobacillus**, a key bacterium in the vaginal microbiome, with nearly half showing microbiome imbalances linked to fertility issues. This data, released during **National Infertility Awareness Week**, underscores the critical yet often overlooked role of the vaginal microbiome in reproductive health, particularly in the context of infertility, which affects approximately **1 in 5 women** of reproductive age in the U.S.

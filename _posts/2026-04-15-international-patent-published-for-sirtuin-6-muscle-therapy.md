@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/international-patent-published-fo
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Genflow Biosciences Plc has unveiled its Patent Cooperation Treaty application WO 2026/062177 A1, which details innovative variants of **sirtuin 6** aimed at addressing muscular diseases, particularly **frailty syndrome** and **sarcopenia**. This application encompasses a range of compositions and methods, including **nucleic acids, polypeptides, vectors**, and **pharmaceutical formulations** designed to combat muscle mass loss and restore altered muscle endocrine function. The publication marks a strategic expansion of Genflow's intellectual property portfolio, allowing for patent protection across various jurisdictions and enhancing its competitive positioning in the biotech landscape.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/fauna-bio-reaches-target-designat
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Fauna Bio has achieved a significant milestone in its collaboration with Eli Lilly & Company by designating a target for obesity treatment, utilizing insights from its Convergence AI platform. This partnership, initiated in December 2023, aims to explore innovative therapeutic avenues based on the biology of hibernating mammals. The identification of this target not only highlights the potential for a first-in-class obesity treatment but also triggers a financial payment to Fauna Bio as part of their agreement.

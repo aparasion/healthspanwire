@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260416025024.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 New research from Mass General Brigham indicates that targeting a **systolic blood pressure below 120 mm Hg** may significantly enhance cardiovascular health outcomes, potentially reducing the incidence of heart attacks, strokes, and heart failure more effectively than higher targets. Utilizing extensive datasets and simulation models, the study, published in the *Annals of Internal Medicine*, analyzed data from the Systolic Blood Pressure Intervention Trial (SPRINT) and the National Health and Nutrition Examination Survey (NHANES), among others, to evaluate the lifetime health outcomes associated with different blood pressure targets.

@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/found
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 **Lilly has launched Foundayo™ (orforglipron), an oral GLP-1 receptor agonist for weight management, now available in the U.S. This innovative treatment is notable for its flexibility, allowing administration at any time without food or water restrictions. Clinical data from the ATTAIN-1 trial indicate that patients on the highest dose of Foundayo achieved an average weight loss of **27.3 pounds** (12.4%) over 72 weeks, significantly surpassing the **2.2 pounds** (0.9%) lost by placebo participants. Furthermore, the treatment demonstrated improvements in various cardiovascular risk markers, including waist circumference and cholesterol levels.**

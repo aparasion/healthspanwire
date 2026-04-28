@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study evaluated the impact of age, sex, prior SARS-CoV-2 infection, and cytomegalovirus (CMV) serostatus on humoral and T-cell responses following a fourth dose of the bivalent BNT162b2 vaccine. In a cohort of 41 adults, researchers found that **anti-RBD IgG titres** increased significantly across all participants, indicating a robust humoral response that was largely independent of age or prior infection history. However, the **cellular immune response** exhibited notable heterogeneity, particularly among older adults and males, who demonstrated reduced frequencies of **IFN-γ–producing CD4+ T cells** post-vaccination.

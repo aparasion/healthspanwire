@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/04/igf-1-signaling-suppres
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+impact: "general"
 ---
 
 **Reduced IGF-1 signaling does not extend lifespan in mitochondrial mutator mice**, according to a recent study that explores the interplay between mitochondrial mutagenesis and IGF-1 signaling pathways. While IGF-1 has long been considered a key regulator of aging, this research reveals that its prolongevity effects are significantly impaired in the context of mitochondrial dysfunction, suggesting a more complex relationship than previously understood.

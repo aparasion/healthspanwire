@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/fountain-life-adds-apex-to-premiu
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Fountain Life has launched **APEX**, a premium membership program that redefines preventive healthcare by integrating continuous monitoring with performance assessments. This initiative moves beyond the traditional annual checkup model, offering a more personalized and ongoing approach to health optimization. APEX combines advanced diagnostics, including full-body and brain MRIs, genome sequencing, and blood biomarker analysis, with new features such as **Functional Movement & Mobility Range Assessment** and **VO₂ Max Testing**. This shift emphasizes not only the identification of health issues but also actionable insights and ongoing lifestyle guidance.

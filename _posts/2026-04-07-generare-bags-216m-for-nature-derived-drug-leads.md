@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/generare-bags-21-6m-for-nature-de
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Paris-based biotech company **Generare** has made significant strides in drug discovery, claiming to have identified more than **200 novel small molecules** in 2025—outpacing the entire field combined. This achievement highlights a critical issue in the industry: the reliance on **stale chemical libraries** and repetitive data sets, which hinders true innovation. Generare aims to address this by building a **proprietary dataset** of previously untapped molecular chemistry derived from microbial genomes, which could serve as a foundation for future drug development.

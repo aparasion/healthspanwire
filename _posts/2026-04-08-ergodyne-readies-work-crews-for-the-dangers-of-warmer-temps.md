@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270428/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **Ergodyne has launched a new line of cooling gear and worksite shelters aimed at mitigating heat stress risks for workers during the upcoming summer months. This initiative is part of a broader heat stress campaign that emphasizes the importance of hydration, personal cooling equipment, and shaded recovery areas to enhance worker safety and performance. As temperatures rise, the risk of heat-related illnesses increases, which can impair reaction times and decision-making, leading to serious workplace incidents.**

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280016/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 Connect Biopharma has announced that its Phase 2 Seabreeze STAT trials for **rademikibart**, a next-generation anti-IL-4Rα monoclonal antibody, will continue without changes to the sample size, following a positive interim analysis by the independent Data Monitoring Committee (DMC). The DMC's review indicated that rademikibart is well-tolerated among patients experiencing acute exacerbations of asthma and chronic obstructive pulmonary disease (COPD), with no safety concerns reported. The trials aim to evaluate the efficacy of rademikibart in reducing treatment failures and exacerbation rates, with topline results expected mid-2026.

@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/a-review-of-how-the-heart-ages/?utm_source
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent review published in the *European Heart Journal* explores the multifaceted aging process of the human heart, detailing both cellular and structural changes that occur over time. The review, authored by members of the International Consortium to Classify Ageing-Related Pathologies (ICCARP), highlights critical factors such as cellular senescence, mitochondrial dysfunction, and the resultant hypertrophy and fibrosis that contribute to increased heart failure rates in older adults.

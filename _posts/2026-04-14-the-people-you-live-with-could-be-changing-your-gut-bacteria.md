@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260413043131.htm"
 signal_ids: [gut-microbiome-aging]
 signal_stance: supports
 signal_confidence: medium
+topic: "nutrition"
+impact: "landmark"
 ---
 
 Research from the University of East Anglia has revealed that social interactions significantly influence gut microbiome composition, as demonstrated in a study of Seychelles warblers. The investigation found that birds with stronger social ties shared a greater diversity of gut microbes, particularly anaerobic bacteria that require direct contact for transmission. This suggests that the mechanisms of microbial exchange are driven by social behaviors rather than merely shared environments.

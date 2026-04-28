@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/how-a-growth-factor-and-sirt1-might-combat
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Researchers have uncovered a promising mechanism for combating intervertebral disc degeneration (IDD) by leveraging the growth factor FGF21 to upregulate the sirtuin SIRT1, enhancing mitophagy in spinal disc cells. Published in *Aging Cell*, the study demonstrated that FGF21 administration delayed IDD in a rat model, suggesting a novel therapeutic avenue for addressing a common cause of lower back pain in aging populations.

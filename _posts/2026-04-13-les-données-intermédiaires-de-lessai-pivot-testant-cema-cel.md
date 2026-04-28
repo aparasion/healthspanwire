@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272912/0/fr/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Cellectis has highlighted the interim futility analysis from Allogene Therapeutics regarding the pivotal ALPHA3 trial, which evaluates cema-cel as a first-line consolidation treatment for diffuse large B-cell lymphoma (DLBCL). The analysis revealed that **58.3%** of patients receiving cema-cel achieved **minimal residual disease (MRD) negativity**, compared to **16.7%** in the observation group, indicating a substantial **41.6% absolute difference** in MRD clearance. This outcome suggests that cema-cel, derived from the pioneering CAR-T therapy UCART19, may offer a significant clinical benefit, especially since a **25-30% difference** in MRD clearance is considered clinically meaningful.

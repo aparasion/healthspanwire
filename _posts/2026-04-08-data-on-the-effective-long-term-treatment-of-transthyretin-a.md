@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/data-on-the-effective-l
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 **Acoramidis, a novel therapeutic agent, has shown promising long-term efficacy in treating transthyretin amyloid cardiomyopathy (ATTR-CM), as evidenced by data from the ongoing open-label extension (OLE) of the ATTRibute-CM trial. This multicenter study reported that continuous treatment with acoramidis resulted in significant reductions in all-cause mortality (ACM) and cardiovascular-related mortality (CVM), with hazard ratios of 0.55 and 0.51, respectively, through month 54. The trial included 632 participants, predominantly elderly, with a mean age of 77.3 years, highlighting the drug's potential relevance in an aging population.**

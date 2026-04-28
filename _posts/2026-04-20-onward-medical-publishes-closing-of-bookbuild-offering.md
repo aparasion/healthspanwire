@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277270/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 **ONWARD Medical N.V.** has successfully closed a **€40.6 million** private placement with institutional investors, enhancing its capacity to develop innovative neurotechnology solutions aimed at restoring movement and independence for individuals with spinal cord injuries (SCI). The newly issued shares are now listed on Euronext Brussels, Amsterdam, and Paris, marking a significant milestone for the company as it continues to advance its proprietary **ARC Therapy**.

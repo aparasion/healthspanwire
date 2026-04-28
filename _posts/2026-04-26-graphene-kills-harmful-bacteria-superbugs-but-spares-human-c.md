@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260424233210.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have elucidated the **antibacterial mechanism** of graphene oxide (GO), demonstrating its ability to selectively target and eliminate harmful bacteria, including antibiotic-resistant “superbugs,” while sparing human cells. This discovery, led by Professors Sang Ouk Kim and Hyun Jung Chung, reveals that GO attaches to a specific molecule, **POPG**, found only in bacterial membranes, allowing for precise disruption of bacterial cell structures without affecting human tissue.

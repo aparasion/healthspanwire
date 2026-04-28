@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/cortec-receives-fda-breakthrough-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 The **FDA** has granted **Breakthrough Device Designation** to **CorTec’s Brain Interchange system**, a pioneering approach utilizing **direct cortical electrical stimulation** aimed at enhancing motor recovery in individuals with chronic stroke-related impairments. This designation is designed to streamline development and regulatory review processes by fostering more interactive engagement with the FDA. The Brain Interchange system is a **fully implantable, wireless, bidirectional brain-computer interface (BCI)** that integrates neural signal recording with adaptive stimulation in a closed-loop configuration. Currently, it is under evaluation in an **FDA-approved IDE study** at the University of Washington, marking a significant milestone as the first clinical investigation of a fully implantable wireless BCI for stroke rehabilitation in humans.

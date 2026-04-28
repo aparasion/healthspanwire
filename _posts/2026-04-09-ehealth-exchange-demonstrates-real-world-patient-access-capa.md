@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271433/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 eHealth Exchange™ has achieved a significant milestone in advancing interoperability by successfully demonstrating secure, standards-based patient access capabilities. This development was showcased at a CMS-hosted event in Washington, DC, where eHealth Exchange collaborated with b.well Connected Health and DaVita. The demonstration involved a kidney patient utilizing the b.well app to securely access their medical records from DaVita, with eHealth Exchange acting as the intermediary within the Carequality framework.

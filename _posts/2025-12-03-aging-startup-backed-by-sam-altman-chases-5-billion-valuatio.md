@@ -10,6 +10,8 @@ source_url: "https://www.statnews.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 NIH Director Jay Bhattacharya announced that the National Institutes of Health (NIH) will fully utilize its budget this year, a significant commitment to advancing health research. This announcement comes alongside plans to appoint permanent directors for NIH institutes, aiming to stabilize leadership and enhance research continuity.

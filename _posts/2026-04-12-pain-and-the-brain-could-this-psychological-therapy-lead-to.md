@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/pain-and-the-brain-could-this-psychologi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent study published in **JAMA Network Open** by a research team led by Yoni Ashar has unveiled promising insights into the treatment of chronic back pain through a psychological approach known as **pain reprocessing therapy**. This therapy aims to recalibrate patients' perceptions of pain, shifting the focus from physical injuries to the brain's role in chronic pain signaling. In a randomized trial involving 151 adults aged 21 to 70, **66% of participants** receiving pain reprocessing therapy reported being pain-free or nearly pain-free, a stark contrast to only **20%** in the placebo group.

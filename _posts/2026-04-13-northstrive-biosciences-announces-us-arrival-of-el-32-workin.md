@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272385/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 NorthStrive Biosciences Inc. has achieved a significant milestone with the transfer of its **EL-32 Working Cell Bank (WCB)** to a U.S.-based third-party fermentation facility. This strategic move marks the beginning of a **manufacturing optimization program** aimed at enhancing production yield and establishing a scalable process for the dual-action engineered probiotic therapeutic, **EL-32**. Designed to express both **myostatin** and **activin-A** antigens, EL-32 targets critical biological pathways involved in muscle development and metabolic function, offering a novel approach to preserving lean muscle mass in patients undergoing **GLP-1 receptor agonist** weight loss therapy.

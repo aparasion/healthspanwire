@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWs4UkE5UmVtdk
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Recent insights from Banner Health highlight the potential benefits of creatine supplementation for women and adults over 40. This demographic, often experiencing age-related muscle loss and cognitive decline, may find creatine a valuable addition to their health regimen. The article discusses how creatine can enhance muscle mass, improve strength, and support cognitive function, making it particularly relevant for those focused on maintaining healthspan as they age.

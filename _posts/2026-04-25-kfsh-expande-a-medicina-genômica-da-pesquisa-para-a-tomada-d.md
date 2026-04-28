@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/25/3281133/0/pt/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 The **King Faisal Specialist Hospital and Research Centre (KFSH)** is pioneering a **clinically integrated genomic medicine model** that leverages large-scale genetic data to inform real-time medical decisions, directly impacting patient care. Over the past two years, KFSH has doubled its genomic testing capacity from approximately **22,000 to over 44,000 tests**, marking a significant shift from limited use to routine clinical integration. This model enhances clinical impact, particularly in **precision oncology**, where pharmacogenomic insights have altered treatment decisions in up to **70% of documented cases**.

@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260326011452.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study published in *Radiology* reveals that AI-generated "deepfake" X-rays are so realistic that they can deceive both radiologists and AI detection models. Conducted by researchers from the Icahn School of Medicine at Mount Sinai, the study involved 17 radiologists from various countries who struggled to distinguish between real and synthetic images, with only 41% accuracy when unaware of the presence of deepfakes. This raises significant concerns about the potential for fraudulent medical claims and compromised patient diagnoses.

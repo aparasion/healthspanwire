@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/24/3280573/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Amphista Therapeutics has unveiled promising pre-clinical data on their **SMARCA2** and **TEAD Targeted Glue™** programs at the AACR Annual Meeting, highlighting the potential of their non-cereblon/non-VHL targeted degraders. The data demonstrate robust **selectivity** for SMARCA2 over SMARCA4, with significant in vivo degradation following oral administration, translating into the suppression of downstream biomarkers such as **KRT80** and **PLAU**. This achievement underscores the therapeutic relevance of their approach, leveraging insights from high-resolution cryo-electron microscopy to optimize degradation efficacy and selectivity.

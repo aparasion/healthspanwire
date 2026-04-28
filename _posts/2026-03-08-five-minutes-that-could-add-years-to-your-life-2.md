@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/five-minutes-that-could-add-years-to-you
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study published in The Lancet reveals that just five minutes of moderate-to-vigorous physical activity (MVPA) daily can significantly lower the risk of premature death, particularly for individuals who are currently the least active. This research, which analyzed data from over 135,000 adults across the U.S., U.K., Norway, and Sweden, underscores the potential impact of small, manageable changes in physical activity on population health outcomes.

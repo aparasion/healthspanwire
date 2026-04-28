@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/rubedo-reports-positive-phase-1-r
 signal_ids: [senolytic-clinical-validation]
 signal_stance: supports
 signal_confidence: medium
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 Rubedo Life Sciences has unveiled promising preliminary Phase 1 results for RLS-1496, a first-in-class GPX4 modulator, in a randomized, double-blind trial focused on plaque psoriasis and atopic dermatitis. The study met its primary endpoint, revealing a clear dose-response relationship across various concentrations, with no serious adverse events reported. Notably, mid- and high-dose cohorts showed reductions in senescent cells and a significant average 20% decrease in epidermal thickness, correlating target engagement with improvements in psoriasis severity.

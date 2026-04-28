@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/mesoblast-invests-in-smarter-cell
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Mesoblast Limited has secured an exclusive worldwide license for a **chimeric antigen receptor (CAR)** technology platform aimed at enhancing the targeting capabilities of its existing **mesenchymal lineage stromal cell (MSC)** therapies. This strategic move is designed to refine the precision with which these living therapies locate and repair inflamed tissues, shifting from broad biological effects to targeted cellular interventions. By leveraging CAR technology, Mesoblast aims to improve the efficacy of its therapeutic cells in treating inflammatory diseases by enabling them to identify specific biological targets with greater accuracy.

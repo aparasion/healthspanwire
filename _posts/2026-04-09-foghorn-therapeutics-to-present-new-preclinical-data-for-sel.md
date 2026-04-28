@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270778/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Foghorn Therapeutics Inc. has announced promising preclinical data for its selective SMARCA2 inhibitor, **FHD-909**, which demonstrates potential for combination therapy with an **anti-PD-1 antibody** in treating **SMARCA4-mutant lung cancer**. This development, to be presented at the upcoming **2026 AACR Annual Meeting**, highlights the strategic collaboration with Eli Lilly, positioning FHD-909 as a pioneering candidate in a niche but critical area of oncology.

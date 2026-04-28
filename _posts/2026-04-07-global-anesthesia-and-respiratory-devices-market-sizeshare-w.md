@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269732/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Healthcare Foresights has released a comprehensive report on the **Anesthesia and Respiratory Devices Market**, which was valued at approximately **USD 57.2 billion** in 2025 and is projected to reach **USD 100.5 billion** by 2035, reflecting a **CAGR of 5.8%** from 2026 to 2035. This growth is driven by the increasing prevalence of respiratory diseases, the rising number of surgical procedures, and advancements in technology, particularly in home healthcare settings.

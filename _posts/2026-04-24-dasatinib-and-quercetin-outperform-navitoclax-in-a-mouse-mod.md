@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/dasatinib-and-quercetin
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 **Dasatinib and Quercetin (DQ) demonstrate superior efficacy over Navitoclax in mitigating intervertebral disc degeneration in a senescence-driven mouse model.** This study utilizes SM/J mice to explore the role of premature disc cell senescence in early-onset degeneration, highlighting that while Navitoclax did not yield improvements in degeneration or senescence status, DQ treatment resulted in significantly lower degeneration grades and reduced senescence markers, such as p19ARF and p21.

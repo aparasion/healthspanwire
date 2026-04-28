@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260411022023.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study from **Lund University** reveals that **early adulthood obesity** significantly increases the risk of **premature death**, particularly from diseases such as **cardiovascular disease** and **diabetes**. Analyzing data from over **600,000 individuals**, researchers found that those who experienced rapid weight gain between the ages of **17 and 29** had a **70% higher risk** of dying prematurely compared to their peers who did not become obese before age 60. This study emphasizes the importance of considering **weight trajectories** over time rather than focusing solely on obesity at a single point.

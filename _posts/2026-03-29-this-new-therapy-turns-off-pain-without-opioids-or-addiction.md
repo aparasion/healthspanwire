@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260328043558.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers at the University of Pennsylvania have developed a groundbreaking gene therapy that targets chronic pain at its source in the brain, offering a promising alternative to opioids without the associated risks of addiction. This innovative approach, detailed in a recent study published in *Nature*, utilizes artificial intelligence to map pain-processing circuits and create a precise "off switch" that mimics the analgesic effects of morphine while avoiding its dangerous side effects.

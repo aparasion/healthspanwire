@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/in-search-of-novel-mean
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Researchers have identified **terbinafine** and **miglustat** as novel pharmacological inducers of the mitochondrial stress response (MSR), which could enhance healthspan and longevity by promoting resilience in aging cells. The study demonstrates that mild mitochondrial dysfunction—provoked by these compounds—activates protective mechanisms such as the mitochondrial unfolded protein response (UPRmt), leading to improved mitochondrial function and overall cellular health. This approach taps into the concept of **mitohormesis**, where mild stressors stimulate adaptive responses that counteract age-related decline.

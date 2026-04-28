@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267294/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Bionano Genomics, Inc. has made a significant breakthrough in the analysis of multiple myeloma (MM) through the publication of a study in the American Journal of Hematology. This multicenter research, led by experts from Johns Hopkins University and The University of Texas MD Anderson Cancer Center, demonstrates that optical genome mapping (OGM) outperforms traditional cytogenetic methods in detecting structural variations and chromosomal abnormalities in MM, a notoriously challenging hematologic malignancy.

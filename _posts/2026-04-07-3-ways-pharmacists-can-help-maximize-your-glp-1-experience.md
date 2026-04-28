@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269426/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Recent data from a KFF Health poll reveals that approximately **1 in 8 American adults** are currently using **GLP-1 medications** for diabetes management or weight loss, a trend that is on the rise. As these medications become more prevalent, patients are increasingly seeking guidance on optimal usage, potential side effects, and insurance coverage. Pharmacists, particularly those in health systems, play a crucial role in this landscape, providing specialized support that extends beyond traditional medication dispensing.

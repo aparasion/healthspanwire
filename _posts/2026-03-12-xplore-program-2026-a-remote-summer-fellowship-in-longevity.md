@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/xplore-program-2026-a-remote-summer-fellow
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Longevity Xplorer (LongX) has announced the opening of applications for its Xplore Program 2026, a fully remote summer fellowship aimed at bridging the gap between interest in longevity and practical experience. This initiative, now in its third year, offers a structured pathway for students and early-career professionals to gain foundational knowledge in aging biology while engaging in meaningful project work with partner organizations.

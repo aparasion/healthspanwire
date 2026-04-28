@@ -10,6 +10,8 @@ source_url: "https://bioengineer.org"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers have developed microneedle-integrated sensors that can extract dermal interstitial fluid for real-time skin health monitoring. This technology represents a significant leap forward in personal healthcare, enabling continuous monitoring of skin conditions and overall health status with minimal invasiveness.

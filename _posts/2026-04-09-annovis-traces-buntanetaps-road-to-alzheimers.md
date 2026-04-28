@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/annovis-traces-buntanetaps-road-t
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 **Annovis Bio's lead drug candidate, buntanetap, is advancing through its Phase 3 clinical trials for Alzheimer's disease, with 70% patient enrollment achieved. This pivotal moment is underscored by a historical review published in *The Scientist*, detailing the drug's unusual origins from the toxic Calabar bean to its current potential as a treatment for neurodegenerative diseases. The narrative emphasizes the long and complex journey of drug development, highlighting how failures and reinterpretations can lead to breakthroughs in understanding and treating conditions like Alzheimer's and Parkinson's.**

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/neurotherapia-clears-phase-2a-in-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 NeuroTherapia has announced promising early results from its Phase 2a trial of **NTRX-07**, an oral candidate for Alzheimer’s disease that may be addressing the underlying neuroinflammation associated with the condition. While the primary goal of the trial was to establish safety and tolerability, the company indicates that NTRX-07 may also show early signs of interacting with Alzheimer’s pathology, moving beyond the traditional focus on amyloid-targeting therapies.

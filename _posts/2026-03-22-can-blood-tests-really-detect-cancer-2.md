@@ -10,6 +10,7 @@ source_url: "https://superagingnews.com/can-blood-tests-really-detect-cancer"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 Recent advancements in blood testing methodologies are paving the way for improved cancer detection, though a definitive solution remains elusive. Researchers, including those from the Walter and Eliza Hall Institute of Medical Research, are exploring various blood-based approaches, such as **complete blood counts**, **tumor markers**, and **circulating tumor DNA**, to enhance diagnostic capabilities for cancer. These techniques aim to identify abnormal cell counts, specific proteins indicative of malignancies, and circulating tumor cells that signal metastatic disease.

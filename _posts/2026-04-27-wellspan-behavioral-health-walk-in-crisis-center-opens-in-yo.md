@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281725/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 WellSpan Health has launched the **WellSpan Behavioral Health Walk-In Crisis Center** in York, Pennsylvania, providing a critical resource for individuals facing mental health crises. This center operates 24/7, offering immediate, compassionate care without the need for appointments or referrals. It serves as an alternative to emergency department visits, facilitating on-site behavioral health assessments, stabilization, and connections to ongoing support in a safe and supportive environment.

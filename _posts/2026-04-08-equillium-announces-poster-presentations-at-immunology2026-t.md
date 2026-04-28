@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270096/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Equillium, Inc. has announced the acceptance of preclinical data for their investigational compound, **EQ504**, at the upcoming IMMUNOLOGY2026™ conference. This **AhR modulator** shows promise in modulating immune responses and enhancing epithelial barrier restoration, particularly relevant for conditions like **ulcerative colitis**. Dr. Stephen Connelly, Chief Scientific Officer, emphasized the dual importance of reducing inflammation and promoting mucosal healing to achieve significant clinical outcomes.

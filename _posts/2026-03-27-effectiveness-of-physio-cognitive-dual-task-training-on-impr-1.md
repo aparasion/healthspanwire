@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag061/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 **Physio-cognitive dual-task training (PCDT)** has emerged as a potential intervention for enhancing cognitive and physical outcomes in older adults with neurocognitive disorders. A comprehensive evaluation of 17 reviews encompassing 47 unique meta-analyses and 81 studies was conducted to assess the effectiveness of PCDT on global cognition, health-related quality of life, and physical outcomes such as activities of daily living, gait, and balance. The findings suggest small but significant improvements in global cognition and health-related quality of life, although the effects on physical outcomes were non-significant.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/theorizing-on-microtubu
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers have proposed a novel theory connecting amyloid-β (Aβ) and tau aggregation in Alzheimer's disease (AD) through microtubules, challenging the traditional amyloid cascade hypothesis. While the prevailing model suggests that Aβ aggregation initiates a cascade leading to tau pathology and neuroinflammation, this new perspective posits that Aβ's binding to microtubules may displace tau, resulting in microtubule dysfunction and promoting tau phosphorylation and aggregation.

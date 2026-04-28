@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/how-an-enzymes-depletion-makes-fat-worse/?
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Researchers have identified a critical role for the enzyme phosphoenolpyruvate carboxykinase 1 (Pck1) in maintaining metabolic health in adipose tissue, as detailed in a recent study published in *Aging Cell*. The study reveals that the depletion of Pck1 in adipocytes leads to increased cellular senescence, inflammation, and metabolic dysfunction in mice, particularly when subjected to a high-fat diet. This research underscores the enzyme's significance in mitigating age-related changes in fat cells, which are often linked to various metabolic disorders.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277472/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **BridgeBio Oncology Therapeutics (BBOT)** has received **FDA Fast Track designation** for its investigational drug **BBO-11818**, aimed at treating advanced **KRAS-mutant pancreatic ductal adenocarcinoma**. This designation underscores the urgent need for effective therapies in a malignancy notoriously resistant to treatment, with KRAS mutations present in the majority of cases. The Phase 1 KONQUER-101 trial is currently assessing BBO-11818's efficacy in patients with locally advanced unresectable or metastatic KRAS-mutant solid tumors, with updated clinical data anticipated in late 2026.

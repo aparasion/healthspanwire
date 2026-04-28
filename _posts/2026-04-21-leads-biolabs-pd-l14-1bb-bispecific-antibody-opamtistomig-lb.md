@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278105/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Nanjing Leads Biolabs Co., Ltd. has initiated a Phase II clinical trial for **Opamtistomig (LBL-024)**, a bispecific antibody targeting PD-L1 and 4-1BB, aimed at treating **locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma**. This trial marks a significant step forward, as the current standard of care—PD-1 inhibitors combined with chemotherapy—has shown limited efficacy, with median progression-free survival (PFS) of only 7 months and overall survival (OS) rates ranging from 13 to 17 months. The trial is being led by Professor Shen Lin at Beijing Cancer Hospital and is expected to address the urgent need for more effective treatments in a cancer type characterized by late-stage diagnoses and poor prognoses.

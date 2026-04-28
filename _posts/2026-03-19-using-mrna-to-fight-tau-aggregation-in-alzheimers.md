@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/using-mrna-to-fight-tau-aggregation-in-alz
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers have developed a novel lipid nanoparticle (LNP) that delivers mRNA to neurons, targeting tau aggregation in Alzheimer’s disease, as reported in Cell Reports Medicine. This approach focuses on the TRIM11 ligase, which has shown promise in combating tau tangles that are more detrimental than amyloid beta deposits in the disease's pathology. The LNP mimics acetylcholine to effectively cross the blood-brain barrier, significantly enhancing mRNA uptake in neuronal cells compared to traditional methods.

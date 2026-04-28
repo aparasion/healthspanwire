@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276901/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 NewcelX Ltd. has announced a strategic collaboration with Eledon Pharmaceuticals to enhance its flagship Type 1 Diabetes program, NCEL-101. This initiative integrates NewcelX’s **stem-cell-derived islet replacement platform** with Eledon’s **anti-CD40L monoclonal antibody**, tegoprubart, which is designed to prevent immune-mediated transplant rejection. This combined approach aims to support **durable graft survival** and move towards a potential **functional cure** for Type 1 Diabetes.

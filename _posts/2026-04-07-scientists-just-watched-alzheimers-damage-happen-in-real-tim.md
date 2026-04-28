@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260406192922.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Scientists at **Oregon State University** have made a significant breakthrough by capturing real-time chemical interactions that contribute to **Alzheimer’s disease** pathology. Led by **Marilyn Rampersad Mackiewicz**, the team utilized a specialized measurement technique to observe how metal ions, particularly **copper**, facilitate the clumping of **amyloid-beta proteins**—a hallmark of Alzheimer’s. This advancement allows researchers to visualize the aggregation process as it occurs, providing insights into the molecular dynamics that lead to disrupted neuronal communication.

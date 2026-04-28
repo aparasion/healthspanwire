@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag101/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent retrospective cohort study utilizing the Clinical Practice Research Datalink (Aurum) database has revealed significant disparities in the provision of guideline-consistent primary care among different dementia subtypes. The analysis, which included 571,663 individuals from January 2006 to June 2024, assessed the likelihood of receiving care plans and medication reviews across eight dementia subtypes: Alzheimer’s disease (AD), Lewy body dementia (LBD), vascular dementia, frontotemporal dementia, unspecified, other, and two mixed categories. Notably, individuals with mixed dementias were found to be more likely to receive care plans compared to those with AD, with hazard ratios (HR) indicating a 29% and 37% increased likelihood for mixed AD/LBD and mixed non-AD/LBD, respectively.

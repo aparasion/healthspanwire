@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276863/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Conavi Medical Corp. has achieved a significant milestone with the **FDA 510(k) clearance** for its next-generation hybrid imaging system, which integrates **intravascular ultrasound (IVUS)** and **optical coherence tomography (OCT)** into a single platform. This innovative system allows for simultaneous, co-registered imaging of coronary arteries, enhancing the visualization of both deep vessel structures and high-resolution surface details. The company is set to launch this technology commercially in the U.S. in the second half of 2026, positioning itself to capitalize on a burgeoning intravascular imaging market estimated to exceed **$4 billion** annually.

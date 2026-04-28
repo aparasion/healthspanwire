@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276473/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Xilio Therapeutics has unveiled promising preclinical data for **XTX601**, a masked T cell engager specifically targeting **claudin 18.2 (CLDN18.2)**, at the AACR Annual Meeting. This innovation leverages Xilio's **clinically-validated masking technology** to selectively activate the therapeutic agent within the tumor microenvironment, minimizing systemic toxicity—a significant hurdle in the development of T cell engagers for solid tumors. The data indicates that XTX601 exhibits **protease-dependent activation** and effective tumor cell killing across various CLDN18.2-expressing tumor models, showcasing its potential as a first-in-class therapy.

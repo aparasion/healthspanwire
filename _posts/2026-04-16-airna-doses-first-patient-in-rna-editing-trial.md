@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/airna-doses-first-patient-in-rna-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 AIRNA has initiated a **Phase 1 clinical trial** for AIR-001, a novel RNA editing therapy aimed at addressing **Alpha-1 Antitrypsin Deficiency (AATD)**, a genetic condition that adversely affects lung and liver function. According to Dr. Jacob S. Elkins, the Chief Medical Officer of AIRNA, promising preclinical data suggest that AIR-001 can elevate functional AAT levels, thereby mitigating both lung and liver complications associated with AATD. The **RepAIR1 study** is set to enroll approximately 54 patients with the PiZZ genotype across 20 sites in 11 countries, reflecting the global commitment to tackle this rare condition.

@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNWFJblF0aGFaSG
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 In his new book "Outlive," Dr. Peter Attia emphasizes the importance of proactive health management to extend lifespan and enhance healthspan. Attia, a prominent figure in longevity science, advocates for a multifaceted approach that includes personalized nutrition, exercise, and regular health screenings. He argues that understanding the underlying mechanisms of aging can empower individuals to make informed lifestyle choices that significantly impact their longevity.

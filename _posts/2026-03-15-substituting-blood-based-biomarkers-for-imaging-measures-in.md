@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study utilizing data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) and the A4 studies reveals significant challenges in substituting blood-based biomarkers for Alzheimer’s disease (AD) pathology, specifically p-tau 181 and p-tau 217, in place of amyloid-PET Centiloids. While blood-based biomarkers offer advantages such as lower costs and ease of collection, the research shows that their use can substantially reduce statistical power, requiring 1.5 to 6.5 times larger sample sizes to achieve comparable power levels. 

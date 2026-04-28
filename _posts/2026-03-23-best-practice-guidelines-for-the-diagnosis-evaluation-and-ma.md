@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag063/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 Researchers have developed the first best practice guidelines for diagnosing, evaluating, and managing cognitive disorders in Parkinson’s disease (PD), aiming to standardize clinical approaches across various health services. This initiative involved a two-phase process that combined expert opinions and insights from individuals with lived experience of cognitive impairment. Initially, 58 preliminary recommendations were generated through literature reviews and a national survey, which were then refined to 51 evidence-based recommendations via a modified Delphi process with 29 experts. 

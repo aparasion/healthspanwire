@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/education-platform-targets-longev
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Longevity.Technology has launched a **curated Education and Training Marketplace**, designed to address the fragmented landscape of knowledge in the rapidly evolving longevity sector. This initiative aims to bridge the gap between scientific discovery and practical application by providing a centralized platform for vetted educational programs that cater to a diverse audience, including clinicians, entrepreneurs, and informed consumers. Currently in beta, the marketplace is focused on onboarding high-quality courses and refining its offerings in collaboration with industry stakeholders.

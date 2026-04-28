@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/galimedix-touts-lower-dose-oral-a
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Galimedix Therapeutics has unveiled promising preclinical data for a next-generation oral treatment for Alzheimer’s disease at the AD/PD 2026 conference in Copenhagen. This innovative candidate aims to enhance drug absorption, allowing patients to receive effective treatment with lower doses. By redesigning their amyloid beta-targeting compound into a prodrug, Galimedix has demonstrated rapid absorption and significantly higher peak drug levels compared to the original formulation, potentially improving patient adherence to long-term therapy.

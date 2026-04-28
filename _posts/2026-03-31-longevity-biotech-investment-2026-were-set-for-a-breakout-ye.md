@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/longevity-biotech-investment-2026
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The DLT Chatbot from Longevity.Technology has transformed the landscape of longevity biotech investment analysis, providing real-time, structured insights into capital flows. This AI-driven platform allows users to quickly access and analyze financing data for hundreds of companies, significantly reducing the time needed to gather and interpret investment information. With 49 financing events recorded in Q1 2026 alone, totaling approximately $3.74 billion, the chatbot reveals a significant uptick in capital deployment compared to the same period in 2025.

@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag096/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 **Coronary arterial age (CAA)**, derived from coronary artery calcium (CAC) percentiles, has been evaluated for its prognostic significance in a cohort of 1,482 hospitalized COVID-19 patients from the SCORE-COVID registry. The study aimed to determine the relationship between CAA, chronological age, and short-term mortality, with findings indicating that both CAA and chronological age exhibit similar discrimination capabilities (AUC 0.76 vs 0.74; P = .466) regarding 30-day all-cause mortality. Importantly, CAA enhanced specificity by down-classifying survivors, suggesting its utility in refining risk assessments in acute settings.

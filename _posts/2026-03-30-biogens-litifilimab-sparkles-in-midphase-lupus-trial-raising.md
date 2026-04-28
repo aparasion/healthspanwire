@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/biogens-litifilimab-sparkles-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Biogen's lupus drug candidate, litifilimab, has shown promising results in a recent phase 2 trial, further solidifying its potential in treating cutaneous lupus erythematosus (CLE). At the American Academy of Dermatology Annual Meeting, Biogen presented data from the phase 2/3 Amethyst trial, where 14.7% of patients receiving litifilimab achieved clear or almost clear skin after 16 weeks, compared to less than 3% in the placebo group. This outcome not only met the trial's primary endpoint but also indicated favorable trends in secondary measures, suggesting a significant therapeutic advantage for patients suffering from this autoimmune condition.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/20-20-biolabs-expands-longevity-t
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 20/20 BioLabs has secured an exclusive US licensing agreement with ROKIT Healthcare to integrate a chronic kidney disease (CKD) prediction algorithm into its longevity platform. This collaboration aims to enhance the early detection of CKD, a condition that affects over 35 million Americans and often goes unnoticed until significant damage has occurred. By incorporating this predictive technology, 20/20 BioLabs seeks to shift the focus of its longevity testing from general inflammation metrics to specific risk assessments, ultimately enabling users and clinicians to identify potential kidney issues before they escalate.

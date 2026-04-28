@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/the-four-types-of-dementia-most-people-d
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent insights into the diverse spectrum of **dementia** reveal that the condition encompasses over **100 subtypes**, each presenting unique symptoms and challenges. While **Alzheimer’s disease** remains the most prevalent, accounting for approximately **60%** of cases, a significant portion—around **40%**—falls into rarer categories that often complicate diagnosis and care. Understanding these subtypes is crucial for early detection and appropriate management.

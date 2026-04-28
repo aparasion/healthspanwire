@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/12/3272162/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 CAPHRA (Coalition of Asia Pacific Tobacco Harm Reduction Advocates) is advocating for a critical reassessment of Bangladesh's proposed 2025 ban on vaping and other emerging nicotine products. The organization argues that this review presents an opportunity to shift from a blanket prohibition to a more nuanced, evidence-based tobacco harm reduction policy. CAPHRA's Executive Coordinator, Nancy Loucas, emphasizes that lawmakers should not view the potential removal of the ban as a retreat from public health efforts, but rather as a necessary course correction that can effectively balance youth protection with the availability of lower-risk alternatives for adult smokers.

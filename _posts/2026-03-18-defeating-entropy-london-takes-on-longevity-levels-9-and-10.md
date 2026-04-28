@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/defeating-entropy-london-takes-on
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A groundbreaking event in the longevity field, the Defeating Entropy debate and hackathon, is set to challenge conventional approaches to aging by exploring radical concepts like whole brain emulation, organ replacement, and biostasis. Taking place in London, this two-part event aims to shift the focus from merely maintaining aging biological systems to outright replacement, positioning the body as a modular system that can be upgraded rather than repaired.

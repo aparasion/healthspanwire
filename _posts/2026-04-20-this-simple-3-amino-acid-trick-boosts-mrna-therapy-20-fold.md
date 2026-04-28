@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260420014742.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers at Biohub, led by Daniel Zongjie Wang, PhD, and Shana O. Kelley, PhD, have identified a **three-amino acid supplement**—methionine, arginine, and serine—that significantly enhances the efficacy of lipid nanoparticles (LNPs) in mRNA delivery and CRISPR gene editing. This straightforward addition can boost mRNA delivery by **up to 20-fold** and increase CRISPR editing efficiency from approximately **25% to nearly 90%** after a single dose. The key innovation lies in improving cellular uptake rather than modifying the nanoparticles themselves, which has been the focus of previous research efforts.

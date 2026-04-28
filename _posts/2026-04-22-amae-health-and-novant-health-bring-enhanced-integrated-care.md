@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279029/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Amae Health is expanding its innovative outpatient care model for severe mental illness (SMI) to Charlotte, North Carolina, through a strategic partnership with Novant Health. This collaboration aims to enhance access to specialized care for patients with complex mental health conditions, such as schizophrenia and bipolar disorder, by opening a new clinic on May 18. The initiative builds on Amae's existing framework in Raleigh and emphasizes a **psychiatry-led, whole-person care model** that integrates mental health services with primary care, nutrition, and social support.

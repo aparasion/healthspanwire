@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260416071947.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 UCLA researchers have identified a population of **senescent macrophages**, termed "zombie" cells, that accumulate in aging tissues and contribute to **fatty liver disease**. These cells, which can constitute up to 80% of liver macrophages in older mice, release inflammatory signals that exacerbate liver damage. By selectively eliminating these senescent macrophages using the drug **ABT-263**, the study demonstrated a remarkable reversal of liver damage, with treated mice showing a significant reduction in liver size and overall body weight, despite continuing to consume a high-fat, high-cholesterol diet.

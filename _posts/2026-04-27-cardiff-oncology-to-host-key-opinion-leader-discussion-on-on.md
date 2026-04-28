@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281476/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Cardiff Oncology, Inc. has announced a KOL webinar scheduled for April 30, 2026, to discuss the promising data from an investigator-initiated trial evaluating the single-agent clinical activity of **onvansertib** in patients with **chronic myelomonocytic leukemia (CMML)**. The session will feature insights from Dr. Mrinal Patnaik, a leading expert in hematology and precision genomics at the Mayo Clinic, who will provide a detailed analysis of the trial's findings and their implications for treatment strategies in myeloid neoplasms.

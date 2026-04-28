@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/research/ai-model-designs-new-treatme
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers at GATC Health have leveraged artificial intelligence to develop a novel compound, **GATC-1021**, which effectively reduces opioid cravings in addicted rats. Utilizing the AI platform **Operon**, the team, led by Dr. Christie Fowler from UC Irvine, identified two serotonin receptors—**5HT2A and 5HT6**—as targets for drug development. The AI model optimized the binding properties of the compound, resulting in a significant reduction in opioid use without the behavioral or physical side effects typically associated with opioid treatments.

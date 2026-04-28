@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/fda-a
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 The FDA has approved **Foundayo™ (orforglipron)**, a groundbreaking oral GLP-1 receptor agonist designed for weight management, marking it as the only pill in this class that can be taken at any time without food or water restrictions. In the **ATTAIN-1 clinical trial**, participants on the highest dose lost an average of **27.3 pounds** (12.4%) compared to just **2.2 pounds** (0.9%) in the placebo group. This approval represents a significant advancement in obesity treatment options, particularly for patients who may struggle with adherence to injectable therapies.

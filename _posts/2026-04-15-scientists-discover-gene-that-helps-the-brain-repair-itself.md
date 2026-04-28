@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260415043630.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers have identified a **genetic mutation in the Retsat gene** that enables high-altitude animals such as yaks and Tibetan antelopes to thrive in low-oxygen environments. This mutation not only supports survival but also appears to enhance the **repair of the myelin sheath**, the protective covering around nerve fibers, which is critical in conditions like **multiple sclerosis (MS)** and **cerebral paralysis**. The findings, published in *Neuron*, suggest that leveraging this natural adaptation could lead to novel therapeutic strategies for nerve damage in humans.

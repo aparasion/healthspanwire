@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271320/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Loyola University New Orleans has secured **$2.85 million** in federal funding aimed at enhancing nursing education within its College of Nursing and Health. This investment, facilitated by U.S. Senator Bill Cassidy, M.D., will enable the college to integrate **advanced simulation technology** and improve clinical education, ultimately preparing a more skilled healthcare workforce to address the growing demand for nursing professionals in Louisiana and beyond.

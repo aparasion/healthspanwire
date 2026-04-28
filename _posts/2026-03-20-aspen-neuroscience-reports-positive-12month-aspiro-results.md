@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/aspen-neuroscience-reports-positi
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "landmark"
 ---
 
 Aspen Neuroscience has unveiled promising 12-month safety, tolerability, and efficacy results from its Phase 1/2a ASPIRO trial at the AD/PD 2026 conference, focusing on Sasineprocel (ANPD001) for Parkinson’s disease. This first-in-human study involved eight patients aged 50–70, with both low and high dosing cohorts demonstrating numerical improvements in key clinical measures, including significant enhancements in "Good ON" time and reductions in MDS-UPDRS scores.

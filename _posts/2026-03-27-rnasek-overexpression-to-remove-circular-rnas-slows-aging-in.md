@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/rnasek-overexpression-t
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers have identified that overexpression of the RNASEK protein, which degrades circular RNAs, significantly slows aging in the model organism Caenorhabditis elegans. As RNASEK levels decline with age, circular RNAs accumulate, suggesting a potential causal relationship between circular RNA aggregation and cellular dysfunction. By artificially increasing RNASEK expression, the study demonstrates an extension of lifespan and improved healthspan, indicating that circular RNAs may indeed contribute to aging-related decline.

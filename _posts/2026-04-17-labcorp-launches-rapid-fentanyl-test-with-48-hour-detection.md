@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/medtech/labcorp-launches-speedy-new-f
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Labcorp has introduced a new **Fentanyl Urine Visual Test**, designed to detect fentanyl exposure for up to **48 hours** post-consumption. This FDA-approved test provides results in just **10 minutes**, making it a valuable tool for emergency departments, hospitals, and clinics assessing suspected fentanyl use. By focusing on **norfentanyl**, the primary metabolite of fentanyl, the test extends the detection window beyond the drug itself, which typically clears from the body within hours. However, it is crucial that this test is administered in **CLIA-certified settings** by qualified professionals.

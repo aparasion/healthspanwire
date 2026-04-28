@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260408225941.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 A recent study from the Child Mind Institute, published in **Molecular Psychiatry**, reveals a significant biological link between **autism spectrum disorder (ASD)** and **attention-deficit/hyperactivity disorder (ADHD)**, suggesting that symptom intensity may play a more critical role than diagnostic labels. The research, led by Dr. Adriana Di Martino, analyzed brain connectivity in 166 verbal children aged 6-12 diagnosed with either ASD or ADHD, finding that those with more pronounced autism traits exhibited stronger connectivity between key brain networks, particularly the **frontoparietal** and **default-mode systems**. This connectivity pattern indicates a distinct developmental trajectory that diverges from typical brain maturation processes.

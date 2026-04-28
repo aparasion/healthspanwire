@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280080/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Lumina Therapy Alliance has expanded its network with the inclusion of Wise Mind Institute, led by Dr. Wes Pederson, enhancing mental health service accessibility in Silicon Valley. This addition marks Lumina's third practice in the Bay Area, strategically positioned to cater to high-performing individuals, particularly within the tech and legal sectors. Wise Mind Institute is recognized for its tailored approach, combining psychological treatment with executive coaching to optimize the performance of leaders and teams.

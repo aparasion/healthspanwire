@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278900/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Corbus Pharmaceuticals has announced updated clinical data from its Phase 1/2 study of **CRB-701**, a next-generation **Nectin-4 antibody-drug conjugate (ADC)**, targeting both head and neck squamous cell carcinoma (HNSCC) and cervical cancer. This data will be presented at the **2026 ASCO Annual Meeting**, with a focus on clinical response durability and subgroup analyses for HNSCC patients. Previous presentations at the **2025 ESMO Congress** highlighted promising efficacy and safety profiles, reinforcing the drug's potential in these challenging malignancies.

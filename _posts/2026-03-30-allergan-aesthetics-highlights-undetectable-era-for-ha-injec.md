@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/allergan-aesthetics-highlights-un
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Allergan Aesthetics, a subsidiary of AbbVie, unveiled a significant advancement in hyaluronic acid (HA) injectables at the Aesthetic & Anti-Aging Medicine World Congress 2026 in Monaco, heralding what they term the "undetectable era." This initiative is underpinned by their global research project, "Layered Beauty: The New Aesthetic Mindset," which reveals a consumer shift towards personalized, natural-looking aesthetic outcomes and comprehensive treatment plans. Central to this development is the JUVÉDERM Collection of Fillers, which remains a leading portfolio in the HA market, alongside the introduction of AA Signature—a treatment approach aimed at enhancing facial harmonization and supporting practitioner training.

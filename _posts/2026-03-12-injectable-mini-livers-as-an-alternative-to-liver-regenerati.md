@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/injectable-mini-livers-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers have developed an innovative injectable platform called INSITE, which combines primary human hepatocytes with hydrogel microspheres to create a pseudo-tissue capable of performing liver functions. This approach addresses the limitations of traditional liver transplantation, such as donor scarcity and surgical complexity, by allowing for precise, image-guided delivery of these cell-based therapies into ectopic sites, where they can assemble into functional scaffolds.

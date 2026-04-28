@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag098/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study validates the use of **smartphone-based gait assessment** as a promising tool for detecting cognitive impairment in adults aged 60-85 in sub-Saharan Africa. Conducted with 60 participants at a memory clinic, the research stratified individuals into categories of **Subjective Cognitive Decline (SCD)**, **Mild Cognitive Impairment (MCI)**, and **Dementia**. The assessment utilized **rhythmic auditory cueing (RAC)** with familiar music, offering a culturally relevant and engaging alternative to traditional dual-task paradigms that may not be suitable for low-literacy populations.

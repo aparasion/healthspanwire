@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/cymbiotika-partners-with-gary-bre
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Cymbiotika has announced a strategic partnership with human biologist Gary Brecka, founder of The Ultimate Human, to integrate Brecka’s protocol-driven performance approach with Cymbiotika’s **liposomal nutrient delivery technology**. This collaboration will feature select Cymbiotika formulations, including **liposomal glutathione**, **liquid colostrum**, **Irish sea moss**, **liposomal advanced creatine**, and **liposomal NAD+** as part of Brecka’s wellness ecosystem. Cymbiotika claims that its proprietary liposomal delivery systems enhance nutrient absorption, with internal clinical data suggesting up to **three times greater bioavailability** for certain formulations.

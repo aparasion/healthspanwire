@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/cognition-therapeutics-to-update-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Cognition Therapeutics is poised to share pivotal updates on its Alzheimer’s disease and dementia with Lewy bodies programs, as President and CEO Lisa Ricciardi is set to present at the 25th Annual Needham Virtual Healthcare Conference on April 13, 2026. A focal point of the presentation will be the lead candidate, **zervimesine (CT1812)**, currently undergoing evaluation in the Phase 2 START trial targeting patients with mild cognitive impairment (MCI) and early Alzheimer’s disease. The company has previously reported promising outcomes from Phase 2 studies involving dementia with Lewy bodies (DLB), mild-to-moderate Alzheimer’s, and geographic atrophy associated with dry age-related macular degeneration (AMD).

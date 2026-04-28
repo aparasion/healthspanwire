@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/microcap-produces-anti-aging-prot
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 Avaí Bio, in collaboration with Austrianova, is set to unveil findings from their **α-Klotho anti-aging program** at the upcoming Second Annual Klotho Conference in September 2026. This initiative, conducted through their joint venture Klothonova, leverages Austrianova’s **Cell-in-a-Box encapsulation platform** to deliver genetically modified cells that overexpress α-Klotho. This innovative approach aims to sustainably restore circulating α-Klotho levels, which are known to decline with age and have been associated with various age-related conditions, including cardiovascular, kidney, and cognitive dysfunction.

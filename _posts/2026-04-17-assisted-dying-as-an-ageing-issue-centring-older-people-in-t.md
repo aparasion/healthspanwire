@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag102/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 The commentary reframes **assisted dying** as a critical issue within the context of aging, emphasizing the need to incorporate older adults' perspectives into ongoing debates and policy designs. It synthesizes existing research on key themes such as **autonomy**, **suffering**, **dementia**, **dependency**, and **end-of-life choices**, highlighting how these factors uniquely influence older individuals' views on assisted dying. The authors argue that current legal frameworks, which often focus on terminal prognoses or narrowly defined suffering, inadvertently exclude many older adults who face cumulative decline or anticipate future loss of capacity.

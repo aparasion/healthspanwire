@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/parallel-health-unveils-skin-micr
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Parallel Health has unveiled a groundbreaking technology, Metabolic Microbiome Profiling, which maps the metabolic activity of the skin microbiome to enhance precision approaches to skin aging. This innovative platform goes beyond merely identifying microbial species; it focuses on the bioactive compounds produced by these microbes, addressing a critical gap in microbiome research. By analyzing outputs like vitamins, antioxidants, and peptides, the technology links microbial presence to biological activity, providing insights into how these metabolites influence skin health and aging.

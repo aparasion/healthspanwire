@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/14/3273226/29248
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Anavex Life Sciences Corp. has revealed significant findings supporting the **mechanistic rationale** for its orally administered drug, **blarcamesine**, as a treatment targeting **impaired autophagy** in both neurodevelopmental and neurodegenerative disorders. The research highlights a shared biological pathway between **autism spectrum disorder (ASD)** and **Alzheimer’s disease (AD)**, with evidence suggesting that autistic adults face a **dementia prevalence** up to **eight times** higher than the general population, often with earlier onset. This aligns with the understanding that both conditions exhibit **autophagy dysfunction**, which plays a critical role in synaptic regulation and overall cellular health.

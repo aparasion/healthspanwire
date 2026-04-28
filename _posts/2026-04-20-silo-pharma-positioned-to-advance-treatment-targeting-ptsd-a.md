@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276828/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Silo Pharma, Inc. has announced the advancement of its lead program, **SPC-15**, an intranasal treatment targeting **post-traumatic stress disorder (PTSD)**. This development aligns with a recent federal initiative, highlighted by President Trump's executive order, aimed at accelerating research and access to psychedelic therapies for mental health conditions. SPC-15 is designed as a **serotonin 4 (5-HT4) receptor agonist**, leveraging a rapid nose-to-brain delivery mechanism to enhance therapeutic efficacy and patient compliance. The program is progressing under the **505(b)(2) regulatory pathway**, potentially streamlining its development timeline.

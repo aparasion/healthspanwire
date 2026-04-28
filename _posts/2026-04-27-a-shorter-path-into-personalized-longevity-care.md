@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/a-shorter-path-into-personalized-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 **Innovative Vitality** has launched a new program, **Longevity Labs & Provider Review**, aimed at bridging the gap between patients' subjective health experiences and traditional medical assessments. This initiative allows patients to gain deeper insights into their health without committing to long-term care plans. Dr. Rahul Khare, CEO of Innovative Care, emphasizes the necessity of addressing the disconnect between patients feeling unwell and receiving "normal" lab results, advocating for a more comprehensive understanding of health.

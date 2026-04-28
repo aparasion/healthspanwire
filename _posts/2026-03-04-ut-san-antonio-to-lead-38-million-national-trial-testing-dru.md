@@ -10,6 +10,7 @@ source_url: "https://news.uthscsa.edu"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 UT Health San Antonio researchers have taken a significant step in stroke rehabilitation by leading a new scientific statement for the American Heart Association, which emphasizes the need for early recognition and intervention for post-stroke spasticity. This statement advocates for a paradigm shift in treatment approaches, focusing on timely diagnosis and innovative therapies to enhance recovery and reduce long-term disability for stroke patients.

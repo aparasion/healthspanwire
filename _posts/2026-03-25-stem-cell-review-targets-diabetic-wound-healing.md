@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/stem-cell-review-targets-diabetic
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers at the Longevity Medical Institute have published a pivotal paper that underscores the potential of allogeneic mesenchymal stromal cell (MSC) therapies in treating diabetic foot ulcers, a severe complication of diabetes. This systematic review and meta-analysis, featured in the Journal of Surgery and Medical Case Reports, evaluates controlled clinical trials and reveals that MSC therapies can significantly enhance wound healing outcomes compared to standard care.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270693/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Nanjing Leads Biolabs Co., Ltd. has announced the successful completion of the safety run-in stage of a Phase II clinical trial for its bispecific antibody, **Opamtistomig (LBL-024)**, targeting advanced biliary tract cancer (BTC). The trial, led by Dr. Jian Zhou from Zhongshan Hospital, Fudan University, has transitioned into the expansion phase following favorable safety results and promising preliminary efficacy data. The safety run-in cohort included 20 patients, all of whom tolerated the combination of Opamtistomig with chemotherapy well, showing no new safety signals and demonstrating trends in tumor reduction.

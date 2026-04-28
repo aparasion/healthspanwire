@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/interfering-in-inductio
 signal_ids: [senolytic-clinical-validation]
 signal_stance: supports
 signal_confidence: medium
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 Recent research has shed light on the mechanisms of paracrine spreading of cellular senescence in the brain, offering new therapeutic avenues for combating age-related decline. The study investigates how senescent cells influence neighboring brain cell types—such as astrocytes, microglia, and neurons—through the senescence-associated secretory phenotype (SASP). By identifying specific ligands and receptors involved in this process, researchers aim to block the induction of bystander senescence, potentially mitigating the detrimental effects of senescence in neurodegenerative conditions.

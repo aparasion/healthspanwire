@@ -10,6 +10,7 @@ source_url: "https://superagingnews.com/can-blood-tests-really-detect-cancer"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Recent advancements in blood testing technologies are paving the way for improved cancer detection, though a definitive diagnostic solution remains elusive. Researchers from the Walter and Eliza Hall Institute of Medical Research (WEHI) are investigating various methodologies, including the identification of circulating tumor DNA and tumor markers, to enhance early cancer detection capabilities.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/atf5-as-a-point-of-trad
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 **ATF5 has been identified as a critical regulator in the trade-off between muscle mass and muscle quality during aging. Research conducted on ATF5 knockout (KO) mice reveals that the absence of this transcription factor allows for the retention of muscle mass as the mice age, but at the cost of significantly reduced muscle quality. This finding indicates that while ATF5 is not a viable therapeutic target for preserving muscle mass, it plays a pivotal role in maintaining muscle quality through its regulation of mitochondrial health and function.**

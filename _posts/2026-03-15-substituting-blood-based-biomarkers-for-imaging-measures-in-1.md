@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Recent findings from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) and the A4 studies reveal critical insights into the use of blood-based biomarkers, specifically **plasma p-tau 181 and p-tau 217**, as proxies for amyloid pathology in Alzheimer’s disease (AD). The research highlights that while these biomarkers offer advantages such as **low cost and minimal invasiveness**, they present significant challenges in terms of **statistical power and bias** when compared to traditional neuroimaging measures like amyloid positron emission tomography (amyloid-PET) Centiloids.

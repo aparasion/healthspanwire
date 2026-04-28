@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTU8wekozWlRNTX
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Chinese researchers have successfully identified and harnessed ancient genes to cultivate a new strain of longevity rice, which is believed to enhance healthspan and longevity. This innovative approach combines traditional agricultural practices with modern genetic techniques, aiming to improve the nutritional profile of rice while potentially extending the lifespan of those who consume it.

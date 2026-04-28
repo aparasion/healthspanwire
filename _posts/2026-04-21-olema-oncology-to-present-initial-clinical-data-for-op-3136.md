@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278398/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Olema Pharmaceuticals has announced the presentation of initial clinical data from its Phase 1 study of **OP-3136**, a novel oral selective **KAT6A/B inhibitor**, at the upcoming **ASCO Annual Meeting**. This first-in-human study evaluates OP-3136 as a monotherapy in advanced solid tumors and in combination with endocrine therapy for **ER+, HER2− advanced breast cancer**. The poster presentation is scheduled for May 30, 2026, and will showcase preliminary results that could inform future clinical applications.

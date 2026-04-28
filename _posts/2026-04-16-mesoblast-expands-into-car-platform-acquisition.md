@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/mesoblast-expands-into-car-platfo
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Mesoblast has secured an exclusive worldwide license for a patented **chimeric antigen receptor (CAR)** technology platform, aimed at enhancing its therapeutic **mesenchymal stromal cell (MSC)** products. This development follows the acquisition of a startup and the issuance of ASX ordinary shares, with foundational work originating from the **Mayo Clinic** and published in *Nature Biomedical Engineering* in April 2024. Mayo Clinic will also support Mesoblast with **GMP manufacturing**, ensuring that the engineered CAR constructs can be integrated into its existing allogeneic MSC platforms, including the FDA-approved **Ryoncil** product.

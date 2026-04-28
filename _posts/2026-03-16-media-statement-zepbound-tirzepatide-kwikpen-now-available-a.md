@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/media
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Eli Lilly and Company has announced the availability of Zepbound® (tirzepatide) KwikPen® at self-pay pricing across major pharmacies and through its LillyDirect platform, starting at $299 per month for the 2.5 mg dose. This initiative aims to enhance access for patients without insurance coverage for obesity management medications, allowing them to obtain prescriptions either at local pharmacies or via home delivery. The introduction of the KwikPen Self-Pay Savings Card further facilitates affordability, enabling patients to access the same pricing regardless of their insurance status.

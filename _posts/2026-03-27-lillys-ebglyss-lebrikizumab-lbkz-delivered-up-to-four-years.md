@@ -10,6 +10,7 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "landmark"
 ---
 
 Lilly's investigational drug EBGLYSS (lebrikizumab-lbkz) has demonstrated impressive long-term efficacy in managing moderate-to-severe atopic dermatitis, with results from the Phase 3b ADlong study showing up to four years of durable disease control. Nearly all patients treated with EBGLYSS experienced significant skin improvement, with 75% achieving near-complete skin clearance and 80% maintaining these results without the need for topical corticosteroids. This interleukin-13 (IL-13) inhibitor works by selectively blocking IL-13 signaling, a key driver of the type-2 inflammatory response associated with atopic dermatitis.

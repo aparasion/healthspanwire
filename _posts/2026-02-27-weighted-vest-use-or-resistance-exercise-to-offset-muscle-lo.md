@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 The INVEST in Bone Health Trial has revealed critical insights into the interplay between weight loss and musculoskeletal health, particularly emphasizing the benefits of resistance training. In this study, 150 participants aged around 66 years were randomized into three groups: weight loss (WL), WL plus resistance training (WL + RT), and WL plus weighted vest use (WL + VEST). Over 12 months, all groups achieved approximately 10% weight loss, but only the WL + RT group demonstrated significant increases in mid-thigh muscle cross-sectional area and density, alongside reductions in intermuscular adipose tissue and fat mass.

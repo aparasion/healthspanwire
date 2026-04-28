@@ -10,6 +10,8 @@ source_url: "https://multiplesclerosisnewstoday.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A new study funded by the National Multiple Sclerosis Society (NMSS) aims to explore how women with multiple sclerosis (MS) experience menopause and to identify gaps in care for this demographic. Titled “The Menopausal Transition, MS Symptom Management, and Multidisciplinary Care Gaps,” the research will gather insights from women living with MS to develop tailored resources that address their unique health challenges during this transitional phase.

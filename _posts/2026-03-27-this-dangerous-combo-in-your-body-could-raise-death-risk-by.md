@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260326075559.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study from researchers at the Federal University of São Carlos (UFSCar) and University College London (UCL) reveals that the combination of excess abdominal fat and low muscle mass, termed sarcopenic obesity, significantly increases mortality risk—by 83%—in older adults. This alarming finding highlights the urgent need for effective screening methods, as the condition often goes undiagnosed due to a lack of consensus on diagnostic criteria.

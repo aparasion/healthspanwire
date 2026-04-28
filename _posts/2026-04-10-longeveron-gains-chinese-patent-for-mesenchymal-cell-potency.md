@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/longeveron-gains-chinese-patent-f
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Longeveron has secured **Patent No. 2026031300230720** from the China National Intellectual Property Administration, which covers **potency assay methods** for assessing human mesenchymal stem cells derived from various sources, including bone marrow and adipose tissue. This patent extends Longeveron's intellectual property rights in China until 2041, contingent on annuity fees, and adds to its existing portfolio of **52 international patents** that safeguard its clinical programs and products.

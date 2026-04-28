@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alivecor-brings-ai-heart-diagnost
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 AliveCor has successfully registered its **Kardia 12L ECG System** in Vietnam, marking a significant advancement in digital cardiac care across Southeast Asia. This portable, AI-enhanced electrocardiogram aims to improve access to timely heart diagnostics in a country where cardiovascular disease accounts for **33% of all deaths**. The Kardia 12L is designed to deliver hospital-grade readings directly at the point of care, addressing the urgent need for efficient screening amidst rising rates of hypertension and diabetes linked to urbanization.

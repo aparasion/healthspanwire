@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/rhythm-posts-first-fda-approval-f
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Rhythm Pharmaceuticals has achieved a significant milestone in the field of metabolic disorders, as the FDA has approved IMCIVREE (setmelanotide) as the first treatment for acquired hypothalamic obesity (HO). This rare condition, often resulting from hypothalamic injury due to brain tumors, trauma, or other neurological events, leads to uncontrollable hunger and rapid weight gain. The approval, granted on March 19, 2026, marks a pivotal moment for patients who have long struggled with this debilitating condition without effective treatment options.

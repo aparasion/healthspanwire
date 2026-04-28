@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 **A recent study utilizing data from the National Health and Aging Trends Study has elucidated the independent roles of physical frailty and self-rated health (SRH) in predicting all-cause mortality among older adults. The analysis, which included 7,425 Medicare beneficiaries followed from 2011 to 2019, found that while frailty and poor SRH are correlated, they represent distinct health dimensions that each contribute to mortality risk.**

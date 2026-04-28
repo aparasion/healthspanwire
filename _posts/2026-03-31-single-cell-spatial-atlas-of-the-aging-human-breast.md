@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01104-3"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A recent study utilizing imaging mass cytometry has unveiled significant age-related changes in the spatial architecture and cellular composition of normal breast tissue, highlighting a general decline in cellularity and proliferation across all cell types. By analyzing over 3 million cells from 527 reduction mammoplasties, researchers discovered that older breast tissue exhibits fewer epithelial cell interactions, reduced lobular structures, and an increased presence of adipose tissue, alongside a more inflammatory microenvironment characterized by elevated M2 macrophages and granzyme B+ T cells. These findings suggest that the aging process fundamentally alters the breast tissue landscape, which may influence the development and progression of breast cancer.

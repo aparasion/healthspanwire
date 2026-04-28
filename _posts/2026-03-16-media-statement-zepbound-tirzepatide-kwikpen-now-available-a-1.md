@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/media
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Eli Lilly and Company has announced that **Zepbound (tirzepatide)** is now available for self-pay pricing, starting at **$299 per month** for the 2.5 mg dose, at major pharmacies and through the LillyDirect platform. This initiative enhances access for patients without insurance coverage for obesity management medications, allowing them to obtain their prescriptions either at local pharmacies or via home delivery. The introduction of the **KwikPen Self-Pay Savings Card** further facilitates affordability, enabling adults with valid prescriptions to access the same pricing options.

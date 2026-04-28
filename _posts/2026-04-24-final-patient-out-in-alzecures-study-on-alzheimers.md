@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/final-patient-out-in-alzecures-st
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 AlzeCure Pharma has announced the completion of the final patient visit in the Phase Ib study of **ACD856**, a lead candidate from its NeuroRestore platform, which aims to address multiple brain health indications, including Alzheimer’s disease. This milestone signifies a pivotal moment in the drug's development, transitioning from a theoretical concept to a candidate poised for real-world application. The study primarily assessed **safety and tolerability** rather than efficacy, focusing on how ACD856 behaves in the body during repeated dosing at higher levels. The drug's ability to cross the **blood-brain barrier** and engage cognitive pathways has been previously established, but this study reinforces its potential by demonstrating a **wide therapeutic window**, allowing for greater dosing flexibility.

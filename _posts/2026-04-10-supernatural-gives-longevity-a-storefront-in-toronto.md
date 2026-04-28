@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/supernatural-gives-longevity-a-st
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **Supernatural**, a new concept in Toronto’s Yorkville neighborhood, is redefining the approach to **longevity** by transforming it from a clinical experience into a consumer-friendly lifestyle. This innovative space combines **diagnostics**, recovery technologies, and wellness services, presenting longevity not as a distant scientific aspiration but as an accessible part of everyday life. By offering treatments like **full body cryotherapy**, **NAD+ IV therapy**, and **biomarker testing** in a design-forward environment, Supernatural aims to lower the barriers to entry for consumers who might feel overwhelmed by the complexities of health optimization.

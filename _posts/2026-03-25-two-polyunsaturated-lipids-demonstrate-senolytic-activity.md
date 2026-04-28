@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/two-polyunsaturated-lipids-demonstrate-sen
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 A recent study has identified two polyunsaturated fatty acids, α-eleostearic acid (α-ESA) and its methyl ester (α-ESA-me), as effective senolytics that induce ferroptosis in senescent cells. This research, led by a team at the University of Minnesota, highlights a novel mechanism of cell death that targets the oxidative stress vulnerabilities of senescent cells, which are known to contribute to age-related diseases through their inflammatory secretions.

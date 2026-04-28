@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/buck-institute-launches-healthspan-horizon
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 The Buck Institute for Research on Aging has launched Healthspan Horizons, an innovative initiative aimed at addressing the critical challenge of measuring and extending healthspan—the duration of life spent in good health. This initiative seeks to bridge the gap between the increasing lifespan of individuals and the stagnation of healthspan, which often leads to prolonged periods of chronic disease management. By leveraging artificial intelligence and real-world data, Healthspan Horizons aims to create a comprehensive research infrastructure that can identify the factors contributing to healthy aging.

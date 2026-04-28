@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260407193848.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers at the University of Illinois at Urbana-Champaign have introduced **Connectome-seq**, a novel technique utilizing RNA "barcodes" to map neuronal connections with **single-synapse precision**. This method transforms traditional brain mapping into a high-throughput sequencing task, enabling the identification of thousands of neural links rapidly and accurately. In their study, the team successfully mapped over 1,000 neurons in the pontocerebellar circuit of mice, uncovering unexpected connectivity patterns between previously unlinked cell types.

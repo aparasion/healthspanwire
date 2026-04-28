@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/reviewing-what-is-known
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 **Research highlights significant sex differences in response to longevity interventions, emphasizing the need for tailored approaches.** A comprehensive review underscores that established longevity interventions yield divergent outcomes in male and female laboratory rodents, particularly mice, yet the underlying mechanisms remain largely unexplored. While females generally exhibit longer lifespans, they also endure a greater burden of disease and disability, highlighting the complex interplay between lifespan and healthspan.

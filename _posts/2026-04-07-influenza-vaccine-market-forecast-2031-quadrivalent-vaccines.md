@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268850/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **influenza vaccine market** is projected to grow from **USD 8.73 billion in 2025** to **USD 9.38 billion in 2026**, with an anticipated **CAGR of 7.49%** through 2031, according to a report by Mordor Intelligence. This growth is driven by enhanced **immunization coverage** and ongoing **innovations in vaccine technologies**. Quadrivalent vaccines currently dominate the market, holding a **71.68% share** in 2025, while trivalent vaccines are expected to grow at a **CAGR of 7.81%** due to improved strain selection and manufacturing strategies.

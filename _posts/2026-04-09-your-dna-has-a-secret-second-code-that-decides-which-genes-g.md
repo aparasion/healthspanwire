@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260408225946.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers from **Kyoto University** and **RIKEN**, led by Osamu Takeuchi and Takuhiro Ito, have uncovered a previously unrecognized layer of genetic regulation involving a protein called **DHX29**. This protein is pivotal in identifying and silencing less efficient genetic instructions, revealing that not all synonymous codons are treated equally by the cellular machinery. The study highlights how cells can selectively suppress non-optimal codons, which are associated with weaker mRNA stability and translation efficiency.

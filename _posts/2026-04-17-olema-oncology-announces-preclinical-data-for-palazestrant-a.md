@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276477/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Olema Pharmaceuticals has confirmed the **mechanism of action** for its complete estrogen receptor antagonist (CERAN) palazestrant, which effectively recruits the corepressor protein **NCoR1** to achieve full antagonism of the estrogen receptor (ER). This mechanism underpins palazestrant's robust anti-tumor activity, particularly in estrogen receptor-positive, human epidermal growth factor receptor 2-negative (ER+/HER2-) breast cancer models. In combination with OP-3136, a novel KAT6 inhibitor, palazestrant exhibits **synergistic anti-tumor effects** by suppressing cell-cycle and ER-driven oncogenic signaling, highlighting its potential in overcoming acquired resistance in metastatic disease.

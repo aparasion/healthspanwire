@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/brain-health-collaboratory-focuse
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Cognito Therapeutics has partnered with Ochsner Health to explore the integration of innovative Alzheimer's therapies into clinical practice through a new initiative called the "Brain Health Collaboratory." This collaboration aims to assess Cognito's investigational Spectris device, which employs synchronized light and sound stimulation to target brain activity linked to cognitive decline. The initiative will leverage Ochsner’s extensive healthcare network, encompassing 47 hospitals and numerous care sites, to generate evidence on clinical outcomes and scalability of these emerging treatments.

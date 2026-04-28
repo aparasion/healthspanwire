@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alzheon-doses-first-subject-in-ph
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Alzheon has initiated a Phase 1 trial for ALZ-507, an oral small molecule designed to inhibit the formation of neurotoxic soluble amyloid oligomers while incorporating an **APOE4 corrector mechanism**. The first cohort of human volunteers has been dosed, marking a significant step forward in the development of this compound. The **IND program** for ALZ-507 has demonstrated a favorable nonclinical safety and pharmacokinetic profile, supporting a once-daily dosing regimen and an oral capsule formulation. The trial aims to evaluate safety, tolerability, and pharmacokinetics in healthy participants, with results expected to inform dose selection for subsequent studies in Alzheimer’s disease and related conditions.

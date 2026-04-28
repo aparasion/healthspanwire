@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271135/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 The global **noninvasive cancer diagnostics market** is poised for significant growth, projected to expand from **$112.8 billion in 2024 to $165.2 billion by 2030**, reflecting a **compound annual growth rate (CAGR) of 6.6%**. This growth is driven by the increasing prevalence of cancer, the rapid adoption of **liquid biopsy technologies**, and a global shift towards early and preventive diagnosis. Key advancements in imaging technologies, biomarker-based assays, and **AI-enabled diagnostic tools** are fundamentally reshaping cancer detection, monitoring, and management.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272921/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 XORTX Therapeutics has successfully acquired the **VB4-P5** renal anti-fibrotic program from Vectus Biosystems, a move that positions the company to address significant unmet needs in both rare and prevalent forms of **chronic kidney disease (CKD)**. The acquisition includes a novel small molecule, VB4-P5, which is currently at the **pre-IND** stage and shows promise in inhibiting and potentially reversing kidney fibrosis—a critical factor in CKD progression.

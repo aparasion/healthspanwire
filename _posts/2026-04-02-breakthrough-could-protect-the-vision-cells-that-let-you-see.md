@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260402000225.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Researchers at the Institute of Molecular and Clinical Ophthalmology Basel (IOB) have made significant strides in protecting cone photoreceptors, the cells critical for sharp and colorful vision. By screening over 2,700 compounds in thousands of lab-grown human retinal organoids, the team, led by Botond Roska, identified several molecules that can prevent degeneration of these essential cells, particularly in the context of age-related macular degeneration (AMD), a leading cause of vision loss globally.

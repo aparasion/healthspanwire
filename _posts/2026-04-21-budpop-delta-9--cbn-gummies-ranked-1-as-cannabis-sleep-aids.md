@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277734/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 BudPop's **Delta-9 + CBN Sleep Gummies** have emerged as the leading product in a recent study evaluating 47 cannabis sleep aids, outperforming traditional over-the-counter options. According to BudPop CEO Erin Zoodarian, the formulation's effectiveness is attributed to a synergistic blend of **Delta-9 THC**, **CBN**, and **melatonin**, which collectively enhance sleep quality. The gummies scored an impressive **96.7 out of 100** in the Sarasota Magazine study, highlighting their potency accuracy and batch consistency.

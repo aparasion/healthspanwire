@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/this-ai-virtual-lab-wants-to-cut-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Helical has secured **$10 million in seed funding** to develop an innovative "virtual AI lab" aimed at transforming drug discovery processes for pharmaceutical teams. This London-based startup seeks to address the critical bottleneck in drug development, where over **90% of drug candidates fail** during traditional testing phases. By leveraging advanced AI models trained on extensive biological datasets, Helical aims to streamline workflows, allowing scientists to test hypotheses digitally before moving to physical lab work.

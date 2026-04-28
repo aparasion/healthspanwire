@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269234/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Saladax Biomedical, Inc. has forged a strategic distribution agreement with Thermo Fisher Scientific to enhance global access to its **therapeutic drug monitoring (TDM)** assays. This collaboration aims to optimize patient outcomes by enabling clinicians to monitor drug levels of commonly prescribed medications, including **antipsychotics like clozapine** and various chemotherapy agents. The variability in drug exposure among patients necessitates precise monitoring to ensure effective dosing, particularly for medications with narrow therapeutic windows.

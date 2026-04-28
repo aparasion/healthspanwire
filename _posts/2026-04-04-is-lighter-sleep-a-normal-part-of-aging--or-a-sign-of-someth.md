@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/is-lighter-sleep-a-normal-part-of-aging-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent insights into **age-related sleep changes** reveal that older adults may not actually need less sleep, but rather struggle to achieve deep, restorative sleep due to neurobiological shifts. Research indicates that as we age, there is a **loss of stability** in the neuronal systems regulating sleep and wakefulness. This results in a more fragmented sleep pattern characterized by lighter sleep states and increased susceptibility to external stimuli. The **suprachiasmatic nucleus**, which governs circadian rhythms, also undergoes alterations, leading to earlier sleep onset and increased daytime drowsiness.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alzecure-presents-new-preclinical
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 AlzeCure recently unveiled promising preclinical data on its NeuroRestore drug candidate ACD856 at the AD/PD 2026 conference, highlighting its dose-dependent activation of trk receptors and downstream target proteins. The findings demonstrate enhanced signaling of nerve growth factor (NGF) and brain-derived neurotrophic factor (BDNF), aligning with the drug's proposed mechanism. Notably, ACD856 also exhibited significant antidepressant effects in preclinical models, an important consideration given the high prevalence of depression among Alzheimer’s patients.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/maze-therapeutics-reports-positiv
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Maze Therapeutics has reported promising topline results from its Phase 2 HORIZON trial for MZE829, an oral small-molecule dual-mechanism APOL1 inhibitor. The study demonstrated a significant 35.6% mean reduction in urinary albumin-to-creatinine ratio (uACR) at week 12 among patients with APOL1-mediated kidney disease, with half of the participants achieving a reduction exceeding 30%. Notably, patients with focal segmental glomerulosclerosis experienced an impressive 61.8% mean reduction in uACR.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/new-car-t-approach-may-extend-ost
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A new preclinical study from **Case Western Reserve University** and **University Hospitals** introduces an innovative **engineered immune-cell therapy**, termed **OSM CAR-T**, which demonstrates promising anti-tumor activity against **osteosarcoma**, a challenging bone cancer predominantly affecting children and young adults. This therapy marks a potential shift in a field that has seen little advancement over the past four decades, where traditional treatments have largely relied on chemotherapy and surgery, often leading to limited success and harsh side effects.

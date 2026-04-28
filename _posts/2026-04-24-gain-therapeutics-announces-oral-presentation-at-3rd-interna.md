@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/24/3280778/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Gain Therapeutics, Inc. has announced significant advancements in its lead drug candidate, **GT-02287**, which is currently in a Phase 1b clinical trial for the treatment of **Parkinson’s disease (PD)**, including cases with the common **GBA1 mutation**. GT-02287 is an orally administered, brain-penetrant allosteric enzyme modulator designed to restore the function of the lysosomal enzyme **glucocerebrosidase (GCase)**, which is often impaired due to genetic mutations or age-related stressors. Preclinical studies have shown that GT-02287 not only restores GCase activity but also mitigates key pathological features of PD, such as **α-synuclein aggregation**, neuroinflammation, and neuronal death.

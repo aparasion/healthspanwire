@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/the-rx-debate-should-drug-companies-be-a
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Tamar Abrams’ journey highlights the complex interplay between direct-to-consumer pharmaceutical advertising and patient health outcomes. After experiencing significant personal losses and health challenges, Abrams turned to Ozempic, a GLP-1 medication heavily marketed for weight loss and diabetes management, despite not having a diabetes diagnosis. Her story underscores how effective advertising can influence patient decisions, particularly among older adults who are more likely to face multiple health issues.

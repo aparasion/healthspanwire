@@ -10,6 +10,8 @@ source_url: "https://www.personalcareinsights.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Leaked Labs is revolutionizing the beauty industry by providing consumers with unprecedented access to the product development process, allowing them to engage with innovations long before they hit the market. This approach addresses the industry's notorious lag in delivering new solutions, fostering a more dynamic relationship between brands and consumers.

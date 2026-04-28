@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/academic-clinical-trial
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A multi-phase clinical study is underway to investigate the **biological effects of rapamycin** in older adults, addressing critical gaps in our understanding of its dosing and safety for anti-aging applications. This initiative marks a significant shift from off-label prescriptions, often based on anecdotal evidence and animal studies, to a rigorous, evidence-based approach that seeks to define optimal dosing strategies and long-term outcomes.

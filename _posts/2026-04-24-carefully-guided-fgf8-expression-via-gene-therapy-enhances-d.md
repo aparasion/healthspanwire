@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/carefully-guided-fgf8-e
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers have made significant strides in enhancing digit tip regrowth in mice through **gene therapy** targeting the **FGF8 gene**, which is modulated by the **SP transcription factor family**. This study builds on the understanding of regeneration mechanisms observed in species like salamanders and zebrafish, which possess remarkable regenerative capabilities. By utilizing a zebrafish-derived enhancer, the team successfully upregulated FGF8 expression in mice, leading to improved digit regeneration, a notable advancement given the limited regenerative capacity in most mammals.

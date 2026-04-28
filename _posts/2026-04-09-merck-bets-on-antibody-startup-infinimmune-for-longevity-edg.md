@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/merck-bets-on-antibody-startup-in
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Merck has entered a significant collaboration with the California-based biotech startup Infinimmune, potentially worth up to **$838 million**, to discover novel antibody drug candidates targeting undisclosed diseases. This partnership highlights a strategic shift in Big Pharma's approach, favoring agile startups that leverage innovative methodologies over traditional, larger firms. Infinimmune's platform utilizes the **human immune system** as a resource, specifically tapping into **memory B cells** to identify antibodies that the body has already developed against various pathogens, thereby expediting the discovery process.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/24/3280707/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Dogecoin Cash, Inc. (OTCQB: DOGP) is strategically leveraging its majority ownership of PrestoDoctor to enhance its telehealth platform in light of recent federal reclassifications of marijuana-related products under U.S. law. With certain cannabis products now categorized under Schedule III of the Controlled Substances Act, PrestoDoctor is positioned to facilitate patient access to medical cannabis through remote consultations and certifications, aligning with state regulations. This operational framework not only enhances patient engagement but also establishes a recurring service model that could drive scalable growth.

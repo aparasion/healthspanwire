@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/reprogrammed-cardiomyocytes-soften-the-blow-in-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 A recent study published in the *Journal of Molecular and Cellular Cardiology* demonstrates that **partial reprogramming** of cardiomyocytes (CMs) using the OSK factor (OCT4, SOX2, KLF4) can significantly enhance the regenerative capacity of heart cells post-myocardial infarction (MI) in mice. This approach allows adult heart cells, which typically fail to divide completely due to their rigid sarcomere structures, to overcome barriers to cytokinesis, thereby reducing heart scarring and improving heart function.

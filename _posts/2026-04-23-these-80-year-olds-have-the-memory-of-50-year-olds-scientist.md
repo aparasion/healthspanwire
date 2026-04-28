@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260423022006.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study from Northwestern University highlights the remarkable cognitive resilience of **SuperAgers**, individuals over 80 who exhibit memory capabilities akin to those in their 50s and 60s. This research, which spans over 25 years, reveals that these individuals either resist or withstand the neurodegenerative changes typically associated with Alzheimer's disease. By examining both behavioral traits and biological markers, researchers aim to uncover the mechanisms that contribute to this exceptional cognitive longevity.

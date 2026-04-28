@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/la-fd
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 La FDA ha aprobado **Foundayo™ (orforglipron)** de Eli Lilly, un nuevo agonista del receptor GLP-1 que se presenta en forma de pastilla y puede ser administrado a cualquier hora del día, sin restricciones alimentarias. En el estudio clínico **ATTAIN-1**, los adultos que recibieron la dosis más alta de Foundayo perdieron un promedio de **27.3 libras (12.4%)**, en comparación con solo **2.2 libras (0.9%)** en el grupo placebo. Esta aprobación representa un avance significativo en el tratamiento de la obesidad, ofreciendo a los pacientes una opción oral que se adapta mejor a su estilo de vida.

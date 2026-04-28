@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/resistance-exercise-training-slows-down-br
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study reveals that both heavy and moderate resistance training can significantly slow brain aging in older adults. Conducted with 309 participants aged 62 to 70, the research utilized advanced brain clock models to assess changes in brain health after a year of resistance exercise. The findings indicate that heavy resistance training led to notable improvements in brain activity, particularly in regions associated with attention and memory, while moderate training also showed beneficial effects.

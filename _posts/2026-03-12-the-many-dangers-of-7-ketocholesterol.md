@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/the-many-dangers-of-7-ketocholesterol/?utm
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent review by researchers, including Matthew O’Connor from Cyclarity Therapeutics, highlights the multifaceted dangers of 7-ketocholesterol (7KC), an oxidized cholesterol that accumulates in cells and contributes to cardiovascular disease and neurotoxicity. The review emphasizes that 7KC not only leads to the formation of foam cells in macrophages, which exacerbate arterial plaque buildup, but also inflicts damage on neurons, promoting apoptosis and impairing mitochondrial function.

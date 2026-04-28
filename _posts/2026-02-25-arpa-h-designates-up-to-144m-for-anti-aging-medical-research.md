@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com"
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Genentech has decided not to advance its anti-myostatin antibody, emugrobart, into phase 3 trials after it failed to demonstrate significant muscle growth in studies targeting two muscle-wasting diseases. This decision underscores the challenges faced in developing effective treatments for rare diseases, particularly those related to muscle degeneration.

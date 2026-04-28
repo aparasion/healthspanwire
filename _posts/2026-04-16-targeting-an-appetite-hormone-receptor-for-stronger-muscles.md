@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/targeting-an-appetite-hormone-receptor-for
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers have identified a promising approach to combat sarcopenia in aging mice by targeting the **ghrelin receptor (GHSR-1a)** rather than the hormone itself. In a study published in *Aging Cell*, knocking out the GHSR-1a receptor demonstrated significant improvements in muscle function and mitochondrial health, highlighting its potential as a therapeutic target for age-related muscle decline.

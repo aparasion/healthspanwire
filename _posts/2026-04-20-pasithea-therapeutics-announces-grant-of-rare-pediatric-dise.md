@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276869/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Pasithea Therapeutics Corp. has announced that the FDA has granted **Rare Pediatric Disease Designation** to its investigational drug, **PAS-004**, aimed at treating **Neurofibromatosis type-1 (NF1)**. This designation is significant as it applies to serious conditions affecting fewer than 200,000 individuals in the U.S., with NF1 currently impacting approximately **115,000 people**. The designation not only highlights the urgency of addressing NF1 but also opens pathways for expedited regulatory processes through the **Priority Review Voucher (PRV)** program, which can enhance the marketability of future products.

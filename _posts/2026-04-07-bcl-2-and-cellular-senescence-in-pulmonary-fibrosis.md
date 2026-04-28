@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/bcl-2-and-cellular-sene
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers have identified a critical role of **BCL-2** in the context of **cellular senescence** and **pulmonary fibrosis**, particularly in idiopathic pulmonary fibrosis (IPF). The study highlights how **conditional BCL-2 expression** in PDGFRα+ fibroblasts contributes to the accumulation of **senescent, pro-fibrotic fibroblasts**, which resist apoptosis and perpetuate fibrotic lung remodeling. This accumulation contrasts with normal homeostatic responses where fibroblasts undergo apoptosis following injury, underscoring the pathological nature of IPF.

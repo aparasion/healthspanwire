@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/03/3268089/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 The Global Virus Network (GVN) is currently tracking the SARS-CoV-2 variant **BA.3.2**, also known informally as the “cicada” variant. This sublineage of the **Omicron variant** has shown mutations in the viral spike protein, which may enhance its ability to evade antibodies. However, GVN emphasizes that there is no current evidence indicating that BA.3.2 poses a greater risk of severe disease or increased transmission compared to previous variants. The nickname “cicada” reflects its sporadic detection rather than any biological implications.

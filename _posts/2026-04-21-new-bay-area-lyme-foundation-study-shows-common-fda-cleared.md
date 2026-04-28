@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278002/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study published in the *Journal of Clinical Microbiology* by the Bay Area Lyme Foundation reveals significant shortcomings in the diagnostic methods for early Lyme disease. The research, based on data from the Lyme Disease Biobank, indicates that commonly used two-tiered testing algorithms miss **64-78%** of early Lyme cases, including those presenting with the characteristic erythema migrans (EM) rash. Principal Investigator Liz Horn, PhD, highlights the urgent need for improved diagnostics, particularly those that can directly detect the Lyme-causing bacteria, as current antibody-based tests exhibit low sensitivity in the critical early stages of infection.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281473/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Intellia Therapeutics has announced promising topline results from the Phase 3 HAELO trial of **lonvoguran ziclumeran (lonvo-z)**, an innovative CRISPR gene-editing therapy for hereditary angioedema (HAE). This trial, which included 80 participants, demonstrated that a single dose of lonvo-z significantly reduced HAE attacks by **87%** compared to placebo over a six-month period, with nearly **62%** of patients remaining both attack-free and therapy-free. These results position lonvo-z as a potential first-in-class, one-time treatment for HAE, a condition characterized by recurrent and life-threatening swelling attacks.

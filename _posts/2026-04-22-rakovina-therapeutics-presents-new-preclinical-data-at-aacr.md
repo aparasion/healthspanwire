@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278692/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Rakovina Therapeutics Inc. has unveiled promising preclinical data from two lead programs at the 2026 AACR Annual Meeting, showcasing advancements in AI-driven cancer therapies targeting DNA damage response (DDR) vulnerabilities in solid tumors. The first program focuses on a **novel brain-penetrant dual ATR-mTOR inhibitor** specifically designed for PTEN-deficient cancers, which represent a significant portion of gliomas and metastatic breast cancers. This dual inhibition strategy addresses the dual vulnerabilities arising from PTEN loss, with the candidate demonstrating **potent enzymatic inhibition, selectivity, and in vivo efficacy** in preclinical models, outperforming established reference compounds in tolerability.

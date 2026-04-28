@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/phase
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 **Lilly's TOGETHER-PsA study presents compelling Phase 3b data demonstrating that the combination of Taltz (ixekizumab) and Zepbound (tirzepatide) significantly enhances treatment outcomes for adults with psoriatic arthritis (PsA) and obesity. This late-breaking research, unveiled at the AAD Annual Meeting and published in *Arthritis & Rheumatology*, reveals that the dual therapy achieved superior efficacy across primary and secondary endpoints compared to Taltz monotherapy, with notable improvements in disease activity as early as Week 4.**

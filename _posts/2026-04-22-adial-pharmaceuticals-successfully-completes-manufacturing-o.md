@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279087/26135
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Adial Pharmaceuticals has successfully completed the demonstration batch production for **AD04**, a genetically targeted serotonin-3 receptor antagonist aimed at treating **Alcohol Use Disorder (AUD)**. This achievement confirms that the production process meets the specifications required for the upcoming Phase 3 clinical trial and aligns with the dissolution profile established in Phase 2. The successful transfer of manufacturing capabilities to a new Contract Development and Manufacturing Organization (CDMO) not only ensures the quality and uniformity of the product but also sets the stage for efficient production of clinical and registration batches necessary for regulatory submissions.

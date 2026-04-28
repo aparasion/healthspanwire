@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMivAFBVV95cUxORTA4VktTLS1yQW
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers have made significant strides in rejuvenating hematopoietic stem cells (HSCs), which play a crucial role in blood cell formation and immune function. This breakthrough, highlighted in a recent study, demonstrates that targeted interventions can restore the functionality of aging HSCs, potentially extending both healthspan and lifespan.

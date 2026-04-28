@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/new-findings-link-autophagy-failu
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study published in PNAS Nexus by researchers from the University of California provides compelling evidence that disruption of neuronal homeostasis, particularly through impaired autophagy, plays a critical role in the pathology of Alzheimer’s disease. The research establishes a mechanistic framework where age-related declines in autophagy lead to the intracellular accumulation of amyloid beta, which subsequently interferes with tau's interaction with microtubules, promoting abnormal tau phosphorylation and aggregation prior to the formation of plaques or tangles.

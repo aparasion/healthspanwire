@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276419/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Recent data from Spherix Global Insights’ Launch Dynamix™ service highlights a significant uptick in the adoption of **rebalancing agents** for hemophilia treatment, particularly with Hympavzi and Qfitlia. The proportion of physicians treating multiple patients with Hympavzi has risen, indicating growing confidence among early adopters. Qfitlia, in particular, has garnered strong clinical enthusiasm, with nearly **75% of physicians** recognizing it as a substantial advancement over existing therapies, up from **50%** in late 2025. This shift underscores the potential of this emerging class of therapies despite the challenges of a complex treatment landscape.

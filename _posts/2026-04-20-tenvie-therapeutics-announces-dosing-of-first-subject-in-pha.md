@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276930/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Tenvie Therapeutics has initiated a Phase 1 clinical trial for **TNV108**, an allosteric inhibitor targeting **SARM1**, aimed at treating **peripheral neuropathies**. This marks the second candidate from Tenvie’s product engine to enter clinical development, with the first subject dosed in the trial designed to assess safety and tolerability in healthy volunteers. Preliminary data, including safety and pharmacokinetic profiles, is anticipated in the latter half of **2026**.

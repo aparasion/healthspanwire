@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/insilico-tenacia-expand-ai-driven
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Insilico Medicine and Tenacia Biotechnology are significantly expanding their AI-driven collaboration to develop small-molecule therapies targeting central nervous system (CNS) disorders. This initiative builds on their initial partnership launched in March 2025, which successfully utilized Insilico's Pharma.AI platform alongside Tenacia's proprietary data to create small-molecule inhibitors with enhanced blood-brain barrier permeability. The new phase of their collaboration aims to leverage generative AI to design a second therapeutic candidate, advancing it to the preclinical stage while also establishing a financial framework that could yield up to $94.75 million in potential deal value.

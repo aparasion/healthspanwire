@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260411043048.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Recent research from the DZNE and Ludwig-Maximilians-Universität München reveals that **olfactory dysfunction** may serve as an early indicator of Alzheimer’s disease, potentially occurring years before cognitive decline manifests. The study identifies a mechanism where **microglia**, the brain's immune cells, inadvertently damage the nerve fibers connecting the **olfactory bulb** and the **locus coeruleus**. This damage is triggered by abnormal signals on the surface of these neurons, leading to their breakdown in the early stages of Alzheimer's.

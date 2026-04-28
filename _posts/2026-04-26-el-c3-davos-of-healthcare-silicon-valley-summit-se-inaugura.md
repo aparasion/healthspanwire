@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/26/3281218/0/es/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 El C3 Davos of Healthcare™ Silicon Valley Summit, que se llevará a cabo el 27 de abril en Sunnyvale, California, se centrará en el tema "Healthtech Frontiers: Building The Health Ecosystem of Tomorrow". Este evento, impulsado por una colaboración estratégica con el King Faisal Specialist Hospital and Research Centre (KFSH), reunirá a líderes de la salud, la tecnología y la inversión para discutir innovaciones en el sector. El Dr. Björn Zoëga, subdirector ejecutivo de KFSH, abordará la creación de modelos operativos digitales integrados en grandes sistemas hospitalarios, mientras que el Dr. Petros Kotsidis explorará el futuro de la inteligencia artificial en la salud.

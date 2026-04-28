@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/03/the-mission-is-to-obtai
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 A recent discussion in the longevity field emphasizes the need to redefine the mission of geroscience: prioritizing healthy life extension alongside lifespan. As aging is increasingly recognized as a medical condition, researchers are urged to move beyond euphemisms like "healthspan" and openly embrace the goal of extending both lifespan and healthspan. This perspective aligns with reliability theory, which suggests that repairing cellular damage will naturally lead to longer, healthier lives.

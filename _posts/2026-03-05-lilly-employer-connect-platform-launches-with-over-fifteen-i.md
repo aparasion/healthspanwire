@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Lilly has launched its Employer Connect platform, which aims to enhance access to obesity treatment through tailored coverage options for employees, specifically for its medication Zepbound® (tirzepatide). This initiative involves over fifteen independent program administrators and a dedicated pharmacy network that collectively allows employers to customize benefits while ensuring patient choice. The platform is positioned to address the significant barriers that many individuals with obesity face regarding treatment access, which is often dictated by cost and insurance coverage.

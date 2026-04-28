@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag092/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 **Geriatric Medicine (GM) has been recognized as a distinct specialty in 24 out of 38 surveyed European countries, with specialty training available in 21 countries, according to a recent cross-sectional study. This research, part of the PROGRAMMING COST Action, underscores the evolving landscape of GM education and clinical services across Europe, revealing significant regional disparities.**

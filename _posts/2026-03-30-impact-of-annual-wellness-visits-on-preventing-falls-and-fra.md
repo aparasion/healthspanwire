@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag065/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study has revealed that increased participation in Annual Wellness Visits (AWVs) significantly reduces the risk of falls and fractures among older adults diagnosed with Alzheimer’s Disease and Related Dementias (ADRD). Analyzing data from over 1.6 million Medicare beneficiaries aged 68 and older, researchers found that those who attended two or more AWVs experienced a notable decrease in both fall (hazard ratio [HR]: 0.936 for ≥3 visits) and fracture risks (HR: 0.927 for ≥3 visits). These findings underscore the potential of AWVs as a preventive measure in managing the health of this vulnerable population.

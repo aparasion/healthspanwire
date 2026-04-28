@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study highlights the critical role of sex as a biological variable in understanding age-related cardiac dysfunction, revealing significant differences in frailty and resilience between male and female mice. Conducted on 25-26-month-old mice, the research utilized post-anesthesia recovery time, a wire hanging test, and a frailty index to assess whole-body frailty and resilience, correlating these with cardiac parameters obtained through echocardiography and Doppler imaging.

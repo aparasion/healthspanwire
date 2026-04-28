@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQOWlVaVpGRmlrSD
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers have developed a novel blood-based epigenetic clock that measures aging through intrinsic capacity, termed the MSN clock. This innovative tool provides a more nuanced understanding of biological aging by assessing the functional status of an individual, rather than solely relying on chronological age.

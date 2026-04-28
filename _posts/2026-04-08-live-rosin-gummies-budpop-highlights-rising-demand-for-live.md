@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269807/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 BudPop's recent internal survey reveals a significant shift in consumer preferences within the hemp edibles market, with **68% of respondents** moving away from distillate-based gummies towards **solventless formats** over the past year. Notably, **71% of these consumers** favored **live rosin gummies**, a product derived from cannabis concentrates that utilize ice water, heat, and pressure for extraction, avoiding chemical solvents entirely. This method preserves the full-spectrum profile of cannabinoids, terpenes, and flavonoids, offering a more authentic hemp experience compared to traditional distillate products.

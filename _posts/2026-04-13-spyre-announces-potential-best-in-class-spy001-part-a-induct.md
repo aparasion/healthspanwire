@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272353/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Spyre Therapeutics has announced promising results from the Phase 2 SKYLINE trial of **SPY001**, an investigational anti-α4β7 antibody designed to treat moderate-to-severe ulcerative colitis (UC). The trial's Part A demonstrated a **statistically significant reduction** of **9.2 points** in the Robart’s Histopathology Index (RHI) score at Week 12 (p<0.0001). Additionally, secondary endpoints showed **40% clinical remission** and **51% endoscopic improvement**, indicating strong therapeutic potential.

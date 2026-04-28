@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270216/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Psyence Biomedical Ltd. has expanded its clinical site network in Australia from three to five locations, enhancing its capacity to conduct a Phase IIb clinical trial evaluating **natural psilocybin** for **Adjustment Disorder** in cancer patients receiving palliative care. The newly added sites, Ramsay Health Care and NeuroCentrix, bring experienced hospital and specialist research partners into the fold, which Psyence believes will significantly bolster its clinical program.

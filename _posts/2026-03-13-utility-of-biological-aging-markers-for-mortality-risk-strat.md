@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study involving **4,000 older adults** from the Mr. OS and Ms. OS cohort has elucidated the associations between various **biological aging (BA) markers** and long-term mortality risk, particularly in an Asian demographic. The study assessed multiple BA markers, including the **frailty phenotype**, a clinical deficit-based **frailty index (FI)**, biochemical-enhanced FI (comprising eGFR, homocysteine, hsCRP, and 25(OH)-D), and **leukocyte telomere length**. Mortality data were tracked over a median follow-up of **18.25 years**, revealing significant correlations between these markers and overall as well as cause-specific mortality.

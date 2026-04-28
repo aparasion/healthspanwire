@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/how-one-class-of-inflam
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers have identified a specific class of inflammatory microbes in the aging gut microbiome that contributes to memory decline. By mapping the gut microbiome's changes in aged mice, the study highlights how the accumulation of certain bacteria, particularly Parabacteroides goldsteinii, disrupts gut-brain signaling. This disruption impairs neuronal activation in the hippocampus, leading to cognitive deficits.

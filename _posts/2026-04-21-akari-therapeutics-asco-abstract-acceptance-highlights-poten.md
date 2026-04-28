@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278003/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Akari Therapeutics has announced the acceptance of its abstract for the ASCO Annual Meeting 2026, detailing the **combination synergy of its spliceosome modulator antibody-drug conjugate (ADC), AKTX-101**, with a K-Ras inhibitor in treating KRAS-mutated pancreatic cancers. This marks a pivotal moment for Akari as it advances AKTX-101 into Phase 1 clinical development, expected to commence by late 2026 or early 2027. The abstract emphasizes the potential of targeting RNA splicing as a novel therapeutic strategy in oncology.

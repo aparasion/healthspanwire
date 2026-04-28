@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279245/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Newsweek's 2026 ranking of America’s Best Fertility Clinics highlights the integration of advanced technologies like AI and genomics in reproductive medicine.** With over 100,000 IVF births annually in the U.S., the list recognizes 140 clinics across 32 states and Washington, D.C., that exemplify clinical excellence and innovation. Notable institutions include the Columbia University Fertility Center, Weill Cornell Medicine, and the Mayo Clinic, among others. This annual assessment, now in its fourth year, is based on a rigorous methodology that evaluates quality metrics, peer recommendations, accreditation status, and patient satisfaction.

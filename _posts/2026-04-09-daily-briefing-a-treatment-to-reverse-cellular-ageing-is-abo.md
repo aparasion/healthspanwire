@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/d41586-026-01207-2"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 A recent study has demonstrated that a **single DNA modification** in a non-coding region of the X chromosome, specifically enhancer 13 (En13), can induce **sex reversal** in female mouse embryos. Researchers found that altering En13 on both copies of the X chromosome led to the development of male genitalia and small testes in female mice. This discovery positions En13 as a critical site for understanding the **genetic mechanisms** underlying sexual differentiation, suggesting it may play a similar role in humans.

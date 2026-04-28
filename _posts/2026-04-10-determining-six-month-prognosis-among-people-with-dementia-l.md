@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag087/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A systematic review led by researchers sought to evaluate **prognostic tools** for predicting **6-month mortality** in individuals with dementia residing in care homes. The review synthesized data from 13 studies involving **503,501 participants**, identifying 11 distinct prognostic tools. The analysis highlighted common predictive factors such as **age**, **cognitive function changes**, **functional decline**, and **nutritional concerns**, although only three studies were deemed to have a low risk of bias.

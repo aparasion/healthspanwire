@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/hr-leaders-urged-to-act-on-longev
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 The **Longevity Show** has released a new blog emphasizing the urgent need for employers to transition from reactive health benefits to **preventive, data-driven strategies** as their workforces age. This shift is not merely a response to demographic changes; it positions employers as active participants in the healthspan discourse. The blog highlights how corporate health strategies are evolving, albeit slowly, in response to the increasing longevity of employees. While wellness programs have become commonplace, they often remain focused on episodic care rather than true preventive measures, leaving significant opportunities untapped.

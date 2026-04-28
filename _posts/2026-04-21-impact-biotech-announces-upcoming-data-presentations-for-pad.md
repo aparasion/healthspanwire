@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278133/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 ImPact Biotech is advancing its clinical pipeline with updates on **Padeliporfin vascular-targeted photodynamic therapy (VTP)**, particularly in the **Phase 3 ENLIGHTED trial** for low-grade upper tract urothelial carcinoma (UTUC) and a **Phase 1 trial** for unresectable locally advanced pancreatic ductal adenocarcinoma (LA-PDAC). The company will present updated data at the **American Urological Association (AUA)** and **American Society of Clinical Oncology (ASCO)** annual meetings in May and June 2026, respectively, with topline results from the ENLIGHTED trial anticipated later in 2026.

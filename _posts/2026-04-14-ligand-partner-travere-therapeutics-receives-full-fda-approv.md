@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/14/3273192/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Ligand Pharmaceuticals has announced that its partner, Travere Therapeutics, has received FDA approval for **FILSPARI® (sparsentan)**, the first and only medication approved for the treatment of **focal segmental glomerulosclerosis (FSGS)** without nephrotic syndrome. This development expands FILSPARI's use beyond its established role in treating IgA nephropathy (IgAN), positioning it as a critical therapeutic option for a patient population estimated to exceed **30,000 individuals** in the U.S. alone. The approval underscores the drug's potential to significantly impact clinical outcomes for patients suffering from this rare kidney disorder.

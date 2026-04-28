@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270226/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Tekton Research has launched its first clinical research hub in San Antonio, Texas, enhancing its capabilities in cardiometabolic research and patient-centered metabolic care. This new facility will be led by Dr. Jara McDonald, MD, FAAFP, DABOM, who is double board-certified in Family Medicine and Obesity Medicine. The hub aims to leverage a multidisciplinary team of specialists, including Dr. Arti Thangudu, a triple board-certified physician in Endocrinology, Diabetes, and Metabolism, to conduct a wide array of clinical studies across various therapeutic areas.

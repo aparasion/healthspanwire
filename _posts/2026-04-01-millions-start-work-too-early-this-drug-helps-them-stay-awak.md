@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260401071936.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent clinical trial led by researchers at Mass General Brigham has demonstrated that solriamfetol, a wake-promoting drug, significantly enhances alertness in early-morning shift workers suffering from shift work disorder. This condition, affecting millions who start their workday before sunrise, can lead to severe fatigue, reduced productivity, and safety risks. The findings, published in NEJM Evidence, reveal that participants taking solriamfetol experienced improved performance and reduced sleepiness, marking a crucial advancement in addressing the needs of this often-overlooked workforce.

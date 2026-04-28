@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260426012305.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Research from the **BMJ Medicine** has revealed that **diversifying exercise routines**—rather than simply increasing the volume of physical activity—can significantly reduce mortality risk. Analyzing data from over **111,000 participants** across two long-term studies, the findings indicate that engaging in a variety of physical activities correlates with a **19% lower risk of death** from all causes, with specific activities like walking and tennis showing notable protective effects.

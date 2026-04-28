@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/evidence-for-mlkl-to-be
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers have identified the **RIPK3-MLKL axis** as a critical mediator of **hematopoietic stem cell (HSC) aging**, revealing how stress responses contribute to functional decline in these cells. The study highlights that HSCs, which are essential for generating immune and red blood cells, experience a loss of regenerative capacity due to age-related alterations in mitochondrial function. Notably, **MLKL**, a necroptosis effector, accumulates in HSC mitochondria under stress conditions, leading to impaired self-renewal and lymphoid differentiation without triggering cell death.

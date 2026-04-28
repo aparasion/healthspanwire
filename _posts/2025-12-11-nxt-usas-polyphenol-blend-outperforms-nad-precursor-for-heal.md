@@ -10,6 +10,8 @@ source_url: "https://www.nutritioninsight.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Lallemand Bio-Ingredients has introduced Re-Vaya, a novel ingredient designed to enhance metabolic health beyond traditional weight loss strategies. This launch reflects a significant shift in consumer demand towards a more holistic approach to metabolic health, as discussed by Annie Tremblay and Marcia da Silva Pinto from Lallemand. The timing coincides with the increasing interest in GLP-1 therapies, indicating a broader understanding of metabolic balance.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260326075550.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers at the MRC Laboratory of Medical Sciences have identified a critical factor contributing to the inconsistent efficacy of PARP inhibitors in cancer treatment. Their study reveals that these drugs can become trapped in lysosomes within tumor cells, creating uneven drug distribution and leading to variable treatment outcomes among patients. This discovery underscores the importance of understanding drug behavior at the cellular level, particularly in the context of ovarian cancer, where PARP inhibitors have shown promise but also significant variability in effectiveness.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278149/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Ray Therapeutics has successfully closed a **$125 million Series B financing**, significantly oversubscribed and led by Janus Henderson Investors, with continued backing from founding investor **4BIO Capital**. This funding will propel two ongoing clinical-stage programs: **RTx-015**, targeting retinitis pigmentosa, and **RTx-021**, aimed at macular diseases like Stargardt disease and geographic atrophy AMD. Notably, RTx-015 has recently received **Regenerative Medicine Advanced Therapy (RMAT) Designation** from the FDA, highlighting its potential as a transformative therapy in the field of vision restoration.

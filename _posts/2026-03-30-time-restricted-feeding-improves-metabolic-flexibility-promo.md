@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 A recent study highlights the potential of time-restricted feeding (TRF) as a therapeutic strategy to counteract age-related adipose dysfunction, a key contributor to systemic decline in older adults. Researchers conducted a six-month TRF regimen on 18-month-old C57BL/6 mice, restricting food intake to a six-hour window during the dark phase. The findings reveal that TRF significantly enhances energy metabolism and alters adipose tissue characteristics in aged mice, suggesting a promising avenue for improving metabolic health in the elderly.

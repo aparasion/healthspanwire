@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281998/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 NurExone Biologic Inc. has secured a significant advancement in its biomanufacturing capabilities with the granting of Australian Patent No. 2020303456, which covers the **production of extracellular vesicles from stem cells**. This patent, awarded on April 23, 2026, is exclusively licensed to NurExone and is expected to remain valid until June 10, 2040, contingent upon the payment of applicable fees. Dr. Lior Shaltiel, CEO of NurExone, emphasized the importance of **consistency in biomanufacturing**, which this patent supports by enabling the scalable and reproducible production of high-quality exosomes critical for therapeutic applications.

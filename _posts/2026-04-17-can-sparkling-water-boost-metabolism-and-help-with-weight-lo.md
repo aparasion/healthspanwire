@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260417001658.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 New research published in **BMJ Nutrition Prevention & Health** investigates the potential of **sparkling water** to influence metabolism and aid in weight loss. The study suggests that carbonated water may have a minor effect on **blood glucose uptake** and energy metabolism, but the overall impact is negligible for meaningful weight loss. Despite its popularity as a healthy beverage, the findings indicate that sparkling water should not be viewed as a standalone solution for weight management.

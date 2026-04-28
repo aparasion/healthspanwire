@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/modag-brings-worlds-first-parkins
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 German biotech company MODAG has launched PD DETECT, the first CE-certified biochemical test kit for diagnosing Parkinson’s disease, aiming to revolutionize early detection. Traditionally, Parkinson’s has been diagnosed based on visible symptoms, often too late for effective intervention. PD DETECT shifts this paradigm by enabling the identification of abnormal alpha-synuclein protein aggregates in cerebrospinal fluid, marking a move from observational diagnosis to a more objective, evidence-based approach.

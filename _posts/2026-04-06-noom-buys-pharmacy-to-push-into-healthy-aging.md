@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/noom-buys-pharmacy-to-push-into-h
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Noom has taken a significant step in the longevity sector by acquiring Tailor Made Compounding (TMC), a licensed pharmacy that operates in 46 states. This acquisition marks Noom's first major investment in the healthy aging space, transitioning from a digital weight management platform to a comprehensive preventive care model. By integrating habit coaching with prescription-grade therapies, Noom aims to address a wider array of health concerns, including metabolic health and hormonal balance, alongside its established focus on weight management.

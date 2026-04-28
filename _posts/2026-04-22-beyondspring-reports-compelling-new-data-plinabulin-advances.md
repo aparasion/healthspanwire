@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278803/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 New preclinical findings presented by BeyondSpring Inc. at the AACR 2026 conference reveal that **Plinabulin** significantly enhances the efficacy of antibody-drug conjugates (ADCs) in cancer treatment. The combination of Plinabulin with leading ADCs, such as **T-DXd** (trastuzumab deruxtecan) and **Dato-DXd** (datopotamab deruxtecan), resulted in improved complete response rates and survival in preclinical models, demonstrating its potential to address critical limitations of current ADC therapies.

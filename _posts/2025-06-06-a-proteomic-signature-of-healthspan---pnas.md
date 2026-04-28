@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pZWhnOEMtTEFSdE
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers have identified a distinct proteomic signature associated with healthspan, as reported in a recent study published in PNAS. This breakthrough, led by a team of scientists, reveals specific protein patterns that correlate with healthy aging, providing a potential biomarker for assessing healthspan in individuals.

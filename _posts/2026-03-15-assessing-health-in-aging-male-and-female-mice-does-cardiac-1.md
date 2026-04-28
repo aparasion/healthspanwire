@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Research on aging conducted with **old mice** reveals that **age-related cardiac dysfunction** is significantly influenced by **sex**, highlighting the need for sex-disaggregated data in geroscience. In a study assessing recovery from anesthesia, frailty, and resilience in 25-26-month-old mice, findings indicate that male and female aging profiles exhibit distinct characteristics. Male mice show a direct correlation between higher frailty scores and **cardiac hypertrophy**, while female mice display a more complex relationship, where **hyperdynamic cardiac markers** are linked to prolonged recovery from stressors like anesthesia.

@@ -10,6 +10,8 @@ source_url: "https://www.biospace.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Novo Nordisk faces significant challenges as its controlling shareholder, Novo Holdings, reported a one-third drop in total assets last year. Compounding these difficulties, the company warned that combining tirzepatide with vitamin B12 could introduce impurities that may alter the drug's toxicity profile, raising safety concerns for patients. This comes amid a backdrop of job cuts and restructuring within the Novo group.

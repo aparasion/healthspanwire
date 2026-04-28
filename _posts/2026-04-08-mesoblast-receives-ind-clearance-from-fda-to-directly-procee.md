@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269787/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Mesoblast Limited has received FDA Investigational New Drug (IND) clearance to initiate a registrational clinical trial for Ryoncil® (remestemcel-L-rknd) in children with Duchenne muscular dystrophy (DMD). This pivotal trial aims to evaluate the efficacy of Ryoncil, the first FDA-approved mesenchymal stromal cell (MSC) therapy, in addressing the inflammatory processes that contribute to muscle degeneration in approximately 15,000 affected children in the U.S. The trial will involve 76 patients aged 5 to 9 years, randomized to receive either Ryoncil or placebo, alongside standard care, with the primary endpoint being time-to-stand at nine months.

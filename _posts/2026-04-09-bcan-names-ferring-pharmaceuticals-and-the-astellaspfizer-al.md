@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270891/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **Bladder Cancer Advocacy Network (BCAN)** has announced that **Ferring Pharmaceuticals** and the **Astellas/Pfizer Alliance** will serve as National Presenting Sponsors for the **2026 Walks to End Bladder Cancer**. These events, scheduled throughout May in various U.S. cities, aim to unite patients, caregivers, and advocates to raise awareness and funds for bladder cancer initiatives. The funds generated will directly support BCAN's education, research, and advocacy programs, emphasizing the need for increased awareness of bladder cancer, which remains one of the most common cancers in the U.S.

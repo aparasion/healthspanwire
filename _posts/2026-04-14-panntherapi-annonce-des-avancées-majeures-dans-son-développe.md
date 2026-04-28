@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/14/3273005/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 PannTheraPi has made significant strides in its clinical and strategic development, highlighted by the submission of a regulatory dossier to initiate a Phase 2a clinical trial for its lead candidate, **PTI5803**, targeting **focal cortical dysplasia (FCD)**, a rare and severe form of epilepsy. This oral small molecule aims to assess safety, tolerability, pharmacological profile, and initial efficacy signals in both adult and pediatric patients suffering from this pharmacoresistant syndrome. Dr. Gilles Huberfeld, co-founder and neurologist-epileptologist at PannTheraPi, emphasized that this submission marks a pivotal step toward a potential therapeutic solution for patients with limited treatment options.

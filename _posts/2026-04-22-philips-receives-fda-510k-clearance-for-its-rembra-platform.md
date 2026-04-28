@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279002/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Royal Philips has secured **510(k) clearance** from the FDA for its Rembra platform, which includes Rembra CT, Rembra RT, and Areta RT systems. These advanced imaging technologies are engineered to enhance the **speed, efficiency, and precision** of cancer care by addressing the growing demand for high-quality imaging and radiation therapy planning. The Rembra CT, with its **largest-in-class 85 cm bore**, is designed for high-throughput environments, capable of performing up to **270 exams per day** in critical care settings, thereby facilitating timely clinical decisions.

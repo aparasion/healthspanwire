@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/igfbp7-secreted-by-sene
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers have identified insulin-like growth factor binding protein-7 (IGFBP7) as a critical factor secreted by senescent cells that undermines the benefits of exercise in older adults. This study reveals that elevated levels of IGFBP7 correlate with diminished fitness gains from high-intensity interval training, suggesting that senescent cells may hinder physiological adaptation to exercise.

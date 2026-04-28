@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag051/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study highlights the significant association between Intrinsic Capacity (IC) impairment and adverse health outcomes in older adults, specifically focusing on disability, institutionalization, dementia, and mortality. Analyzing data from two population cohorts, researchers categorized participants aged 65 and older into three groups based on their IC status: no impairment, single impairment, and multiple impairments. The findings revealed that individuals with two or more impairments (IC2+) faced a markedly higher risk of negative outcomes, with adjusted hazard ratios ranging from 2.0 to 3.0.

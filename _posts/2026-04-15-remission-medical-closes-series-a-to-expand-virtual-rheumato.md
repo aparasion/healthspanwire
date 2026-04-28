@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/remission-medical-closes-series-a
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Remission Medical has successfully closed a Series A funding round led by Blue Heron Capital, aimed at expanding its virtual rheumatology partnerships across U.S. health systems. Announced on April 13, 2026, this investment will enhance the company’s network of health system partners, facilitate the recruitment and onboarding of clinical staff, and scale the operational infrastructure necessary for rapid deployment of rheumatology services. The company’s innovative model integrates **Advanced Practice Providers** into existing health system workflows, leveraging electronic medical records, payer contracts, and clinical protocols to establish specialty service lines efficiently.

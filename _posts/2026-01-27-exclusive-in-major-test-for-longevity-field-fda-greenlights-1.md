@@ -10,6 +10,8 @@ source_url: "https://endpoints.news"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Merck is gearing up for a pivotal trial of Winrevair, a promising treatment for a rare form of heart failure, following encouraging results from a Phase 2 study. The Chief Medical Officer highlighted that the lowest dose tested showed “pretty profound” benefits, suggesting significant therapeutic potential for patients suffering from this challenging condition. This development underscores Merck's commitment to addressing unmet medical needs in cardiovascular health.

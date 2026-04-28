@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/sponsored/biotech-giants-and-investor
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **Asia Summit on Global Health (ASGH)**, scheduled for May 11-12, 2026, in Hong Kong, aims to tackle critical commercialization challenges facing biotech executives, investors, and R&D leaders. The summit's theme, “Fuelling Healthcare Breakthroughs,” emphasizes the need to bridge innovative scientific advancements with effective commercial strategies across various sectors, including **AI**, advanced therapeutics, and the burgeoning **silver economy**.

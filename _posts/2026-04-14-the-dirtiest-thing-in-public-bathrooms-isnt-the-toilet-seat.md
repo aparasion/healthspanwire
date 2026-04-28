@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260413043138.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Recent findings reveal that public restroom hygiene concerns may be misdirected, with high-touch surfaces posing greater risks than toilet seats. Research led by Lotti Tajouri at Bond University highlights that while toilet seats can harbor bacteria and viruses, they often contain fewer microbes than commonly touched surfaces such as door handles and flush levers. The study underscores the significant threat posed by “toilet plumes,” which are tiny droplets released into the air during flushing, particularly when toilets lack lids.**

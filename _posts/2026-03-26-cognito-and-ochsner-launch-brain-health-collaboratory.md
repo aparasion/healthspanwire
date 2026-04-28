@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/cognito-and-ochsner-launch-brain-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Cognito Therapeutics and Ochsner Health have established a Brain Health Collaboratory aimed at enhancing care models for cognitive decline and Alzheimer’s disease in the Gulf South. This initiative integrates Cognito’s investigational Spectris platform with Ochsner’s extensive clinical network, creating the region's first statewide platform for non-invasive brain health innovation. The collaboration aims to develop a Brain Health Index to monitor cognitive health, disease progression, and treatment responses in diverse populations, including those eligible for both Medicare and Medicaid.

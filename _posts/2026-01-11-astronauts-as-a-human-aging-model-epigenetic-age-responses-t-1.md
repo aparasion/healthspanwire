@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxSjlZejFTWjVSRk
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study published in *Aging Cell* explores the potential of astronauts as a model for human aging, specifically examining epigenetic changes in response to space exposure. Researchers led by Fuentealba investigated how the unique environment of spaceflight influences biological aging markers, revealing significant alterations in DNA methylation patterns among astronauts. 

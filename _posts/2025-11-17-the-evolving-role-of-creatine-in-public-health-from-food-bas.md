@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdnU3NDRzOHQ4SX
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Recent research published by Cambridge University Press highlights the evolving role of creatine, transitioning from a food-based nutrient to a prominent dietary supplement with significant implications for public health. Originally recognized for its benefits in athletic performance, creatine is now being explored for its potential in various health contexts, including cognitive function and aging.

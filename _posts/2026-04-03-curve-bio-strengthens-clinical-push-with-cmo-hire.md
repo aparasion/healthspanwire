@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/curve-bio-strengthens-clinical-pu
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Curve Biosciences has appointed Dr. Amit Singal as Chief Medical Officer to enhance the clinical application of its blood-based diagnostics, particularly in liver disease. This strategic move follows a $40 million funding round and underscores the company's commitment to integrating its **Whole-Body Atlas-driven approach** into clinical workflows. Dr. Singal's expertise in hepatology and cancer screening positions him to lead efforts in translating early detection of organ dysfunction into actionable clinical interventions, addressing a critical gap in current liver disease management.

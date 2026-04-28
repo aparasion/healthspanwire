@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260403002027.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study from the University of California, San Francisco, has uncovered a critical mechanism behind the heightened severity of flu and COVID-19 infections in older adults. Researchers found that aging lung cells, specifically fibroblasts, can instigate an exaggerated immune response that leads to harmful inflammation, significantly increasing the risk of severe illness. By activating aging-related stress signals in young mice, the team observed that these lungs began to exhibit characteristics typical of older individuals, resulting in severe symptoms upon infection.

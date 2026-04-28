@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260408095346.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent survey conducted by **Autism BrainNet** reveals a significant gap in public understanding regarding the role of **brain donation** in autism research. While **92%** of respondents acknowledge the importance of studying the autistic brain, **70%** were unaware that brain donation is essential for advancing this research. This disconnect highlights a critical need for public education on the distinct processes of brain donation compared to organ donation, with only **15%** of participants recognizing that brain donation requires separate arrangements.

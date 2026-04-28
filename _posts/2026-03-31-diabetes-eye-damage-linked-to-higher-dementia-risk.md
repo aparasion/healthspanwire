@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/diabetes-eye-damage-linked-to-hig
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study published in the American Journal of Ophthalmology reveals a significant link between type 2 diabetes, worsening diabetic retinopathy, and an increased risk of dementia in older adults. Analyzing data from nearly 770,000 individuals, researchers found that those with severe diabetic retinopathy faced a 58% higher risk of developing any form of dementia and more than double the risk of vascular dementia compared to non-diabetic counterparts. This connection underscores the importance of eye health as a potential indicator of cognitive decline, suggesting that eye exams could serve as critical tools for early intervention.

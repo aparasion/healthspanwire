@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270503/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 RxSight, Inc. has achieved a significant milestone with over **300,000 Light Adjustable Lens® (LAL®) implants** performed since its launch, as announced ahead of the 2026 American Society of Cataract and Refractive Surgery (ASCRS) annual meeting. The LAL system is the first intraocular lens (IOL) technology that allows for **post-operative vision optimization** based on real-world feedback, enabling tailored vision correction post-cataract surgery. This achievement underscores the commitment of ophthalmologists utilizing LAL technology to deliver superior clinical outcomes and enhance their practice's financial performance.

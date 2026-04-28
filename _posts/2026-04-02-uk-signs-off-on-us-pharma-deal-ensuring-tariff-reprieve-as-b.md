@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/pharma/uk-government-signs-us-uk-phar
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 The U.K. has officially eliminated tariffs on drug exports from the U.S. following the establishment of a significant U.S.-U.K. pharmaceutical partnership. This landmark agreement, which will remain in place for at least three years, allows the U.K. to become the first country to secure a 0% tariff rate on U.S. pharmaceutical exports. In exchange, the U.K. government has committed to increasing the net price its National Health Service (NHS) pays for new treatments by 25%, a move aimed at bolstering the domestic pharmaceutical industry and enhancing its attractiveness for biopharma investments.

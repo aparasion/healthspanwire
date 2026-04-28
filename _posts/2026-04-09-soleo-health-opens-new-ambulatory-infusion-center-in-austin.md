@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270776/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Soleo Health has announced the opening of a new **ambulatory infusion center (AIC)** in Austin, Texas, aimed at enhancing patient access to specialized infusion therapies. This facility will serve the Austin metro area, including Georgetown and San Marcos, providing a critical resource for patients requiring complex medications and clinical support. The center features private rooms designed for comfort, including a dedicated space for pediatric patients, ensuring a supportive environment for all age groups.

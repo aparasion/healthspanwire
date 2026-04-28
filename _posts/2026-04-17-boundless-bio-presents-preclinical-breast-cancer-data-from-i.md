@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276505/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Boundless Bio has unveiled promising preclinical data for its lead ecDNA-directed therapy, **BBI-940**, at the AACR Annual Meeting 2026. This innovative treatment targets a newly identified kinesin protein, crucial for the segregation and inheritance of **extrachromosomal DNA (ecDNA)** in cancer cells, while being non-essential in healthy cells. BBI-940, a **first-in-class oral Kinesin degrader**, is currently undergoing evaluation in the Phase 1 KOMODO-1 trial for patients with advanced or metastatic **ER+/HER2- breast cancer** and **triple-negative breast cancer of the luminal androgen receptor subtype (TNBC-LAR)**.

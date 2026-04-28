@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/14/3273034/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Asgard Therapeutics has announced the appointment of Prof. Dr. Wolfram Brugger as Chief Medical Officer, signaling a strategic move to advance their lead asset, **AT-108**, into Phase 1 clinical development. AT-108 represents a novel **off-the-shelf immunotherapy** that utilizes in vivo reprogramming to convert tumor cells into antigen-presenting cells, specifically **conventional dendritic cells type 1 (cDC1)**. This transformative approach aims to elicit a personalized immune response against various cancers, leveraging the patient’s own immune system to target tumors more effectively.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/what-animals-can-teach-us-about-r
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Research from **Fauna Bio** and **Rejuvenate Bio** highlights the potential of leveraging animal biology to address aging challenges. In a recent episode of *Longevity Technology Unlocked*, co-founders Daniel Oliver and Ashley Zehnder discuss how studying species like hibernating ground squirrels and aging dogs can provide critical insights into human longevity. Their work suggests that mechanisms for tissue protection and repair are not only present in these animals but may also be applicable to human healthspan improvement.

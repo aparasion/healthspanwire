@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study from the U.S. POINTER trial reveals that **multidomain lifestyle interventions** significantly impact frailty indices (FIs) among older adults at risk for cognitive decline. The trial, which involved **2,111 participants** aged 60-79, compared a **Structured intervention** emphasizing higher intensity and accountability against a **Self-Guided intervention** over a two-year period. The results demonstrated a statistically significant reduction in the modified frailty index (mFI) for participants in the Structured group, with a change of **-0.024** compared to **-0.009** for the Self-Guided group, indicating that a more rigorous approach yields greater benefits in mitigating frailty.

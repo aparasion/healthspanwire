@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269405/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Speke AI is set to showcase its advanced ambient clinical intelligence solutions at the 2026 Urgent Care Convention in Chicago, highlighting its commitment to enhancing operational efficiency in urgent care settings. The company will exhibit at booth #1018, where attendees can explore **Speke Express** and **Speke Pro**, two AI-driven tools designed to streamline workflows and improve patient interactions amid rising demand and workforce challenges.

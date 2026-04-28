@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267486/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Paul Markovich, CEO of Ascendiun, recently launched the Worthy initiative aimed at overhauling the American healthcare system, which is currently plagued by rising costs and inconsistent care. During a satellite media tour, Markovich articulated the urgent need for systemic reform, arguing that incremental changes are insufficient to address the deep-rooted issues in healthcare delivery. Worthy seeks to create a healthcare framework that prioritizes accessibility, affordability, and improved health outcomes for all Americans.

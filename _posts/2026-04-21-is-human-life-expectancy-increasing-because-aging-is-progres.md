@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/is-human-life-expectanc
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Recent research delves into the intriguing question of whether the observed increase in human life expectancy is due to a **slower progression of aging** or merely a **delay in its onset**. This study examines the dynamics of life expectancy, particularly focusing on remaining life expectancy at age 65, which has seen an increase of approximately one year per decade. Despite this progress, the lack of significant advancements in treating aging as a medical condition prompts a deeper inquiry into the underlying mechanisms of these trends.

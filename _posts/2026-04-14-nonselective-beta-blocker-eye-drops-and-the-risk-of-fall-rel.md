@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag093/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A nationwide cohort study conducted in Denmark has revealed that **non-selective beta-blocker eye drops (timolol)** do not significantly increase the risk of fall-related injuries compared to **topical prostaglandin analogue (TPA)** eye drops among older adults. The study analyzed registry data from over 124,000 individuals aged 65 and older who initiated treatment with either timolol or TPA between 1996 and 2023. Using propensity score matching to control for baseline characteristics, the researchers assessed hospital-treated fall-related injuries and fractures at 14, 90, and 365 days post-initiation.

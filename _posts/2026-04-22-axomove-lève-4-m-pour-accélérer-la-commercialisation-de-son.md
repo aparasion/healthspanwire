@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278639/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Axomove has successfully raised **€4 million** in a Series A funding round, co-led by the **Fonds Prévention Numérique** managed by Bpifrance and Go Capital, alongside Inco Ventures and Faraday Venture Partners. This funding aims to accelerate the commercialization of Axomove's digital medical device, which is currently the only reimbursed digital rehabilitation solution by the French health insurance system. The company plans to use the funds to enhance its commercial development, expand reimbursement coverage to include musculoskeletal and metabolic diseases, and enrich its technological platform with advanced features such as motion capture and gamification.

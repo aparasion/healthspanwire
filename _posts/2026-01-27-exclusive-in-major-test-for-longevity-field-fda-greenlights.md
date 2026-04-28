@@ -10,6 +10,8 @@ source_url: "https://endpoints.news"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Rhythm Pharmaceuticals’ Imcivree has encountered a significant setback as it approaches a crucial approval deadline, raising concerns about its future in the market. This development highlights the challenges that biopharmaceuticals face in navigating regulatory pathways, particularly in the competitive landscape of longevity therapeutics.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/collagen-gene-expressio
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 A recent study has revealed significant insights into collagen gene expression and its relationship with aging in *Caenorhabditis elegans*. Researchers found that collagen production declines with age, identifying 16 collagen genes that are consistently downregulated, establishing this downregulation as a genetic hallmark of aging. In contrast, analysis of 66 datasets indicated that collagen expression is upregulated in 84% of long-lived conditions, suggesting that collagen induction may be a conserved signature of lifespan extension.

@@ -10,6 +10,8 @@ source_url: "https://www.youtube.com/watch?v=PnpHwhTWw0c"
 signal_ids: [sex-healthspan-lifespan, epigenetic-clock-adoption]
 signal_stance: supports
 signal_confidence: high
+topic: "nutrition"
+impact: "significant"
 ---
 
 Sexual health has long been treated as peripheral to longevity medicine. A lecture by **Dr. Rena Malik**—board-certified urologist, pelvic surgeon, and Director of Female Pelvic Medicine & Reconstructive Surgery at the **University of Maryland Medical Center**—reframes the question, presenting sexual function not as a lifestyle amenity but as a clinically relevant domain with measurable effects on biological aging, hormonal homeostasis, and all-cause mortality risk.

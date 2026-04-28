@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/its-springtime-and-the-rejuvenation-field-is-fl
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **Lifespan Research Institute (LRI) has made significant strides in rejuvenation science, emphasizing the potential for substantial life extension through innovative approaches. Recent discussions among leading experts in geroscience, biotechnology, and advocacy reveal a consensus on the evolving landscape of aging research. Notable insights from figures like Steve Horvath and George Church highlight advancements that are moving the field closer to translating scientific discoveries into viable therapies.**

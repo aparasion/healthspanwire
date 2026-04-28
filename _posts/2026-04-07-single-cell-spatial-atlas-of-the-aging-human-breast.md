@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01104-3"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 **A recent study employing imaging mass cytometry (IMC) has revealed significant age-related alterations in normal breast tissue architecture and cellular dynamics, analyzing over 3 million cells from 527 reduction mammoplasties. The findings indicate that aged breast tissue is characterized by reduced cellularity and proliferation across all cell types—epithelial, stromal, and immune. Notably, the study documented a decline in heterotypic epithelial cell interactions, a reduction in lobules, and an increase in adipose tissue, alongside a shift towards a more inflammatory microenvironment with elevated M2 macrophages and granzyme B+ T cells.**

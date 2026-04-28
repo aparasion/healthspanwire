@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/longevity-wake-up-call-for-younge
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study reveals alarming rising mortality rates among Generation X and Millennials, highlighting an urgent need for targeted longevity solutions. Analyzing cause-of-death data from 1979 to 2023, researchers found that individuals born between 1970 and 1985 are experiencing higher mortality rates compared to previous generations. Leah Abrams, a social epidemiologist at Tufts University, emphasizes the concerning implications of these trends, particularly as they relate to diseases typically uncommon in younger adults, such as cancer and heart disease.

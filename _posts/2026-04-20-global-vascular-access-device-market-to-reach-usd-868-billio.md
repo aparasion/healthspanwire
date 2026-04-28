@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277200/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The global vascular access device market is poised for significant growth, projected to expand from **USD 6.27 billion in 2026 to USD 8.68 billion by 2031**, reflecting a **CAGR of 6.7%**. This growth is primarily driven by the increasing prevalence of chronic diseases such as cancer, diabetes, and cardiovascular disorders, which necessitate long-term intravenous therapies. The rising number of surgical procedures and the shift towards outpatient and home-based care further amplify the demand for reliable, cost-effective vascular access solutions.

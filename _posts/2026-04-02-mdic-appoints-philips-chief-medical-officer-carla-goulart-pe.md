@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267259/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Carla Goulart Peron, MD, Chief Medical Officer at Royal Philips, has joined the Board of Directors of the Medical Device Innovation Consortium (MDIC), a significant move that underscores the intersection of clinical innovation and regulatory science in medical technology. MDIC, a public-private partnership established in 2012, aims to enhance patient access to medical devices by fostering collaboration among industry stakeholders and regulatory bodies like the FDA.

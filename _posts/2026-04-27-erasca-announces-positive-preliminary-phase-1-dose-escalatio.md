@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281996/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Erasca, Inc. has reported promising preliminary results from its Phase 1 dose escalation trials for **ERAS-0015**, a pan-RAS molecular glue targeting RAS-mutant solid tumors. The data show **62% overall response rate (uORR)** in patients with KRAS G12X non-small cell lung cancer (NSCLC) and **40% uORR** in those with KRAS G12X pancreatic cancer (PDAC) at pharmacologically active doses (PADs) of 16-32 mg QD. Notably, in the post-ICI/platinum setting for NSCLC, the uORR reached **75%**, highlighting the drug's potential in heavily pre-treated populations.

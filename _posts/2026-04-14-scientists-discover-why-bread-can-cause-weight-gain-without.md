@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260414075637.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers at **Osaka Metropolitan University**, led by Professor **Shigenobu Matsumura**, have uncovered a significant metabolic mechanism behind weight gain associated with carbohydrate-rich foods like bread and rice. In a study involving mice, the team observed that these animals exhibited a strong preference for carbohydrates, leading them to abandon their regular chow. Despite not consuming more calories, the mice gained weight and body fat, attributed to a **reduction in energy expenditure** rather than overeating.

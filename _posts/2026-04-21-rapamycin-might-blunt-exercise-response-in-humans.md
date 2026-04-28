@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/rapamycin-might-blunt-exercise-response-in-huma
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent study published in the *Journal of Cachexia, Sarcopenia and Muscle* investigates the interaction between **rapamycin** and exercise in older adults, revealing that rapamycin may blunt the benefits of physical activity. Conducted by an international team, the trial involved 40 sedentary participants aged 65-85 who underwent a 13-week exercise program while receiving either 6 mg of rapamycin or a placebo weekly. Although most results did not achieve statistical significance, trends indicated that those on rapamycin experienced reduced functional gains compared to the placebo group.

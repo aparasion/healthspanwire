@@ -10,6 +10,8 @@ source_url: "https://www.nutraingredients.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 MaryRuth’s has entered the ingestible skin category, capitalizing on the growing trend of beauty-from-within products. This strategic move reflects a broader shift in consumer preferences toward holistic health solutions that enhance skin health through dietary means. The company aims to leverage this trend to expand its product offerings and market reach.

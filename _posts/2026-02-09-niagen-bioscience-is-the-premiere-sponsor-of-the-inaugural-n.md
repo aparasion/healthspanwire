@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMirgJBVV95cUxONFM0Mms2UklKWG
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 Niagen Bioscience has stepped up as the Premiere Sponsor for the inaugural “NAD for Health: Opportunities & Challenges” Conference, hosted by the University of Copenhagen. This event aims to explore the burgeoning field of NAD+ research, a critical area in longevity science that has garnered significant attention for its potential to enhance healthspan and combat age-related decline.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269534/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Natural Remedies has been awarded the **2026 ABC Varro E. Tyler Commercial Investment in Phytomedicinal Research Award** by the American Botanical Council (ABC) for its extensive commitment to clinical research on medicinal plants. Dr. Suresh Lakshmikanthan, the company's chief business officer, accepted the award during the Botanical Excellence Awards ceremony at Natural Products Expo West. Mark Blumenthal, founder of ABC, highlighted Natural Remedies' rigorous scientific approach, which bridges traditional herbal knowledge with modern clinical evidence, particularly in the study of botanicals like **holy basil, turmeric, bacopa, andrographis, and licorice**.

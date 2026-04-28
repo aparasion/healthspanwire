@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/insilico-medicine-nominates-uaes-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "noteworthy"
 ---
 
 Insilico Medicine has announced the nomination of **ISM0387**, marking it as the first preclinical candidate from the UAE and the company's 30th AI-supported candidate. This development was made possible through collaboration with the Emirates Drug Establishment and support from various local entities, including the Abu Dhabi Investment Office and the Department of Health Abu Dhabi. ISM0387 is characterized as an **MTA-cooperative PRMT5 inhibitor**, featuring an AI-designed structure that demonstrates **enhanced in vitro activity**, **selectivity**, and **brain-penetrant properties** alongside dose-dependent efficacy in relevant disease models. The candidate was identified at Insilico's Generative AI and Quantum Computing R&D Center in Masdar City, utilizing the Chemistry42 platform and screening over 90 AI-generated candidates within a rapid six-month timeframe.

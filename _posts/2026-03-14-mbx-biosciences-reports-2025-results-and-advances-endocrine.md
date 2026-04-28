@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/mbx-biosciences-reports-2025-resu
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 MBX Biosciences has announced its fourth quarter and full-year 2025 financial results, revealing significant advancements in its pipeline for endocrine and metabolic diseases. The company’s lead candidate, canvuparatide, for chronic hypoparathyroidism, is set to enter a Phase 3 clinical trial in Q3 2026 following a successful End-of-Phase 2 meeting with the FDA, marking a crucial step towards potential market entry.

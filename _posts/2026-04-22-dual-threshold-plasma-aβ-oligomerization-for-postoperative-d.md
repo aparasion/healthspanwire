@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag106/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Preoperative plasma **amyloid-β oligomers** (MDS-OAβ) have emerged as a promising biomarker for identifying older surgical patients at risk for **postoperative delirium** (POD). A study involving 101 patients aged 65 and older undergoing elective orthopedic surgery found that higher preoperative MDS-OAβ concentrations correlated with the development and severity of delirium, with an impressive area under the curve (AUC) of **0.855** for delirium discrimination.

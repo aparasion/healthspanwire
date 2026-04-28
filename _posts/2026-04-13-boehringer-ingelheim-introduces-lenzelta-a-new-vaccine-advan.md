@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272229/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Boehringer Ingelheim has introduced **LENZELTA®**, a novel vaccine designed to significantly reduce the incidence and severity of clinical mastitis in dairy cows and heifers. Administered in two doses during the dry-off period, this vaccine targets the two primary pathogens responsible for mastitis, **Staphylococcus aureus** and **Escherichia coli**, providing a proactive approach to herd health management.

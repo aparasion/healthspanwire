@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/plastic-bottles-make-life-saving-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Scientists at the University of Edinburgh have developed a groundbreaking method to convert everyday plastic waste into L-DOPA, a key medication for Parkinson’s disease, using engineered E. coli bacteria. This innovative process transforms discarded PET bottles into valuable pharmaceuticals, challenging the traditional view of plastic as mere waste and highlighting its potential as a resource for medical advancements.

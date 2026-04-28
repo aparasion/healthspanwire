@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278721/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **Medicines360 and Pharma Dynamics have launched AVIBELA**, South Africa's first generic levonorgestrel 52 mg intrauterine device (IUD), significantly enhancing access to long-acting reversible contraception (LARC) and addressing heavy menstrual bleeding (HMB) in the region. AVIBELA boasts over **99% effectiveness** in pregnancy prevention for up to six years, aligning with the approved usage duration in South Africa. This initiative is part of a broader strategy to bridge the gap between scientific innovation and practical healthcare delivery, as highlighted by Kelly Dannucci, Senior Director of Global Access at Medicines360.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260328043552.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 A comprehensive review of global research has revealed that nicotine e-cigarettes may be the most effective method for smoking cessation, surpassing traditional options such as patches, gum, and behavioral support. This conclusion stems from an analysis of 14 systematic reviews conducted over nearly a decade, which consistently demonstrated that nicotine vapes lead to higher quit rates compared to other smoking cessation aids. While some lower-quality studies showed mixed results, the strongest evidence clearly favors the use of nicotine e-cigarettes.

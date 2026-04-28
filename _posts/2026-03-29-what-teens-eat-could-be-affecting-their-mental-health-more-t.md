@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260328043602.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A comprehensive review led by researchers at Swansea University has revealed that dietary patterns in adolescents significantly impact their mental health, with healthier eating habits linked to fewer depressive symptoms. Published in the journal *Nutrients*, this analysis synthesized findings from 19 studies, highlighting that it is the overall quality of the diet—rather than isolated nutrients—that plays a crucial role during this pivotal stage of brain development.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/biological-clocks-age-within-a-da
 signal_ids: [epigenetic-clock-adoption]
 signal_stance: mixed
 signal_confidence: medium
+topic: "biomarkers"
+impact: "significant"
 ---
 
 **Raghav Sehgal and Albert Higgins-Chen's recent research highlights the variability of biological age clocks, revealing that these metrics can fluctuate significantly even within short time frames. Their study, which evaluated eighteen widely used epigenetic clocks across over 1,000 samples, found that biological age estimates could vary by as much as 5-10 years within a single day, with some clocks showing fluctuations up to 40 years. This raises critical questions about the reliability and stability of these aging biomarkers, which are increasingly used to guide clinical trials and longevity interventions.**

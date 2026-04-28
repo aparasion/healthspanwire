@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/d41586-026-00792-6"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent research published in *Nature Medicine* indicates that daily multivitamin supplementation can effectively slow biological aging markers in older adults. Over a two-year period, participants taking multivitamins exhibited a reduction in epigenetic ‘clocks’—a measure of biological age—by approximately four months, particularly among those who were biologically older than their chronological age. This finding raises intriguing questions about the potential of multivitamins not just to decelerate aging processes but possibly to reverse them.

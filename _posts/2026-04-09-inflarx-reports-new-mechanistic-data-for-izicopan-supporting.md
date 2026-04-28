@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270828/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 InflaRx N.V. has announced significant in vitro findings regarding **izicopan**, an oral C5a receptor (C5aR) inhibitor, demonstrating that it does not exhibit **time-dependent inhibition of CYP3A4**. This is crucial as CYP3A4 is a key enzyme involved in drug metabolism, and its inhibition can lead to drug-drug interactions (DDIs) and liver toxicity. The new mechanistic study, utilizing a Ki-based TDI (Ki/Kinact) approach, confirmed that izicopan maintains a favorable pharmacological profile, showing no inhibition of CYP3A4 even at high concentrations (IC₅₀ > 100 µM).

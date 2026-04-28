@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 The **INVEST in Bone Health Trial** reveals critical insights into the interplay between weight loss and musculoskeletal health, particularly through the lens of resistance training (RT) and weighted vest use. In this secondary analysis, 150 participants aged approximately 66 years were randomized into three groups: weight loss (WL), WL plus resistance training (WL + RT), and WL plus weighted vest (WL + VEST). The study utilized computed tomography (CT) and dual-energy x-ray absorptiometry (DXA) to assess changes in muscle area, density, and body composition over 12 months.

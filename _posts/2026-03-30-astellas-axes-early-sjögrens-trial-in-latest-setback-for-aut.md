@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/astellas-axes-early-sjogrens-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Astellas Pharma has halted its phase 1 study of ASP5502, a small molecule inhibitor targeting the stimulator of interferon genes (STING), aimed at treating Sjögren’s syndrome, an autoimmune condition lacking dedicated therapies. The decision, characterized as a business move rather than a reflection of safety or efficacy, marks a significant moment in the ongoing struggle to develop effective treatments for this debilitating disease. The trial, which enrolled 116 participants, was structured in three parts, with the final phase intended to assess the drug's effects in patients with Sjögren’s syndrome.

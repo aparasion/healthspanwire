@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/c2n-highlights-first-use-of-emtbr
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 C2N Diagnostics has unveiled the application of its eMTBR-tau243 plasma assay in the Evoke and Evoke+ Phase 3 clinical trials, presenting findings at the AD/PD 2026 Conference. This analysis demonstrated that both eMTBR-tau243 and p-tau217 levels are independently associated with cognitive and functional decline in early symptomatic Alzheimer’s disease, with their combined assessment offering complementary insights into disease progression.

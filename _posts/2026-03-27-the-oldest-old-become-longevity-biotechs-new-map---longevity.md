@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWE1Pcm90LUxEU1
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A recent exploration into the "oldest old" demographic has unveiled significant insights for the longevity biotech sector, positioning this age group as a crucial focal point for research and therapeutic development. As life expectancy increases, understanding the biological mechanisms that enable individuals over 85 to thrive is becoming essential for advancing healthspan interventions.

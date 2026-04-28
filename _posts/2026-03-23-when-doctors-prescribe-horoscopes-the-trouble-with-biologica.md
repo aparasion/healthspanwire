@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/when-doctors-prescribe-horoscopes-the-trou
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent critiques have emerged regarding the reliability of biological age tests, which are increasingly marketed to patients as indicators of their health trajectory. These tests, often based on epigenetic markers, promise to reveal a person's "true" biological age through simple samples like cheek swabs or blood spots. However, experts argue that these tests fail to accurately measure biological age, instead providing correlations that can mislead both patients and clinicians.

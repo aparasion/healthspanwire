@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/modified-immune-cells-target-cancers-metab
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers at Stanford University have made significant strides in cancer immunotherapy by modifying immune cells to target the unique metabolic signatures of tumors. Their study, published in *Nature Immunology*, identifies the receptor GPR183 as a key player that enables natural killer (NK) cells to infiltrate solid tumors more effectively. By introducing this receptor into NK cells, the team observed a marked improvement in the cells' ability to migrate toward and penetrate tumor environments, particularly in mouse models of breast and ovarian cancer.

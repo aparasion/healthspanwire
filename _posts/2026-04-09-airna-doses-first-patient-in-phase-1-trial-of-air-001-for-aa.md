@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/airna-doses-first-patient-in-phas
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Airna has initiated a Phase 1 clinical trial for AIR-001, an RNA-editing therapeutic targeting **alpha-1 antitrypsin deficiency (AATD)**. The open-label RepAIR1 study (NCT07431112) aims to assess the safety, pharmacokinetics, and pharmacodynamics of AIR-001 in adults with the **PiZZ genotype**, enrolling approximately 54 patients across multiple countries, including Australia and the UK. The trial has received regulatory approval in various jurisdictions, and the U.S. FDA has granted **orphan drug designation** to this innovative candidate.

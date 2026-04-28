@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/merck-dives-detailed-data-sho
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Merck & Co. has announced promising results from the third phase 3 trial of its PCSK9 inhibitor, enlicitide, which demonstrates significant advantages over existing oral non-statin therapies for cardiovascular disease. The Coralreef AddOn study, presented at the American College of Cardiology’s annual meeting, revealed that enlicitide led to an impressive average reduction of 64.6% in LDL cholesterol among statin-treated adults with atherosclerotic cardiovascular disease, outpacing control treatments that included bempedoic acid and ezetimibe.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/28/3282238/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Bioxodes SA has announced the final results of its Phase 2a BIRCH trial for **BIOX-101**, an investigational therapy targeting **intracerebral hemorrhage (ICH)**, a condition currently lacking approved treatments. The trial, which included 23 patients, demonstrated that BIOX-101 met its primary safety endpoint and indicated promising efficacy signals across secondary measures. This builds on positive interim findings released in September 2025, reinforcing the company’s confidence in advancing BIOX-101 through further clinical development.

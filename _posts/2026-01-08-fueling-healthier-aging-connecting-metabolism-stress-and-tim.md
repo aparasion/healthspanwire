@@ -10,6 +10,8 @@ source_url: "https://www.asbmb.org"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The American Society for Biochemistry and Molecular Biology (ASBMB) has elected new members to its Council and Nominating Committee, reinforcing its commitment to advancing molecular life science. This leadership change comes as the organization continues to advocate for scientists driving innovations in health, environment, and biotechnology.

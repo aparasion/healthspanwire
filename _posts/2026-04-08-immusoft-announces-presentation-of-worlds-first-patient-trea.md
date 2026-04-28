@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269972/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Immusoft has announced a significant milestone in the field of engineered B cell therapies, presenting the world’s first clinical case review of their investigational therapy ISP-001 at the FDA workshop on pediatric cell and gene therapy. This case review will detail the initial clinical experiences of the first patient treated with ISP-001 for **mucopolysaccharidosis type I (MPS I)**, a severe genetic disorder. Early results from the ongoing Phase 1/2 trial indicate a favorable safety profile, including successful re-dosing of the first patient, who continues to show promising pharmacodynamic and quality-of-life improvements.

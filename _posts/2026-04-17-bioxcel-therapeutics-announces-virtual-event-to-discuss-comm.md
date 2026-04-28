@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276062/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 BioXcel Therapeutics, Inc. is set to host a virtual event on April 23, 2026, to detail its launch strategy for **IGALMI® (dexmedetomidine)**, a sublingual film aimed at treating acute agitation associated with bipolar disorders and schizophrenia in home settings. This event comes ahead of the **November 14 PDUFA target action date**, where the company will present insights from a recent market opportunity assessment identifying **up to 86 million addressable episodes** of acute agitation annually in the U.S. at-home population, highlighting a significant commercial potential for IGALMI.

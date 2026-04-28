@@ -10,6 +10,8 @@ source_url: "https://medicalxpress.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Baylor University researchers have unveiled a groundbreaking strategy for treating colorectal cancer by utilizing modified food-borne bacteria to deliver potent cancer-killing proteins directly into tumor cells. This innovative approach harnesses the natural properties of these bacteria, potentially enhancing the precision and effectiveness of cancer therapies.

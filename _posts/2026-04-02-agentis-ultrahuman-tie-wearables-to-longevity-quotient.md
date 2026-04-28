@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/agentis-ultrahuman-tie-wearables-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Agentis Longevity and Ultrahuman have formed a strategic partnership aimed at revolutionizing preventive healthcare by integrating real-time biomarker data from Ultrahuman’s platform with Agentis’ proprietary Longevity Quotient (LQ). Announced on March 31, 2026, in Nashville, this collaboration seeks to provide patients with a continuous health score that translates wearable biosensor data into actionable clinical insights, enhancing personalized care.

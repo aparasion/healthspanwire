@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3282109/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Biomea Fusion has reported promising 52-week outcomes from its Phase 2 COVALENT-112 trial, evaluating **icovamenib** in patients with **type 1 diabetes (T1D)**. In a cohort of patients diagnosed within 0-3 years (n=5), the 200 mg dose of icovamenib led to a **52% increase in mean C-peptide area under the curve (AUC)** at Week 12, a statistically significant improvement (p < 0.001). Notably, this effect showed durability, with only a **7% decline from baseline** in C-peptide AUC observed through Week 52. The trial also indicated that patients diagnosed between 3-15 years (n=9) experienced similar preservation of C-peptide levels, underscoring the potential of icovamenib across different stages of T1D.

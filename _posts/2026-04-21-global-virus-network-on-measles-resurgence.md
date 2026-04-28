@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278162/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The **Global Virus Network (GVN)** has reported a significant resurgence of **measles** in the United States and globally, with over **1,700 cases** recorded in the U.S. alone across more than **30 states** in 2026. This resurgence is attributed to a marked decline in vaccination coverage, raising alarms about the potential loss of the U.S. measles elimination status achieved in **2000**. The majority of recent cases have been among unvaccinated individuals, highlighting critical gaps in routine immunization exacerbated by post-pandemic disruptions and the spread of misinformation.

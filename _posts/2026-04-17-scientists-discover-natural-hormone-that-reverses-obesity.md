@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260416071954.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Researchers at the University of Oklahoma have identified **FGF21 (fibroblast growth factor 21)** as a natural hormone capable of reversing obesity in mice by activating a specific brain circuit associated with metabolism. This discovery highlights a novel mechanism distinct from existing GLP-1 drugs, which primarily suppress appetite. Instead, FGF21 enhances the body's energy expenditure through signaling in the **hindbrain**, specifically targeting the **nucleus of the solitary tract (NTS)** and the **area postrema (AP)**, ultimately influencing metabolic activity and promoting weight loss.

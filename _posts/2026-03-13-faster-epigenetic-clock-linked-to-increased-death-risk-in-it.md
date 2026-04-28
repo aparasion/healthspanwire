@@ -10,6 +10,8 @@ source_url: "https://www.genomeweb.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 The Stanley Family Foundation has announced an additional $280 million investment in psychiatric disease research at the Broad Institute, raising its total commitment to over $1 billion. This funding aims to deepen our understanding of the epigenetic mechanisms underlying psychiatric conditions, leveraging insights from DNA methylation patterns identified in over 1,700 blood samples from nearly 700 Italian adults.

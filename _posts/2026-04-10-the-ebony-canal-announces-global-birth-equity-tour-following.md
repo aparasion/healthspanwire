@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271958/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **The Ebony Canal: Global Birth Equity Tour** is set to launch, spearheaded by director Emmai Alaquiva and narrated by Viola Davis. This award-winning documentary, which has garnered multiple accolades including **2 Emmy Awards** and an **NAACP Image Award**, aims to address disparities in Black maternal and infant health through community screenings and discussions. The tour will feature curated events that engage healthcare leaders, advocates, and policymakers, fostering dialogue around the critical issues highlighted in the film.

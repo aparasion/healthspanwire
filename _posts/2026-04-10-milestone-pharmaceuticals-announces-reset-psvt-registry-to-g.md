@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271699/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Milestone® Pharmaceuticals Inc. has announced the initiation of the **RESET-PSVT** registry, a Phase 4, multicenter, prospective observational study aimed at gathering real-world evidence on the use of **CARDAMYST™ (etripamil)** nasal spray in adults with **paroxysmal supraventricular tachycardia (PSVT)**. Presented at the 2026 Cardiovascular Nursing Symposium, this registry will enroll approximately **450 patients** across 20 electrophysiology and cardiology sites, with the goal of starting enrollment by late 2026. This initiative follows the FDA approval of CARDAMYST in December 2025, marking a significant step in the management of PSVT.

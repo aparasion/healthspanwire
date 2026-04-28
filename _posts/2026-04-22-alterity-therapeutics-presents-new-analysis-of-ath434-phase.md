@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278839/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Alterity Therapeutics has presented promising data from its Phase 2 trial of **ATH434**, a novel treatment for **Multiple System Atrophy (MSA)**, demonstrating a significant reduction in functional decline compared to placebo over 52 weeks. The analysis utilized the **MuSyCA** composite scale, which integrates patient-reported outcomes with clinical assessments, revealing that placebo participants experienced a worsening of approximately +9.7 points, while ATH434 treatment led to a reduction in disease progression of -1.9 to -4.0 points depending on the dosage (p=0.034). This reinforces previous findings from the modified UMSARS Part I scale, indicating consistent efficacy across different measures.

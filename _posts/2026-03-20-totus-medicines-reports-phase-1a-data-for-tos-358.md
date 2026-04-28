@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/totus-medicines-reports-phase-1a-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Totus Medicines unveiled promising Phase 1a clinical data for TOS-358 at ESMO TAT 2026, showcasing a 50% clinical benefit rate and a 75% disease control rate among participants. Presented by Dr. Antonio Giordano from Dana Farber Cancer Center, the findings reveal that 40% of patients experienced at least a 20% tumor shrinkage, while 45% remained on treatment for 24 weeks or longer. Notably, TOS-358 showed a 67% disease control rate in patients resistant to PI3K AKT mTOR therapies.

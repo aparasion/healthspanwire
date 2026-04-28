@@ -10,6 +10,7 @@ source_url: "https://petrieflom.law.harvard.edu"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Alicia Ely Yamin, a senior fellow at Harvard T.H. Chan School of Public Health, highlights the systemic failures of mental health systems worldwide in addressing the needs of individuals with psychosocial disabilities. Her insights underscore how political and social policies contribute to these deficiencies, emphasizing the urgent need for reform in mental health care that prioritizes ethical considerations and equitable access.

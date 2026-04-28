@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Recent findings underscore the intricate relationship between **genetic factors** and **frailty**, a geriatric syndrome characterized by increased vulnerability and reduced physiological reserve. This narrative review synthesizes data from genome-wide association studies (GWAS) and identifies specific **polymorphisms** associated with inflammatory pathways that contribute to frailty. The authors emphasize that frailty is not merely a consequence of aging but a **dynamic syndrome** influenced by genetic predispositions and environmental factors.

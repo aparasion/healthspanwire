@@ -10,6 +10,7 @@ source_url: "https://americanbazaaronline.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 At the Indiaspora Forum 2026, key discussions highlighted the urgent need for effective execution of innovative ideas in India, particularly in the healthcare sector. Chandrani Ghosh, an Indian American debut author, emphasized the systemic trends undermining U.S. healthcare, including rising chronic disease costs and workforce shortages, which threaten the stability of the system. This dialogue reflects a growing concern among professionals about the sustainability of healthcare coverage and the need for transformative solutions.

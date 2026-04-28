@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/longevity-public-stocks-are-inves
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Longevity.Technology has launched an innovative AI-driven platform, DLT, that transforms fragmented public market data into a comprehensive, queryable dataset tailored for biotech investors and business development teams. This tool enables users to quickly identify promising longevity investment opportunities by focusing on the biological hallmarks of aging rather than traditional disease labels, which can obscure potential.

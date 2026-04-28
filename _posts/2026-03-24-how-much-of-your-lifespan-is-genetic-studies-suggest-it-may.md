@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUhGdnBDNEw4eD
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Recent research indicates that genetics may account for up to 55% of an individual's lifespan, highlighting the significant role of hereditary factors in longevity. This finding emerges from a comprehensive analysis of various studies, suggesting that while lifestyle and environmental factors are crucial, genetic predispositions cannot be overlooked in the quest for understanding aging.

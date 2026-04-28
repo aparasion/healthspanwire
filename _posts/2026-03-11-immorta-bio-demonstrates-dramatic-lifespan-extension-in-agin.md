@@ -10,6 +10,7 @@ source_url: "https://www.prnewswire.com"
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+impact: "general"
 ---
 
 Summary generation failed due to API error.

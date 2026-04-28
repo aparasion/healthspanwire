@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/mayo-clinic-and-sana-partner-to-a
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Sana Biotechnology has entered a strategic collaboration with Mayo Clinic to advance **SC451**, an investigational hypoimmune-modified pancreatic islet cell therapy aimed at treating type 1 diabetes. This partnership leverages Mayo Clinic's extensive multidisciplinary expertise to refine and standardize critical protocols, including product handling, surgical delivery, post-treatment care, and clinical trial design. A key focus will be on **biomarker identification** to enhance patient selection and facilitate longitudinal monitoring, ensuring a robust framework for the therapy's clinical application.

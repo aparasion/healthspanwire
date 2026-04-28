@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278175/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Black Diamond Therapeutics has announced significant advancements in the clinical evaluation of **silevertinib**, a fourth-generation tyrosine kinase inhibitor (TKI) targeting both classical and over 50 non-classical **EGFR mutations**. This includes data from a Phase 2 trial focused on treatment-naïve patients with **non-small cell lung cancer (NSCLC)** and a randomized Phase 2 trial for patients with newly diagnosed **EGFRvIII-positive glioblastoma (GBM)**. Presentations at the upcoming **2026 ASCO Annual Meeting** will detail these findings, with a notable oral presentation by Dr. Julia Rotow on May 30, 2026, and multiple poster presentations throughout the event.

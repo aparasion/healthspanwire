@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279739/28908
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Tonix Pharmaceuticals has announced promising preclinical findings regarding its investigational candidates TNX-1700 and TNX-4700, presented at the AACR Annual Meeting 2026. **TNX-1700**, a TFF2-albumin fusion protein, demonstrated the ability to reverse **aging-associated gastric inflammation** and significantly reduce tumor progression in aged gastric microenvironments in preclinical models. Meanwhile, **TNX-4700**, a human anti-BTLA monoclonal antibody, exhibited potent binding and functional antagonism, positioning it as a potential therapeutic for various cancers.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279558/0/de/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Dr. Bruce Lahn and his team at VectorBuilder have unveiled a pivotal mechanism in developmental biology through their innovative technique, **Potency-Seq**, which measures the transcriptional potential of genes. Their research reveals a process termed **Occlusis**, where stem cells progressively lose transcriptional power as they differentiate into specialized cell types. This loss is characterized by an increasing number of genes becoming permanently occluded—unable to respond to transcription factors even when present—thereby limiting the differentiation potential of these cells.

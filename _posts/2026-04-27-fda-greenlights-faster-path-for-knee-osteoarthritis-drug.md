@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/fda-greenlights-faster-path-for-k
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 4Moving Biotech has received **Fast Track Designation** from the FDA for its investigational drug **4P004**, marking a significant shift in the treatment paradigm for knee osteoarthritis (OA). This designation underscores the urgency of addressing the needs of the **374 million individuals** globally affected by this condition, particularly older adults, who often face a limited therapeutic landscape that primarily focuses on symptom management rather than disease modification.

@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnAxTVpQWTZUN3
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 A recent study from the University of Connecticut reveals that a widely-used anti-aging compound may have unintended consequences, specifically causing damage to the corpus callosum, a critical brain structure. Researchers found that prolonged exposure to this compound, often touted for its longevity benefits, led to significant neuronal loss and impaired communication between the brain's hemispheres.

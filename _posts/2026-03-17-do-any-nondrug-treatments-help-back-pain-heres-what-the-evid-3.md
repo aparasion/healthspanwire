@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/do-any-non-drug-treatments-help-back-pai
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A comprehensive review by the **Cochrane Collaboration** has synthesized data from 31 systematic reviews involving **97,000 individuals** to evaluate the efficacy of non-drug and non-surgical interventions for low back pain. The findings challenge prevalent misconceptions about treatment options, particularly emphasizing that **bed rest is ineffective** for back pain management. Instead, maintaining activity levels, even amidst discomfort, is crucial for recovery, especially for those experiencing **acute back pain**.

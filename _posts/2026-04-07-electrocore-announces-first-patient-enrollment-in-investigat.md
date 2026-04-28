@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269061/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 **electroCore, Inc.** has initiated a clinical study evaluating the safety and efficacy of its **gammaCore™ non-invasive vagus nerve stimulation (nVNS)** device as an adjunct therapy for **PTSD** symptoms. The study, conducted in collaboration with **Acacia Clinics** and the **Vagus Nerve Society**, has enrolled its first eight patients, with a target of 40 participants over a 12-week treatment period. The primary endpoints focus on the incidence of serious adverse events and changes in the **Clinician-Administered PTSD Scale (CAPS-5)** total score.

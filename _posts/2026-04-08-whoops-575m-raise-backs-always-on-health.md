@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/whoops-575m-raise-backs-always-on
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **WHOOP**, the human performance company recognized for its innovative screenless wristband, has secured **$575 million in Series G funding**, achieving a valuation of **$10.1 billion**. This funding round, led by Collaborative Fund and supported by a diverse group of investors including the **Qatar Investment Authority** and **Mayo Clinic**, underscores a pivotal shift in health monitoring—transitioning from reactive to proactive health management. WHOOP's platform is evolving beyond athletic performance tracking to become a **Personal Health OS**, continuously monitoring physiological signals and translating them into actionable health insights.

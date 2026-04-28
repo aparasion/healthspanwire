@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269101/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 The FDA has granted **Fast Track designation** to **SIM0505**, an investigational antibody-drug conjugate (ADC) developed by NextCure, Inc., for the treatment of **platinum-resistant ovarian cancer (PROC)**. This designation underscores the urgent need for new therapeutic options in this challenging cancer subtype and will facilitate closer collaboration with the FDA to expedite the drug's development process. The ADC targets **Cadherin-6 (CDH6)** and employs a proprietary **topoisomerase 1 inhibitor (TOPOi)** payload, aimed at enhancing anti-tumor efficacy while optimizing systemic clearance.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276858/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 On April 18, 2026, President Trump signed an Executive Order titled **ACCELERATING MEDICAL TREATMENTS FOR SERIOUS MENTAL ILLNESS**, aimed at expediting research and lowering approval barriers for **psychedelic medications** targeting conditions such as depression, PTSD, and suicidality. This initiative aligns with the urgent need for innovative treatments, particularly as suicide remains the second leading cause of death among Americans under 35, with current options like Electroshock Therapy being the only approved intervention for suicidality in depression.

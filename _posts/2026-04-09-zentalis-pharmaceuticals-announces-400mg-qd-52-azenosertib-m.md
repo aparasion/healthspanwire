@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270889/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Zentalis Pharmaceuticals has announced a significant advancement in the clinical development of **azenosertib**, a first-in-class WEE1 inhibitor, following a planned interim analysis from the **DENALI Part 2a** trial. The analysis identified **400mg QD 5:2** as the optimal monotherapy dose for patients with **Cyclin E1-positive platinum-resistant ovarian cancer (PROC)**, demonstrating a **differentiated response rate** compared to the previously tested **300mg QD 5:2** dose, while maintaining comparable safety profiles across both groups.

@@ -10,6 +10,8 @@ source_url: "https://finance.yahoo.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Aaru, an AI startup co-founded by 19-year-old Ned Koh, has achieved a remarkable $1 billion valuation by innovating in the market research sector. The company leverages artificial intelligence to simulate human behavior, effectively replacing traditional methods such as surveys and focus groups with more efficient and accurate data collection techniques.

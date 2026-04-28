@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/nanoscope-therapeutics-publishes-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 Nanoscope Therapeutics has published a peer-reviewed observational study in Documenta Ophthalmologica, focusing on performance-based measures for assessing vision changes in patients with severe retinal diseases. The study involved 35 subjects, including 25 with severe vision loss from retinitis pigmentosa, and evaluated the Multi-luminance Shape Discrimination Test (MLSDT) for its reliability and validity as a functional vision measure. Notably, the RESTORE Phase 2b/3 trial of Nanoscope's lead therapy, MCO-010, utilized MLSDT as a secondary endpoint, revealing that most treated patients achieved significant improvements in vision after one year.

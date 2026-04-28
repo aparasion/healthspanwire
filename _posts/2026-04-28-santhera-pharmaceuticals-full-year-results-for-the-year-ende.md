@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/28/3282208/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Santhera Pharmaceuticals reported a **97% revenue increase** for 2025, driven largely by the global expansion of **AGAMREE® (vamorolone)** for treating Duchenne muscular dystrophy (DMD). CEO Dario Eklund emphasized the drug's rapid adoption in European markets, particularly in Germany and Austria, where market shares among corticosteroid-treated DMD patients exceeded **40% and 50%**, respectively. The company also established strategic partnerships with Nxera in Asia-Pacific, Catalyst in the U.S., and Sperogenix in China, enhancing patient access and contributing to a significant rise in revenues.

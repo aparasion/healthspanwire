@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alterity-presents-new-analysis-of
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Alterity's recent presentation at the American Academy of Neurology annual meeting highlighted promising results from the ATH434-201 Phase 2 trial in Multiple System Atrophy (MSA). The analysis utilized the newly developed **MSA Combined Outcome Assessment, MuSyCA**, which integrates 11 items from UMSARS parts I and II, enhancing the detection of disease progression. Notably, placebo participants experienced a deterioration of approximately **+9.7 points** on MuSyCA over 52 weeks, while treatment with ATH434 demonstrated significant slowing of progression, with effects ranging from **−1.9 points** at 75 mg to **−4.0 points** at 50 mg (p=0.034, relative treatment effect **41%**) at week 52.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272835/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 LifeLabs, a prominent provider of medical diagnostic services in Canada, is celebrating National Medical Laboratory Week (NMLW) by emphasizing the critical role of medical laboratory professionals in healthcare. This year’s theme, **“Lab Story: To Infinity and Beyond for Our Patients,”** highlights the innovations and dedication of these professionals who ensure that diagnostic insights are accurate and timely, ultimately guiding patient care. Charles Brown, President & CEO of LifeLabs, underscores the importance of these behind-the-scenes workers, noting that every sample represents a life and their contributions are essential in the health journey of Canadians.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/basecamp-researchs-new-gene-atlas
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Basecamp Research has launched the Trillion Gene Atlas, an ambitious initiative aimed at gathering genetic information from over 100 million species worldwide. This project seeks to expand the known evolutionary genetic diversity by 100-fold, challenging the limitations of current AI models in drug discovery. CEO Glen Gowers argues that existing biological AI relies on a narrow segment of life forms, which constrains its ability to learn and innovate in therapeutic development.

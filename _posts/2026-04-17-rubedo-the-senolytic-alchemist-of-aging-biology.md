@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/rubedo-the-senolytic-alchemist-of
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Rubedo Life Sciences has achieved a significant milestone with **RLS-1496**, the first GPX4 modulator to enter human clinical trials, demonstrating promising preliminary results in a Phase 1 trial. This achievement is a testament to the company’s innovative approach to senolytic therapy, aiming to transform aging biology into effective treatments. Founded in 2018, Rubedo leverages its **ALEMBIC** AI-driven drug discovery platform, which integrates advanced omics technologies to identify and target senescent cell populations, marking a notable advancement in the longevity biotech sector.

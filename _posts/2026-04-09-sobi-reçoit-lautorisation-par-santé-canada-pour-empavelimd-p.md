@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271427/0/fr/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 **EMPAVELIMD (pegcétacoplan)** has received approval from Health Canada as the first treatment for adults and pediatric patients aged 12 and older with **C3 glomerulopathy (GC3)** or **primary immune complex-mediated membranoproliferative glomerulonephritis (GNMP-CI)**, aimed at reducing proteinuria. This approval is based on the **Phase III VALIANT study**, which demonstrated significant clinical benefits over a 52-week period, including a **68% relative reduction in proteinuria**, stabilization of renal function, and clearance of C3 deposits.

@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/vitalist-bay-2026-returns-to-berkeley-may-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 The Vitalism Foundation has announced the return of Vitalist Bay 2026, the world's largest longevity festival, set to take place from May 14–17, 2026, at the Lighthaven Campus in Berkeley, California. This year’s event will focus on six key themes: Biotech, Investors, Replacement, Longevity Science, AI x Bio, and Biostasis, bringing together leading researchers, biotech founders, clinicians, and investors for an immersive experience aimed at advancing the longevity agenda.

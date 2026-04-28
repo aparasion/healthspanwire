@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276878/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Claire’s Place Foundation is set to host the **12th Annual Glow Ride** on May 9, 2026, at Hermosa Beach Pier, celebrating the resilience of mothers within the cystic fibrosis (CF) community. This event, occurring during Mother’s Day weekend and Cystic Fibrosis Awareness Month, aims to unite families and supporters in a vibrant evening of illuminated rides, skating, and strolling along the beach, while honoring the strength of mothers like Claire Wineland, the foundation’s namesake, who lived with CF and advocated for others.

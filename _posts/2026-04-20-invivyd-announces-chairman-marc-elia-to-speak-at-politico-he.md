@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276870/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Marc Elia, Chairman of Invivyd, Inc., will address the POLITICO Health Care Summit on April 21, focusing on the **evolving landscape of viral disease prevention** and the critical role of **monoclonal antibodies** in enhancing public health. Elia emphasizes that while vaccines have been pivotal in infectious disease prevention, the integration of advanced monoclonal antibody therapies can significantly improve health outcomes, moving beyond traditional vaccine strategies.

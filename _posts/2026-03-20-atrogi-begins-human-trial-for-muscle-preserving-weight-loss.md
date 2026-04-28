@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/atrogi-begins-human-trial-for-mus
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Swedish biotech Atrogi has initiated human trials for its lead oral drug candidate, ATR-258, aiming to revolutionize obesity treatment by preserving muscle mass while promoting fat loss. This milestone addresses a critical challenge in metabolic medicine: ensuring that weight loss does not come at the expense of muscle, particularly for older adults whose strength and resilience are vital for healthy aging.

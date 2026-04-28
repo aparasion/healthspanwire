@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/prediabetes-may-need-a-tailored-t
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 New research presented at the American Heart Association’s EPI|Lifestyle Scientific Sessions 2026 reveals that **prediabetes** in younger adults (ages 18-40) may require more nuanced intervention strategies to prevent progression to **Type 2 diabetes**. The study, led by Dr. Mary Rooney from Johns Hopkins, analyzed data from 662 participants and found that not all prediabetes cases carry the same risk. While the overall five-year risk of progressing to diabetes was 7.5%, this average masks significant variability, with those meeting criteria for **GLP-1 receptor agonist** treatment facing a risk as high as **24.8%**.

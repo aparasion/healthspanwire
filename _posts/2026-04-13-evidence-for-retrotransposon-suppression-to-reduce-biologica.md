@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/evidence-for-retrotrans
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study highlights the potential of **nucleoside reverse transcriptase inhibitors (NRTIs)**, originally developed for HIV treatment, to mitigate biological aging by suppressing retrotransposon activity. Researchers investigated the effects of two NRTI combinations—**emtricitabine/tenofovir-alafenamide (FTC/TAF)** and **emtricitabine/tenofovir-disoproxil fumarate (FTC/TDF)**—on biological age markers in healthy individuals aged 18-50. The results indicated that FTC/TAF significantly reduced measures of biological aging, including **DunedinPACE** and **PhenoAge**, while FTC/TDF showed no such effects.

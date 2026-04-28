@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/lecanemabs-next-phase-real-world-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Eisai is making significant strides in the treatment of early Alzheimer’s disease with the presentation of new data on **lecanemab** at the 2026 American Academy of Neurology (AAN) Annual Meeting. The focus has shifted from merely establishing the drug's efficacy to understanding its performance in real-world clinical settings, where variables are less controlled. Lecanemab targets **amyloid-beta**, a protein associated with Alzheimer’s, and the new findings include long-term data from the Clarity AD extension study, which tracks cognitive decline over periods of up to 48 months. This approach emphasizes **“time saved”**—a metric that quantifies how much longer patients might maintain cognitive function compared to expected decline, providing a more human-centered perspective on treatment outcomes.

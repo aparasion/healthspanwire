@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/promis-neurosciences-details-new-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 ProMIS Neurosciences showcased significant advancements in neurodegenerative disease research at the Alzheimer’s & Parkinson’s Diseases (AD/PD) 2026 conference in Copenhagen. On March 20, Neil Cashman presented a rationally designed vaccine targeting a pathogenic TDP-43 epitope, while Johanne Kaplan reported on the elicitation of an antibody response against toxic alpha-synuclein species through vaccination with computationally modeled conformational epitopes. 

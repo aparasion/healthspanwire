@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/atria-health-partnership-supports
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Atria Health has announced a strategic partnership with Stern Cardiovascular to enhance advanced cardiac care accessibility across the Mid-South, specifically in Tennessee, Mississippi, and Arkansas. This collaboration aims to leverage Stern’s clinical expertise alongside Atria Health’s operational strengths, facilitating the expansion of services, new site development, and physician recruitment within the region.

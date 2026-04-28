@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260331001107.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Researchers from Charité – Universitätsmedizin Berlin have identified sildenafil, the active ingredient in Viagra, as a potential treatment for Leigh syndrome, a rare and often fatal childhood disorder. In a pilot study involving six patients, sildenafil treatment resulted in significant improvements in muscle strength, seizure frequency, and recovery from metabolic crises, showcasing its therapeutic potential for a disease that currently lacks approved drug treatments.

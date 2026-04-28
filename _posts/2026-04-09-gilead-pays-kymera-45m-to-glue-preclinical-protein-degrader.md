@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-p
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Gilead Sciences has expanded its oncology pipeline by exercising an option for Kymera Therapeutics' preclinical anticancer candidate, **KT-200**, a **molecular glue degrader** targeting CDK2, for $45 million. This move follows an initial investment of $40 million in June 2025, allowing Gilead to secure global rights to the candidate after Kymera completed preclinical research and generated a comprehensive data package. Gilead's decision not only doubles Kymera's financial returns from this partnership but also positions the biotech to potentially earn up to **$665 million** through various development and regulatory milestones.

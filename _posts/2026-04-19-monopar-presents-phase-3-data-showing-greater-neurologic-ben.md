@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/19/3276675/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Monopar Therapeutics has announced promising results from the **Phase 3 FoCus trial** of **ALXN1840 (tiomolibdate choline)**, demonstrating significant neurologic benefits for patients with Wilson disease who exhibit neurologic symptoms at baseline. Presented at the **American Academy of Neurology (AAN) Annual Meeting 2026**, the findings indicate that ALXN1840 not only improves neurologic outcomes but also reduces the likelihood of clinical deterioration compared to standard of care (SoC). Specifically, 45% of patients treated with ALXN1840 experienced clinically meaningful improvement at Week 48, compared to 32% on SoC, while only 9% of ALXN1840 patients showed significant worsening versus 25% in the SoC group (p=0.038).

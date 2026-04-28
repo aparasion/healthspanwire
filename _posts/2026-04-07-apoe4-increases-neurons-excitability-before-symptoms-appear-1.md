@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/apoe4-increases-neurons-excitability-befor
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **APOE4** has been shown to increase neuronal excitability in the hippocampus of mice prior to the onset of cognitive symptoms associated with Alzheimer’s disease. Research conducted by the Gladstone Institutes indicates that young mice carrying the human **APOE4** allele exhibit heightened **interictal spikes (IIS)** in specific hippocampal regions compared to their **APOE3** counterparts. These spikes are linked to poorer performance on cognitive tests later in life, suggesting that the pathological processes associated with Alzheimer’s may begin much earlier than previously understood.

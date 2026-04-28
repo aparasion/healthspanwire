@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/omada-health-study-finds-greater-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Omada Health's recent 12-week comparative study demonstrates that participants enrolled in its **GLP-1 Care Track** program exhibit significantly greater weight loss and improved body composition compared to a control group. The study involved **245 adults with obesity** (BMI ≥30), with 151 Omada members and 94 controls who had recently initiated GLP-1 therapy for weight management. Results revealed that Omada members lost an average of **6.0% of their starting weight**, compared to **3.3%** in the control group, marking a **1.8-fold difference**. Additionally, body fat percentage decreased by **3.3%** in Omada participants—approximately twice the reduction observed in controls—while muscle mass percentage increased nearly threefold.

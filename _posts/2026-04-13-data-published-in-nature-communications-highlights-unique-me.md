@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272190/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 BioVersys, in collaboration with GSK and academic partners, has published pre-clinical data in *Nature Communications* on **AlpE**, a novel drug combination of **alpibectir** and **ethionamide** (Eto), designed to tackle drug-resistant **Mycobacterium tuberculosis** (Mtb). Alpibectir, a first-in-class molecule, enhances the bioactivation of Eto, leading to rapid bacterial eradication and restoring susceptibility in resistant strains. This innovative approach addresses the urgent need for effective treatments against tuberculosis (TB), particularly as drug resistance continues to escalate globally.

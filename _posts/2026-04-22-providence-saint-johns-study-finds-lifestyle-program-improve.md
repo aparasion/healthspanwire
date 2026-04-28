@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279240/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers from the **Pacific Brain Health Center** at Providence Saint John’s Health Center have published promising findings from the **PREVENTION clinical study**, indicating that a structured lifestyle and medical support program can enhance key markers of brain health in individuals with early Alzheimer’s disease. This mid-trial paper, featured in the **Journal of Alzheimer’s Disease**, demonstrates that a multi-component intervention—comprising personalized coaching, structured exercise, nutritional guidance, and supplementation—can lead to significant improvements in **cerebral blood flow** and **insulin response**, both critical factors in cognitive health.

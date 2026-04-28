@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01100-7"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 A recent study employing a **Perturb-seq-based CRISPR–dCas9–KRAB knockdown system** has systematically analyzed **32 high-abundance long noncoding RNAs (lncRNAs)** associated with aging and senescence. This research integrates single-nucleus multiomics profiling to provide a comprehensive view of the regulatory roles these lncRNAs play in cellular senescence. Notably, it identifies previously uncharacterized lncRNAs that modulate distinct transcriptomic and chromatin accessibility profiles, revealing their critical involvement in the aging process.

@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/04/oxygen-sensing-as-a-com
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers have uncovered critical insights into the role of **oxygen sensing** in regenerative capacity across species, particularly contrasting amphibians with mammals. By manipulating oxygen levels in cultured limbs from frog tadpoles and mouse embryos, the study reveals that **lowering oxygen levels** enhances wound closure and activates regenerative pathways in mammalian cells. The key player in this process is **HIF1A**, a protein that stabilizes under low oxygen conditions, initiating programs essential for healing and regeneration.

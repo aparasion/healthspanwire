@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 **A recent study employing integrated 16S rDNA and transcriptomic analyses has revealed critical insights into the gut–kidney axis in aging, highlighting the work of researchers who analyzed gut microbiota and renal gene expression across three age groups of mice: young (3 months), middle-aged (12 months), and old (24 months). The findings indicate that the gut microbiota undergoes significant shifts throughout the aging process, transitioning from a supportive metabolic partner in youth to a contributor to a pro-inflammatory environment in older age.**

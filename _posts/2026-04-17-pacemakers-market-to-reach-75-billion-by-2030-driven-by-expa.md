@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276412/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **global pacemakers market** is projected to escalate from **$5.4 billion in 2024 to $7.5 billion by 2030**, reflecting a **compound annual growth rate (CAGR) of 5.7%**. This growth is primarily fueled by the expanding clinical indications for **cardiac resynchronization therapy pacemakers (CRT-Ps)**, particularly among patients experiencing mild-to-moderate heart failure symptoms. The demographic trend of an aging population, with **1% to 2% of individuals over 70** requiring permanent pacemaker implantation, further solidifies the demand trajectory.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268530/24180
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Celldex Therapeutics has successfully closed an underwritten public offering of **11,896,750 shares** of its common stock, raising approximately **$345 million** in gross proceeds. This offering included the full exercise of an option by underwriters to purchase an additional **1,551,750 shares** at a price of **$29.00 per share**. The offering was managed by a consortium of financial firms, including Leerink Partners and TD Cowen, and was conducted under a previously filed shelf registration statement with the SEC.

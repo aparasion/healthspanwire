@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMisgNBVV95cUxPS1ZVUjRERlhucV
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A coalition of longevity-focused companies is advocating for Montana to emerge as a leading hub for biohacking and experimental health treatments. This initiative aims to attract researchers and innovators in the field of longevity science, promoting an environment conducive to groundbreaking therapies and personalized health solutions.

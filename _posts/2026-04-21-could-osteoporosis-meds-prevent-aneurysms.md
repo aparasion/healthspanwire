@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/could-osteoporosis-meds-prevent-a
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 **Repurposed bone drugs show promise in slowing deadly aortic bulges, indicating a novel treatment pathway linked to aging biology.** A recent study highlights the connection between **clonal hematopoiesis (CH)** and **aortic aneurysms**, revealing that approximately 60% of patients with abdominal aortic aneurysms exhibit age-related blood cell mutations, which correlate with accelerated aneurysm growth. This research shifts the focus from the vascular system to the **immune response**, suggesting that mutations in blood stem cells can lead to detrimental changes in immune cell behavior within the aorta, particularly transforming macrophages into osteoclast-like cells that degrade arterial structure.

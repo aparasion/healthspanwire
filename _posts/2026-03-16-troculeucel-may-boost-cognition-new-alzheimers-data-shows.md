@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/troculeucel-may-boost-cognition-n
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 NKGen Biotech is making strides in Alzheimer’s treatment with its experimental therapy, Troculeucel, which harnesses patient-specific natural killer (NK) cells to potentially enhance cognitive function. At the upcoming AD/PD 2026 conference, the company will present early-phase trial data indicating that this cell-based approach may lead to improvements in memory and thinking for individuals with moderate Alzheimer’s disease.

@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/s41586-026-10324-x"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 **Recent findings from a team led by researchers at the Dalian Institute of Chemical Physics reveal a novel mechanism of oxygen spillover in Ru/TiO2 catalysts. Using in situ environmental transmission electron microscopy, they demonstrated that lattice oxygen can migrate directly from the TiO2 substrate to the supported Ru particles through the Ru/TiO2 interface, challenging the conventional understanding of spillover as a surface-diffusion process. This mechanism was observed specifically in Ru/rutile-TiO2 catalysts, where the subsurface lattice of TiO2 exhibited reversible strain, facilitating oxygen transport.**

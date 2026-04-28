@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3bENCNm95X1pjb2
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Recent research highlights the multifaceted benefits of creatine supplementation for women, extending beyond its well-known role in exercise and muscle building. While traditionally associated with athletic performance, creatine is now being recognized for its potential neuroprotective properties, cognitive enhancement, and overall health benefits, particularly in women.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272912/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Cellectis has announced significant interim results from Allogene Therapeutics’ pivotal ALPHA3 trial evaluating **cema-cel**, an allogeneic CAR-T therapy for **large B-cell lymphoma (LBCL)**. The interim futility analysis revealed that **58.3%** of patients receiving cema-cel achieved **minimal residual disease (MRD) negativity**, compared to only **16.7%** in the observation arm, highlighting a **41.6% absolute difference** in MRD clearance. This substantial difference exceeds the **25-30%** benchmark identified in existing literature, suggesting a potential for meaningful clinical benefit as the study progresses.

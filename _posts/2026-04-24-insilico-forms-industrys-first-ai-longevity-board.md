@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/insilico-forms-industrys-first-ai
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Insilico Medicine has launched the **first Longevity Board**, aimed at transforming aging into a treatable target through the application of **artificial intelligence** (AI). This initiative seeks to shift the paradigm of healthcare from reactive disease management to proactive aging intervention. By focusing on the biological processes that predispose individuals to age-related diseases, Insilico aims to develop drugs that address the underlying mechanisms of aging rather than merely treating symptoms post-diagnosis.

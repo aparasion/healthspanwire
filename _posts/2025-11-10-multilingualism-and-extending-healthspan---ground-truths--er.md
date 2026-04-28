@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMifkFVX3lxTE01VWVxWWhIdWozaF
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 In a recent article, Eric Topol explores the intriguing connection between multilingualism and healthspan, suggesting that speaking multiple languages may contribute to cognitive resilience and longevity. Topol highlights emerging research indicating that bilingualism and multilingualism can enhance neuroplasticity, potentially delaying the onset of age-related cognitive decline.

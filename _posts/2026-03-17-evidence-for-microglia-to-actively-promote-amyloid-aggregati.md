@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/evidence-for-microglia-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A groundbreaking study reveals that microglia, the brain's innate immune cells, may actively contribute to the formation of amyloid plaques associated with Alzheimer's disease, rather than solely serving as defenders against them. Researchers found that microglia can maladaptively produce amyloid-β aggregates while attempting to clear existing plaques, challenging the prevailing view that these cells only facilitate cleanup.

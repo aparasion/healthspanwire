@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271042/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 The **Global Alzheimer’s Platform Foundation (GAP)** has announced a significant collaboration with **Siemens Healthineers** for the **Bio-Hermes-002 study**, an observational platform aimed at enhancing the diagnostics of Alzheimer’s disease and related dementias. This study will leverage a combination of **blood-based and digital biomarkers**, alongside advanced imaging techniques such as MRI and PET scans, across diverse populations to improve the prediction, detection, and diagnosis of neurodegenerative conditions.

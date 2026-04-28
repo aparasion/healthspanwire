@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269631/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Fantastic Pest Control** has introduced a state-of-the-art **heat treatment** technology to combat the growing problem of bed bug infestations in London. This innovative approach utilizes high temperatures to effectively eliminate bed bugs at all life stages, significantly reducing reliance on chemical pesticides. The treatment process involves raising room temperatures to **60°C**, which denatures the essential proteins and enzymes required for the insects' survival, ensuring rapid eradication within hours.

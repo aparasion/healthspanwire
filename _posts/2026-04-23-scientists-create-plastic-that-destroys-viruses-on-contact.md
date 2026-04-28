@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260422044622.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers at RMIT University have developed a novel **virus-fighting plastic film** that effectively destroys viruses on contact through a mechanical mechanism. This ultra-thin material is coated with **microscopic nanopillars** that physically stretch and rupture viruses upon landing, achieving an impressive **94% inactivation rate** within one hour in laboratory tests. Unlike traditional antiviral surfaces that rely on chemical disinfectants, this innovative approach utilizes a flexible acrylic substrate, making it suitable for widespread application on high-touch surfaces such as smartphones, keyboards, and hospital equipment.

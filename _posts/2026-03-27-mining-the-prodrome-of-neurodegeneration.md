@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01092-4"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Lian et al. have made a significant advancement in understanding neurodegenerative diseases by identifying five distinct subtypes of Alzheimer’s and Parkinson’s diseases through transformer-based analysis of electronic health records. Each subtype exhibits unique clinical trajectories, comorbidities, and genetic profiles, shedding light on the heterogeneity of these conditions and paving the way for more tailored management strategies.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/annovis-wins-u-s-patent-for-bunta
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Annovis has secured **U.S. Patent No. 12,582,632 B2**, which encompasses both the prevention and treatment of neurological injuries stemming from brain infections through the administration of **buntanetap** and related compounds. This patent includes claims for its use in healthy individuals at risk of exposure to infectious agents and for the reversal of neurological damage in affected patients, with protection extending through **2044**. Buntanetap is currently in Phase 3 clinical trials and is designed as a once-daily oral therapy that targets the overproduction of **neurotoxic aggregating proteins**, such as **amyloid-beta** and **tau**.

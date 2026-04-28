@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/after-previous-rejection-kevi
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Kevin Tang has successfully acquired Kezar Life Sciences through Aurinia Pharmaceuticals, where he recently took on the role of CEO. The deal, valued at over $50 million, involves Aurinia purchasing Kezar at $6.95 per share, a significant increase from Tang's previous bid of $1.10 per share in 2024, which was rejected by Kezar's board. This acquisition comes at a pivotal moment for Kezar, which has faced challenges in advancing its lead asset, zetomipzomib, an immunoproteasome inhibitor aimed at treating autoimmune diseases, including autoimmune hepatitis and lupus.

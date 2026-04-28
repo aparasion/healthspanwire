@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260403232124.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 A recent Phase III clinical trial has demonstrated that **baxdrostat**, a novel antihypertensive medication, significantly reduces blood pressure in patients who are resistant to standard treatments. Conducted by Professor Bryan Williams at University College London, the trial involved nearly 800 participants across 214 global clinics. Results revealed an average reduction of **9 to 10 mmHg** in systolic blood pressure among those taking baxdrostat, compared to placebo, with approximately **40%** of patients achieving target blood pressure levels, a stark contrast to the **less than 20%** success rate in the placebo group.

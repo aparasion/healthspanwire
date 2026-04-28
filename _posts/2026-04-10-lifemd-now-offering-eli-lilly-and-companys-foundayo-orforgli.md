@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271709/6480/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 LifeMD, Inc. has announced the integration of **Foundayo™ (orforglipron)** into its weight management program, following its FDA approval on April 1, 2026. Developed by Eli Lilly and Company, Foundayo is a once-daily oral medication targeting adults with obesity or overweight conditions. This new offering allows eligible patients to access the drug through LifeMD’s partnership with LillyDirect®, facilitating direct fulfillment and shipment of prescriptions. The self-pay price starts at **$149 per month**, with potential reductions for patients with commercial insurance.

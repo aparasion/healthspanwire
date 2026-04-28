@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281478/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Intellia Therapeutics has initiated a rolling submission of a biologics license application (BLA) to the FDA for **lonvo-z** (formerly NTLA-2002), an innovative CRISPR-based gene editing therapy aimed at treating **hereditary angioedema (HAE)**. This one-time treatment inactivates the **kallikrein B1 (KLKB1)** gene to permanently reduce kallikrein and bradykinin levels, thereby addressing the underlying cause of HAE. The announcement follows positive topline results from the Phase 3 **HAELO clinical trial**, where a single dose of lonvo-z resulted in significant freedom from HAE attacks and the need for ongoing therapy in most patients over a six-month observation period.

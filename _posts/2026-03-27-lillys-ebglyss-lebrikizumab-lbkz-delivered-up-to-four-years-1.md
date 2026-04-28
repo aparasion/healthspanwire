@@ -10,6 +10,7 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "landmark"
 ---
 
 Lilly's **EBGLYSS** (lebrikizumab-lbkz), an interleukin-13 (IL-13) inhibitor, has demonstrated remarkable efficacy in delivering **up to four years of durable disease control** for patients with moderate-to-severe atopic dermatitis, as shown in the Phase 3b **ADlong study**. Nearly all patients treated with EBGLYSS achieved significant skin improvement, with **75% reaching near-complete clearance** and **80% maintaining results without the need for topical corticosteroids**. This sustained response highlights the potential for EBGLYSS to redefine treatment paradigms in dermatology.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268598/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 MISTR has announced the provision of **free, long-term HIV care** to individuals affected by recent changes to Florida’s AIDS Drug Assistance Program (ADAP), which has significantly restricted access to essential medications and insurance support. As the largest provider of free online PrEP, MISTR is expanding its services to ensure that patients can continue their HIV treatment uninterrupted, particularly for those relying on medications like **Biktarvy**, the most commonly prescribed HIV treatment in the U.S.

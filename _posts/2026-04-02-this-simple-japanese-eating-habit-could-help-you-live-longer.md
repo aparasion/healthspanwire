@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260401071940.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent exploration of the traditional Japanese practice known as hara hachi bu reveals its potential to enhance longevity and healthspan without the constraints of strict dieting. This approach encourages individuals to eat until they are about 80% full, promoting moderation and mindfulness in eating habits. As awareness of this practice grows, it is being recognized not just for its cultural significance but also for its implications in weight management and overall health.

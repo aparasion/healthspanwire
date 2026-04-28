@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267646/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Medicana Health Group has launched an initiative ahead of World Autism Awareness Day, advocating for enhanced understanding and support for children on the autism spectrum. The 2026 observance, themed “Autism and Humanity – Every Life Has Value,” emphasizes the necessity of early access to qualified evaluations and the establishment of inclusive support systems for affected families. Medicana is calling for a shift from mere awareness to actionable steps, including multidisciplinary care and structured follow-up to ensure comprehensive support.

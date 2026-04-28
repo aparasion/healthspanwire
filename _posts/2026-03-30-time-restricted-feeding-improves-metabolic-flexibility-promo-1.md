@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Time-restricted feeding (TRF) has shown promise in reversing age-related adipose dysfunction, according to a recent study involving 18-month-old C57BL/6 mice. The research highlights that a 6-month TRF regimen, where food intake is limited to a 6-hour window during the dark phase, leads to significant improvements in energy metabolism and mitochondrial function in aged adipose tissue. Notably, TRF induced a biphasic increase in whole-body energy expenditure and oxygen consumption, aligning with the feeding schedule, and enhanced uncoupling protein 1 (UCP1) expression in white adipose tissue (WAT).

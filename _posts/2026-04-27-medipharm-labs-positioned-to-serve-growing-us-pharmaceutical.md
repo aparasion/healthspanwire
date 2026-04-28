@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281626/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 On April 22, 2026, the U.S. Department of Justice and Drug Enforcement Administration officially rescheduled FDA-approved cannabis drug products and state-licensed medical cannabis from Schedule I to Schedule III of the Controlled Substances Act. This pivotal change is expected to significantly enhance the landscape for clinical research and pharmaceutical development involving cannabis, a move that MediPharm Labs is poised to capitalize on given its established infrastructure and experience in supplying clinical trial materials.

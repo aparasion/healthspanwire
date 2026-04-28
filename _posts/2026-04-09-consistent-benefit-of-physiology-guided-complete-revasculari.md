@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag078/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent analysis from the FIRE trial, involving **1,445 patients aged ≥75 years** with myocardial infarction (MI) and multivessel disease, has revealed critical insights into the role of frailty in treatment outcomes. Patients were randomized to receive either **complete revascularization** or culprit-only revascularization, with a substantial focus on stratifying outcomes based on the **Clinical Frailty Scale (CFS)**. Among the stratified cohort, 70% of patients were categorized into non-frail, pre-frail, and frail groups, allowing for a nuanced examination of treatment efficacy across varying levels of frailty.

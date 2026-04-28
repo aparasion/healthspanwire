@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260411081426.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers at the University of California, Riverside, have successfully stabilized a highly reactive **carbene** in water, confirming a **67-year-old hypothesis** regarding the role of vitamin B1 (thiamine) in biochemical reactions. This breakthrough, detailed in *Science Advances*, marks the first observation of a stable carbene in an aqueous environment, a feat previously deemed impossible due to the molecule's extreme instability.

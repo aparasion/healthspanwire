@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279447/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 The **TRIDENT trial**, led by George Medicines, has demonstrated that the **GMRx2** combination therapy (telmisartan, amlodipine, and indapamide) significantly reduces the risk of recurrent strokes in patients who have survived an **intracerebral hemorrhage (ICH)**. Over an average follow-up of three years involving **1,670 patients**, those treated with GMRx2 experienced a **39% relative risk reduction** in recurrent stroke events compared to placebo, alongside a **9mmHg reduction** in systolic blood pressure. These results underscore the potential of GMRx2 as a critical intervention in managing post-stroke patients.

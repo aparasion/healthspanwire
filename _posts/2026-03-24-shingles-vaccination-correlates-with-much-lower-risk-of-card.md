@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/shingles-vaccination-co
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study utilizing the TriNetX database reveals that shingles vaccination significantly lowers the risk of cardiovascular events in individuals aged 50 and older with atherosclerotic disease. The analysis, which included over 123,000 vaccinated individuals, found that those who received at least one dose of the Shingrix or Zostavax vaccine were 46% less likely to experience major adverse cardiac events and 66% less likely to die from any cause within a year of vaccination. Notably, the vaccinated cohort also showed a 32% reduction in heart attacks and a 25% decrease in strokes and heart failure.

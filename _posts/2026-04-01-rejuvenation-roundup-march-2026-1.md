@@ -10,6 +10,7 @@ source_url: "https://lifespan.io/news/rejuvenation-roundup-march-2026/?utm_sourc
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **João Pedro de Magalhães has initiated a fundraiser to sustain the Human Ageing Genomic Resources database, a pivotal tool that has become a cornerstone for aging and longevity research. With over 200,000 annual visitors and more than 1,000 citations, this platform has significantly contributed to advancing our understanding of biological aging, providing invaluable resources for thousands of scientists worldwide.**

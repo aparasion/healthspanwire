@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/cellbricks-therapeutics-secures-e
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "noteworthy"
 ---
 
 Cellbricks Therapeutics has secured €10 million in funding, including a €7 million seed round and over €3 million in non-dilutive financing, to advance its biofabricated human tissue implants toward clinical testing. This investment will primarily support the company’s lead adipose tissue implant program, facilitating preclinical animal studies and generating crucial translational data for applications in treating complex soft tissue defects, wound healing, and trauma care. 

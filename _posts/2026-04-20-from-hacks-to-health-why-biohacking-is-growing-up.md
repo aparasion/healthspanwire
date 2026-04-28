@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/from-hacks-to-health-why-biohacki
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Tim Gray's recent insights on biohacking reveal a pivotal shift in the field, emphasizing **optimization through subtraction** rather than addition. In the latest episode of Longevity.Technology UNLOCKED, Gray, a seasoned biohacker, reflects on his personal journey from taking over **50 supplements daily** to just three or four, advocating for a more minimalist approach. This philosophical pivot suggests that many biohacking tools may not be transformative but rather compensatory, aiming to restore natural conditions often lost in modern life.

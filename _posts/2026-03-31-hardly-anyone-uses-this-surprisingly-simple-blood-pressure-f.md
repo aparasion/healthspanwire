@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260331034337.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study presented at the American Heart Association's Hypertension Scientific Sessions highlights a significant gap in the adoption of salt substitutes among U.S. adults, particularly those with high blood pressure. Despite their potential to reduce sodium intake and improve heart health, less than 6% of adults utilize these substitutes, a figure that has not improved over nearly two decades. This underutilization represents a missed opportunity for effective hypertension management, especially given that nearly 122 million Americans live with high blood pressure.

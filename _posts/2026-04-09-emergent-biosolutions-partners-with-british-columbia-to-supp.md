@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271432/33240
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Emergent BioSolutions has partnered with the B.C. Provincial Health Services Authority (PHSA) to supply **NARCAN® Nasal Spray** for the province's Take-Home Naloxone Program (BC THN Program), following an **$18 million CAD** investment by the B.C. government to enhance access to this critical intervention. This initiative expands upon a successful pilot program initiated in 2024, which distributed **60,000 nasal naloxone kits** across various community sites, thereby increasing the availability of life-saving measures against opioid overdoses.

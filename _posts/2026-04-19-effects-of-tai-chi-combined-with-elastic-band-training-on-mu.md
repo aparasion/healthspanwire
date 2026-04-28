@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag095/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study has demonstrated that a **12-week intervention combining Tai Chi with elastic band training** significantly enhances physical mobility and executive function in older patients with sarcopenia. The trial involved **49 participants aged 60 and above**, who were assigned to three groups: an Elastic Band Group (EBG), a Combined Group (CG) that received both Tai Chi and elastic band training, and a Health Education Group (HEG) focused on sarcopenia education. Notably, the CG exhibited **greater improvements** in grip strength, muscle mass, physical performance, and executive inhibitory function compared to the EBG, as well as increased prefrontal cortex (PFC) activation as assessed by **functional near-infrared spectroscopy (fNIRS)**.

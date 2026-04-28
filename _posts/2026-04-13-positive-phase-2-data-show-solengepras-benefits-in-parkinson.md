@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/positive-phase-2-data-show-soleng
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 Cerevance is set to present **Phase 2 data** for **Solengepras** (CVN424), a novel **non-dopaminergic GPR6 inhibitor**, at the upcoming **American Academy of Neurology 2026 Annual Meeting**. The findings from two Phase 2 trials indicate that Solengepras significantly reduces daily **OFF time** and enhances **sleep-related symptoms** in patients. These results will be showcased in poster presentations by Dr. Robert Hauser and Dr. Harini Sarva on April 21.

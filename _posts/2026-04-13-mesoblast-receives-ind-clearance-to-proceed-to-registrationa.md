@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/mesoblast-receives-ind-clearance-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Mesoblast has received **Investigational New Drug (IND)** clearance from the FDA to advance Ryoncil (remestemcel-L-rknd) into a registrational clinical trial for **Duchenne muscular dystrophy (DMD)**. This randomized trial will enroll **76 patients aged 5 to 9 years**, comparing Ryoncil (administered as 7 infusions of 2 × 10^6 cells per kg over 9 months) against a placebo, alongside standard care. The primary endpoint is **time-to-stand at 9 months**, a validated measure critical for FDA approval.

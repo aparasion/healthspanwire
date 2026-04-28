@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/apoe4-increases-neurons-excitability-befor
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers at the Gladstone Institutes have unveiled significant insights into the **hyperexcitability of hippocampal neurons** associated with the **APOE4 allele**, a major genetic risk factor for Alzheimer's disease. Their study, published in *Nature Aging*, demonstrates that young mice carrying the human APOE4 variant exhibit increased neuronal excitability before any cognitive decline is observed. Specifically, these E4-KI mice showed heightened rates of **interictal spikes (IIS)** in hippocampal regions, correlating with later cognitive impairments as measured by the Morris water maze test.

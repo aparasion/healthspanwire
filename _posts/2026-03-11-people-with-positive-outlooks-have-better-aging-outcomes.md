@@ -10,6 +10,7 @@ source_url: "https://lifespan.io/news/people-with-positive-outlooks-have-better-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study published in *Geriatrics* reveals that older adults with positive beliefs about aging can experience significant improvements in both cognitive and physical health, challenging the notion that aging inevitably leads to decline. Researchers found that while average assessments showed declines, a closer look at individual trajectories revealed that over 45% of participants aged 65 and older demonstrated enhancements in cognitive and/or physical functioning over time.

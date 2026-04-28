@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/in-vivo-created-car-t-cells-eliminate-tumo
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "noteworthy"
 ---
 
 Researchers at the University of California, San Francisco, have developed a groundbreaking method for creating CAR T cells in vivo, demonstrating superior efficacy in targeting tumors compared to traditional in vitro approaches. By employing a CRISPR-based system to insert chimeric antigen receptors directly into T cells within the body, this innovative technique successfully eliminated tumors in mice across multiple cancer types, including leukemia and solid tumors.

@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag077/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent scoping review from the Widening Access to Trials in Care Homes project highlights critical barriers and facilitators to recruiting care home (CH) residents into clinical trials for pharmacological treatments. The review synthesized data from 14,301 records, ultimately including eight articles that spanned various studies conducted in the USA, UK, and France. It emphasizes the significant **screen failure rates** observed, ranging from **18% to 96%**, which underscores the challenges faced in evaluating treatments for this vulnerable population, particularly those with frailty and dementia.

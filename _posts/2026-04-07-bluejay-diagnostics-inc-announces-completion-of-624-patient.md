@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268930/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Bluejay Diagnostics has successfully enrolled **624 patients** in its pivotal SYMON-II Trial, aimed at validating the **Symphony™ IL-6 Test** for assessing patient acuity in critical care settings, particularly for **sepsis triage and monitoring**. The trial is set to reach its target enrollment of **750 patients** within the next few months, with minimal exclusions due to the study's criteria, indicating robust participation and engagement from clinical partners.

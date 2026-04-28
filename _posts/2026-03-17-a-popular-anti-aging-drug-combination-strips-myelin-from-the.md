@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWEwTE9HY1J4Uk
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study has revealed that a widely used anti-aging drug combination, previously thought to be beneficial, may have detrimental effects on brain health by stripping myelin from neurons. Researchers found that this unexpected outcome raises serious questions about the long-term safety of these compounds, which have gained popularity in the longevity and healthspan fields.

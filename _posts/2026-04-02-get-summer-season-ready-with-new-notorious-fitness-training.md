@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267797/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **Notorious Fitness**, under the leadership of Brandon Grant, has launched its **Summer Season Training Packages** in Las Vegas, targeting residents eager to optimize their fitness ahead of the bustling pool and festival season. These packages are designed to provide a comprehensive approach to fitness, moving beyond quick fixes to foster sustainable results. The offerings include specialized workout protocols and nutrition plans tailored to individual goals, emphasizing strength, endurance, and fat loss.

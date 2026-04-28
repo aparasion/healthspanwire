@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278430/19782
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 CytoDyn Inc. has successfully completed enrollment for its Phase 2 clinical study (NCT06699836) investigating **leronlimab**, a humanized monoclonal antibody targeting the **CCR5 receptor**, in combination with **trifluridine and tipiracil (TAS-102)** and **bevacizumab** for patients with **CCR5-positive, microsatellite stable (MSS), relapsed/refractory metastatic colorectal cancer (mCRC)**. This study, named **CLOVER**, encompasses over 60 patients across seven clinical sites in the U.S. and aims to evaluate the efficacy of this combination therapy in a challenging patient population that has shown limited response to prior treatments.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/insilico-forms-longevity-board-to
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Insilico Medicine has established the **first Longevity Board** in the biotechnology sector, aimed at providing scientific oversight and strategic guidance for AI-driven aging research and drug discovery. This initiative will focus on critical areas such as **life models**, **biomarkers of aging**, and the identification of **dual-purpose targets** that intersect aging and disease. The board's mission includes validating the effects of therapeutics on the **hallmarks of aging** through rigorous clinical development, leveraging advanced biomarkers and foundation models.

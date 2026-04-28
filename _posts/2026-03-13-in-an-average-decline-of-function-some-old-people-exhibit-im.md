@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/in-an-average-decline-o
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study reveals that nearly 45% of older adults can improve their cognitive and physical function over time, challenging the prevailing notion of inevitable decline in later life. Conducted on a nationally representative sample of individuals aged 65 and older, the research highlights the role of structured exercise and positive age beliefs in fostering these improvements, suggesting that older adults are not simply passive recipients of aging but can actively enhance their health outcomes.

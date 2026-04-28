@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/new-longevity-drug-srn-901-shows-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "noteworthy"
 ---
 
 Seragon Biosciences has unveiled promising preclinical results for its investigational longevity drug, **SRN-901**, which demonstrates a **33% increase in median lifespan** in adult mice while significantly reducing frailty. This oral combination therapy incorporates **urolithin A, quercetin, nicotinamide riboside, alpha-lipoic acid**, and Seragon's proprietary **SRN-820**. Notably, treated mice exhibited a **70% reduction in frailty progression** and a **30.53% decrease in tumor incidence**, indicating not only extended lifespan but also enhanced healthspan, as these animals maintained better physical condition and grooming behaviors into old age.

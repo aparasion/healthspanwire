@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260328024515.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers at New York University have uncovered a crucial biological system that enhances the calorie-burning capabilities of brown fat, which plays a significant role in metabolic health. The study reveals that a protein called SLIT3, when split into two fragments, facilitates the growth of blood vessels and nerve networks within brown fat tissue. This infrastructure is essential for the tissue to efficiently utilize nutrients and produce heat through thermogenesis, rather than storing energy as white fat.

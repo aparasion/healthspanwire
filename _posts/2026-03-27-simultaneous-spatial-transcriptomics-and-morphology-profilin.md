@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01089-z"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers have uncovered significant insights into the relationship between microglial morphology, subcellular mRNA localization, and function in aging brains. Using a combination of multiplexed error-robust fluorescence in situ hybridization and immunohistochemistry, the study mapped transcript localization within microglial processes in both young and aged mice, revealing complex interactions that challenge traditional classifications of microglial states.

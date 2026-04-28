@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/how-an-enzymes-depletion-makes-fat-worse/?
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Research published in *Aging Cell* reveals that the enzyme **Pck1** plays a critical role in maintaining metabolic health in adipose tissue, particularly in mitigating cellular senescence. Mice lacking Pck1 exhibited increased adipocyte senescence and metabolic dysfunction, such as insulin resistance, by 12 and 24 months of age, despite no significant differences in body weight. This deficiency was exacerbated by a high-fat diet, which further reduced Pck1 expression and led to greater inflammation and mitochondrial dysfunction in adipocytes.

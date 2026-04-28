@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/function-acquires-getlabs-to-scal
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Function's acquisition of **Getlabs** marks a pivotal shift in healthcare delivery, enhancing the accessibility of health data by transforming diagnostics into an everyday experience. By integrating Getlabs' mobile healthcare services, Function enables licensed professionals to conduct lab tests directly at patients' homes or workplaces, effectively eliminating the traditional barriers of commuting and waiting rooms. CEO Jonathan Swerdlin emphasizes that this change is not merely about convenience but fundamentally about **access** to health information, which has historically been hindered by logistical challenges.

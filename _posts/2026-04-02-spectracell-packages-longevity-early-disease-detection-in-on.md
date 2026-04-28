@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/spectracell-packages-longevity-ea
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 SpectraCell Laboratories has launched Baseline Nexus, a comprehensive diagnostic test bundle that combines four established assessments to identify hidden health risks before they manifest as diseases. This proactive approach aims to shift the focus from reactive healthcare—where symptoms dictate intervention—to a model that emphasizes early detection and personalized health management. By establishing a more detailed baseline of health, Baseline Nexus seeks to empower individuals and practitioners to make informed decisions about interventions.

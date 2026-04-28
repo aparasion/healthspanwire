@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260402042744.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers at the Université de Genève have developed a **programmable DNA-based drug delivery system** that targets cancer cells with remarkable precision while sparing healthy tissues. This innovative approach utilizes synthetic DNA strands that activate only upon detecting specific combinations of tumor markers, effectively minimizing collateral damage during treatment. The system's ability to deliver multiple drugs simultaneously also addresses the challenge of drug resistance, marking a significant advancement in cancer therapeutics.

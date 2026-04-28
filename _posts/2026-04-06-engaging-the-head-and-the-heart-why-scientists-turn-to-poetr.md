@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/d41586-026-01028-3"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 **Danielle Chammas**, a palliative-care physician at UCSF, highlights the intersection of **poetry and medicine** through her published poem "Defiance," which reflects on the resilience of a cancer patient. Chammas, who co-directs the Poetic Medicine program at the UCSF MERI Center for Humanity in Healthcare, emphasizes the therapeutic potential of poetry in processing grief and fostering connections among patients, caregivers, and clinicians. This initiative invites participants from diverse backgrounds to engage with poetry, illustrating how artistic expression can complement clinical practice.

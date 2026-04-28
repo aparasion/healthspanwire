@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/an-attempt-to-obtain-da
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 A recent investigation into the **longevity effects of psilocybin** use among humans highlights the complexities of translating findings from animal models to human populations. The study, which compared the mortality patterns of **psychedelic personalities**—individuals who have claimed personal use of psilocybin—with those of **cancer** and **aging researchers**, found that while all groups lived beyond average life expectancies, the psychedelic users did not demonstrate a significant survival advantage over their biomedical peers. This raises questions about the applicability of previous findings that indicated psilocybin could extend lifespan in aged mice.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260406192913.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study from the University of California San Diego reveals that just **seven days of intensive meditation** can lead to significant neurobiological changes, demonstrating effects comparable to those induced by psychedelics. Participants in a week-long retreat combining meditation and mind-body practices exhibited enhanced brain efficiency, increased neuroplasticity, and elevated levels of natural pain-relief chemicals in their blood. These findings, published in *Communications Biology*, underscore the potential of meditation to influence both mental and physical health through measurable biological pathways.

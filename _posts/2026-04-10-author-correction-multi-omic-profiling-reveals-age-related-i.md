@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s41586-026-10484-w"
 signal_ids: [blood-biomarker-panels]
 signal_stance: supports
 signal_confidence: medium
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Correction has been issued for the article titled “Multi-omic profiling reveals age-related immune dynamics in healthy adults,” originally published in *Nature*. The correction addresses several labeling errors in Figures 2c and 2d, which have now been rectified in the updated HTML and PDF versions. This adjustment is crucial for accurately interpreting the data presented regarding immune system changes associated with aging.

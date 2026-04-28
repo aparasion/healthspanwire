@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/fight-aging-newsletter-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study highlights significant changes in complement system biomarkers associated with aging and Alzheimer's disease, revealing potential avenues for early detection and intervention. Researchers tracked plasma levels of 14 complement factors over ten years in cognitively normal individuals and those with various dementias, finding specific deviations in complement signaling that correlated with the onset of Alzheimer's.

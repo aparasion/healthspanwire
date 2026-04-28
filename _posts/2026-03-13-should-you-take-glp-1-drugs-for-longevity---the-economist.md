@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFhDWElkem9aYj
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Recent discussions have emerged around the potential longevity benefits of GLP-1 receptor agonists, traditionally used for diabetes management and weight loss. The Economist explores the growing interest in these drugs, particularly their ability to impact metabolic health and possibly extend healthspan.

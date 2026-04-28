@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study from the Toledo Study for Healthy Aging has elucidated the relationship between **osteosarcopenia**—the coexistence of osteopenia/osteoporosis and sarcopenia—and **intrinsic capacity (IC)** in older adults. Analyzing data from 1,142 participants (average age 75.1 years), researchers found that individuals with osteosarcopenia had a significantly lower total IC score (76.6) compared to those without musculoskeletal disorders (83.7) and those with only osteopenia/osteoporosis (81.3), with p-values <0.001 indicating strong statistical significance.

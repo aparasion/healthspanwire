@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01096-0"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Young **APOE4 knockin (E4-KI) mice** exhibit **hippocampal region-specific network hyperexcitability** that serves as a precursor to cognitive deficits associated with Alzheimer's disease (AD). This hyperexcitability is linked to distinct subpopulations of smaller, hyperexcitable neurons and can be mitigated by the selective removal of neuronal APOE4. As these mice age, they develop further granule cell hyperexcitability and an imbalance in excitation and inhibition within the dentate gyrus, highlighting the progressive nature of APOE4's impact on neuronal function. **Single-nucleus RNA sequencing** has identified age-dependent transcriptional changes, revealing **Nell2** as a potential mediator of early neuronal hyperexcitability, which, when targeted via **CRISPR interference**, can restore normal excitability levels.

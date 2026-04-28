@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s41586-026-10219-x"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study has established a comprehensive lifespan atlas of functional connectivity gradients in the human brain, spanning from infancy to 100 years of age. This research, involving 3,556 individuals, identifies three primary axes of functional connectivity: sensory–association (SA), visual–somatosensory (VS), and modulation–representation (MR). The findings reveal that these gradients undergo complex, nonlinear developmental trajectories, highlighting significant changes in brain organization throughout different life stages.

@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/d41586-026-00492-1"
 signal_ids: [gut-microbiome-aging]
 signal_stance: supports
 signal_confidence: medium
+topic: "nutrition"
+impact: "landmark"
 ---
 
 Recent research highlights a significant link between gut microbiota and cognitive function during aging, emphasizing the role of these microbes in influencing brain health. The study, published in *Nature*, reveals that alterations in gut composition can affect cognitive decline, suggesting a potential avenue for therapeutic intervention in age-related cognitive impairments.

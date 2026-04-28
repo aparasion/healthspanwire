@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3E2UU1HZElZRG
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A new longevity startup has emerged as the inaugural tenant for the CoStar biotech project in San Francisco, marking a significant milestone in the city's burgeoning biotech landscape. This development underscores the increasing interest and investment in longevity research and therapeutics, as the startup aims to leverage cutting-edge science to enhance healthspan and combat age-related diseases.

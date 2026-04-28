@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260414075650.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers at Fred Hutchinson Cancer Center have made significant strides in combating **Epstein-Barr virus (EBV)**, a virus that infects approximately **95%** of the global population and is linked to various cancers and chronic diseases. Utilizing transgenic mice engineered to produce human antibodies, the team developed powerful **monoclonal antibodies** that effectively block EBV from attaching to and entering human immune cells. Notably, one of these antibodies completely prevented infection in lab models with human-like immune systems, marking a pivotal advancement in the ongoing battle against EBV's pervasive ability to invade B cells.

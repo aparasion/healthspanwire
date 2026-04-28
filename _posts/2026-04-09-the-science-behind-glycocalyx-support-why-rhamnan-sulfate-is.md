@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271114/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Calroy Health Sciences has unveiled significant findings regarding **Rhamnan sulfate**, a marine-derived polysaccharide extracted from the green alga *Monostroma nitidum*, and its structural affinity for the **endothelial glycocalyx**. This polysaccharide has gained attention for its role in vascular health, particularly in how it supports the glycocalyx, which is critical for blood flow regulation and nitric oxide signaling. Dr. Joel Kahn emphasizes the unique relationship between Rhamnan sulfate and the glycocalyx, marking it as a pivotal compound in vascular research.

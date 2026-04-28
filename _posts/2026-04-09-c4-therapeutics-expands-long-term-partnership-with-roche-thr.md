@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270765/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 C4 Therapeutics (C4T) has announced a collaboration with Roche to develop **degrader-antibody conjugates (DACs)** targeting two undisclosed oncology indications, with an option for a third. This partnership aims to leverage C4T’s **TORPEDO® platform** for designing highly catalytic and selective degrader payloads, while Roche will focus on antibody selection and conjugation. The agreement includes a $20 million upfront payment to C4T, with potential milestone payments exceeding **$1 billion** for discovery, development, and commercialization, alongside tiered royalties on future sales.

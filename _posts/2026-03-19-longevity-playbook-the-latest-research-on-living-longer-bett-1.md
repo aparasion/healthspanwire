@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/longevity-playbook-the-latest-research-o
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A significant advancement in longevity science has emerged with the development of blood tests capable of estimating the biological age of various organs, including the brain and heart. This innovative approach enables researchers to assess the effects of interventions on aging much earlier than traditional clinical outcomes would allow. A recent study published in *Nature Medicine* analyzed blood samples from nearly 45,000 participants, revealing that accelerated aging in specific organs correlates strongly with increased disease and mortality risks. These biomarkers could streamline longevity research, allowing for more rapid evaluation of therapeutic effects on biological aging.

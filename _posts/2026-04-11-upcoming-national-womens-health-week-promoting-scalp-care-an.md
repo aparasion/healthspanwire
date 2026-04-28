@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/11/3272112/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **Klaiyi Hair** has launched a campaign to highlight the significance of **scalp health** as part of women’s overall wellness, particularly in light of National Women’s Health Week. The company emphasizes that scalp conditions can be influenced by factors such as **stress, diet, and hair care practices**, and advocates for regular scalp checks to monitor for changes like irritation or thinning hair. This initiative aligns with broader health trends that recognize the interconnectedness of skin health and overall well-being.

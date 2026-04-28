@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **ECSIT's Role in Exercise-Induced Mitigation of Skeletal Muscle Atrophy**: Recent research has identified **Evolutionarily Conserved Signaling Intermediate in Toll pathways (ECSIT)** as a critical factor in the response of skeletal muscle to exercise, particularly in the context of aging. In a study involving young and middle-aged mice, exercise training was shown to significantly restore muscle mass and function, counteracting the effects of aging-related muscle atrophy. The findings indicate that ECSIT expression is elevated in the gastrocnemius of middle-aged mice but is downregulated following exercise intervention.

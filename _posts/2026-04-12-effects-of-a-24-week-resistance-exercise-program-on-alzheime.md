@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag086/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study investigates the impact of a **24-week resistance exercise (RE)** program on Alzheimer’s disease (AD) brain signatures in cognitively unimpaired older adults. Conducted with 90 participants aged around 72 years, this randomized controlled trial revealed that those engaged in RE exhibited a significant reduction in the **thickness/volume signature** associated with AD compared to a wait-list control group. Notably, this effect was more pronounced in participants who were **Aβ-positive**, suggesting a potential moderating role of amyloid beta status in the response to exercise interventions.

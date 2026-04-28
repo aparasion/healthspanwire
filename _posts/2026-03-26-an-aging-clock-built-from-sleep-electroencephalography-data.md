@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/an-aging-clock-built-fr
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers have developed an innovative aging clock utilizing sleep electroencephalography (EEG) data, which could significantly enhance dementia risk prediction. This approach leverages machine learning to analyze sleep patterns across various ages, integrating complex EEG microstructures into a single metric known as the brain age index (BAI). The study pooled data from five longitudinal cohorts, encompassing over 7,100 participants, and found that each 10-year increase in BAI correlates with a 39% heightened risk of developing dementia, independent of other health factors.

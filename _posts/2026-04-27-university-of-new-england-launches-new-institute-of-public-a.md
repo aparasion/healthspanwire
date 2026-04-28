@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281854/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The University of New England (UNE) has launched the **David Evans Shaw Institute of Public and Planetary Health**, backed by a transformative $5 million donation from entrepreneur David Evans Shaw. This initiative aims to integrate public health with environmental science, addressing the pressing challenges posed by climate change and its impact on human health. The institute will serve as a collaborative hub, fostering interdisciplinary research and education to prepare graduates for real-world applications in public health and environmental stewardship.

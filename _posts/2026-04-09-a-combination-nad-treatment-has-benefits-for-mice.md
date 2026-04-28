@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/a-combination-nad-treatment-has-benefits-f
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers have demonstrated that a **combination treatment** of nicotinamide mononucleotide (NMN) and apigenin, referred to as **N + A**, significantly enhances cellular function and health in aged wild-type mice. This dual approach not only boosts **NAD+ levels** but also mitigates its depletion by inhibiting the enzyme CD38, which is known to increase with age. The study reveals that administering N + A restores muscle function and bone structure, effectively addressing age-related declines in musculoskeletal and gut health.

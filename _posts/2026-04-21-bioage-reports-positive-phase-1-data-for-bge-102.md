@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/bioage-reports-positive-phase-1-data-for-bge-10
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 BioAge Labs, Inc. has announced promising Phase 1 clinical trial results for **BGE-102**, a novel small molecule NLRP3 inhibitor designed to target inflammation associated with metabolic diseases. The trial evaluated a 60 mg once-daily dosing regimen over 21 days in participants with obesity and elevated inflammation, revealing significant reductions in **high-sensitivity C-reactive protein (hsCRP)** and other inflammatory biomarkers. Notably, the 60 mg dose exhibited reductions in hsCRP comparable to those seen with a previously tested 120 mg dose, alongside a favorable safety profile.

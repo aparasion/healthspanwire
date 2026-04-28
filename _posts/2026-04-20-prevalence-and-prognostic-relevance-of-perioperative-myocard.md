@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag103/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 **Perioperative myocardial injury/infarction (PMI) significantly impacts older patients undergoing major noncardiac surgery, as demonstrated in a multicenter prospective study involving 4,634 individuals aged 70 and older with substantial comorbidities. The study revealed that PMI occurred in 19.2% of these patients, a notably higher incidence compared to younger cohorts (P < .0001). The findings highlight that patients experiencing PMI faced a stark increase in all-cause mortality—26.2% at one year versus 13.2% in those without PMI—and a major adverse cardiac event (MACE) rate of 30% compared to 13%.**

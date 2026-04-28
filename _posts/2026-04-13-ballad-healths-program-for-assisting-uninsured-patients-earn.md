@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272944/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Ballad Health's Appalachian Highlands Care Network has been awarded the Innovators Award by Modern Healthcare for its transformative approach to rural healthcare.** Launched in 2021, this initiative connects uninsured patients in Northeast Tennessee and Southwest Virginia with essential healthcare and social services at little to no cost. By leveraging partnerships with local organizations, the network has coordinated over **$121 million in donated care** and enrolled more than **12,000 participants**, demonstrating a scalable model for addressing healthcare disparities in rural settings.

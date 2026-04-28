@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277145/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **global medical radiation shielding market** is projected to grow from approximately **USD 1.6 billion in 2024 to USD 3.2 billion by 2034**, reflecting a **CAGR of 7.20%**. This growth is driven by the increasing incidence of chronic diseases, particularly cancer, which necessitates more diagnostic imaging and radiation therapy. The market encompasses various products such as **X-ray shields, MRI shields, and gamma shields**, with lead-based materials currently dominating due to their effectiveness in radiation attenuation.

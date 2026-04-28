@@ -10,6 +10,8 @@ source_url: "https://www.labiotech.eu"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 After years of stagnation, biotech IPO activity is showing signs of resurgence in 2026, signaling a potential shift in market dynamics for the industry. This uptick comes as several companies, including those focused on longevity and healthspan research, seek public funding to advance their innovative therapies and technologies.

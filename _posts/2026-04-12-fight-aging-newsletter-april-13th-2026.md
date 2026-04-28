@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/fight-aging-newsletter-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 **A multi-phase clinical trial is set to investigate the optimal dosing of rapamycin for anti-aging applications, spearheaded by an academic consortium. This initiative aims to transition from off-label use, which has gained traction among anti-aging practitioners based on limited human data and animal studies, to a more rigorous, evidence-based approach. The study will explore the drug's effects on immune and metabolic markers in older adults, establishing a reference point for optimal biological function before aging-related changes occur.**

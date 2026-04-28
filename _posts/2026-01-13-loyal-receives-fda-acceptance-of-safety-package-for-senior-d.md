@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaG9VeWYteEE0NW
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Loyal, a biotech company focused on extending the lifespan of senior dogs, has received FDA acceptance for its safety package related to a novel lifespan extension drug. This significant milestone marks a critical step in the development of therapeutics aimed at improving healthspan and longevity in aging canines, potentially setting a precedent for similar approaches in human healthspan research.

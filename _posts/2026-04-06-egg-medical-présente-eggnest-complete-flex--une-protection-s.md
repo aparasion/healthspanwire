@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268471/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Egg Medical has launched **EggNest™ Complete Flex**, a groundbreaking radiation protection system that allows clinicians to operate safely without traditional lead aprons or with ultra-lightweight alternatives. This innovative technology eliminates the need for structural modifications or interruptions to procedures, marking a significant advancement in occupational safety for healthcare professionals. The first live case utilizing Complete Flex will be performed by Dr. Jasvindar Singh at Barnes-Jewish Hospital on April 8, 2026, during the ARCH 2026 conference.

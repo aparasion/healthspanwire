@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/targeting-protein-misfolding-in-n
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Origami Therapeutics is making strides in neurodegenerative disease treatment by leveraging autophagy to target misfolded proteins in the brain. Founded by Dr. Beth Hoffman, the biotech company aims to restore proper protein structure or eliminate harmful proteins, with a focus on conditions like Huntington’s, Alzheimer’s, and Parkinson’s diseases. Their recent collaboration with Ipsen will enhance their protein degrader program, addressing inherited neurodegenerative disorders and aiming to alter disease progression fundamentally.

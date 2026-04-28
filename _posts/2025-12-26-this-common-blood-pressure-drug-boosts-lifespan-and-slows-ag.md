@@ -10,6 +10,8 @@ source_url: "https://www.sciencealert.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study has revealed that patients using Wegovy, a weight loss medication, face a nearly fivefold increased risk of sudden sight loss compared to those taking Ozempic, a diabetes treatment. This alarming finding highlights the need for further investigation into the ocular side effects associated with these GLP-1 receptor agonists, which have gained popularity in the longevity and metabolic health sectors.

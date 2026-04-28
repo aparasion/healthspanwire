@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study utilizing the **DeciBHAL microsimulation model** has revealed that **141,000 new dementia cases** in the U.S. in 2022 can be attributed to hearing loss among individuals aged 60 and over. The model accounts for age- and sex-specific probabilities of hearing loss and dementia, demonstrating that individuals with hearing loss have an **adjusted incidence risk ratio of 2.0** for developing dementia. This highlights the critical link between auditory health and cognitive decline.

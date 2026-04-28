@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270677/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Ecuador is making significant strides towards becoming one of the first rabies-free countries in Latin America, with a targeted goal to eliminate dog-mediated rabies by 2030. This initiative, announced at the One Health Summit in Lyon, France, is supported by Boehringer Ingelheim and aligns with the Pan American Health Organization's guidelines. The Ecuador Free of Rabies project emphasizes a multi-faceted approach, focusing on **mass dog vaccination**, **enhanced epidemiological surveillance**, and **public education**.

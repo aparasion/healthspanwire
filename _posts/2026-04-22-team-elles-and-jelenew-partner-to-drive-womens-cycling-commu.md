@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278630/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **On March 28, 2026, Team Elles, a French developmental cycling team, collaborated with high-performance cycling apparel brand JELENEW to host a Rando Ride in the Loire Atlantique region. This event, coinciding with the French Cup race weekend, attracted nearly 200 female cyclists, ranging from amateurs to seasoned competitors, underscoring a commitment to inclusivity and growth within the sport.**

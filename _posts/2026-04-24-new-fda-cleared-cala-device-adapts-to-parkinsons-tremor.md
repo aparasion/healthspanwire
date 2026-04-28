@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/new-fda-cleared-cala-device-adapt
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Cala Bioelectronics has received FDA clearance for its latest device, the **Cala kIQ Plus**, a next-generation wearable designed to manage hand tremors associated with **Parkinson’s disease** and **essential tremor**. This device, worn on the wrist, utilizes targeted nerve stimulation to provide on-demand relief by sending mild electrical pulses to modulate nerve signals that influence tremor activity. Unlike its predecessor, the kIQ Plus emphasizes **personalization** through features like adaptive calibration, which allows the device to learn and adjust its therapy modes based on individual tremor patterns.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3272009/32443
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Iradimed Corporation (NASDAQ: IRMD) is set to showcase its advancements in MRI-compatible medical devices at the upcoming 25th Annual Needham Virtual Healthcare Conference, scheduled for April 13-16, 2026. CFO Jack Glenn will engage in one-on-one meetings with investors, highlighting the company's unique position as the sole provider of a non-magnetic intravenous (IV) infusion pump system designed specifically for MRI environments.

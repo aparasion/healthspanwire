@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/homoharringtonine-as-a-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **Homoharringtonine (HHT), an FDA-approved anti-leukemic drug, has emerged as a promising candidate for senotherapeutic applications, demonstrating significant efficacy in targeting senescent cells. In a comprehensive drug-repositioning study involving 2,150 clinically applied compounds, HHT was identified for its ability to selectively eliminate senescent preadipocytes and adipocytes with minimal cytotoxicity to non-senescent cells. This selective action positions HHT as a potential therapeutic agent for addressing age-related metabolic dysfunctions, particularly those associated with white adipose tissue (WAT).**

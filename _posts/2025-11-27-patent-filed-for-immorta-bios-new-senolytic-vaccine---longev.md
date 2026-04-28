@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMijwFBVV95cUxOandaRHVOME5qb2
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Immorta Bio has filed a patent for an innovative senolytic vaccine aimed at targeting senescent cells, marking a significant advancement in the field of longevity therapeutics. This development could pave the way for novel interventions that enhance healthspan by selectively eliminating dysfunctional cells that contribute to aging and age-related diseases.

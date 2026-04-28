@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/nadmed-backs-cleveland-clinic-tra
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Finnish biotech NADMED has awarded the Cleveland Clinic a $30,000 grant to support groundbreaking research led by Dr. Keyue Sun and the Schlegel Lab, focusing on the **metabolic assessment of organ viability** during transplantation. This project aims to address a critical challenge in transplant medicine: determining whether a donated organ retains sufficient metabolic function after ischemic stress, a period when blood supply is compromised. The research is poised to enhance clinical decision-making in a field where the viability of organs is often uncertain, directly impacting patient outcomes.

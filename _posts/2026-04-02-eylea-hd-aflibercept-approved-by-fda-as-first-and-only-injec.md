@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267657/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Regeneron Pharmaceuticals has received FDA approval to extend the dosing intervals for EYLEA HD® (aflibercept) up to every 20 weeks for patients with wet age-related macular degeneration (wAMD) and diabetic macular edema (DME). This decision is based on promising 96-week data from the pivotal PULSAR and PHOTON trials, which demonstrated that a significant majority of patients maintained their visual and anatomical improvements with the new extended dosing schedule. Clinicians can now tailor treatment regimens to individual patient needs, allowing for as few as two to three injections per year for those who respond well after the first year of treatment.

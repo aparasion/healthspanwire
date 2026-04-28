@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277592/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Amphista Therapeutics has publicly disclosed the **chemical structure of AMX-883**, a novel DCAF16-dependent Targeted Glue™ degrader of BRD9, during the AACR Annual Meeting 2026. This orally bioavailable compound is the company’s lead asset and is set to enter a **Phase I clinical trial for acute myeloid leukaemia (AML)** in the second half of 2026. The presentation highlighted the discovery and optimization of AMX-883, showcasing its **picomolar potency** and selectivity over related bromodomain proteins, BRD4 and BRD7, confirmed through high-resolution cryo-EM structural analysis.

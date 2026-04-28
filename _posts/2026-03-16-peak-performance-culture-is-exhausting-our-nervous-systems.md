@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/peak-performance-culture-is-exhau
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 In a recent episode of *Longevity.Technology UNLOCKED*, Dr. David Rabin and Dr. Pedram Shojai challenge the prevailing culture of relentless peak performance, highlighting the detrimental effects of constant stress on our biology. They argue that while striving for optimization can enhance productivity, it often neglects essential recovery, leading to burnout and chronic health issues. Rabin emphasizes that without balance, the nervous system remains in a perpetual fight-or-flight state, compromising vital functions like sleep and immunity.

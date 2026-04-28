@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280045/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Today, leading kidney health organizations, including the **American Kidney Fund (AKF)** and the **American Society of Nephrology (ASN)**, convened on Capitol Hill for an educational briefing titled “Kidney Diseases: the Hidden Crisis in American Health Care.” This initiative aims to raise awareness about the staggering prevalence of kidney disease, which affects **1 in 7 Americans**, and to advocate for urgent policy reforms to enhance kidney health across the nation. The briefing features expert panels that will discuss the complexities of chronic kidney disease (CKD) and end-stage renal disease (ESRD), alongside the economic burden these conditions impose, with **Medicare costs for kidney failure reaching $55.3 billion in 2023**.

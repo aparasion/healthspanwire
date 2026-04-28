@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260326011458.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers at the IMT School for Advanced Studies Lucca have uncovered that vivid dreams may enhance the perception of deep, restorative sleep, challenging long-standing beliefs about sleep dynamics. Their study, published in PLOS Biology, reveals that individuals reported feeling more rested not only during periods of minimal brain activity but also after experiencing immersive dreams, suggesting that the quality of dreaming plays a critical role in sleep depth.

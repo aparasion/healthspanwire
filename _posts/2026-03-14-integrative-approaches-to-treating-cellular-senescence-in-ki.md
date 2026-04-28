@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DVDAwMnpzdF9SOD
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Recent research published in Wiley highlights integrative strategies for addressing cellular senescence in kidney disease, a condition increasingly recognized for its role in aging and chronic health issues. The study outlines novel therapeutic approaches that target senescent cells, which accumulate in renal tissues and contribute to kidney dysfunction and overall decline in healthspan.

@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/s43587-026-01086-2"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers have made significant strides in understanding immune aging by studying the turquoise killifish (Nothobranchius furzeri), a short-lived vertebrate model that mirrors key aspects of human aging. This study utilized advanced techniques such as single-cell RNA sequencing and proteomic profiling to investigate age-dependent changes in the kidney marrow, the main hematopoietic organ in these fish. Findings revealed that older killifish exhibited increased markers of inflammation and DNA damage, alongside a decline in immune cell proliferation and repair mechanisms, highlighting the rapid onset of immune aging within a mere 10 weeks.

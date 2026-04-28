@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276431/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Opticore Eye Group** has announced the launch of its **innovative Contact Lens Program** in Riverside, California, set to begin in 2026. This initiative aims to enhance vision care by utilizing advanced contact lens technology and personalized solutions tailored to individual patient needs. Dr. Taylor Tedder, CEO of Opticore, emphasized the program's role in delivering exceptional eye care, highlighting its commitment to integrating the latest advancements for optimal comfort and clarity in vision correction.

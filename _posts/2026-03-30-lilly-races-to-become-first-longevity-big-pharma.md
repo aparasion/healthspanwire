@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/lilly-races-to-become-first-longe
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Eli Lilly's recent $2.75 billion deal with Insilico Medicine marks a pivotal moment in the evolution of aging medicine, as the pharmaceutical giant seeks to leverage AI-driven drug discovery to reshape its approach to age-related diseases. This agreement, which includes an upfront payment of $115 million and further milestone-based payments, grants Lilly exclusive rights to certain preclinical oral drug candidates while establishing a broader collaboration with Insilico's AI platform. Notably, this partnership allows Lilly to not only acquire promising drug candidates but also to enhance its capability to discover future therapies.

@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/lilly-pays-ac-immune-125m-exp
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Eli Lilly has invested **10 million Swiss francs ($12.5 million)** into AC Immune to advance their collaboration on Alzheimer’s disease, specifically targeting tau protein aggregation. This partnership, originally established in 2018 with an **$81 million upfront fee** and potential milestone payments totaling **1.7 billion francs ($2.1 billion)**, focuses on AC Immune's innovative **morphomer** small molecules. These orally administered compounds are designed to penetrate the brain and bind to tau proteins, aiming to inhibit their aggregation, a hallmark of Alzheimer’s pathology. AC Immune has indicated that a morphomer candidate is on the verge of entering clinical trials, which marks a significant step toward therapeutic application.

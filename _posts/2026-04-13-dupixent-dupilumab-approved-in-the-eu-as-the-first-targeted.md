@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272191/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The European Commission has approved **Dupixent® (dupilumab)** for the treatment of moderate-to-severe chronic spontaneous urticaria (CSU) in children aged 2 to 11 years. This decision is grounded in data from the **LIBERTY-CUPID clinical trial program**, which demonstrated that Dupixent significantly reduced urticaria activity compared to placebo in adults, with extrapolated efficacy data supporting its use in younger populations. Dupixent is now recognized as the first targeted therapy for CSU in this age group, addressing a significant gap in treatment options for children who do not respond adequately to standard antihistamines.

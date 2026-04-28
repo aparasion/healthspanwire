@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260329041649.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Scientists from the Royal Netherlands Institute for Sea Research have revealed a startling finding regarding ocean plastic pollution: the "missing" plastic has not disappeared but has instead fragmented into trillions of invisible nanoplastics. This research, led by Helge Niemann and involving Utrecht University, indicates that these minuscule particles, measured in billionths of a meter, are now pervasive throughout the Atlantic Ocean, with estimates suggesting approximately 27 million tons of nanoplastics are present in this region alone.

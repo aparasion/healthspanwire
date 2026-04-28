@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/s43587-026-01111-4"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study published in *Nature Aging* utilized imaging mass cytometry to investigate the multicellular dynamics of breast tissue across different ages, revealing significant changes in cellular composition and density. The research, involving 527 women, found that as breast tissue ages, there is a marked decrease in cell density and proliferation, coupled with an increase in inflammatory immune cells. This study highlights the intricate biological changes that occur in breast tissue as women age, providing a comprehensive spatial atlas of aging in human breast tissue.

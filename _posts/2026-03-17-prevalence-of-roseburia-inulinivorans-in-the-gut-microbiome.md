@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/prevalence-of-roseburia
 signal_ids: [gut-microbiome-aging]
 signal_stance: supports
 signal_confidence: medium
+topic: "nutrition"
+impact: "landmark"
 ---
 
 A recent study highlights the significant role of the gut microbiome in muscle strength, specifically focusing on the bacterial species Roseburia inulinivorans. Researchers found that the prevalence of this species correlates positively with muscle strength in both mice and humans, with a notable 30% increase in strength observed in mice supplemented with R. inulinivorans. As this bacterial population diminishes with age, the findings suggest a potential avenue for therapeutic interventions targeting muscle-wasting disorders.

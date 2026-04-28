@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/research/first-car-t-cell-therapy-dri
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Miltenyi Biomedicine's **zorpocabtagene-autoleucel (zorpo-cel)**, a CD19-targeting CAR-T cell therapy, has demonstrated remarkable efficacy by treating a patient with three concurrent autoimmune diseases: **autoimmune hemolytic anemia (AIHA)**, **antiphospholipid syndrome (APLAS)**, and **immune thrombocytopenia (ITP)**. The 47-year-old woman, whose conditions persisted despite nine previous therapies, achieved remission after receiving zorpo-cel, which reprograms the patient's T cells to target and eliminate rogue B cells responsible for her autoimmune responses. Notably, the treatment was well-tolerated, with no severe side effects typically associated with CAR-T therapies.

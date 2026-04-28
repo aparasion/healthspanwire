@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxSjlZejFTWjVSRk
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study published in *Aging Cell* explores the epigenetic age responses of astronauts exposed to the unique conditions of space, positioning them as a novel model for studying human aging. Researchers, led by Fuentealba, analyzed blood samples from astronauts before and after space missions, revealing significant alterations in DNA methylation patterns associated with aging.

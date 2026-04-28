@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/medtech/harbinger-health-raises-100m-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Harbinger Health has secured **$100 million** in its latest funding round, unveiling its new **Resolve** platform aimed at enhancing cancer detection through liquid biopsy tests. Since its emergence from stealth mode in 2021, Harbinger has focused on developing advanced liquid biopsy technologies, leveraging its **HarbingerHx software** to identify biological abnormalities indicative of early cancer development. The Resolve platform is specifically designed to address the critical gap between suspicion and diagnosis, minimizing both **false negatives** and **false positives** to facilitate quicker clinical decision-making.

@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnhtNDRXdHQwQU
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Insilico Medicine has unveiled its AI-driven strategy for advancing longevity research, positioning itself at the forefront of biotechnology innovation. The company aims to harness artificial intelligence to accelerate drug discovery and development processes specifically targeting age-related diseases, thereby enhancing healthspan and potentially extending lifespan.

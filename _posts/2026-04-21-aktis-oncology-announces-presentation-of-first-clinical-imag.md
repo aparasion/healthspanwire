@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278532/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Aktis Oncology, Inc. has announced the upcoming presentation of critical data on **AKY-2519**, a miniprotein radioconjugate targeting **B7-H3**, at the 2026 American Society of Clinical Oncology (ASCO) Annual Meeting. This innovative treatment aims to address solid tumors, including prostate and lung cancers, by selectively delivering the alpha-emitting radioisotope **actinium-225 (225Ac)** to tumor sites. The presentations will detail **biodistribution** and **dosimetry** assessments conducted in patients, enhancing understanding of AKY-2519's potential therapeutic impact.

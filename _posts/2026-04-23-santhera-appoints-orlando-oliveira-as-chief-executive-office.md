@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279546/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Santhera Pharmaceuticals has announced the appointment of **Orlando Oliveira** as its new Chief Executive Officer, effective **July 15, 2026**, succeeding **Dario Eklund**, who has led the company through a transformative phase over the past six and a half years. Oliveira brings over 25 years of extensive experience in the biopharma sector, with a strong background in specialty pharmaceuticals, oncology, and rare diseases, positioning him to guide Santhera’s growth trajectory as it capitalizes on its recent advancements.

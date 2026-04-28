@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SekxlM3NDeWJrUl
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The American Academy of Neurology (AAN) has released an updated guideline on plasmapheresis, a therapeutic procedure that removes harmful antibodies from the blood, which can be critical in treating various neurological conditions. This update reflects the latest evidence and expert consensus on the efficacy and safety of plasmapheresis, particularly for conditions like myasthenia gravis and Guillain-Barré syndrome.

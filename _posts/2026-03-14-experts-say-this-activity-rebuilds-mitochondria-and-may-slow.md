@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkpoRnVaaEI1Nk
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A recent article in Fast Company highlights emerging research suggesting that a specific physical activity can significantly enhance mitochondrial function, potentially slowing the aging process. Experts indicate that engaging in this activity not only rebuilds mitochondria but also improves overall cellular health, which is crucial for longevity.

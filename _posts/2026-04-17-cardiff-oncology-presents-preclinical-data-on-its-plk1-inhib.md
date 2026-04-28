@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276475/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Cardiff Oncology, Inc. has unveiled promising preclinical data at the AACR Annual Meeting 2026, showcasing the efficacy of its oral **PLK1 inhibitor, onvansertib**, in combination with the **HER2-targeted antibody-drug conjugate (ADC), trastuzumab deruxtecan (T-DXd)**. This combination therapy demonstrated significant antitumor activity and the ability to overcome resistance in **HER2-low breast cancer models**, marking a potential advancement in treatment strategies for this challenging cancer subtype.

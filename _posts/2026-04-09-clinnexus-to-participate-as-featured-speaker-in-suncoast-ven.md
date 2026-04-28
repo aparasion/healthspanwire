@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271389/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 ClinNEXUS, a data-driven healthcare company, is set to play a pivotal role at the upcoming **Suncoast Ventures 2nd Annual Gateway Conference** on April 14-15 in San Francisco. The company, led by CEO **Greg Carroll, M.D.**, aims to redefine care coordination by integrating clinical, social, and behavioral support systems to enhance health outcomes. As a top sponsor, ClinNEXUS emphasizes the importance of collaboration among payers, providers, and policymakers to tackle systemic healthcare challenges that contribute to high costs and poor patient outcomes.

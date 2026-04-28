@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/does-tau-aggregation-sp
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study investigates the **spatiotemporal dynamics of tau aggregation** in the aging brain, focusing on whether tau proteins spread from region to region, particularly in the context of Alzheimer's disease (AD). Researchers synthesized various indirect methodologies, including postmortem tissue analysis and neuroimaging, to explore the hypothesis that **abnormal tau seeds** induce neurofibrillary tangles (NFTs) in connected brain regions. The study analyzed tau bioactivity in synaptosomes from postmortem tissues of 128 individuals, revealing that tau seeds from early-affected areas can drive NFT formation in later-affected regions.

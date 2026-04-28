@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/i-lumen-receives-fda-ide-to-start
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 I-Lumen Scientific has received an Investigational Device Exemption from the FDA for its i-SIGHT2 pivotal study, which will assess a non-invasive bioelectric stimulation therapy for patients with intermediate to advanced dry age-related macular degeneration (AMD). This significant development allows for U.S. enrollment in a multinational trial that is already underway in the UK, Australia, and New Zealand, with plans to include 120 participants across all sites. The study has already marked its first operational milestone, having randomized and treated its initial participant in the UK.

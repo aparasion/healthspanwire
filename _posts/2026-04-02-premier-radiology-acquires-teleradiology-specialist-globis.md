@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/medtech/premier-radiology-acquires-te
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Premier Radiology Services has further solidified its position in the teleradiology market by acquiring Global Imaging Solutions (GLOBIS), marking its third acquisition in less than a year. This strategic move follows the company's earlier acquisitions of National Radiology Solutions and Metis MD, underscoring a robust growth strategy aimed at enhancing its diagnostic imaging capabilities across the U.S. The financial terms of the GLOBIS deal remain undisclosed, but it is expected to bolster Premier’s offerings by integrating a team of fellowship-trained radiologists and expanding its client base.

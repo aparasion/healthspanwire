@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers have developed a robust method for **imputing dementia status and onset time** using data from the Cardiovascular Health Study (CHS). Utilizing a **linear mixed-effects model**, the study estimated individual cognitive trajectories and integrated these estimates into an **accelerated failure time model** to predict incident dementia. This approach was calibrated on a 60% random sample of participants with known dementia classifications and validated on the remaining 40%, ultimately allowing for the imputation of dementia onset time and status across the entire CHS cohort.

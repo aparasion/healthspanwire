@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/how-zinc-protects-injured-arteries-from-ac
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers have identified a novel mechanism by which zinc can protect injured arteries from accelerated aging, as detailed in a recent study published in *Aging Cell*. The study reveals that vascular smooth muscle cells (VSMCs) in damaged arteries exhibit misshapen nuclei, a hallmark of cellular senescence, due to an accumulation of prelamin A. Zinc administration enhances the processing of prelamin A through the enzyme Zmpste24, thereby mitigating the detrimental effects of injury on these cells.

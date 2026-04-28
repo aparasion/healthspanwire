@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268787/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Mesoblast Limited reports a significant milestone with **Ryoncil® (remestemcel-L-rknd)** achieving net sales of **$30.3 million** for Q1 2026, contributing to nearly **$100 million** in revenue since its launch. This performance follows a strong rebound in sales during February and March, effectively countering the seasonal dip observed in January. Ryoncil® is the first FDA-approved **mesenchymal stromal cell (MSC)** therapy for pediatric patients with **steroid-refractory acute graft-versus-host disease (SR-aGvHD)**, marking a pivotal advancement in cellular medicine and reinforcing Mesoblast's financial position to support further development of its late-stage programs.

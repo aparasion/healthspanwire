@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-6
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Kailera Therapeutics has achieved a significant milestone in biotech financing with a **record-breaking $625 million IPO**, marking the largest offering in recent memory. The Waltham, Massachusetts-based company upsized its offering to 39 million shares, exceeding its initial estimate of 33.3 million shares, and priced them at the top end of the $14-$16 range. This successful IPO positions Kailera ahead of notable past offerings, including Moderna and Sana Biotechnology, and signals strong investor confidence in its obesity therapy pipeline.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260415043617.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A comprehensive study led by researchers at Cedars-Sinai Health Sciences University has uncovered significant long-term risks associated with common medications used to treat irritable bowel syndrome (IBS). Analyzing nearly two decades of electronic health records from over 650,000 IBS patients, the study, published in *Communications Medicine*, found that long-term use of certain antidepressants and antidiarrheal drugs, such as loperamide and diphenoxylate, correlates with a **35% increase in mortality risk** and nearly **double the risk of death**, respectively.

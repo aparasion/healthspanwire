@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag104/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 The **VIVIFRAIL exercise program** has demonstrated promising results in a recent randomized-controlled trial aimed at addressing frailty among older adults in nursing homes. Conducted from July to September 2024, this study evaluated the feasibility and efficacy of the program, focusing on recruitment, adherence, and various health outcomes. Remarkably, the study achieved a **100% recruitment, adherence, and compliance rate**, with only a **7.5% attrition rate**, indicating strong participant engagement.

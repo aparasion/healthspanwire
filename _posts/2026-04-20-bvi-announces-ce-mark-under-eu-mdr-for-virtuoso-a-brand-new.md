@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277173/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 BVI has achieved CE Mark certification for its **Virtuoso®** dual-function phaco-vitrectomy platform, designed to enhance control and efficiency in both cataract and vitreoretinal surgeries. This milestone was marked by the successful treatment of the first patient at LMU Klinikum in Munich, Germany, in December 2025. The platform's introduction at key industry forums throughout 2025 and into 2026, including its first live surgery at the Munich Retina Meeting, underscores its innovative design focused on fluidics stability and workflow efficiency.

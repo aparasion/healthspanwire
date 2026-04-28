@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/fauna-bio-hits-key-milestone-in-l
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Fauna Bio has achieved a significant milestone in its partnership with Eli Lilly by designating a metabolic disease drug target for obesity, identified through its innovative AI discovery platform. This development, rooted in biological insights from hibernating squirrels, triggers a milestone payment as part of a multi-year agreement potentially worth up to $494 million. Fauna’s CEO, Ashley Zehnder, emphasizes that studying the unique metabolic regulation of hibernating mammals can unveil therapeutic targets that traditional methods have overlooked.

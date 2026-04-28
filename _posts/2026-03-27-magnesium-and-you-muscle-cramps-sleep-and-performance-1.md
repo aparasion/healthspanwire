@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/magnesium-and-you-muscle-cramps-sleep-an
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **Magnesium's Role in Health and Fitness: A Critical Mineral for Longevity**  

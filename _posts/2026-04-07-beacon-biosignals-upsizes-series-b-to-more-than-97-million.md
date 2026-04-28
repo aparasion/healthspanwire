@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/beacon-biosignals-upsizes-series-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Beacon Biosignals has successfully upsized its Series B financing round to **$97 million**, bringing its total funding to over **$132 million**. This extension introduces new investors, including **JSL Health**, **Palo Santo VC**, **Kicker Ventures**, and **Samsung Next**, to a previous syndicate that led an **$86 million** Series B round, which included prominent firms such as **Innoviva**, **GV**, and **General Catalyst**. The influx of capital is earmarked for accelerating the development of its **at-home EEG technology** and advanced analytics, aimed at enhancing diagnostics, clinical trials, and precision medicine.

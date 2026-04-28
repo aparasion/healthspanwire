@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269241/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 A recent survey by the American Association of Nurse Practitioners (AANP) reveals a significant gap between the increasing reliance on online health information and the public's confidence in its accuracy. Over **80% of Americans** report searching for health information online, yet only **11%** find it easy to assess its reliability. Confidence in AI tools is even lower, with just **5%** expressing high confidence in their accuracy. This discrepancy underscores a critical challenge: while access to health information has expanded, the ability to discern trustworthy sources has not improved correspondingly.

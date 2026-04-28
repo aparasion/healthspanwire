@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 A recent study leveraging machine learning has identified distinct clusters of older adults based on inflammatory and cardiometabolic dysregulation, potentially paving the way for more effective tailored interventions in combating chronic inflammation. Conducted as a secondary analysis of the ENRGISE trial, the research evaluated the effects of losartan, omega-3, and combination therapies on interleukin-6 levels and walking speed among 287 participants aged 77.6 on average.

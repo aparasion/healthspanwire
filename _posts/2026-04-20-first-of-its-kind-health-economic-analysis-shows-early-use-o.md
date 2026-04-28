@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277274/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 bioMérieux has published a groundbreaking health economic analysis demonstrating that early deployment of **fast identification and antimicrobial susceptibility testing (ID/AST)** can significantly reduce the progression of bloodstream infections to sepsis, thereby improving patient outcomes and generating substantial cost savings across multiple healthcare systems, including Canada, France, Germany, Italy, Japan, the UK, and the US. Conducted by the Office of Health Economics, this analysis provides the first robust evidence supporting the clinical and economic advantages of integrating rapid diagnostics early in the care pathway for high-risk patients.

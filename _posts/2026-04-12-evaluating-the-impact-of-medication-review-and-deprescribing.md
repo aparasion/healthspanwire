@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag084/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent systematic review and meta-analysis has highlighted the impact of **medication review and deprescribing interventions** on polypharmacy among older adults residing in long-term care facilities (LTCFs). The study, which adhered to PRISMA guidelines and analyzed data from 38 studies (22 randomized controlled trials and 16 quasi-experimental studies), found that these interventions significantly reduced the **number of medications per patient** and the prevalence of potentially inappropriate medications (PIMs).

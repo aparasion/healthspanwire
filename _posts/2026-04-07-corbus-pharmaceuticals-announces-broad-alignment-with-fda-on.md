@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269055/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Corbus Pharmaceuticals has received FDA alignment on its proposed registrational study design for **CRB-701**, a next-generation antibody-drug conjugate (ADC) targeting **Nectin-4**, in the treatment of **head and neck squamous cell carcinoma (HNSCC)** and **cervical cancer**. This development allows Corbus to advance towards potential accelerated approval, with a focus on objective response rate (ORR) as the primary endpoint in both cancers. The company plans to initiate a randomized controlled study comparing CRB-701 to physician's choice chemotherapy, with the possibility of full approval contingent on overall survival (OS) benefits.

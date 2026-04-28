@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/signal-reprogramming-as
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 **Recent research highlights the cGAS-STING pathway's role in the aging ovary, revealing its potential as a target for therapeutic intervention. The study discusses how cGAS, typically a defender against pathogens, becomes maladaptively activated in aged tissues due to the leakage of nuclear and mitochondrial DNA. This activation leads to chronic inflammatory responses that contribute to premature ovarian insufficiency (POI) and systemic aging in women.**

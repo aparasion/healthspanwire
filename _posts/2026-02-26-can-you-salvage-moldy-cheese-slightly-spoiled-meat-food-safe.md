@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/can-you-salvage-moldy-cheese-slightly-sp
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent article highlights the significant health risks associated with consuming spoiled foods, emphasizing the role of microbial toxins in foodborne illnesses. The author, a toxicologist, outlines how various fungi and bacteria produce harmful substances that can interfere with essential biological processes, leading to conditions ranging from mild gastrointestinal discomfort to severe diseases like liver cancer.

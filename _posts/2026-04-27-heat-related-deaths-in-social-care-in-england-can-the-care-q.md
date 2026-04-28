@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag100/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent analysis led by researchers in England highlights the alarming **risk of heat-related mortality** among residents in nursing and residential care homes, particularly during the heatwave of July 16-20, 2022. The study utilized **heat episode analysis** and **Distributed Lag Non-linear Models** to quantify the short-term associations between daily mean temperatures and mortality rates, revealing a **34.1% increase in deaths** in nursing homes and a **13.0% increase** in residential care homes during the heatwave.

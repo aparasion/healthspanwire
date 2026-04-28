@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272232/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Epitopea has appointed Dr. Lisa Butterfield to its Scientific Advisory Board, enhancing its expertise in cancer immunotherapy as it advances its RNA-based therapies for hard-to-treat solid tumors. Dr. Butterfield, a prominent figure in immuno-oncology, brings extensive experience in cancer vaccine development, immune profiling, biomarker discovery, and cell therapies. Her previous roles include leadership positions at Merck and the Parker Institute for Cancer Immunotherapy, along with significant academic contributions at institutions like the University of Pittsburgh.

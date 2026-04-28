@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/gsk-acquires-35pharma-in-950m-dea
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 GSK has made a strategic move in the biotech landscape with its **$950 million acquisition of 35Pharma Inc.**, a Montreal-based company focused on protein-based therapies. Central to this acquisition is **HS235**, a promising candidate for treating **pulmonary hypertension (PH)**, a complex condition that not only affects lung function but also has systemic implications, including interactions with metabolic health. With approximately **82 million individuals** affected by PH globally, the need for effective treatments is urgent, particularly as existing therapies often come with significant side effects that complicate long-term management.

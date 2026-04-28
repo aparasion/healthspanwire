@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277056/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Rpharmy has successfully completed its **SOC® 2 Type II audit**, demonstrating a robust commitment to data security in healthcare software solutions. This audit, conducted by Johanson Group LLP, evaluates how organizations protect customer data across key areas: **Security**, **Availability**, and **Confidentiality**. According to Laura Paxton, Founder and CEO, this achievement underscores Rpharmy’s dedication to maintaining a **security-first culture** and providing trustworthy solutions to its healthcare partners.

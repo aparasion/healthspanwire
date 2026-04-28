@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/revgenetics-unveils-absorption-ga
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 RevGenetics has introduced DiBerberine 300x, an advanced dihydroberberine supplement engineered to enhance bioavailability through innovative enteric-coated technology. Each capsule contains a proprietary blend of 500 mg DiBerberine and RGBooster1, a novel flavonoid complex designed to address key challenges in berberine absorption, specifically stomach acid degradation and P-glycoprotein efflux.

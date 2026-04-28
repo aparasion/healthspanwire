@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/26/3281218/0/pt/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A pivotal event in health innovation, the **C3 Davos of Healthcare™ Silicon Valley Summit**, is set to commence on April 27, 2026, at the Plug and Play Tech Center in Sunnyvale, California. This summit, themed **"Healthtech Frontiers: Building The Health Ecosystem of Tomorrow,"** is driven by a strategic partnership with the **King Faisal Specialist Hospital & Research Centre (KFSH)**. Notable speakers include Dr. Björn Zoëga, who will discuss the transition from isolated digital pilots to integrated operational models in large hospital systems, and Dr. Petros Kotsidis, focusing on the future of AI in healthcare.

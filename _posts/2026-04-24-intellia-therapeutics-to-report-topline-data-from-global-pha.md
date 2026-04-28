@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/24/3281073/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Intellia Therapeutics has announced the upcoming topline clinical data from its Phase 3 HAELO trial for **lonvoguran ziclumeran (lonvo-z)**, a CRISPR gene editing candidate targeting hereditary angioedema (HAE). This marks a significant milestone as it represents the first Phase 3 readout for an in vivo CRISPR gene editing therapy, highlighting the potential of gene editing technologies in treating genetic disorders. The data will be presented during a webcast on April 27, 2026, at 8:00 a.m. ET.

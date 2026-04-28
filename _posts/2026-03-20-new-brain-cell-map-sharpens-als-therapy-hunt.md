@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/new-brain-cell-map-sharpens-als-t
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers at the DZNE and Ulm University Hospital have identified specific neurons in the motor cortex that are particularly vulnerable to TDP-43 pathology, a key factor in amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). This study, published in *Nature Communications*, moves the field from a broad understanding of protein misfolding to a more nuanced view, revealing that damage is not uniformly distributed across brain cells. Instead, five subgroups of excitatory neurons were found to be most affected, highlighting the concept of "selective vulnerability."

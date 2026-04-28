@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 The increasing global life expectancy has intensified the demand for **comprehensive palliative and end-of-life care**, particularly for older adults facing chronic conditions such as advanced dementia, multimorbidity, and traumatic brain injury (TBI). Effective planning for end-of-life care should ideally commence well before individuals reach late-stage disease, yet awareness and access to these care options remain historically and contextually variable, often reflecting significant disparities. The complexity of palliative care involves multiple stakeholders—including patients, medical professionals, and caregivers—while grappling with ethical dilemmas that complicate decision-making processes.

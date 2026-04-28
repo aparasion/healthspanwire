@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260325005917.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers at the University of Cologne have uncovered a critical mechanism behind the aggressive nature of small cell lung cancer (SCLC), revealing that the loss of the protein caspase-8 triggers inflammation that not only promotes tumor growth but also drives cancer cells into a more aggressive, neuron-like state associated with relapse. Their study, published in *Nature Communications*, highlights how the absence of caspase-8 leads to necroptosis, an inflammatory form of cell death that creates a hostile environment conducive to cancer progression.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/a-broad-categorization-
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "significant"
 ---
 
 Recent research categorizes the issues leading to immune aging into two main phenomena: immunosenescence, characterized by a loss of immune capacity, and inflammaging, marked by persistent inflammatory signaling. This paper emphasizes the interconnected nature of immune aging, highlighting that it results from complex changes across immune and tissue networks rather than isolated defects. This perspective reflects a significant shift in the life sciences, as treating aging as a medical condition gains traction.

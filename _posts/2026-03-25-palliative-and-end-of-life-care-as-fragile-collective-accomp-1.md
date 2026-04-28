@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent examination highlights the increasing necessity for comprehensive palliative and end-of-life care as global life expectancy rises, particularly for older adults grappling with chronic conditions like advanced dementia, multimorbidity, and traumatic brain injury. The study underscores that effective planning for end-of-life care should ideally commence well before individuals reach the late stages of disease, yet current options and awareness are often limited and unevenly distributed across different populations.

@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01115-0"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 Marco Colonna and his team have made significant strides in developing a novel approach to Alzheimer’s disease through engineered astrocytes. Their research focuses on creating **Aβ-specific chimeric antigen receptor (CAR)** constructs that leverage the phagocytic capabilities of astrocytes, shifting the paradigm from traditional monoclonal antibody therapies. This transition was prompted by the technical limitations associated with existing monoclonal antibody strategies and myeloid cell applications, leading to the exploration of astrocytes as a more versatile and abundant resource in the central nervous system.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270059/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 HealthBook+ has launched **HealthBook+ 2.0**, an advanced clinical intelligence solution, at the Hint Summit 2026. This updated platform features a significantly enhanced version of **PaiGE**, the Agentic Medical Partner, which is designed to actively guide patients and support clinicians throughout the care continuum. Key new functionalities include **real-time Conversations**, clinician-defined **Journeys**, and deeper integration with **Hint**, all aimed at creating a more connected and seamless healthcare experience.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/nppa-gene-therapy-to-en
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "noteworthy"
 ---
 
 Researchers have developed a novel **gene therapy** approach targeting heart regeneration post-myocardial infarction by leveraging the **NPPA gene** to enhance the production of **atrial natriuretic peptide (ANP)**. This innovative strategy utilizes **RNA-lipid nanoparticles** to transfect muscle cells, enabling them to produce a pro-ANP molecule that circulates in the bloodstream until it reaches the heart, where it is activated by the enzyme **Corin**. This method circumvents the challenges associated with direct cardiac drug delivery, which has historically hindered effective treatment options.

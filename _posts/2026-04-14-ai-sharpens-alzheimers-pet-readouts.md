@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/ai-sharpens-alzheimers-pet-readou
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 A new imaging method developed by researchers in China leverages **artificial intelligence** to enhance the utility of Alzheimer’s PET scans by distinguishing between disease-related signals and normal brain activity. This framework, termed **interpretable adversarial decomposition learning (ADL)**, aims to reduce the "noise" that often complicates the interpretation of PET scans, providing clinicians with clearer insights into the actual disease progression experienced by patients. The resultant **Alzheimer’s disease adversarial decomposition (ADAD) score** demonstrates a stronger correlation with cognitive decline and neurodegeneration than traditional PET scoring methods.

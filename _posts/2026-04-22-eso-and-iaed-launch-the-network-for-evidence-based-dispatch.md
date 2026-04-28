@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279188/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **ESO Solutions, Inc.** and **The International Academies of Emergency Dispatch (IAED)** have launched the **Network for Evidence-Based Dispatch (NEBD)**, a groundbreaking research consortium aimed at enhancing emergency dispatch decision-making through continuous, outcomes-based evidence. Co-led by Dr. Brent Myers of ESO and Jerry Overton of IAED, the NEBD comprises over a dozen EMS and fire agencies that will collaborate to refine protocols and improve patient outcomes based on real-world data. This initiative builds on a strategic alliance established in November 2025, signaling a commitment to advancing evidence-based practices in emergency response.

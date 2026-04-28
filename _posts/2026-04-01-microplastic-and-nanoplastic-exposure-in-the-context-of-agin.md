@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/microplastic-and-nanopl
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Recent research underscores the potential dangers of microplastic and nanoplastic (MNP) exposure, particularly in aging populations. Studies indicate that while harmful doses of nanoplastics are significantly higher than current environmental levels, their long-term effects on health and aging remain underexplored. This gap in knowledge is critical, as MNPs may exacerbate age-related diseases through mechanisms such as oxidative stress, inflammation, and mitochondrial dysfunction.

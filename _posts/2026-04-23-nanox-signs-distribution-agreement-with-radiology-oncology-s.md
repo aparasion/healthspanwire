@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279831/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Nano-X Imaging Ltd.** has expanded its U.S. distribution network through a partnership with **Radiology Oncology Systems** (ROS) to distribute its **Nanox.ARC** systems. This FDA-cleared, multisource digital tomosynthesis technology offers 3D imaging capabilities at a lower cost and reduced radiation exposure compared to traditional CT systems. The collaboration aims to enhance access to advanced imaging solutions in oncology and adjacent care settings across the U.S., leveraging ROS's established distribution network.

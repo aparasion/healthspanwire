@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag071/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study highlights the critical gap in **dementia education** within undergraduate healthcare curricula, revealing systemic barriers that hinder effective integration. Through a combination of literature review and stakeholder interviews, researchers developed an **initial programme theory (IPT)** to address these challenges, focusing on the perspectives of clinical educators, individuals with dementia, their caregivers, and medical students.

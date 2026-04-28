@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270262/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The **2026 Vail Hip Summit**, organized by the Steadman Philippon Research Institute (SPRI) in collaboration with the Hospital for Special Surgery (HSS), will take place from April 9-11 at the Four Seasons Resort Vail. This year marks the 19th iteration of the summit, which has evolved into a premier forum for hip preservation specialists. With over 25 distinguished faculty members, including Dr. Marc J. Philippon, the event will focus on the latest advancements in **hip repair, preservation, and rehabilitation**, featuring live surgical demonstrations and discussions on emerging research.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270820/35186
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Kura Oncology, Inc. has announced upcoming presentations at the International Kidney Cancer Symposium (IKCS) Europe 2026, showcasing updated data from the ongoing FIT-001 clinical trial (NCT 06026410). The trial evaluates **darlifarnib (KO-2806)**, a next-generation farnesyl transferase inhibitor (FTI), in combination with **cabozantinib** for patients with advanced clear cell renal cell carcinoma (ccRCC). This development builds on promising findings from the 2025 ESMO Congress, where the combination demonstrated notable clinical activity alongside a manageable safety profile.

@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/technogym-and-google-cloud-expand
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Technogym has entered a multi-year collaboration with Google Cloud to integrate generative AI into its fitness ecosystem, marking a significant advancement in personalized training and operations. This partnership aims to transform traditional fitness paradigms by utilizing Google’s Gemini models to create a more dynamic and individualized experience for users. The updated AI Coach will enable real-time adjustments to training programs based on user data, moving away from static workout plans to a model of **“predictive wellness”** that is both scalable and deeply personalized.

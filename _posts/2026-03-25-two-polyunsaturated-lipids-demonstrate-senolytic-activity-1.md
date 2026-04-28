@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXNKRl9lSGFXMX
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Recent research from the Lifespan Research Institute has identified two polyunsaturated lipids that exhibit senolytic activity, potentially advancing the field of senotherapy. These lipids, which are naturally occurring in various food sources, have shown promise in selectively targeting and eliminating senescent cells, a key contributor to aging and age-related diseases.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270049/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Biora Therapeutics has reported **over 25% oral bioavailability** for its innovative BioJet™ platform, a swallowable autoinjector designed for the oral delivery of proteins, antibodies, and other biomolecules. The company, emerging from restructuring, is advancing its **smaller '00' sized BioJet device** with a focus on achieving IND-readiness. CEO Adi Mohanty highlighted the platform's rapid progress, emphasizing its potential to revolutionize drug delivery by providing a needle-free alternative for patients.

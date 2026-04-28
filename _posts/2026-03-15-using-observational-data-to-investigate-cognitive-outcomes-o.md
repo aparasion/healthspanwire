@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A scoping review conducted on the relationship between **obstructive sleep apnea (OSA)** treatment and cognitive outcomes reveals promising associations, albeit with variability in results. Analyzing 13 retrospective cohort studies, the review highlights that most studies indicate **positive airway pressure (PAP)** therapies are linked to improved cognitive outcomes, including dementia diagnosis and cognitive performance changes. However, the magnitude and significance of these effects differ based on factors such as data source and sample size, suggesting a complex interplay that warrants further investigation.

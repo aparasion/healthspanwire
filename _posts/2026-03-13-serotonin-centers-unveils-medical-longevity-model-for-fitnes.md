@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/serotonin-centers-unveils-medical
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Serotonin Centers has unveiled the Serotonin Partner Program, a pioneering medical longevity model tailored for fitness facilities across the U.S. This innovative platform allows gyms and health clubs to offer medically supervised services, such as weight loss and hormone optimization, seamlessly integrating them into their existing operations. By transforming underutilized spaces into branded longevity suites, the program alleviates the operational burden on fitness operators while enhancing their service offerings.

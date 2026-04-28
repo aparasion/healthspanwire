@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/women-only-longevity-retreat-debu
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Goddess Retreats has launched a **women-only longevity retreat** in Bali, focusing on **functional longevity** through a seven-day health program. This initiative marks a significant shift from traditional wellness retreats, which often emphasize temporary pampering, to a model that prioritizes long-term health and recovery. The revamped Seminyak Oasis includes a new **Contrast Therapy Suite** featuring a Nordic sauna, ice baths, and light-based therapies, all designed to enhance metabolism, recovery, and cellular health.

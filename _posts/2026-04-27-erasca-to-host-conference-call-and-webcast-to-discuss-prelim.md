@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281615/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Erasca, Inc. has announced preliminary Phase 1 dose escalation data for its investigational pan-RAS molecular glue, **ERAS-0015**, aimed at treating patients with RAS-mutant solid tumors. The data, presented during a conference call on April 27, 2026, indicate that ERAS-0015 demonstrates a **favorable safety profile** and **well-behaved, linear pharmacokinetics (PK)**, with confirmed and unconfirmed partial responses observed in multiple patients at doses as low as **8 mg once daily (QD)**.

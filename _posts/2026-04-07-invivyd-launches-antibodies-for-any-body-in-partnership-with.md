@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268977/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Invivyd, Inc. has launched the **Antibodies for Any Body** campaign, aimed at enhancing public understanding of antibodies and their critical role in immune health. This initiative, featuring Olympic champion Lindsey Vonn, introduces an interactive online resource, **AntibodiesforAnyBody.com**, which includes a wellness assessment designed to educate users on how lifestyle choices influence immune function and antibody production.

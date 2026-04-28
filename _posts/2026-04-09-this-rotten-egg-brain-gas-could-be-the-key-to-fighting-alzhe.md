@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260408225933.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers at **Johns Hopkins Medicine** have identified a critical role for the protein **Cystathionine γ-lyase (CSE)** in the production of trace amounts of **hydrogen sulfide**, a gas previously associated with neuroprotection. In genetically engineered mice lacking CSE, significant cognitive impairments emerged, mirroring symptoms of **Alzheimer’s disease**. These mice exhibited memory loss, oxidative stress, and compromised blood-brain barrier integrity, underscoring CSE's importance in maintaining brain health.

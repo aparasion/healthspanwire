@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272473/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Nano X Imaging Ltd.** has made significant strides in expanding its U.S. commercial presence with a new distribution agreement between its subsidiary, **Nanox Impact Inc.**, and **Digital X-Ray Imaging Inc.** This partnership aims to enhance the deployment of the **Nanox.ARC**, an FDA-cleared digital tomosynthesis system that facilitates 3D imaging at a lower cost and with reduced radiation exposure compared to traditional CT systems. The agreement will enable DXI to market and support the Nanox.ARC across its extensive network of healthcare facilities in Arkansas, leveraging its established relationships and service capabilities.

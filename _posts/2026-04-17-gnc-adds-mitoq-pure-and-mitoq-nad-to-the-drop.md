@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/gnc-adds-mitoq-pure-and-mitoq-nad
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 GNC has introduced **MitoQ Pure** and **MitoQ NAD+ Dual Action** in its innovation hub, The Drop by GNC, emphasizing targeted mitochondrial support for **energy**, **vitality**, and **healthy aging**. MitoQ Pure contains **mitoquinol mesylate**, recognized as the first mitochondria-targeted antioxidant, purported to mitigate **oxidative stress** while enhancing energy levels, recovery, performance, and cardiovascular health. Meanwhile, MitoQ NAD+ Dual Action aims to bolster **NAD+ levels** alongside mitochondrial performance, addressing the critical role of NAD+ in cellular metabolism and longevity.

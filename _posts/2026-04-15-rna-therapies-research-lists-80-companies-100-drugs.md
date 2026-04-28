@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/rna-therapies-research-lists-80-c
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 A comprehensive analysis from ResearchAndMarkets.com has unveiled an extensive overview of the **RNA therapeutics landscape**, profiling over **80 companies** and more than **100 drug candidates**. This research categorizes RNA-based drugs into four distinct classes: **antisense oligonucleotides**, **siRNA**, **aptamers**, and **mRNA**, while also highlighting inactive pipeline entries. The evaluation encompasses various dimensions, including product type, development stage, administration route, and molecule type, providing a detailed framework for understanding the current state and future directions of RNA therapies.

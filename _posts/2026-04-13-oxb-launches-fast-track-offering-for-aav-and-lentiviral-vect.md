@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272348/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 OXB has launched a **fast-track development and manufacturing service** aimed at biotechs facing timeline constraints, significantly accelerating the pathway to GMP manufacturing for lentiviral (LV) and adeno-associated viral (AAV) vectors. This new offering can reduce the timeline for AAV vector GMP manufacture from approximately 15 months to as little as **seven months**, while lentiviral vector timelines can be shortened from 12-18 months to **nine months**. This acceleration is facilitated by OXB's proprietary **inAAVate™ and LentiVector™ platforms**, which leverage high-performance, plug-and-play technologies and advanced analytics to streamline processes.

@@ -10,6 +10,8 @@ source_url: "https://www.nature.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Recent research has uncovered that activity levels and daytime sleepiness in fish can be combined into a predictive 'behavioral clock' for lifespan determination. This innovative approach may provide insights into the biological mechanisms underlying aging, as researchers explore how these behavioral patterns correlate with longevity.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271760/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Cook County Health has launched **Get Medicaid Facts**, a microsite and communications toolkit aimed at supporting enrollees, healthcare providers, and community organizations in navigating significant changes to Medicaid eligibility following the passage of House Resolution (H.R.) 1 in 2025. This legislation is projected to cut **$1 trillion** from Medicaid nationwide over the next decade, with Illinois facing a **$26 billion** reduction, potentially affecting **400,000** residents who may lose coverage. The Illinois Department of Healthcare and Family Services (HFS) emphasizes the need for preparedness as new eligibility requirements and financing changes are set to take effect in January 2027.

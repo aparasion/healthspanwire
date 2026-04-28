@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278198/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Remix Therapeutics has announced the acceptance of final results from the Phase 1 dose-escalation cohort of the ARIA study, which evaluates the MYB mRNA degrader, **REM-422**, in patients with recurrent or metastatic adenoid cystic carcinoma (ACC). This first-in-class small molecule therapy targets MYB dysregulation, a critical driver of ACC, and will be presented by Dr. Renata Ferrarotto at the 2026 ASCO Annual Meeting. The study aims to assess the **safety, pharmacokinetics, pharmacodynamics**, and preliminary efficacy of REM-422, addressing a significant unmet need in a disease with no approved systemic therapies.

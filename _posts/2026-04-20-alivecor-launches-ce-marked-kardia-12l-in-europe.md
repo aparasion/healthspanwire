@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alivecor-launches-ce-marked-kardi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 AliveCor has achieved CE Mark certification for its **Kardia 12L electrocardiogram system**, enabling its distribution throughout the European Economic Area. This innovative, handheld device employs a **single-cable, five-electrode design** to generate a 12-lead ECG at the point of care, powered by the KAI 12L AI platform, which can identify **35 cardiac conditions**, including acute myocardial infarction and various forms of cardiac ischemia. At just **0.13 kg**, the Kardia 12L is designed for use by healthcare professionals in diverse settings, such as primary care, urgent care, pharmacies, and rural clinics, requiring minimal training for effective operation.

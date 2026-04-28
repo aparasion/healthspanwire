@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260426012303.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 A recent study from the Medical University of South Carolina, led by Dr. Onder Albayram, reveals that **eicosapentaenoic acid (EPA)**, a key omega-3 fatty acid found in fish oil, may hinder brain recovery in individuals with repeated mild traumatic brain injuries (TBIs). Contrary to the long-held belief that fish oil supports brain health, the research indicates that EPA could destabilize blood vessels, disrupt healing signals, and contribute to harmful protein accumulation associated with cognitive decline.

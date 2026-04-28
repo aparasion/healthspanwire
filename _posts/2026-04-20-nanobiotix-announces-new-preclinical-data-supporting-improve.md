@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276718/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Nanobiotix has presented promising preclinical data on its **Nanoprimer** platform, which aims to enhance the efficacy of lipid nanoparticle (LNP)-delivered therapies by addressing rapid liver clearance issues. In a mouse model, pre-treatment with Nanoprimer followed by administration of LNP-delivered recombinant DNA (LNP-DNA) for anti-tumor immunotherapy resulted in **increased systemic bioavailability**, **reduced hepatic toxicity**, and **mitigated cGAS-STING related inflammation** compared to LNP-DNA alone. This study was showcased at the 2026 Annual Meeting of the American Association for Cancer Research.

@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNWFJblF0aGFaSG
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Dr. Peter Attia's new book, "Outlive," presents a comprehensive approach to longevity that emphasizes not just lifespan but healthspan—how long we live in good health. Attia, a physician focused on the applied science of longevity, draws on the latest research to advocate for proactive health management, including nutrition, exercise, and mental well-being.

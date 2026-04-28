@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Recent research highlights the critical role of oxidative stress (OS) in aging, emphasizing that an imbalance between reactive oxygen species (ROS) production and antioxidant defenses initiates cellular damage. This review outlines key biomarkers of OS, including protein oxidation products and DNA lesions, which indicate the extent of oxidative damage and its contribution to cellular senescence and dysfunction.

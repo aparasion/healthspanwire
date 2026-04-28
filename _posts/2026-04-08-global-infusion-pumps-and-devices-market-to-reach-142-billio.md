@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270016/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The global **infusion pumps and devices market** is projected to expand from **$9 billion in 2024 to $14.2 billion by 2030**, representing a **compound annual growth rate (CAGR) of 7.9%**. This growth is driven by an increase in chronic diseases, higher surgical volumes, a rising elderly population, and a shift towards **ambulatory infusion pumps**. The report from BCC Research highlights the critical role these devices play in delivering medication for conditions such as diabetes, cancer, and cardiovascular diseases, which are becoming more prevalent.

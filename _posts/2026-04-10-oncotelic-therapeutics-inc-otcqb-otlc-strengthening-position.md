@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271722/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Oncotelic Therapeutics Inc. has recently been highlighted in an editorial by AINewsWire, emphasizing the transformative role of **artificial intelligence (AI)** in pharmaceutical manufacturing. As regulatory pressures mount and production complexities increase, the industry is moving towards an integrated model where AI continuously monitors and optimizes manufacturing processes, ensuring compliance with **Good Manufacturing Practice (GMP)** standards in real time. This shift represents a significant departure from traditional reliance on retrospective audits and manual checks.

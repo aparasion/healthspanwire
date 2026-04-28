@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHaGNQa1B5M01LOU
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Enlivex has successfully secured $21 million in debt financing to propel its longevity drug programs forward. This funding will specifically support the development of therapies aimed at improving healthspan and addressing age-related diseases, aligning with the growing interest in longevity science.

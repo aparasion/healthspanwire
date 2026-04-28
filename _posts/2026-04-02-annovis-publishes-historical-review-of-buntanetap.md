@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/annovis-publishes-historical-revi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Annovis has published a comprehensive historical review of Buntanetap in *The Scientist*, detailing its evolution from a 19th-century poison to a promising investigational therapy for Alzheimer’s and Parkinson’s diseases. This review encapsulates the compound's discovery, mechanism identification, chemical optimization, and its progression through various clinical trials, underscoring the significant strides made by Annovis as a Phase 3 clinical-stage biotechnology company.

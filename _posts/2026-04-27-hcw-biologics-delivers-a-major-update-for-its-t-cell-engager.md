@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281513/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 HCW Biologics has unveiled promising preclinical data on its lead T-Cell Engager, **HCW11-018b**, at the AACR Annual Meeting 2026. This tetra-valent T-cell engager is engineered to penetrate the tumor microenvironment and exhibit **potent, antigen-specific anti-pancreatic cancer activities**. The company anticipates filing an IND application in the first half of 2027 to initiate clinical studies targeting pancreatic cancer, a notoriously difficult malignancy to treat.

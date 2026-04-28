@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Eli Lilly and Company has announced its acquisition of Centessa Pharmaceuticals, a clinical-stage firm specializing in orexin receptor 2 (OX2R) agonists aimed at treating excessive daytime sleepiness and related neurological conditions. Centessa’s lead candidate, **cleminorexton** (formerly ORX750), has shown promising results in Phase 2a trials for narcolepsy types 1 and 2, as well as idiopathic hypersomnia, positioning it as a potential best-in-class therapeutic.

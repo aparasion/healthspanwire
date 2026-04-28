@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/higher-dose-semaglutide-gets-fast
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Novo Nordisk has received FDA approval for a higher-dose version of its obesity drug Wegovy, now branded as Wegovy HD, which delivers 7.2 mg of semaglutide for weight loss and maintenance. This swift approval, achieved just 54 days post-filing, highlights a significant shift in how metabolic diseases are prioritized in regulatory processes, reflecting an urgent response to obesity as a pressing public health issue.

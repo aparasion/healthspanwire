@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281511/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Medicus Pharma Ltd. has initiated a strategic push for regulatory support of its investigational therapy SkinJect® aimed at treating Gorlin Syndrome, a rare genetic condition characterized by the early onset of basal cell carcinomas (BCCs). CEO Dr. Raza Bokhari led discussions with key lawmakers, advocating for **Orphan Drug Designation** and **Investigational New Drug (IND)** approval for SkinJect®, as well as a pediatric FDA voucher program for rare diseases. These efforts emphasize the critical need for innovative, non-surgical treatment options for Gorlin Syndrome patients, who often face lifelong challenges with recurrent tumors.

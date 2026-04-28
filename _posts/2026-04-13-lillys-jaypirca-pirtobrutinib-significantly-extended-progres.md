@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "landmark"
 ---
 
 Lilly's **Jaypirca (pirtobrutinib)** has demonstrated a significant extension in **progression-free survival (PFS)** when combined with a venetoclax time-limited regimen in patients with previously treated **chronic lymphocytic leukemia (CLL)** and **small lymphocytic lymphoma (SLL)**. The **BRUIN CLL-322 trial** represents the first Phase 3 readout in CLL to outperform a venetoclax-containing control arm, enrolling a patient population predominantly treated with covalent BTK inhibitors, which is highly relevant to current clinical practice. Although overall survival (OS) data is not yet mature, it is trending positively for the pirtobrutinib combination regimen.

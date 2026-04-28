@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281609/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Tenaya Therapeutics has announced the acceptance of multiple abstracts for presentation at the upcoming ASGCT Annual Meeting, including a late-breaking oral presentation of new clinical data from the RIDGE-1 Phase 1b/2 trial of **TN-401**, a gene replacement therapy targeting **arrhythmogenic right ventricular cardiomyopathy (ARVC)** caused by **PKP2 gene mutations**. This innovative therapy utilizes an **AAV9 vector** to deliver a functional PKP2 gene into heart muscle cells, addressing the root cause of this genetic condition, which affects approximately **70,000 individuals in the U.S.** alone.

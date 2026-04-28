@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278118/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Disc Medicine, Inc. has announced the upcoming presentation of data from the **RALLY-MF Phase 2 trial** of **DISC-0974**, an anti-hemojuvelin antibody aimed at treating **anemia in myelofibrosis (MF)**. This presentation will take place during the **American Society of Clinical Oncology (ASCO) Annual Meeting** from June 2, 2026. The initial findings from the trial indicate **unprecedented anemia response rates** in this challenging patient population, a significant advancement in the treatment landscape for myelofibrosis, a hematologic malignancy often associated with severe anemia.

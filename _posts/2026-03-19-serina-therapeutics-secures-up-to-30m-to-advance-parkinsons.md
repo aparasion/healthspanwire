@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/serina-therapeutics-secures-up-to
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Serina Therapeutics has secured $15 million in gross proceeds through a private placement, with a first tranche set to close on March 20, 2026, and a second tranche potentially adding another $15 million by April 30, 2026. The offering includes common stock and pre-funded warrants priced at $2.25 per share, along with 50% warrant coverage priced at $5.00 per share, which could yield an additional $33.3 million if exercised.

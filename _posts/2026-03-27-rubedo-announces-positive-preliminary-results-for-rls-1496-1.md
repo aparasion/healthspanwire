@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/rubedo-announces-positive-preliminary-resu
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Rubedo Life Sciences, Inc. has announced **positive preliminary results** from its Phase 1 clinical trial of RLS-1496, a **first-in-class GPX4 modulator** targeting aging cells in patients with plaque psoriasis, atopic dermatitis, and photo-aged skin. This study, conducted in the European Union, aimed to evaluate the safety, tolerability, and clinical effects of RLS-1496, marking a significant milestone in the exploration of **selective cellular rejuvenation** therapies. The trial successfully met its primary endpoint, demonstrating not only safety but also early signs of efficacy across multiple skin conditions.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279956/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Royal Philips has launched the **Bridge Plus Occlusion Balloon**, a next-generation device aimed at controlling bleeding during rare but critical **superior vena cava (SVC) tears** that can occur in less than 0.5% of **transvenous lead extraction (TLE)** procedures. This device can deploy in under two minutes, significantly reducing blood loss by up to **90%** and maintaining hemostasis for at least **30 minutes**, thereby providing electrophysiology teams with crucial time to stabilize patients and prepare for surgical intervention.

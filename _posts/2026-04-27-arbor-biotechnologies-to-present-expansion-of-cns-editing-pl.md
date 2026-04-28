@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3282077/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Arbor Biotechnologies is set to present groundbreaking advancements in gene editing at the upcoming ASGCT 2026 Annual Meeting, showcasing a **novel compact reverse transcriptase (RT) editor** that achieves **in vivo gene editing in the central nervous system (CNS)** with a single adeno-associated virus (AAV) delivery. This innovative approach addresses a significant limitation in current gene editing technologies, which typically require multiple AAVs for effective CNS targeting. The compact RT editor, comprising a unique **nickase and reverse transcriptase under 1200 amino acids**, opens new avenues for treating neurodegenerative diseases and other conditions where AAV is the sole viable delivery mechanism.

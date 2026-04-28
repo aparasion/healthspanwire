@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278895/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Neurona Therapeutics has reported promising results from its ongoing Phase 1/2 trials evaluating **rezanecel (NRTX-1001)**, an allogeneic interneuron cell therapy for drug-resistant **mesial temporal lobe epilepsy (MTLE)**. In participants with unilateral MTLE and mesial temporal sclerosis (MTS), a low dose of rezanecel achieved an **89% median reduction** in disabling seizures over a 7-12 month period, while those without MTS experienced a **100% median reduction** during a 4-6 month interim evaluation. For bilateral MTLE, a **64% median reduction** was observed, highlighting the therapy's potential across different patient cohorts.

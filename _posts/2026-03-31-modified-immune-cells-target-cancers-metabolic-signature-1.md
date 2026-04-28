@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/modified-immune-cells-target-cancers-metab
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Researchers at Stanford University have identified **GPR183**, a metabolite-sensing receptor, as a pivotal target for enhancing the infiltration of immune cells into solid tumors. By introducing GPR183 into natural killer (NK) cells, the study demonstrated a significant improvement in their ability to penetrate tumors and combat cancer in mouse models. This advancement addresses a longstanding challenge in cancer immunotherapy: the difficulty of immune cells accessing the tumor microenvironment, which is often hostile and suppressive.
