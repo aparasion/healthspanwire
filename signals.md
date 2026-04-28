@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: signals
 title: Research Tracker
 permalink: /signals/
 description: "Is it real or hype? The Research Tracker follows the most-talked-about claims in longevity science and tells you where the evidence actually stands."
