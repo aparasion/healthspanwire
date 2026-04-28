@@ -365,7 +365,7 @@ hr {
 /* ── Hero Section ───────────────────────────────────────── */
 .hero {
   position: relative;
-  padding: var(--space-8) 0 var(--space-6);
+  padding: 0;
   text-align: center;
   overflow: hidden;
   width: 100vw;
@@ -1858,7 +1858,7 @@ a.internal-link:hover {
 /* ── Mobile Responsive ───────────────────────────────────── */
 @media (max-width: 768px) {
   .hero {
-    padding: var(--space-10) 0 var(--space-8);
+    padding: 0;
   }
 
   .hero h1 {
