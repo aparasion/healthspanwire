@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/neuroscience-of-vitality-and-aging-confere
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 The Neuroscience of Vitality and Aging (NOVA) Conference, set for April 25, 2026, in Boston, aims to unite leaders from neuroscience, biotechnology, policy, and investment to tackle the pressing challenge of maintaining brain health throughout life and combating neurodegenerative diseases. Organized by the Aging Initiative, this one-day interdisciplinary event seeks to bridge the gap between foundational brain-aging science and its clinical applications, fostering collaboration that has often been fragmented across various sectors.

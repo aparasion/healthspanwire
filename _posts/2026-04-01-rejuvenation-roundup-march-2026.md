@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/rejuvenation-roundup-march-2026/?utm_sourc
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 In March 2026, the longevity and healthspan research landscape saw significant advancements, particularly through the launch of a fundraiser by João Pedro de Magalhães to support the Human Ageing Genomic Resources database. This platform has become a cornerstone for researchers in aging biology, attracting over 200,000 visitors annually and accumulating more than 1,000 citations, thereby facilitating crucial research and collaboration in the field.

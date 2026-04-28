@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279024/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Paragonix Technologies has unveiled **TempLock™**, a groundbreaking temperature stabilization technology integrated into its SherpaPak® Cardiac Transport System, designed to enhance the preservation of donor hearts during transport. This innovation, showcased at ISHLT 2026, ensures consistent temperatures maintained within a controlled range of **4-8°C** for extended periods, addressing the increasing ischemic times faced by transplant surgeons in the U.S. As clinical practices evolve towards longer-distance procurements, TempLock offers greater control and flexibility in donor heart preservation.

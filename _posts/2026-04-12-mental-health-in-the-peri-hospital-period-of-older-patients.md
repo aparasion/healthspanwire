@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag076/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent prospective study involving **683 older patients** (average age 77.3) hospitalized in acute medical units highlights the detrimental impact of **physical symptoms burden (PSB)** and **sleep quality (SQ)** on anxiety and depressive mood trajectories during the peri-hospital period. Conducted through structured interviews at admission, discharge, and one month post-discharge, the study utilized mixed-model analyses to assess how these factors, alongside the burden of **sedative-hypnotic medications (SHM)**, influence mental health outcomes.

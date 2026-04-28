@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277716/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Dr. Bruce Lahn and his team at VectorBuilder have unveiled a novel mechanism termed **occlusis**, which elucidates how stem cells differentiate into specialized cell types while progressively losing **transcriptional potency**. Utilizing a new technique called **Potency-Seq**, they demonstrated that as stem cells mature, an increasing number of genes become permanently occluded, or silenced, rendering them incapable of expression even in the presence of transcription factors. This research fundamentally shifts our understanding of cell identity, suggesting that the essence of a cell type lies not merely in its expression patterns but in the **transcriptional potential** of its genome.

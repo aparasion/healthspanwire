@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280025/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Alpha Tau Medical Ltd. has initiated the **ACAPELLA trial**, a European multicenter clinical study assessing the efficacy of **Alpha DaRT** (Diffusing Alpha-emitters Radiation Therapy) combined with **capecitabine** for patients with **inoperable locally advanced pancreatic ductal adenocarcinoma (LAPC)**. The first patient was treated at CHU Grenoble Alpes, marking a significant milestone in addressing the treatment gap for LAPC patients who have completed first-line mFOLFIRINOX chemotherapy. This patient cohort, comprising approximately **30% of the 140,000 annual pancreatic cancer diagnoses in Europe**, faces dire prognoses with no established standard consolidation therapy.

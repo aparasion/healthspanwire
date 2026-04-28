@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/new-study-reveals-more-insight-about-gen
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study published in *Science* has significantly revised our understanding of the genetic influence on human longevity, suggesting that genetics may account for about 50% of lifespan, a notable increase from earlier estimates of 25-33%. Researchers utilized data from the Swedish Adoption/Twin Study of Ageing, which allowed them to control for external factors influencing mortality, such as sanitation and healthcare improvements, thus providing a clearer picture of the nature versus nurture debate in longevity.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/tiny-gene-reveals-splicings-role-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers from the University of Oxford and the Francis Crick Institute have elucidated the functional consequences of mutations in the **RNU4-2** non-coding RNA gene, linking splicing dysfunction to neurodevelopmental disorders in two companion papers published in *Nature* and *Nature Genetics*. This gene, only 145 bases long, has been shown to impact approximately 100,000 individuals globally, with the studies revealing a systematic mapping of mutations that lead to distinct clinical outcomes, including ReNU syndrome and a newly identified recessively inherited condition.

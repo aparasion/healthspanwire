@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Recent findings from the **Honolulu Heart Program** cohort indicate that a longevity-associated variant of **Forkhead box O3 (FOXO3)** may confer resilience against **cardiometabolic diseases (CMDs)**, including hypertension, diabetes, and angina. Building on this, the **Concord Health and Ageing in Men Project (CHAMP)** cohort in Australia examined the protective effects of the **“G” allele of rs2802292** on mortality among individuals with these conditions. The study revealed a significant association (p-value: .01) between the G allele and reduced mortality specifically in patients with angina, although no notable impact was observed for those with hypertension or diabetes.

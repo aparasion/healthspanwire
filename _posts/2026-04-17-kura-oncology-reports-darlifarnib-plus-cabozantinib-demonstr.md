@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276007/35186
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Kura Oncology has presented promising preliminary data from the FIT-001 clinical trial, evaluating the combination of **darlifarnib** and **cabozantinib** in patients with **clear cell renal cell carcinoma (ccRCC)** who have previously been treated with cabozantinib. This subset analysis revealed a **44% objective response rate (ORR)** and an impressive **94% disease control rate (DCR)** among a heavily pretreated population, with **tumor shrinkage** observed in **75%** of these patients. Notably, responses were documented even in individuals whose best prior response to cabozantinib was stable disease, indicating a potential for **resensitization** to VEGF TKI therapy.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260420014738.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers at the University of Kent have identified **madecassic acid**, a compound derived from the herb **Centella asiatica**, as a potent agent against **antibiotic-resistant bacteria**, including virulent strains of **E. coli**. This discovery highlights madecassic acid's ability to disrupt bacterial survival by targeting the **cytochrome bd complex**, a protein essential for bacterial respiration that is absent in humans. This mechanism positions madecassic acid as a promising candidate for developing new antibiotic therapies at a time when antimicrobial resistance poses a significant global health threat.

@@ -10,6 +10,8 @@ source_url: "https://medicine.arizona.edu"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 The University of Arizona's College of Medicine – Tucson is experiencing a significant surge in research funding, having more than doubled its grants over the past five years. This growth underscores the institution's commitment to advancing health and wellness through innovative education, research, and patient care. Dr. Alexandra Miller, a prominent MD/PhD student, emphasizes the transformative potential of this research environment, positioning the college at the forefront of a healthcare revolution.

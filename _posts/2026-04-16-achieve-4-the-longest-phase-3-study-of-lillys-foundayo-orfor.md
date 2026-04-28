@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/achie
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Lilly's **ACHIEVE-4** trial has yielded promising results for **Foundayo** (orforglipron), a novel oral glucagon-like peptide-1 receptor agonist. This Phase 3 study, the longest to date, demonstrated that Foundayo met its primary objective of non-inferiority compared to insulin glargine, showing a **16% lower risk of MACE-4** events and a **23% lower risk of MACE-3** events. Notably, a pre-planned analysis revealed a **57% reduction in all-cause mortality** for patients treated with Foundayo versus those on insulin glargine, highlighting its potential for broader health benefits beyond glycemic control.

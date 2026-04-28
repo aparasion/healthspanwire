@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260413043133.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers at the Ecole Polytechnique Fédérale de Lausanne have uncovered a previously overlooked mechanism in mitochondrial biology termed **"mitochondrial pearling."** This phenomenon involves mitochondria temporarily adopting bead-like shapes, which facilitates the even distribution of **mitochondrial DNA (mtDNA)** clusters, known as nucleoids. By employing advanced imaging techniques, the team observed that these pearling events occur several times per minute, effectively maintaining the spacing of nucleoids even during mitochondrial shape changes.

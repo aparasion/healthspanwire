@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/merck-and-eisai-update-phase-3-re
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 Merck and Eisai have announced that the Phase 3 LITESPARK-012 trial, designed to evaluate the efficacy of novel treatment combinations for advanced clear cell renal cell carcinoma, did not achieve its dual primary endpoints of **progression-free survival** and **overall survival**. This randomized, open-label study involved 1,688 patients and compared two experimental regimens: a triplet therapy of **KEYTRUDA** (pembrolizumab), **LENVIMA** (lenvatinib), and **WELIREG** (belzutifan) against a combination of **MK-1308A** (a coformulation of pembrolizumab and quavonlimab) plus LENVIMA, relative to the established KEYTRUDA plus LENVIMA regimen.

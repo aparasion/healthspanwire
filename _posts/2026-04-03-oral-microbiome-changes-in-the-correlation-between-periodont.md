@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/oral-microbiome-changes
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers have identified significant correlations between the **oral microbiome**, **periodontal disease**, and **cognitive decline** through a comprehensive analysis of 1,157 participants from the Taizhou Imaging Study. This study utilized advanced salivary microbiome profiling alongside cognitive assessments to explore the intricate relationships between oral health and neurodegenerative outcomes. Key findings indicate that specific microbial genera, such as **Haemophilus**, and functional pathways related to inflammation and cellular signaling are associated with cognitive performance, suggesting a potential mechanistic link between oral health and brain function.

@@ -10,6 +10,8 @@ source_url: "https://www.nutritioninsight.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 A recent study has sparked controversy by suggesting potential dietary health risks for vegans, prompting the European Food Information Council (EUFIC) to urge caution in interpreting these findings. Laura Bosman, EUFIC's content manager, emphasizes that many media outlets have oversimplified the research, incorrectly framing it as evidence that vegan diets increase colorectal cancer risk. She points out that the study's limitations and the uncertainty surrounding its associations have been largely overlooked in sensational headlines.

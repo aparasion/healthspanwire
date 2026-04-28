@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260422003024.htm"
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers at the University of Barcelona have identified a **promising combination therapy** for metabolic dysfunction-associated steatotic liver disease (MASLD) using two existing drugs: **pemafibrate**, a lipid-lowering agent, and **telmisartan**, an antihypertensive medication. In animal models, this combination not only significantly reduced liver fat but also showed potential to mitigate cardiovascular risks associated with the disease. Notably, the study demonstrated that lower doses of both drugs were as effective as higher doses of either drug used alone, suggesting a **synergistic effect** that could enhance safety profiles.

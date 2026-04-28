@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/r1-launches-with-77-5m-for-chroni
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 R1 Therapeutics has launched with a robust $77.5 million Series A financing to advance AP306, a novel drug candidate targeting hyperphosphatemia in chronic kidney disease (CKD) patients on dialysis. Co-led by prominent investors including Abingworth and DaVita Venture Group, this biotech aims to address a longstanding issue in nephrology, where over 40% of U.S. dialysis patients struggle to manage phosphate levels effectively with existing therapies.

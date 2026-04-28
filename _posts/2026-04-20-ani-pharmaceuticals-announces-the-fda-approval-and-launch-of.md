@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276833/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 ANI Pharmaceuticals has launched **Pimozide Tablets** in both 1 mg and 2 mg dosages, marking the introduction of a generic version of the reference listed drug Orap®. This launch comes with **180-Day CGT exclusivity**, positioning ANI to capitalize on a market with annual sales estimated at **$3.1 million** as of February 2026, according to IQVIA data. Nikhil Lalwani, President and CEO of ANI, emphasized the company's commitment to providing **limited competition products** that enhance access to essential therapeutics.

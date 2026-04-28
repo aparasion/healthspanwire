@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/ardd-2026-to-relocate-to-boston"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "noteworthy"
 ---
 
 The Aging Research & Drug Discovery (ARDD) 2026 conference, a cornerstone event in longevity science, has been unexpectedly canceled in Copenhagen, prompting swift reactions from the research community. Professor Morten Scheibye-Knudsen announced the news on LinkedIn, expressing dismay over the University of Copenhagen's decision, which has disrupted years of collaboration and planning among leading figures in academia and biotech.

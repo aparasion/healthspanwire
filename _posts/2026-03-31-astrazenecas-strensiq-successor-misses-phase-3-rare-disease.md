@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/astrazenecas-phase-3-rare-dis
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 AstraZeneca's phase 3 trial of efzimfotase alfa, an investigational enzyme replacement therapy for hypophosphatasia (HPP), has failed to meet its primary endpoint, casting uncertainty on the company's ambitions to broaden its market beyond pediatric patients. The Hickory trial, which tested the therapy in adolescents and adults, showed that efzimfotase alfa did not significantly outperform placebo in improving performance on the six-minute walk test (6MWT) at Week 25. While AstraZeneca noted that the placebo group performed better than expected, the results raise questions about the viability of expanding treatment to older patients, a key strategy for increasing the total addressable market for the successor to Strensiq.

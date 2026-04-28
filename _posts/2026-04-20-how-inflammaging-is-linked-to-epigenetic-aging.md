@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/how-inflammaging-is-linked-to-epigenetic-aging/
 signal_ids: [epigenetic-clock-adoption]
 signal_stance: mixed
 signal_confidence: medium
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers have established a **causal link between the chemokine CXCL9 and accelerated epigenetic aging**, as measured by the GrimAge clock, in a recent study published in *Cell Genomics*. This study highlights how **inflammaging**, characterized by chronic systemic inflammation, is intricately connected to epigenetic aging processes. The findings indicate that older individuals exhibit increased levels of CXCL9, which correlates with both faster epigenetic aging and a higher likelihood of mortality, emphasizing the role of inflammation in age-related decline.

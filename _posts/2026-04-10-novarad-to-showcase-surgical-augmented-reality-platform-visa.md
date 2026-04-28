@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271968/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 **Novarad is set to unveil its innovative surgical augmented reality platform, VisAR, at the Society of Interventional Radiology (SIR) Annual Scientific Meeting in Toronto from April 11–15, 2026. This platform aims to enhance image-guided procedures by providing improved visualization and seamless integration into existing workflows. Attendees can experience live demonstrations of VisAR at Booth 1625, showcasing its capabilities in applications such as needle guidance, which highlights the platform's potential to improve precision in clinical settings.**

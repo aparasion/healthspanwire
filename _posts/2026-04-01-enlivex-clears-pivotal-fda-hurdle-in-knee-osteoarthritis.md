@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/enlivex-clears-pivotal-fda-hurdle
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Enlivex has received FDA Investigational New Drug (IND) clearance to advance Allocetra into a Phase 2b trial, targeting moderate-to-severe age-related knee osteoarthritis. This represents a significant step for the company and the broader longevity field, as knee osteoarthritis is one of the most common yet often overlooked mobility challenges faced by the aging population. The trial will evaluate the efficacy of Allocetra, an immunotherapy designed to address the underlying inflammation associated with the disease, in a larger, more rigorous setting.

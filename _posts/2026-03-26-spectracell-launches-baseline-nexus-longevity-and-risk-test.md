@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/spectracell-launches-baseline-nex
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 SpectraCell Laboratories has launched Baseline Nexus, a comprehensive health assessment test that evaluates nutrition, cardiovascular risk, genetics, and biological aging. This innovative test distinguishes itself by measuring intracellular metabolism through metabolically active peripheral lymphocytes, rather than relying solely on circulating blood analytes. By assessing DNA synthesis in a serum-free culture medium, Baseline Nexus aims to identify functional intracellular defects that may impair immune responses and overall cellular health.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/garm-adds-klotho-to-cell-and-gene
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Garm LLC, operating as Longevity Advanced, has launched an expanded longevity therapies platform featuring non-permanent plasmid gene therapies, including Klotho, alongside previously utilized follistatin and VEGF. This initiative, spearheaded by orthopedic surgeon Dr. Glenn C. Terry, is based at the Garm Clinic in Roatan, Honduras, and aims to address age-related decline by enhancing mitochondrial, cellular, and organ function.

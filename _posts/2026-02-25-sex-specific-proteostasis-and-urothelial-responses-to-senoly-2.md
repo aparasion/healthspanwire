@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 **A recent study investigates the sex-specific mechanisms underlying lower urinary tract dysfunction (LUTD) in aging, revealing significant insights into the therapeutic potential of senolytic treatment. Researchers explored the effects of a senolytic drug combination, **Dasatinib and Quercetin (D&Q)**, on aged bladders from male and female Diversity Outbred mice, focusing on the role of cellular senescence and endoplasmic reticulum (ER) stress.**

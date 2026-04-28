@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/periodontitis-alters-th
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "significant"
 ---
 
 Recent research has uncovered a significant link between periodontitis and osteoporosis, revealing that inflammatory gum disease can alter the gut microbiome, exacerbating bone loss. This study highlights how oral bacteria associated with periodontitis can disrupt bone tissue maintenance by favoring osteoclast activity over osteoblast function, a critical imbalance in osteoporosis development.

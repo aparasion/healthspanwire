@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278097/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The recent Gala de la Fondation de l’Hôpital de Lachine successfully raised **$322,115** to support the **Osez rêver** campaign, a collaborative initiative aimed at enhancing healthcare services in the West Island of Montreal. This campaign, launched in 2022 with a goal of **$5 million**, focuses on acquiring state-of-the-art medical equipment and modernizing hospital facilities, thereby enabling local patients to access **international-quality healthcare** close to home.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278748/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 AtaiBeckley Inc. has reported promising results from its Phase 2a trial of **EMP-01** (oral R-MDMA) in adults with **Social Anxiety Disorder (SAD)**. The study, which involved 70 participants, demonstrated significant reductions in patient-reported symptoms at Day 43, with a **placebo-adjusted least squares mean difference (LSMD)** of **-11.5 points** on the Social Phobia Inventory (SPIN) and **-15.6 points** on the Subtle Avoidance Frequency Examination (SAFE). Notably, 49% of patients reported a global improvement, compared to only 12% on placebo, indicating a strong therapeutic effect with no severe adverse events reported.

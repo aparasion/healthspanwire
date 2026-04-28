@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269085/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Valitor has announced promising preclinical data on **VLTR-559**, a novel long-acting anti-VEGF biologic aimed at treating wet age-related macular degeneration (AMD) with a **twice-yearly dosing regimen**. This development will be presented at the upcoming ARVO Annual Meeting on May 3, 2026. VLTR-559 leverages Valitor's proprietary **multivalent polymer (MVP) technology**, which enhances the pharmacokinetic and pharmacodynamic properties of the drug, allowing it to remain in ocular tissues, such as the retina, **three to four times longer** than first-generation anti-VEGF therapies.

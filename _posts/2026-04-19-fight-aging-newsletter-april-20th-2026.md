@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/fight-aging-newsletter-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent research has identified a promising therapeutic avenue for addressing biological aging through **retrotransposon suppression**. A study published in an open-access paper demonstrated that an **FDA-approved tenofovir alafenamide-based antiretroviral therapy** can significantly reduce measures of biological age in healthy adults. The findings suggest that targeting retrotransposon activity, which is linked to age-related inflammation and genomic instability, may offer a novel approach to mitigating the effects of aging.

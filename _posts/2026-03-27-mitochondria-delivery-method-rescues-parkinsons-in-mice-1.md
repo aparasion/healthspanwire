@@ -10,6 +10,7 @@ source_url: "https://lifespan.io/news/mitochondria-delivery-method-rescues-parki
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 A novel **mitochondrial delivery method** developed by Chinese researchers demonstrates significant therapeutic potential for **Parkinson's disease** and **Leigh syndrome** in murine models. By encapsulating healthy mitochondria within red blood cell membranes, the team successfully enhanced mitochondrial uptake by recipient cells, achieving notable improvements in mitochondrial function and cell viability across various experimental conditions.

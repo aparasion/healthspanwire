@@ -10,6 +10,8 @@ source_url: "https://www.statnews.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Insilico Medicine, a leader in AI-driven drug development, has secured a significant commercialization agreement with Eli Lilly, potentially worth up to $2.75 billion. While specific details regarding the assets involved remain undisclosed, Insilico's recent updates indicate that a GLP-1 candidate has been licensed, suggesting a focus on metabolic and weight-related therapies, which are increasingly relevant in the context of aging and longevity.

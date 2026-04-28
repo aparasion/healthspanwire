@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/14/3273007/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The FDA has granted **Fast Track Designation** to **Daretabart (hu1418K322A)**, a novel anti-GD2 monoclonal antibody developed by Renaissance Pharma Limited for treating **high-risk neuroblastoma (HRNB)**, a challenging pediatric cancer. This designation acknowledges the significant unmet medical need in this patient population and facilitates accelerated interactions with the FDA, enabling a rolling review process. Additionally, the FDA has cleared the **IND application**, allowing the initiation of the **SHINE Phase II/III clinical trial** targeting relapse and refractory HRNB patients.

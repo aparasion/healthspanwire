@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/roche-gets-ce-mark-for-alzheimers
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Roche has received CE mark approval for its Elecsys ApoE4 blood test, the first in-vitro diagnostic designed to identify carriers of the ApoE4 genetic variant linked to a higher risk of late-onset Alzheimer’s disease. This breakthrough allows for quicker identification of patients who may require more intensive follow-up, significantly streamlining the diagnostic process that has traditionally relied on more invasive DNA testing.

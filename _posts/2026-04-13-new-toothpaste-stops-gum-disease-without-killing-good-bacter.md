@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260413043141.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Researchers at the **Fraunhofer Institute for Cell Therapy and Immunology** have developed a groundbreaking toothpaste that effectively combats **gum disease** without disrupting the oral microbiome. This innovative approach targets harmful bacteria responsible for **periodontitis**, specifically inhibiting their growth rather than outright killing them. The compound, known as **guanidinoethylbenzylamino imidazopyridine acetate**, allows beneficial bacteria to thrive, restoring the natural balance of the oral ecosystem.

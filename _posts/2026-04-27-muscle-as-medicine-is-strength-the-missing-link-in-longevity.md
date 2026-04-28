@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/muscle-as-medicine-is-strength-th
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **JJ Virgin's recent dialogue on Longevity.Technology UNLOCKED posits that muscle, rather than weight, should be the focal point of longevity discussions.** Virgin argues that traditional weight loss metrics overlook the critical role of muscle mass in healthspan, emphasizing that losing weight through muscle loss can accelerate age-related decline. She advocates for a paradigm shift where the composition of weight—specifically muscle quality—becomes the primary indicator of health, challenging decades of health messaging that equates weight loss with improved well-being.

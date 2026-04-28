@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276861/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Seres Therapeutics has presented compelling data at the 2026 ESCMID congress, showcasing the **Phase 1b study results** of its investigational live biotherapeutic, **SER-155**, in patients undergoing allogeneic hematopoietic cell transplantation (allo-HCT). The study demonstrated that SER-155 administration leads to a **significant and durable modulation of the gastrointestinal (GI) microbiome**, characterized by increased abundance of SER-155 species and improved GI epithelial barrier integrity. This modulation is crucial as it can potentially reduce bacterial translocation to the bloodstream, a common risk in this patient population.

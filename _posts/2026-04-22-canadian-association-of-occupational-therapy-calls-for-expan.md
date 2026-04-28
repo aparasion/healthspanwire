@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279346/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The **Canadian Association of Occupational Therapy (CAOT)** is advocating for the inclusion of occupational therapists (OTs) in the **Canada Student Loan Forgiveness program**. This initiative aims to address the pressing health workforce shortages in underserved rural and remote communities, where OTs play a critical role in enhancing health outcomes. By supporting individuals recovering from injury, illness, or disability, OTs facilitate a return to daily activities, thereby alleviating pressure on hospitals and emergency services.

@@ -10,6 +10,8 @@ source_url: "https://okdiario.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers at the University at Buffalo have identified a straightforward physical test that may predict longevity in individuals over 60. By measuring muscle strength through simple exercises, such as grip strength using a dynamometer or performing sit-to-stand movements, the study highlights a tangible metric for assessing healthspan.

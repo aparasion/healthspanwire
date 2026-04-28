@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/flagship-launches-serif-biomedici
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "noteworthy"
 ---
 
 Flagship Pioneering has unveiled **Serif Biomedicines**, a new venture aimed at revolutionizing therapeutics through **Modified DNA**, a novel class of medicines that integrates elements of both mRNA and gene therapy while addressing their inherent limitations. With an initial investment of **$50 million**, Serif is poised to develop a platform that promises programmable, scalable, durable, and redosable treatment options. The technology leverages **chemically reshaped DNA** to minimize innate immunogenicity, combined with co-delivered mRNA co-factors that enhance nuclear entry and lipid nanoparticles optimized for targeted delivery and redosing.

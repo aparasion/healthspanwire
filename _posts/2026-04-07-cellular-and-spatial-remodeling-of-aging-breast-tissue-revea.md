@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/s43587-026-01111-4"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 A recent study employing **imaging mass cytometry** has unveiled significant insights into the **multicellular dynamics of aging breast tissue**. Researchers analyzed the spatial distribution of **40 proteins** across samples from **527 women**, revealing a marked decline in cell density and proliferation as breast tissue ages. Concurrently, there was an observed increase in the proportion of **inflammatory immune cells**, indicating a shift in the tissue microenvironment associated with aging.

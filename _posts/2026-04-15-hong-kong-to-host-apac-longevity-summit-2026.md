@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/hong-kong-to-host-apac-longevity-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **2026 Asia-Pacific Healthy Longevity International Summit (APAC-LMIS)**, set to take place in Hong Kong from October 1-4, will gather around **2,000 researchers, clinicians, and policymakers** to address the pressing challenge of translating geroscience into clinical practice. Organized by The Asia-Pacific Longevity Medicine Society (APLMS) and The Kitalys Institute, the summit aims to shift the focus from theoretical discussions to actionable strategies, emphasizing the theme **"From Vision to Action."** This marks a significant maturation in the field, as stakeholders confront the realities of an aging population that demands immediate solutions rather than speculative future advancements.

@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yZmZvakxlUTFkVG
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers are making significant strides in developing an anti-aging pill that could potentially extend human lifespan. This initiative, led by a team of scientists, focuses on targeting the biological mechanisms of aging to create a therapeutic solution that may enhance longevity and healthspan.

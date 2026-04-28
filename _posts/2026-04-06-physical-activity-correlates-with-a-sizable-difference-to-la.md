@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/physical-activity-corre
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study utilizing data from the **Australian Longitudinal Study on Women's Health** has provided robust evidence linking **consistent physical activity** to significant reductions in late-life mortality. This analysis encompassed 11,169 mid-aged women over a 15-year period, examining the impact of adherence to **World Health Organization (WHO)** moderate-to-vigorous physical activity (MVPA) recommendations on all-cause mortality, cardiovascular disease (CVD), and cancer outcomes. The findings indicate that women who consistently met the MVPA guidelines (at least 150 minutes per week) exhibited a **50% reduction in all-cause mortality risk** compared to those who did not adhere to these recommendations.

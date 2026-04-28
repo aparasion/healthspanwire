@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260408225934.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers at the Medical University of South Carolina (MUSC) have unveiled a previously unidentified **waste-removal pathway** in the human brain, centered around the **middle meningeal artery (MMA)**. Utilizing advanced real-time MRI technology, the team led by Dr. Onder Albayram observed a slow, lymphatic-like flow of cerebrospinal and interstitial fluids along the MMA, marking a significant departure from traditional understandings of cerebral fluid dynamics. This discovery provides direct evidence of a **lymphatic drainage system** in the human brain, which could reshape approaches to treating neurodegenerative diseases, including Alzheimer's.

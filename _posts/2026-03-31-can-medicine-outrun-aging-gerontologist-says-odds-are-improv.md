@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/can-medicine-outrun-aging-geronto
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Aubrey de Grey, founder of the Longevity Escape Velocity Foundation, recently discussed the concept of longevity escape velocity (LEV) on the podcast Longevity Technology Unlocked, emphasizing a transformative approach to aging research. LEV refers to the point at which advancements in medical science can extend human life faster than the aging process itself. De Grey, a prominent figure known for his ambitious predictions, argues that by focusing on repairing the damage caused by aging rather than merely slowing it down, we can significantly alter our understanding of longevity.

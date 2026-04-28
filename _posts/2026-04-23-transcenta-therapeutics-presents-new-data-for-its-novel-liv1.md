@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279725/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Transcenta Therapeutics has unveiled promising preclinical data on its **LIV1-targeting antibody-drug conjugates (ADCs)** during the 2026 AACR Annual Meeting. The proprietary monoclonal antibody **48D6** demonstrates high specificity and internalization for LIV1, a zinc transporter overexpressed in multiple cancers, including **breast (93%)**, **prostate (72%)**, and **lung (10%)** cancers. The ADC candidates, **ADC-2** and **ADC-3**, exhibit potent anti-tumor activity and favorable tolerability profiles, suggesting their potential as effective therapies for LIV1-positive solid tumors.

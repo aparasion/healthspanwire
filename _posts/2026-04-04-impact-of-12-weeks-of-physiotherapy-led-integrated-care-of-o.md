@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag072/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study has demonstrated the efficacy of a **Physiotherapy-led, Person-Centred Integrated Care (PTICOPE)** program in enhancing intrinsic capacity (IC) and quality of life (QoL) among community-dwelling older adults. In a randomized controlled trial involving 71 participants, those in the PTICOPE group (n = 35) engaged in a 12-week intervention that included both center-based physiotherapy and home-based multidomain activities targeting various aspects of IC, including **locomotion, vitality, psychological well-being, cognition, vision, and hearing**. The control group (n = 36) received standard health education.

@@ -10,6 +10,8 @@ source_url: "https://www.genomeweb.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A new initiative in women's health aims to enhance early diagnoses of endometriosis through innovative menstrual blood and multiomics testing. Developers believe that the insights gained from this assay could catalyze advancements in other women's health conditions, potentially transforming diagnostic approaches and therapeutic strategies in the field.

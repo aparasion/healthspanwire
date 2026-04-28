@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269043/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Aclarion, Inc. has announced a significant milestone in the clinical application of its Nociscan technology, as demonstrated by Mr. John Sutcliffe, Lead Clinician at The London Spine Clinic. In a recent video, Sutcliffe discusses his experience with nearly 100 Nociscans performed at The London Clinic, emphasizing the tool's role in evaluating chronic low back pain. Nociscan utilizes **magnetic resonance spectroscopy (MRS)** and proprietary signal processing to differentiate between painful and non-painful lumbar discs, providing an objective layer of data that enhances clinical decision-making.

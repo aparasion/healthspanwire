@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271710/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **global bispecific antibodies market** is poised for significant growth, projected to escalate from **$12.9 billion in 2024 to $22.3 billion by 2030**, reflecting a **compound annual growth rate (CAGR) of 9.7%**. This expansion is driven by the increasing global burden of cancer, heightened R&D investments from major pharmaceutical and biotechnology firms, and the integration of immuno-oncology therapies into standard treatment protocols. North America currently dominates the market with a **33.1% share**, attributed to its robust biopharmaceutical R&D infrastructure and favorable regulatory environment.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260325055441.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Researchers at Baylor College of Medicine have unveiled a previously unrecognized pathway through which metformin exerts its anti-diabetic effects, highlighting the drug's action in the brain. This discovery, published in *Science Advances*, identifies the Rap1 protein in the ventromedial hypothalamus as a critical player in metformin's ability to lower blood sugar. By suppressing Rap1 activity, metformin activates specific neurons that regulate glucose metabolism, a finding that shifts the understanding of how this longstanding diabetes treatment operates.

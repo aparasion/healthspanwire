@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260409101059.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers at **Osaka Metropolitan University** have discovered that dragonflies possess a remarkable ability to perceive deep red light, edging into near-infrared wavelengths, through a specialized opsin protein that closely resembles the red opsins found in humans. This finding suggests that dragonflies utilize this enhanced visual capacity to detect subtle differences in reflected light, likely aiding in mate selection during flight. The study highlights a fascinating case of **parallel evolution**, where both insects and mammals have independently developed similar molecular strategies for color perception.

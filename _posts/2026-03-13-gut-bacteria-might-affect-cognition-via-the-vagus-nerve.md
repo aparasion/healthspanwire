@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/gut-bacteria-might-affect-cognition-via-th
 signal_ids: [gut-microbiome-aging]
 signal_stance: supports
 signal_confidence: medium
+topic: "nutrition"
+impact: "landmark"
 ---
 
 A groundbreaking study from Stanford University Medical Center reveals that the gut bacterium Parabacteroides goldsteinii plays a significant role in age-related cognitive decline by inflaming the vagus nerve. This bacterium increases in older mice and can be transmitted to younger ones, leading to impaired memory and cognition, as demonstrated through various behavioral tests.

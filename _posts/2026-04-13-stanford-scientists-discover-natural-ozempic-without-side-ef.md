@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260412221946.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Scientists at Stanford Medicine have identified a novel peptide, **BRP**, that mimics the appetite-suppressing effects of semaglutide (Ozempic) but with fewer side effects. Utilizing artificial intelligence, the research team discovered this peptide, which acts directly on the brain's appetite-control center, leading to significant reductions in food intake and body weight in animal models without the nausea and muscle loss typically associated with current weight loss drugs.

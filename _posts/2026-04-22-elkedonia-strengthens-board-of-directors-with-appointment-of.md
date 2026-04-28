@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278666/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Elkedonia has appointed **Pierre d’Epenoux** as Independent Chairman of its Board of Directors, enhancing the company's governance as it advances its innovative neuroplastogen approach for treating **major depressive disorder (MDD)** and other neuropsychiatric conditions. D’Epenoux, with a 30-year track record in the biopharmaceutical industry, previously served as CEO of ImCheck Therapeutics, leading it through strategic partnerships and culminating in its acquisition by Ipsen in 2025. His expertise in biotech-pharma licensing and strategic transactions will be pivotal for Elkedonia as it aims to strengthen its market positioning and drive long-term value.

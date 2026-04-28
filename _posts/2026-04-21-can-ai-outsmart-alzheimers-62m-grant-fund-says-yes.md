@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/can-ai-outsmart-alzheimers-6-2m-g
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 A new five-year, $6.2 million grant from the National Institute on Aging is funding a paradigm shift in Alzheimer’s research at Case Western Reserve University, leveraging **artificial intelligence (AI)** to explore genetic targets beyond the traditional focus on amyloid plaques. While existing treatments have targeted these visible markers, their limited efficacy in halting disease progression has prompted researchers to investigate the underlying genetic factors that may contribute to Alzheimer’s vulnerability long before clinical symptoms manifest.

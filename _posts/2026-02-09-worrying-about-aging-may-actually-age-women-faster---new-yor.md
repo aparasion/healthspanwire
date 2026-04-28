@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWdGNEpERko2Un
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study from New York University reveals that anxiety about aging may accelerate biological aging in women. Researchers found that women who frequently express concerns about their age exhibited increased levels of biological markers associated with aging, such as inflammation and cellular senescence. This correlation suggests that psychological factors can significantly influence physical health and longevity.

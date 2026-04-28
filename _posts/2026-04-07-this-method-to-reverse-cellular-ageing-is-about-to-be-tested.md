@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/d41586-026-01024-7"
 signal_ids: [gene-therapy-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "technology"
+impact: "significant"
 ---
 
 **Yuancheng Ryan Lu and his team at the Whitehead Institute are pioneering a clinical trial aimed at reversing cellular aging through the introduction of three specific genes into retinal nerve cells. This innovative approach seeks to rejuvenate aged tissues, with the potential to restore vision in older adults suffering from glaucoma, and possibly extend to other organs such as the kidneys, liver, and brain. The trial, set to commence this year, represents a significant milestone in the burgeoning field of partial cellular reprogramming, which has garnered substantial interest and investment from both academia and Silicon Valley.**

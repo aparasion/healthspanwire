@@ -10,6 +10,8 @@ source_url: "https://nutraceuticalbusinessreview.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Blue Helix Health is set to present its research on NAD+ and mitochondrial function at the upcoming international NAD for Health conference in Copenhagen. Mathias Ziegler, Professor of Biomedicine at the University of Bergen and Chief Scientific Officer of Blue Helix Health, will showcase clinical evidence supporting the efficacy of their BluNADBooster ingredient, which aims to enhance NAD+ levels in the body.

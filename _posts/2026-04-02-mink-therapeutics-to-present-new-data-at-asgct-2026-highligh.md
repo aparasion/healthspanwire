@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267241/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 MiNK Therapeutics has announced that its investigational iNKT cell therapy, agenT-797, will be featured at the upcoming American Society of Gene and Cell Therapy (ASGCT) Annual Meeting, highlighting the therapy's potential in adaptive immune modulation for cancer and acute respiratory distress syndrome (ARDS). The presentation will be led by Dr. Terese C. Hammond, a key figure in the company's research initiatives.

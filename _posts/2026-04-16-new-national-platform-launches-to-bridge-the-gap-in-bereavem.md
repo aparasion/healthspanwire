@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275752/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 My Grief Angels Inc. has launched **GriefSupportDirectory.com**, a comprehensive platform that aggregates over **20,000 grief support resources** across the United States. This initiative aims to streamline access to bereavement support for individuals and families, addressing a significant gap in mental health resources for those coping with loss. Recognized as one of the "13 Best Mental Health Resources of 2025" by Everyday Health, the directory serves as a crucial tool for navigating the complexities of grief, offering options that range from local counseling to specialized online peer support.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280225/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **Atrioventricular Interval Modulation Therapy (AVIM Therapy)** has demonstrated promising results in the **MODERATO II trial**, showing an immediate average reduction of **13.2 mmHg** in office systolic blood pressure (oSBP). Notably, **97% of patients** experienced a reduction of more than **5 mmHg** prior to randomization. This innovative therapy, designed for patients with hypertensive heart disease, not only delivered significant blood pressure reductions but also indicated improvements in **diastolic function** and **reverse cardiac remodeling**. These findings were presented at the **Heart Rhythm Society (HRS) 2026 Annual Meeting**, highlighting the potential of AVIM Therapy to provide immediate and sustained blood pressure control without the need for additional medications.

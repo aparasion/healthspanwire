@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3282146/0/es/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 King Faisal Specialist Hospital & Research Centre (KFSH) is set to participate as a Silver Sponsor at the 2026 Milken Institute Global Conference in Beverly Hills, California. The event will convene global leaders across health, finance, technology, policy, and academia to address pressing challenges, with a particular focus on advancing innovation and fostering intersectoral collaboration. Dr. Björn Zoëga, KFSH's Executive Deputy Director, will lead a specialized session on the future of cancer care, emphasizing the need for integrated, scalable, and outcome-driven oncology models.

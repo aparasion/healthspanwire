@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277613/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Xeltis has received the **CE mark** for its innovative aXess™ vascular access conduit, designed for hemodialysis treatment, marking a significant leap from clinical to commercial stages. This regulatory milestone was achieved in just **84 working days**, showcasing the robustness of the clinical evidence from Xeltis’ European pivotal trials. aXess™ utilizes **Restorex™ materials**, which promote the body’s natural healing processes to create living vessels, thereby reducing the reliance on traditional catheters and minimizing access-related complications for patients with end-stage kidney disease.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268494/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **global gastroenterology products market** is poised for significant growth, with a projected increase from **USD 5.15 billion in 2024** to **USD 9.66 billion by 2034**, reflecting a **CAGR of 6.50%**. This market encompasses a diverse array of medical devices and pharmaceuticals aimed at diagnosing and treating gastrointestinal (GI) disorders, including **endoscopy devices, stents, and biologics**. Key drivers of this growth include an **aging population** and a rising incidence of GI diseases such as **gastroesophageal reflux disease (GERD)** and **colorectal cancer (CRC)**, alongside advancements in **minimally invasive technologies**.

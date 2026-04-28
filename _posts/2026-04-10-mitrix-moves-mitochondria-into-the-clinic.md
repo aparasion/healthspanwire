@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/mitrix-moves-mitochondria-into-th
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Mitrix Bio has announced preliminary Phase 1 safety results for its **mitochondrial transplantation** approach, marking a significant shift from theoretical frameworks to real-world clinical testing. The study involved two older participants receiving escalating doses of transplanted mitochondria at a Dallas clinic, with no adverse effects reported during the monitoring period. Concurrently, Mitrix has launched a network of Mitochondrial Transplant Institute clinics in Newport Beach, Dallas, and Palm Beach, which will offer this experimental treatment under **Right to Try** regulations, targeting various chronic and degenerative conditions.

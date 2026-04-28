@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent discussion highlights the urgent need for improved palliative and end-of-life care as global life expectancy rises, particularly among older adults facing chronic conditions like advanced dementia and traumatic brain injury. The conversation underscores that effective planning for end-of-life care should begin well before individuals reach late-stage disease, yet current options remain historically and contextually limited, often unequally distributed across populations.

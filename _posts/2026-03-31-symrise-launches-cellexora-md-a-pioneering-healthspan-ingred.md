@@ -10,6 +10,7 @@ source_url: "https://www.symrise.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Symrise AG has unveiled Cellexora™ MD, a groundbreaking healthspan ingredient designed for premium skincare that leverages next-generation plant-derived exosomes. These exosomes, derived from organic Italian apple side streams, promise to enhance long-term skin regeneration, resilience, and vitality. This innovative ingredient stands out not only for its natural origin but also for its scientific rigor, stability, and reproducibility, marking a significant advancement in the cosmetic ingredient landscape.

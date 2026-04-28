@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/semcap-expands-into-beautys-longe
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 SEMCAP has launched a new investment strategy, SEMCAP Beauty & Wellness, signaling a shift in the longevity narrative from laboratory-focused innovations to consumer-driven health and wellness practices. By partnering with industry veteran Vasiliki Petrou and her firm, The Veralis Group, SEMCAP aims to capitalize on the burgeoning intersection of beauty, wellness, and longevity, targeting investments in clinically backed products that resonate with consumers’ desires for healthier, personalized aging solutions.

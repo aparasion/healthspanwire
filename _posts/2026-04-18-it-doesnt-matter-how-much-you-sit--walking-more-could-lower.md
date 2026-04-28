@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260417085409.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 A recent study from the University of Sydney's Charles Perkins Centre has revealed that increasing daily step counts can significantly mitigate the health risks associated with prolonged sitting. Analyzing data from over **72,000 participants**, researchers found that individuals who walked **9,000 to 10,000 steps per day** experienced a **39% reduction in mortality risk** and a **21% decrease in cardiovascular disease (CVD)** risk, regardless of their sedentary behavior. This research, published in the *British Journal of Sports Medicine*, utilized objective data from wearable devices to assess both step counts and sedentary time, providing robust evidence for the benefits of walking.

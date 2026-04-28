@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/fda-a
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 The FDA has officially approved Lilly's Foundayo™ (orforglipron), marking it as the first oral GLP-1 receptor agonist for weight management that can be taken without food or water restrictions. In the ATTAIN-1 clinical trial, participants using the highest dose of Foundayo experienced an average weight loss of 27.3 pounds over 72 weeks, significantly outperforming the placebo group, which lost only 2.2 pounds. This approval represents Lilly's commitment to expanding treatment options for obesity, a condition affecting millions and often linked to serious comorbidities.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279335/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 The San Francisco 49ers and Sutter Health have forged a **long-term partnership** aimed at enhancing health resources and preventive care across Northern California. This collaboration positions Sutter Health as the official healthcare partner of the 49ers, leveraging the team's extensive reach to promote health engagement both in and out of Levi's Stadium. The initiative emphasizes **proactive health management**, with plans for community fitness zones, mobile health screenings, and gameday wellness experiences designed to connect fans with essential health services.

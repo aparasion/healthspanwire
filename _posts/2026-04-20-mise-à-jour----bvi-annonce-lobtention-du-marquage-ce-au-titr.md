@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277523/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **BVI has achieved CE marking for Virtuoso®, a pioneering dual-function phaco-vitrectomy platform, designed to enhance surgical control and efficiency in both cataract and vitreoretinal procedures. The first successful patient treatment occurred at LMU Klinikum in Munich in December 2025, marking a significant milestone in the platform's clinical application. This development follows Virtuoso®'s presentation at major industry forums in 2025 and 2026, where its innovative fluid management and operational efficiency were highlighted.**

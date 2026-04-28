@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276890/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Palvella Therapeutics has announced that clinical results from its Phase 3 SELVA and Phase 2 TOIVA studies of **QTORIN™ 3.9% rapamycin anhydrous gel** will be presented at the upcoming International Society for the Study of Vascular Anomalies (ISSVA) World Congress on May 20, 2026. The presentation, led by Dr. James Treat from the Children’s Hospital of Philadelphia, will focus on the gel's efficacy in treating **microcystic lymphatic malformations** and **cutaneous venous malformations**, highlighting statistically significant and clinically meaningful improvements observed in these patient populations.

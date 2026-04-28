@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/pulmatrix-and-eos-merge-to-advanc
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Pulmatrix and Eos SENOLYTIX have announced a merger that will create a new entity focused on advancing gerotherapeutics, a field targeting the biology of aging rather than its symptoms. Operating under the name Eos and trading as EOSX, the company aims to develop its lead candidate, PTC-2105, for conditions like sarcopenia. This merger, supported by $19 million in financing, signals a significant shift in biopharma’s approach to aging, treating it as a manageable driver of disease.

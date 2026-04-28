@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279370/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 BridgeBio Oncology Therapeutics (BBOT) has unveiled promising preclinical data for **BBO-11818**, a selective, orally bioavailable **non-covalent inhibitor** targeting both active (GTP-bound) and inactive (GDP-bound) states of **KRAS**. This dual-state targeting effectively suppresses **MAPK signaling** and inhibits cell proliferation in KRAS-mutant cell lines, showcasing robust anti-tumor activity across various KRAS-mutant cancer models. The findings were presented at the **American Association for Cancer Research (AACR) Annual Meeting 2026**, highlighting BBO-11818's potential as a novel therapeutic option for cancers driven by KRAS mutations, particularly **KRASG12D** and **KRASG12V** variants.

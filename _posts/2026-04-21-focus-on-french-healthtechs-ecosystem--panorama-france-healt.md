@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278089/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 The **Panorama France HealthTech 2026** report reveals a robust landscape of nearly **2,800 innovative companies** in France's HealthTech sector, showcasing resilience amidst a challenging economic backdrop. Despite a global slowdown in private financing and complex regulatory challenges, the sector has maintained stable company creation rates and a consistent level of insolvency proceedings. Notably, **venture capital funding** for French HealthTech companies rose by **15%**, highlighting a strong recovery trajectory even as overall funding levels declined in Europe and the United States.

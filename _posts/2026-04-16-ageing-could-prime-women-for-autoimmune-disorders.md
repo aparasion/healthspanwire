@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/d41586-026-01213-4"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study published in *Nature Aging* by Sopena-Rios et al. highlights a critical link between **aging and the predisposition to autoimmune disorders in women**. The research reveals that age-related changes in the immune system may enhance susceptibility to these conditions, suggesting that the aging process itself could be a significant factor in the pathogenesis of autoimmune diseases.

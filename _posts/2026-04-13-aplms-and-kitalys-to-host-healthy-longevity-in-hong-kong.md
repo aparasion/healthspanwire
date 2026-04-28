@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/aplms-and-kitalys-to-host-healthy-longevit
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **2026 Asia-Pacific Healthy Longevity International Summit (APAC-LMIS)** will take place in Hong Kong from **October 1-4, 2026**, organized by the **Asia-Pacific Longevity Medicine Society (APLMS)** in collaboration with **The Kitalys Institute**. This summit aims to gather over **2,000 leaders** from various sectors including longevity medicine, geroscience, and digital health, positioning Hong Kong as a pivotal center for innovation in the longevity economy. The theme, “**From Vision to Action in Healthy Longevity**,” emphasizes the need to translate scientific advancements into practical health solutions.

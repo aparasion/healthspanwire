@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/14/3273191/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Tiziana Life Sciences has announced the acceptance of a late-breaking poster detailing its Phase 2a study of **intranasal foralumab**, a fully human anti-CD3 monoclonal antibody, for the treatment of **Multiple System Atrophy (MSA)**. This presentation will occur at the 7th World Parkinson Congress in May 2026, showcasing the ongoing **TILS-025 trial** (NCT06868628), which is the first clinical investigation of intranasal anti-CD3 therapy in MSA. Given the lack of approved disease-modifying therapies for MSA, this study is particularly significant, as neuroinflammation and microglial activation are known to drive disease progression.

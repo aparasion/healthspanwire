@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/quotients-genomics-platform-a
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Quotient Therapeutics has secured a significant partnership with Merck & Co., which will pay $20 million upfront for access to Quotient's innovative somatic genomics platform. This collaboration aims to identify new drug targets for inflammatory bowel disease (IBD), a condition affecting millions globally with no current disease-modifying treatments. Quotient's technology analyzes somatic genetic mutations in patient tissues, providing insights into mutations that may contribute to or protect against various diseases.

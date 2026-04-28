@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/cellular-senescence-and-senotherapeutics-t
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "significant"
 ---
 
 The field of longevity medicine is witnessing a pivotal shift as experts converge on cellular senescence as a target for therapeutic intervention. Recent discussions among leaders in senotherapeutics highlight the potential of senolytic and senomorphic therapies to address the root causes of age-related diseases. These therapies aim to selectively eliminate or modulate senescent cells, which, while beneficial in certain contexts, contribute to chronic inflammation and tissue dysfunction when they accumulate. The transition from preclinical studies to human trials marks a significant step forward, with several companies actively pursuing treatments for conditions such as fibrosis and metabolic diseases.

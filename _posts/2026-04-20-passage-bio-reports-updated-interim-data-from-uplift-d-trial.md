@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276853/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **Passage Bio, Inc.** has reported promising interim results from its ongoing Phase 1/2 upliFT-D clinical trial evaluating **PBFT02** for frontotemporal dementia (FTD) with granulin (GRN) mutations. The treatment demonstrated significant improvements in two critical biomarkers of disease progression: a **64% reduction in whole brain atrophy** and a **54% reduction in frontotemporal cortex atrophy** at 12 months for patients with a global Clinical Dementia Rating (CDR) score of 1. Additionally, PBFT02 stabilized plasma neurofilament light chain (NfL) levels, contrasting sharply with the expected increase seen in untreated patients.

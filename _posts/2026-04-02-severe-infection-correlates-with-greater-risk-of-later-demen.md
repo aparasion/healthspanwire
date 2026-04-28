@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/severe-infection-correl
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study utilizing nationwide Finnish health registry data has revealed a significant correlation between severe infections and an increased risk of later dementia. Researchers analyzed data from over 62,000 individuals aged 65 and older diagnosed with late-onset dementia between 2017 and 2020, alongside a matched control group of nearly 313,000 dementia-free individuals. The findings indicate that severe infections, particularly cystitis and unspecified bacterial infections, are associated with a heightened risk of developing dementia, independent of other comorbid conditions.

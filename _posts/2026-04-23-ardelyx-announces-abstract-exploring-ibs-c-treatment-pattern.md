@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279862/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 Ardelyx, Inc. has announced an upcoming poster presentation at the Digestive Disease Week Conference (DDW) on May 2-5, 2026, focusing on **patient characteristics associated with treatment patterns** for **irritable bowel syndrome with constipation (IBS-C)**. The abstract, authored by a team including Alan Fossa and Kyle Staller, aims to elucidate the impact of these characteristics on **gastrointestinal (GI) healthcare resource utilization (HCRU)**. Additionally, Ardelyx will sponsor a Product Theater session led by Dr. Darren Brenner, which will delve into the **pathophysiology of IBS-C** and strategies for optimizing patient care.

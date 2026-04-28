@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260326080752.htm"
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 Researchers from Helmholtz Munich and international collaborators have revealed that gut bacteria can actively influence human immune responses by injecting proteins directly into our cells. This groundbreaking study uncovers a previously unknown mechanism of communication between commensal bacteria and human cells, challenging the long-held view that these microbes are merely passive residents of the gut.

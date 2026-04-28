@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1BaGYyUVh1cW
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent article in Men's Journal highlights the top food recommended by longevity experts for promoting healthy aging: beans. This affordable staple is rich in fiber, protein, and essential nutrients, making it a powerful ally in the quest for longevity and improved healthspan. 

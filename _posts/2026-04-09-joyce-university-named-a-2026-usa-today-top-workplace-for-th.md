@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271217/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **Joyce University of Nursing and Health Sciences** has achieved the prestigious **2026 USA Today Top Workplaces award** for the third consecutive year, underscoring its commitment to a **people-first culture** in nursing education. This recognition is based on authentic employee feedback collected through a confidential survey by Energage, highlighting the university's focus on fostering an environment where staff feel **valued and supported**. Ann Johnson, Vice President of People and Culture, emphasized that the university's mission is intertwined with the well-being of its employees, ultimately benefiting the students and the communities they serve.

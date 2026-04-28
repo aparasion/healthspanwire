@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/occupational-health-meets-longevi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 The **Longevity Show** highlights a pivotal shift in occupational health, where the focus is transitioning from compliance and risk management to **proactive prevention** strategies aimed at influencing workforce aging. This evolution posits a crucial question: can employers effectively impact the aging process of their employees? The blog outlines five essential insights for health executives, emphasizing the growing intersection of workplace wellbeing and longevity science.

@@ -10,6 +10,7 @@ source_url: "https://www.nia.nih.gov"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 The National Institute on Aging (NIA) has released a comprehensive set of resources aimed at enhancing research and clinical practices related to healthy aging and Alzheimer’s disease. This includes current Notices of Funding Opportunity, publications available in both English and Spanish, and a wealth of information on grants and funding applications.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/cellular-senescence-and
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 **Researchers have reviewed the interplay between cellular senescence and mitochondrial dysfunction in the aging of the vascular endothelium, highlighting their roles in vascular health decline.** The vascular endothelium, which lines blood vessels, is crucial for regulating inflammatory responses, vascular tone, and angiogenesis. As endothelial cells age, they accumulate senescent cells and experience mitochondrial dysfunction, both of which contribute to a range of vascular issues, including atherosclerosis and impaired blood-brain barrier integrity.

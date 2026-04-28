@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0stRkIza2UwMD
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Pharmaceutical and biotechnology companies are increasingly channeling investments into developing innovative treatments targeting age-related diseases, according to a recent report from Clarivate. This trend reflects a growing recognition of the potential for longevity therapeutics to address conditions such as Alzheimer's, cardiovascular diseases, and metabolic disorders that significantly impact the aging population.

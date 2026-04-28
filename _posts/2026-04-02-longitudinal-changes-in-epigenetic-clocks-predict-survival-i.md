@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01066-6"
 signal_ids: [epigenetic-clock-adoption]
 signal_stance: supports
 signal_confidence: medium
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 A longitudinal study involving 699 adults from the InCHIANTI cohort has revealed that the rate of change in epigenetic clocks—biomarkers derived from DNA methylation patterns—can predict mortality risk more effectively than static measures alone. The research, which tracked participants for up to 24 years, found that faster increases in several epigenetic clocks were significantly associated with a higher risk of death, independent of baseline epigenetic age and other confounding factors. This underscores the potential of dynamic epigenetic changes to reflect an individual’s evolving health status.

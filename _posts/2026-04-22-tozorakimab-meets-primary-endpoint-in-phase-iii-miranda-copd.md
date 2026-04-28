@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/tozorakimab-meets-primary-endpoin
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "landmark"
 ---
 
 AstraZeneca has announced promising results from the Phase III MIRANDA trial, demonstrating that **tozorakimab 300 mg**, administered biweekly alongside standard inhaled therapy, significantly reduces the annualized rate of moderate-to-severe **COPD exacerbations**. This trial involved **1,454 adults** with symptomatic COPD, particularly targeting those with a history of at least two moderate or one severe exacerbation in the previous year. Over a 52-week treatment period, the drug was generally well-tolerated, with a safety profile aligning with previous studies. The findings will be submitted to regulatory authorities and presented at an upcoming medical meeting.

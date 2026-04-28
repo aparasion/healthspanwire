@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260404082652.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study led by researchers at Keck Medicine of USC reveals that **episodic heavy drinking**, defined as consuming four or more drinks in a day for women and five or more for men at least once a month, significantly increases the risk of **advanced liver fibrosis** in individuals with **metabolic dysfunction–associated steatotic liver disease (MASLD)**. This condition affects approximately one in three adults in the U.S. and is characterized by liver fat accumulation linked to metabolic disorders. The findings indicate that those who engage in such drinking patterns are nearly **three times more likely** to develop serious liver scarring compared to those who consume the same total amount of alcohol more evenly over time.

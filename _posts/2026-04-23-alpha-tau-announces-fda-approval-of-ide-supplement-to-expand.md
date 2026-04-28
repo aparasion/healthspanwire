@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280027/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Alpha Tau Medical Ltd. has received FDA approval for an Investigational Device Exemption (IDE) supplement to expand its multi-center pilot study, IMPACT, aimed at evaluating the safety and efficacy of **Alpha DaRT** in combination with standard-of-care chemotherapy for **newly diagnosed unresectable locally advanced or metastatic pancreatic adenocarcinoma**. The trial will now include ten additional patients undergoing treatment with **gemcitabine/nab-paclitaxel**, increasing the total enrollment from 30 to 40 patients. This expansion reflects Alpha Tau's commitment to addressing significant unmet needs in pancreatic cancer treatment.

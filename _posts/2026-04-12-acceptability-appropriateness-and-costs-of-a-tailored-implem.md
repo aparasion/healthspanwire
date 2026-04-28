@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag089/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent cluster-randomized trial conducted in Norwegian municipalities evaluated a **tailored implementation strategy** for falls prevention interventions, focusing on enhancing adherence to national recommendations among healthcare professionals (HCPs). The strategy incorporated elements such as **leader commitment**, resource teams, and both regional and local meetings to facilitate effective implementation. Findings indicated significant improvements in adherence to falls prevention guidelines, alongside enhanced implementation experiences and high fidelity to the intervention among participants.

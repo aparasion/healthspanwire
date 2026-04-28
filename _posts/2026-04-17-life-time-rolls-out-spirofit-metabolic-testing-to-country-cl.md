@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/life-time-rolls-out-spirofit-meta
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Life Time is expanding its metabolic testing capabilities by introducing the **SpiroFit** system across its 190 athletic clubs in the U.S. and Canada. This rollout follows a successful pilot program at select Minnesota locations in late 2025, marking a significant enhancement in the company's long-standing provision of **VO2 max** and metabolic testing services that began in 2005. The SpiroFit system features a **cordless wearable metabolic testing mask** that allows users to engage in physical activities on various equipment while collecting lab-grade data on oxygen consumption and fuel utilization.

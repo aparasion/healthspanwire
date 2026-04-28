@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260411084441.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Researchers from the University of Colorado Boulder have made a significant discovery by detecting **Medium Chain Chlorinated Paraffins (MCCPs)** in the air for the first time in the Western Hemisphere. This finding emerged unexpectedly during a field study in Oklahoma, where the team was initially focused on understanding the formation and evolution of airborne particles. The detection of these toxic organic pollutants, likely stemming from the application of **biosolid fertilizers** derived from sewage sludge, highlights a previously unrecognized pathway for environmental contamination.

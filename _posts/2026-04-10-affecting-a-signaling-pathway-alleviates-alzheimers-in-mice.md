@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/affecting-a-signaling-pathway-alleviates-a
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 The recent study from the Daegu Gyeongbuk Institute of Science and Technology reveals that **overexpression of somatostatin (SST)** in a mouse model of Alzheimer’s disease significantly reduces inflammation and amyloid β burden, leading to improved cognitive function. SST, a neuropeptide primarily produced in neurons, exerts its effects mainly on microglia, the brain's resident immune cells. This research demonstrates that SST can mitigate microglial hyperactivation, a key feature associated with Alzheimer’s pathology, by binding to somatostatin receptors (SSTR2) expressed on microglia.

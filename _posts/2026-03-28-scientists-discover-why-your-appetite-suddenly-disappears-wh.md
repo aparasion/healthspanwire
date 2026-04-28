@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260328024519.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers at the University of California, San Francisco, have identified a novel mechanism by which the gut communicates with the brain to suppress appetite during illness. This study reveals that specialized gut cells, known as tuft cells, detect parasitic infections and initiate a signaling cascade that ultimately leads to appetite suppression. The findings, published in *Nature*, highlight a two-phase release of acetylcholine from tuft cells, which activates enterochromaffin cells to send signals to the brain, explaining the delayed onset of appetite loss commonly experienced during infections.

@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/when-doctors-prescribe-horoscopes-the-trou
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent critique highlights the shortcomings of biological age tests that claim to reveal a person's "true" health trajectory through simple at-home samples. While these tests, often marketed directly to consumers, promise insights into aging and health risks, they fail to deliver reliable or actionable information. The article emphasizes that many of these tests, which primarily assess DNA methylation patterns, do not accurately measure biological age. Instead, they provide correlations that can mislead both patients and practitioners about their health status.

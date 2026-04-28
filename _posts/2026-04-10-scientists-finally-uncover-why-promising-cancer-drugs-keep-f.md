@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260409101055.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Researchers at the **Max Planck Institute of Immunobiology and Epigenetics** have identified a critical distinction between two closely related BET proteins, **BRD2 and BRD4**, which may explain the underwhelming clinical performance of BET inhibitors in cancer therapy. While these drugs were initially heralded for their potential to inhibit oncogene activation, the study reveals that BRD2 functions primarily as a preparatory agent for gene activation, while BRD4 plays a later role in executing this activation. This nuanced understanding suggests that current therapies, which indiscriminately block both proteins, could disrupt essential processes in gene regulation, leading to inconsistent therapeutic outcomes.

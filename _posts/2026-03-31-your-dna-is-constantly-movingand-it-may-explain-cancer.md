@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260330001147.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers at the Salk Institute have revealed that DNA is not a static structure but rather a dynamic entity that constantly folds and unfolds, a discovery that could reshape our understanding of gene regulation and its implications for cancer and developmental disorders. Led by Jesse Dixon, MD, PhD, the study published in *Nature Genetics* demonstrates that different regions of the genome exhibit varying rates of movement, with more active gene regions undergoing rapid reshaping to facilitate gene expression.

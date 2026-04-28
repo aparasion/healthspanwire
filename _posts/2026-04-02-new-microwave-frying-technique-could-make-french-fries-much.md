@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260402042803.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers at the University of Illinois Urbana-Champaign have developed an innovative microwave frying technique that significantly reduces the oil absorption in French fries while preserving their taste and texture. By integrating microwave heating with traditional frying methods, this approach utilizes pressure dynamics to push oil out of the fries instead of allowing it to seep in, resulting in a healthier product that maintains its crispy appeal.

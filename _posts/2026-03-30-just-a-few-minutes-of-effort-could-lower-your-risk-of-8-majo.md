@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260330001126.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A large-scale study involving nearly 100,000 participants has revealed that just a few minutes of vigorous physical activity each day can significantly reduce the risk of eight major diseases, including heart disease, diabetes, and dementia. Conducted by an international research team led by Professor Minxue Shen, the study, published in the *European Heart Journal*, highlights that the intensity of physical activity, rather than the total duration, plays a crucial role in health outcomes.

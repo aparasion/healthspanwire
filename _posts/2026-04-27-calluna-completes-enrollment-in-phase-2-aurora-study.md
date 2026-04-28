@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/calluna-completes-enrollment-in-p
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Calluna Pharma has successfully completed enrollment for its global Phase 2 AURORA study of **CAL101**, a monoclonal antibody targeting the damage-associated protein **S100A4**, in patients with **idiopathic pulmonary fibrosis (IPF)**. The study enrolled **161 adult patients** across over **50 sites** in the US, UK, EU, Turkey, and South Korea, utilizing a **randomized, double-blind, placebo-controlled** design with a 3:2 randomization ratio. Following a **28-day screening period**, participants will receive monthly intravenous infusions of CAL101 or placebo for six months, with the primary endpoint focusing on the change in **forced vital capacity** from baseline. Notably, enrollment concluded more than six months ahead of schedule, with topline data anticipated in the first quarter of **2027**.

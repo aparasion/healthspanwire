@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281898/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 The **National Eye Institute** has released a set of eight expert recommendations aimed at preventing age-related eye diseases, emphasizing the importance of comprehensive eye care and lifestyle modifications. Key strategies include establishing a relationship with a trusted eye care professional, undergoing regular dilated eye exams, and incorporating physical activity into daily routines. These measures are crucial as many eye diseases, such as glaucoma and age-related macular degeneration, often present without early symptoms, making early detection vital for effective treatment.

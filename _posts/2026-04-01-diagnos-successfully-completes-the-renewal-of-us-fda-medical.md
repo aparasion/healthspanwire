@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/01/3266834/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Diagnos Inc. has successfully completed its annual registration with the U.S. Food and Drug Administration (FDA) for its medical device establishment, marking a significant milestone in the company's commitment to early detection of eye-related health issues through Artificial Intelligence (AI). This development underscores the ongoing efforts of Diagnos to enhance diagnostic capabilities in ophthalmology, particularly with its legacy version of the CARA system, which is already cleared for commercialization in the U.S.

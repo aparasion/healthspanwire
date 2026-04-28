@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280343/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The ROOT Brands has been awarded the **Gold Stevie® Award** for Patent-Driven Wellness Innovation in the 2026 American Business Awards®, recognizing its commitment to science-backed consumer wellness products. This accolade highlights the company's innovative approach, which is founded on **proprietary formulations** and a robust intellectual property framework. The ROOT Brands focuses on cellular health, developing non-durable wellness products aimed at **detoxification**, **nourishment**, and **cellular protection**. Their emphasis on patents and regulatory discipline sets them apart from trend-driven competitors, ensuring that their innovation is maintained throughout the manufacturing and delivery processes.

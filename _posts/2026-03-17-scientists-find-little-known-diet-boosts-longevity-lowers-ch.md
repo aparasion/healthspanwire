@@ -10,6 +10,8 @@ source_url: "https://www.prevention.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Sleep experts are highlighting the critical role of dreams in overall health during the inaugural Dream Week, running from March 9–15, as part of National Sleep Awareness Month. This initiative aims to deepen our understanding of sleep habits and the potential insights our dreams may offer regarding our wellbeing.

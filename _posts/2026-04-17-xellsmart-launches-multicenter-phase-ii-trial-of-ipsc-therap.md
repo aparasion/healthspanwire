@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/xellsmart-launches-multicenter-ph
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 XellSmart has initiated a multicenter Phase II registrational clinical trial for **XS411**, an allogeneic, off-the-shelf **iPSC-derived dopaminergic neural progenitor cell therapy** targeting primary Parkinson's disease. The trial, led by **Beijing Tiantan Hospital** and involving collaborators such as **Peking Union Medical College Hospital** and the **Second Affiliated Hospital of Soochow University**, aims to enroll 30 patients aged 50 to 75 with a disease duration of 5 to 15 years. Participants will be randomized in a 2:1 ratio to receive either XS411 or standard anti-Parkinsonian pharmacotherapy, with a primary follow-up period of 12 months and extended follow-up for the experimental group up to 24 months.

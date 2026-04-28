@@ -10,6 +10,8 @@ source_url: "https://peterattiamd.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Dr. Peter Attia has launched the Outlive app, designed to translate longevity science into actionable daily practices. This innovative platform aligns with his Medicine 3.0 framework, focusing on not just extending lifespan but enhancing healthspan—ensuring individuals remain active and fulfilled as they age.

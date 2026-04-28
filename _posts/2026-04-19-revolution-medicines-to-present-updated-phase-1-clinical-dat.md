@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/19/3276666/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 Revolution Medicines, Inc. has presented updated Phase 1 clinical data for **zoldonrasib**, a selective oral inhibitor targeting the **KRAS G12D** mutation, at the AACR Annual Meeting. This multicenter trial (RMC-9805-001) specifically focuses on patients with previously treated **non-small cell lung cancer (NSCLC)** harboring this mutation, which has historically posed a significant challenge in terms of treatment options. The data highlight zoldonrasib's potential as a promising therapeutic avenue for a patient population with considerable unmet medical needs.

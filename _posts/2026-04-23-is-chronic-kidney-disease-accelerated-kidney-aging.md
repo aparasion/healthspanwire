@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/is-chronic-kidney-disea
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Chronic Kidney Disease (CKD) has been increasingly recognized as a condition that may represent **accelerated kidney aging**, with cellular senescence playing a pivotal role in its onset and progression. Research indicates that senescent cells, which accumulate with age and contribute to chronic inflammation, may be a significant factor in the pathology of CKD. This open-access paper reviews the parallels between kidney aging and CKD, highlighting that both conditions exhibit similar structural and functional declines, such as nephron reduction, glomerulosclerosis, and increased fibrosis.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280135/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **Raddish Kids** has emerged as a frontrunner in the experiential gifting space, particularly for Mother's Day, with its innovative cooking subscription boxes designed for children aged 4 to 14+. Research from YouGov indicates that **61% of American mothers** prefer spending quality time with their children over traditional gifts, highlighting a cultural shift towards valuing shared experiences. Raddish Kids not only facilitates family bonding through cooking but also addresses the growing concern of excessive screen time among children, who average **7.5 hours daily** on screens.

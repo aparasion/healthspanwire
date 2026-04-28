@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01109-y"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Henze et al. have advanced our understanding of microglial aging by employing **multiplexed error-robust fluorescence in situ hybridization (MERFISH)** alongside fluorescent immunohistochemistry. Their study reveals that the **subcellular localization patterns of transcripts** in microglia are indicative of age-associated morphological changes. This work highlights the complex cellular remodeling that occurs in the brain as it ages, shedding light on the **functional diversity** of microglia in the context of aging and age-related diseases.

@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "noteworthy"
 ---
 
 Recent research highlights the critical impact of **clustering effects** in preclinical lifespan studies, particularly in the context of shared housing for experimental animals. The study utilizes data from the **Interventions Testing Program**, focusing on UM-HET3 mice, to demonstrate how neglecting these effects can lead to **underestimated variance** and inflated Type I error rates, ultimately skewing research conclusions.

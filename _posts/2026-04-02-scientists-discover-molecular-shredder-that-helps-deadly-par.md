@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260402000221.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers at the University of York have unveiled a groundbreaking mechanism employed by the African trypanosome parasite, responsible for sleeping sickness, to evade the human immune system. The study identifies a protein named ESB2 that functions as a “molecular shredder,” selectively cutting up genetic instructions in real-time as they are produced. This allows the parasite to maintain a protective layer of variant surface glycoproteins (VSG) while suppressing signals that could expose it to immune detection.

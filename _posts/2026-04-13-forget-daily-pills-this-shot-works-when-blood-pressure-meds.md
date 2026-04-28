@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260411022035.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study from Queen Mary University of London has demonstrated that **zilebesiran**, an investigational drug, can significantly enhance blood pressure control in patients who struggle with standard medications. In the global KARDIA-2 trial involving 663 adults with poorly managed hypertension, participants receiving a **twice-yearly injection** of zilebesiran alongside their existing treatments achieved **greater reductions in blood pressure** compared to those on standard therapy alone. This innovative approach targets the liver protein **angiotensinogen**, which is crucial for blood pressure regulation, allowing blood vessels to relax and thus lowering blood pressure effectively.

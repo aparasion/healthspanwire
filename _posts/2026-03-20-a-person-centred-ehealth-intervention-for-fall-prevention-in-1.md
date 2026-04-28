@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag053/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent secondary analysis of the **GERONTACCESS** trial has revealed promising findings regarding the implementation of a **gerontological telemedicine program** aimed at preventing falls among nursing home residents in medically underserved areas. The study involved **426 residents aged 60 and older**, who were randomized into either an intervention group (IG) receiving telemedicine support or a control group (CG) receiving standard care. Over a one-year period, the analysis focused on the incidence of falls, with data collected monthly.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270080/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Ascendis Pharma has reported significant findings from the ongoing Phase 2 COACH Trial, demonstrating that the combination therapy of **TransCon CNP** and **TransCon hGH** yields unprecedented improvements in arm span and spinal canal dimensions in children with **achondroplasia**. At Week 52, treatment-naïve participants exhibited a mean change in arm span Z-scores of +1.02, translating to an average increase of **9.4 cm**, while those previously treated with TransCon CNP showed a +0.66 Z-score and a **7.9 cm** increase. These enhancements are particularly relevant as they extend beyond traditional measures of linear growth, addressing critical aspects of skeletal health.

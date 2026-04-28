@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260414075648.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study published in *Neurology* by researchers at Rush University Medical Center reveals that **lifelong cognitive enrichment**—through activities such as reading, writing, and learning new languages—can significantly reduce the risk of developing Alzheimer’s disease. The study tracked 1,939 adults, averaging 80 years of age, over eight years, finding that those with the highest levels of cognitive engagement had a **38% lower risk** of Alzheimer’s and a **36% lower risk** of mild cognitive impairment compared to those with the least engagement.

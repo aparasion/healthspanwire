@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270594/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 The **Next Step** organization recently celebrated a decade of impact at Capitale in New York City, highlighting its mission to support amputees through community and rehabilitation. The gala honored key contributors, including Stephen and Vered Shamosh and Dr. Avishai and Elisheva Neuman, while emphasizing the resilience of the amputee community. The event was not only a testament to the collective strength of the network but also a precursor to the launch of the **Next Step Empowerment Center**, a 6,500-square-foot facility set to open in Spring 2026.

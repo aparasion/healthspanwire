@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271820/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Humber River Health has announced a significant transformation with the renaming of its Wilson site to **Hennick Humber Hospital**, following a **$50 million philanthropic gift** from Jay and Barbara Hennick. This donation, one of the largest ever made to a community hospital in Canada, aims to enhance patient care, innovation, research, and education at the facility. The Hennick family’s commitment to advancing healthcare aligns with Humber River Health's reputation as a leader in digital health and patient-centered care, which has set benchmarks in safety and operational efficiency.

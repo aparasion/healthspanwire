@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260414075646.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A large-scale study led by researchers at the **University of Nottingham** has revealed that **urate-lowering medications**, particularly **allopurinol**, not only alleviate the painful symptoms of gout but also significantly reduce the risk of **heart attacks, strokes, and cardiovascular death**. The findings, published in **JAMA Internal Medicine**, indicate that patients achieving serum urate levels below **360 micromol/L (6 mg/dL)** experience better cardiovascular outcomes over five years compared to those who do not reach this target.

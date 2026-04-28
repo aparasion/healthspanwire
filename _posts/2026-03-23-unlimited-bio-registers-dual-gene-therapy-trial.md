@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/unlimited-bio-registers-dual-gene
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Unlimited Bio has initiated the CALM-AF-AI trial, marking a significant advancement in the longevity field as it becomes the first registered clinical study globally to evaluate the combination of AAV9-Follistatin and a VEGF plasmid for combating age-related muscle decline. This Phase 1/2a open-label trial will enroll approximately 12 adults aged 45 to 75 at the GARM Clinic in Roatán, Honduras, under ethical oversight in the Próspera ZEDE special economic zone.

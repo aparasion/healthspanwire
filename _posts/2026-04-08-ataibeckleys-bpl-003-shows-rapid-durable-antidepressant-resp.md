@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269923/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **AtaiBeckley Inc.** has reported promising **Phase 2a results** for **BPL-003** (mebufotenin benzoate), an intranasal treatment for **treatment-resistant depression (TRD)**. In this study, **66.7%** of participants demonstrated an antidepressant response by **Day 2** after a single dose, with response rates of **83%** at **12 weeks** for the 10 mg cohort and **66.7%** for the 12 mg cohort. The treatment was well tolerated, allowing participants to be discharged approximately **100 minutes** post-dose. Following recent FDA alignment, the company is preparing to initiate **Phase 3 trials** in **Q2 2026**.

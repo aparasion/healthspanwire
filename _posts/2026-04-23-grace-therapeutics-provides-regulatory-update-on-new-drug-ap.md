@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280288/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Grace Therapeutics, Inc. has received a Complete Response Letter (CRL) from the FDA regarding its New Drug Application (NDA) for **GTx-104**, a novel injectable formulation of nimodipine aimed at treating **aneurysmal subarachnoid hemorrhage (aSAH)**. The FDA's CRL cites specific deficiencies in the **Chemistry, Manufacturing, and Controls (CMC)** and **Non-Clinical** sections, including issues related to leachables data, toxicology risk assessments, and manufacturing practices. Importantly, the FDA did not request additional clinical data, allowing Grace Therapeutics to focus on addressing the cited items for a resubmission.

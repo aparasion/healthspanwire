@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279822/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **electroCore, Inc.** has announced its participation in the documentary **Hacking the Vagus Nerve**, produced by The Root Cause Project and The Vagus Nerve Society. This film highlights the vagus nerve's critical role in regulating stress, mood, and immune function, featuring insights from Dr. Peter S. Staats, electroCore’s Chief Medical Officer. The documentary aims to broaden awareness of **non-invasive vagus nerve stimulation (nVNS)** as a therapeutic modality across various health conditions, showcasing electroCore’s technologies like **gammaCore** for migraines and **Truvaga Plus** for stress management.

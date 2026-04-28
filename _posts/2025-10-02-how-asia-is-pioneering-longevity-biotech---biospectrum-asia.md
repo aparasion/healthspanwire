@@ -10,6 +10,8 @@ source_url: "https://www.biospectrumasia.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 PharmaMar, a Spanish biopharmaceutical company, has recently made strides in the fight against cervical cancer, a significant health challenge in the Asia Pacific region. The World Health Organization aims to eliminate cervical cancer as a public health issue by 2030, setting ambitious targets for vaccination, screening, and treatment. This initiative is crucial, as cervical cancer accounts for approximately 58% of global deaths related to women's health in the region, despite being largely preventable.

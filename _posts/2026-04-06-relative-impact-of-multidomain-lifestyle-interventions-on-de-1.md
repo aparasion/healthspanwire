@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 The U.S. POINTER trial has revealed significant insights into the impact of **multidomain lifestyle interventions** on aging, particularly through the lens of **deficit accumulation frailty indices (FIs)**. This 2-year randomized clinical trial involved 2,111 adults aged 60-79 at risk for cognitive decline, comparing a **Structured intervention** with a **Self-Guided intervention** aimed at enhancing exercise, diet, and cognitive engagement. The findings indicate that participants in the Structured group experienced a more pronounced reduction in frailty, as measured by a **modified frailty index (mFI)**, with a mean change of −0.024 compared to −0.009 in the Self-Guided group, yielding a statistically significant difference (P < .0001).

@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/s43587-026-01086-2"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers have uncovered critical insights into immune aging by studying the turquoise killifish (Nothobranchius furzeri), a short-lived vertebrate model that mirrors key aspects of human aging. Using advanced techniques such as single-cell RNA sequencing and proteomic profiling, the team revealed that aged killifish exhibit heightened inflammation and increased markers of DNA damage in their immune cells, particularly within the kidney marrow, the fish's primary hematopoietic organ.

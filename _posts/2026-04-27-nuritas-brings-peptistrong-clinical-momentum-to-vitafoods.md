@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/nuritas-brings-peptistrong-clinic
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Nuritas has initiated a **double-blinded randomized controlled trial (NCT07528469)** to evaluate the efficacy of **PeptiStrong**, a fava bean-derived peptide, in enhancing muscle strength among healthy adults aged 60 to 85. In collaboration with Liverpool John Moores University and StudySetGo, the trial will compare the effects of **2.4 g PeptiStrong plus 10 g whey protein** against **20 g whey protein alone**. The study, set to enroll 80 participants over 30 days, will primarily assess **grip strength** while also measuring secondary outcomes such as gait speed, chair stand performance, balance, body composition, quality of life, fatigue, and inflammatory markers. Results are anticipated in Q3 2026.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277229/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The **Naomi Ruth Cohen Institute for Mental Health Education** (NRCI) has announced its 24th Annual Community Mental Health Conference titled **"Alone Together: Confronting Loneliness Across the Lifespan,"** scheduled for May 16, 2026. This full-day event aims to address the growing public health crisis of loneliness, as highlighted in a 2023 advisory from the U.S. Surgeon General. The conference will feature a diverse array of speakers, including researchers and practitioners, who will explore the impact of loneliness on individuals from childhood through older adulthood, emphasizing the need for community connection and support.

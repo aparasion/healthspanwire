@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vZWRfYk1PYnlDTH
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Recent discussions around NAD+ (Nicotinamide adenine dinucleotide) have gained traction as researchers explore its potential role in aging and healthspan enhancement. This coenzyme, critical for cellular metabolism, has been linked to various age-related conditions and is being investigated for its therapeutic applications in promoting longevity.

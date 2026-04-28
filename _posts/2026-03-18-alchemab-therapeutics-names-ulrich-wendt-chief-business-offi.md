@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alchemab-therapeutics-names-ulric
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Alchemab Therapeutics has appointed Ulrich Wendt, PhD MBA, as its new Chief Business Officer to spearhead business development and enhance partnerships within the biopharma sector. This strategic move follows Alchemab's recent licensing agreements and the advancement of its first therapeutic asset into clinical trials, signaling a pivotal moment for the company as it leverages its AI-enabled discovery platform.

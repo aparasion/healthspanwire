@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278097/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **Lachine Hospital Foundation** successfully raised **$322,115** during its annual gala, contributing to the **Dream Big: Lachine Hospital campaign** aimed at modernizing health care in Montreal’s West Island. This initiative, launched in 2022 with a goal of **$5 million**, is part of a larger **$220 million** government-funded modernization project in collaboration with the **MUHC Foundation**. The funds will support the acquisition of state-of-the-art technology and facility upgrades, enhancing patient access to high-quality care.

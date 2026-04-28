@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01107-0"
 signal_ids: [blood-biomarker-panels]
 signal_stance: supports
 signal_confidence: medium
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 **In a recent study from the CALERIE trial, researchers applied proteomics to plasma samples from participants who achieved an average of **14% caloric restriction (CR)** over two years, revealing significant insights into the impact of CR on human aging and healthspan. The analysis demonstrated that CR leads to a notable reduction in the complement component **C3a**, a key player in the inflammatory response, thereby mitigating **inflammaging**—the chronic, low-grade inflammation associated with aging. Specifically, the C3a/C3 ratio was significantly lowered, indicating a shift in the inflammatory landscape that is crucial for understanding aging mechanisms.**

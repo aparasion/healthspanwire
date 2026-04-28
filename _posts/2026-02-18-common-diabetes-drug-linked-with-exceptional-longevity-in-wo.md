@@ -10,6 +10,7 @@ source_url: "https://www.sciencealert.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Recent brain imaging studies have uncovered a significant connection between chronic pain and depression, revealing distinct neural patterns that may explain this relationship. Researchers utilized advanced imaging techniques to analyze brain activity in individuals suffering from chronic pain, identifying specific alterations in brain function that correlate with depressive symptoms. 

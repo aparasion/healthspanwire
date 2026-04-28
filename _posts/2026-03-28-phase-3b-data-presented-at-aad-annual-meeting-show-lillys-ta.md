@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/phase
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 Eli Lilly's recent Phase 3b TOGETHER-PsA trial results highlight the promising efficacy of combining Taltz (ixekizumab) with Zepbound (tirzepatide) for treating adults with psoriatic arthritis (PsA) and obesity. Presented at the AAD Annual Meeting and detailed in *Arthritis & Rheumatology*, the study demonstrated that the dual therapy significantly improved disease activity and patient-reported outcomes compared to Taltz alone. Notably, participants receiving the combination therapy saw a greater reduction in PsA disease activity as early as Week 4, alongside improvements in weight, metabolic markers, and overall quality of life.

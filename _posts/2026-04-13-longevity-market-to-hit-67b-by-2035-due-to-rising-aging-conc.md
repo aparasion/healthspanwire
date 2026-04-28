@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/longevity-market-to-hit-67b-by-20
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 The longevity market is undergoing a significant transformation, with projections indicating growth from **$27.61 billion in 2025 to $67.03 billion by 2035**, driven by a shift in consumer behavior towards preventive health. This change marks a departure from traditional reactive healthcare models, as individuals increasingly prioritize strategies to **prevent, delay, and better understand age-related health conditions**. The focus is shifting from merely managing aging to designing health around it, with preventive healthcare and wellness now accounting for over **30% of the market**.

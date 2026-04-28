@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/renue-by-science-wins-precision-r
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Renue by Science has been awarded the Precision Recovery and Performance accolade at the 2026 Wellness and Longevity CHOICE Awards for its innovative Total NAD+ Restoration Protocol. This award, presented at the Longevity Summit in Silicon Valley, recognizes products that demonstrate significant effectiveness and innovation in promoting health and longevity.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275535/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 The **2026 amendment to the Clinically Localized Prostate Cancer Guideline** was released by the American Urological Association (AUA) in collaboration with the American Society for Radiation Oncology (ASTRO). This updated guideline aims to enhance clinical decision-making for localized prostate cancer by providing a comprehensive framework that categorizes recommendations based on patient risk levels. The amendment features 46 evidence-based recommendations, emphasizing refined risk-based management, updated imaging protocols, and the importance of shared decision-making between clinicians and patients.

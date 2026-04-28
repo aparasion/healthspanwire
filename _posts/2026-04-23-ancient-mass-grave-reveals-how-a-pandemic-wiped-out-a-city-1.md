@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260423031540.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 A recent study led by Rays H. Y. Jiang from the University of South Florida has confirmed the existence of a **mass grave** from the Plague of Justinian in ancient Jerash, Jordan, providing unprecedented insights into one of history's earliest pandemics. This grave, containing hundreds of victims buried within days, highlights the **rapid societal collapse** and the **mobilization of previously dispersed populations** during a public health crisis. The research team, which includes experts from various fields such as anthropology and molecular medicine, aims to shift the focus from merely identifying pathogens to understanding the **human impact** of pandemics.

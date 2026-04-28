@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-2
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Regeneron Pharmaceuticals has announced a strategic partnership with Telix Pharmaceuticals, committing **$40 million upfront** to advance four solid tumor programs utilizing Telix’s radiopharmaceutical manufacturing platform. This collaboration allows Regeneron to select specific targets from its antibody portfolio, with the potential to expand the partnership to four additional programs. If successful, both companies will share commercialization costs and profits equally, while Telix retains the option for substantial milestone payments and royalties should it choose not to co-fund.

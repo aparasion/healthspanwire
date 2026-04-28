@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/chronic-kidney-disease-often-goes-undiag
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Chronic kidney disease (CKD), affecting 35.5 million people in the U.S., often goes undiagnosed, with only half of those affected receiving formal recognition of their condition. Research led by an assistant professor of nursing highlights that many patients with early-stage CKD lack timely information from healthcare providers, which is crucial for preventing disease progression. The kidneys play a vital role in filtering waste and maintaining bodily functions, and their failure necessitates burdensome treatments like dialysis or transplants.

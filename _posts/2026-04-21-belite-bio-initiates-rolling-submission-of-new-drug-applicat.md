@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278392/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Belite Bio, Inc. has initiated a rolling submission of a New Drug Application (NDA) to the FDA for **tinlarebant**, a novel oral therapy aimed at treating **Stargardt disease type 1 (STGD1)**, a rare inherited retinal disorder linked to ABCA4 gene mutations. The company expects to complete this submission by the second quarter of 2026. Previously granted **Breakthrough Therapy Designation**, tinlarebant represents a significant advancement, as it could become the first approved treatment for STGD1, a progressive condition that typically leads to legal blindness in affected individuals.

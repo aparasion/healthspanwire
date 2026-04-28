@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271987/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Matricis.ai has initiated a clinical collaboration with SimonMed Imaging to pilot **EndomAI**, an artificial intelligence platform designed to enhance the detection of endometriosis through MRI scans. This partnership marks the first U.S. clinical trial of EndomAI, coinciding with the recent recognition by ACOG of MRI as a critical tool in the diagnostic pathway for endometriosis. The pilot leverages Matricis.ai’s extensive proprietary annotated dataset, which is pivotal for training AI models in gynecological imaging.

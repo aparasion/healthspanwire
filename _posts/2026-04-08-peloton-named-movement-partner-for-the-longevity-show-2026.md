@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/peloton-named-movement-partner-fo
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **Peloton has been named the Movement Partner for The Longevity Show 2026, marking a significant shift in the longevity field towards integrating physical activity into healthspan discussions. This collaboration aims to operationalize movement as a core component of health, moving beyond traditional lab-based metrics to experiential activities such as a sunrise rooftop workout and a mixed-pace 5km run in East London. By embedding a fitness brand into the event, the partnership emphasizes the importance of translating scientific knowledge into practical, everyday actions.**

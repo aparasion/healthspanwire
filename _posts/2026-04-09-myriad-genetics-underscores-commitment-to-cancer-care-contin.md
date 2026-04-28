@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271066/15459
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Myriad Genetics, Inc. has announced the presentation of significant data at the Society of Gynecologic Oncology (SGO) Annual Meeting, highlighting their **Precise MRD™ testing** for ovarian cancer. This testing demonstrated a **strong prognostic relationship between circulating tumor DNA (ctDNA) levels** post-adjuvant therapy and recurrence risk, with even low levels detected by ultrasensitive assays correlating with elevated recurrence risk. This advancement underscores the role of ctDNA as a critical biomarker in monitoring disease progression and tailoring patient management strategies.

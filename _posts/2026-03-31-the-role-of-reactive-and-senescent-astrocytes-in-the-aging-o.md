@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/the-role-of-reactive-an
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Recent research highlights the dual role of reactive and senescent astrocytes in brain aging, emphasizing their significant impact on cognitive decline and neurodegenerative diseases. This open-access review synthesizes current knowledge on how aging transforms astrocytes into states characterized by inflammation and dysfunction, which can adversely affect brain tissue and overall neural activity. The study underscores that while both reactive and senescent astrocytes contribute to neurodegeneration, they represent distinct cellular states with overlapping yet unique characteristics.

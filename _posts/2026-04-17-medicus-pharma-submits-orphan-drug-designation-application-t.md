@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276088/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Medicus Pharma Ltd. has submitted an **Orphan Drug Designation (ODD)** application to the FDA for **SkinJect® (D-MNA)**, targeting **basal cell carcinoma (BCC)** in patients with **Gorlin Syndrome**. This rare genetic disorder leads to the formation of multiple skin cancers, presenting a significant clinical challenge due to the lack of FDA-approved therapies specifically for this indication. Current treatment options primarily involve surgical excisions, which can result in cumulative morbidity and disfigurement. The ODD submission marks a strategic move to address this high unmet need with a novel therapeutic approach.

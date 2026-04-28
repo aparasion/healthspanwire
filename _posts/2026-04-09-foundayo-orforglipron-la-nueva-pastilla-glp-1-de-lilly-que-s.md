@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/found
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Eli Lilly has launched **Foundayo™ (orforglipron)**, an oral GLP-1 receptor agonist approved by the FDA for weight management in adults with obesity or overweight conditions linked to medical issues. This medication is notable for its **once-daily dosing** that allows flexibility with food and water intake, making it a convenient option for patients. Priced at **$25 per month** with commercial insurance and **$149 for self-pay patients**, Foundayo is now accessible via LillyDirect® and telemedicine providers, with distribution expanding to retail pharmacies across the U.S.

@@ -10,6 +10,8 @@ source_url: "https://www.cureus.com"
 signal_ids: [rapamycin-healthspan-extension]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Cureus Journal of Medical Science has emerged as a transformative platform in medical research publishing, offering a streamlined and cost-effective alternative to traditional journals. Backed by Springer Nature, Cureus emphasizes accessibility, allowing researchers to publish their work with minimal financial barriers—often at a fraction of the cost typical in the industry.

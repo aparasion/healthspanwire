@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278953/19782
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 CytoDyn Inc. has presented promising early results from its ongoing Phase 2 study of **leronlimab**, a monoclonal antibody targeting the **CCR5 receptor**, in combination with **TAS-102** and **bevacizumab** for patients with **metastatic colorectal cancer (mCRC)**. The findings, showcased at the AACR Annual Meeting 2026, indicate that CCR5 inhibition may significantly modulate the tumor microenvironment, enhance immune engagement, and improve clinical outcomes in this challenging patient population.

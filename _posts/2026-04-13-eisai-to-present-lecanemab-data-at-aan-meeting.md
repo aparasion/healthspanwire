@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/eisai-to-present-lecanemab-data-a
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Eisai Inc. is set to unveil new findings on **Lecanemab** at the upcoming 78th American Academy of Neurology Annual Meeting, scheduled for April 18–22, 2026, in Chicago. The presentation will encompass **14 sessions**, including four oral presentations focusing on critical aspects such as the effects on soluble cerebrospinal fluid **Aβ protofibrils** in the **CLARITY AD** trial and the clinical profile of a new subcutaneous formulation. Notably, initial findings from the **48-month open-label extension** will also be shared, alongside an analysis projecting **10-year time-savings benefits** from Lecanemab treatment.

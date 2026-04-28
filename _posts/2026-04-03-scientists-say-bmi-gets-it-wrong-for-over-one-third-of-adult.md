@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260402000229.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study led by researchers from the University of Verona has revealed significant shortcomings in the body mass index (BMI) as a measure of health, indicating that over one-third of adults may be misclassified in terms of their weight status. By employing dual-energy X-ray absorptiometry (DXA), regarded as the gold standard for assessing body fat, the study found that many individuals categorized as overweight or obese based on BMI do not actually possess corresponding levels of body fat. This research, set to be presented at the European Congress on Obesity (ECO 2026), highlights the urgent need for reevaluation of BMI's role in both clinical and public health settings.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277372/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The **lung cancer therapeutics market** is set to expand significantly, projected to grow from **$30.2 billion in 2024 to $49.5 billion by 2030**, reflecting a **compound annual growth rate (CAGR) of 8.8%** during the period from 2025 to 2030. This growth is primarily driven by the increasing incidence of lung cancer, largely attributed to lifestyle factors and an aging global population, coupled with unprecedented investments in research and development (R&D) that are yielding transformative therapeutic innovations.

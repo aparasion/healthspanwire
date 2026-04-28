@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270058/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Kiniksa Pharmaceuticals has launched the **Heart’s Home™** campaign to enhance awareness and empower patients regarding **ARCALYST**, the first FDA-approved therapy for **recurrent pericarditis**. This innovative Direct-to-Consumer (DTC) initiative aims to educate patients about the debilitating nature of recurrent pericarditis, which affects approximately **40,000 individuals** annually in the U.S., with around **14,000** experiencing multiple recurrences. The campaign encourages these patients to engage in discussions with their healthcare providers about ARCALYST, emphasizing the importance of proactive treatment strategies to mitigate flares.

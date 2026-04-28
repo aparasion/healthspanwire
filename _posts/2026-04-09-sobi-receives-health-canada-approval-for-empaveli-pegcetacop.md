@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271427/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Health Canada has approved EMPAVELI® (pegcetacoplan), the first treatment specifically for C3 glomerulopathy (C3G) and primary immune-complex membranoproliferative glomerulonephritis (IC-MPGN) in patients aged 12 years and older. This approval is based on the positive outcomes from the Phase 3 VALIANT study, which demonstrated a **68% relative reduction in proteinuria**, stabilization of kidney function, and significant clearance of C3 deposits, marking a significant advancement for patients suffering from these rare kidney diseases.**

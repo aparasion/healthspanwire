@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/la-fd
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Eli Lilly and Company has received FDA approval for Foundayo™ (orforglipron), a novel oral GLP-1 medication designed for weight loss in adults with obesity or overweight-related medical issues. Unlike other GLP-1 therapies, Foundayo can be taken at any time of day without restrictions on food or water intake. Clinical trials, particularly the ATTAIN-1 study, demonstrated that participants using the highest dose of Foundayo lost an average of 27.3 pounds, or 12.4% of their body weight, significantly outperforming the placebo group.

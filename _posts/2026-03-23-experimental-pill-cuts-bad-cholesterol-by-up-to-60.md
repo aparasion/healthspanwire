@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/experimental-pill-cuts-bad-choles
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 A recent phase 3 clinical trial has shown that enlicitide, an experimental oral PCSK9 inhibitor, can significantly reduce low-density lipoprotein (LDL) cholesterol levels by up to 57% in patients at risk for cardiovascular events. This promising development, published in The New England Journal of Medicine, marks a potential shift in preventive medicine by transforming a traditionally injectable treatment into a convenient daily pill, thereby improving accessibility for patients.

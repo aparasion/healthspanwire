@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/is-lighter-sleep-a-normal-part-of-aging-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent insights into the neurobiology of aging reveal that older adults experience **fragmented sleep** not due to a decreased need for rest, but rather due to a diminished capacity to achieve deep, restorative sleep. Research indicates that as we age, the brain's sleep-regulating systems become less stable, resulting in a **loss of neurons** that facilitate sleep and a weakening of those that promote wakefulness. This shift leads to lighter sleep patterns and increased sensitivity to external stimuli, ultimately affecting cognitive functions such as memory consolidation.

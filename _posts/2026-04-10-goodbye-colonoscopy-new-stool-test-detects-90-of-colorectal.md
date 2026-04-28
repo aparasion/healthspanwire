@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260409221823.htm"
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers at the **Université de Genève** have developed a groundbreaking stool test that detects **90% of colorectal cancers**, leveraging advanced machine learning to analyze gut microbiota at the subspecies level. This innovative approach offers a non-invasive alternative to traditional colonoscopy, which has a detection rate of 94% but is often met with resistance due to its invasive nature. By mapping the intricate microbial patterns associated with colorectal cancer, this method holds the potential to revolutionize screening practices.

@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260422091043.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers at the University of California, Irvine, have identified a method to potentially reverse age-related vision loss by targeting the **ELOVL2 aging gene** and restoring essential fatty acids in the retina. Their study, published in *Science Translational Medicine*, reveals that supplementing with specific **polyunsaturated fatty acids (PUFAs)**—beyond just DHA—can enhance visual function and even reverse signs of cellular aging in murine models.

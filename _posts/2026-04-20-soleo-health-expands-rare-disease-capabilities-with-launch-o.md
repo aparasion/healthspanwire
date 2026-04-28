@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276843/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Soleo Health has launched **SoleoRare**, a dedicated Rare Disease Specialty Pharmacy designed to address the unique needs of patients with rare, ultra-rare, and orphan diseases. This initiative consolidates Soleo Health's extensive experience in rare disease management into a **clinician-led, patient-centered** care model. By uniting specialized patient care, access, and commercial teams, SoleoRare aims to improve outcomes for patients and their caregivers through a tailored approach that recognizes the complexities of rare disease treatment.

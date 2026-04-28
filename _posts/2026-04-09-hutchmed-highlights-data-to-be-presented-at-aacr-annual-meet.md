@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270617/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 HUTCHMED has announced the upcoming presentation of promising preclinical data for **HMPL-A580**, a first-in-class PI3K/PIKK-EGFR Antibody-Targeted Therapy Conjugate (ATTC), at the **AACR Annual Meeting 2026**. This novel compound demonstrates potent inhibition of PI3K and PIKK family kinases, with an IC50 of approximately **1 to 10 nM**, and shows excellent selectivity across 418 kinases. The ATTC platform combines a highly selective PI3K/PIKK payload with an anti-EGFR antibody, facilitating targeted delivery and robust anti-tumor effects, particularly in EGFR-expressing cancer cells.

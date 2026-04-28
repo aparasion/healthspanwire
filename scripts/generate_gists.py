@@ -455,6 +455,98 @@ def infer_signal_tags(title: str, gist: str) -> tuple[list[str], str, str]:
     return matched, stance, confidence
 
 
+# ── Topic and impact inference (mirrors classify_posts.py logic) ──────────────
+
+_SIGNAL_TOPIC = {
+    "senolytic-clinical-validation": "therapeutics",
+    "rapamycin-healthspan-extension": "therapeutics",
+    "caloric-restriction-mimetics": "nutrition",
+    "gut-microbiome-aging": "nutrition",
+    "creatine-healthspan-effects": "nutrition",
+    "sex-healthspan-lifespan": "nutrition",
+    "epigenetic-clock-adoption": "biomarkers",
+    "blood-biomarker-panels": "biomarkers",
+    "ai-drug-discovery-aging": "technology",
+    "gene-therapy-aging": "technology",
+    "longevity-regulatory-frameworks": "policy",
+    "longevity-funding-surge": "policy",
+}
+
+_TOPIC_KEYWORD_RULES = [
+    ("technology", ["gene therapy", "crispr", "gene edit", "machine learning", "artificial intelligence",
+                    "reprogramming", "yamanaka", "telomerase", "computational biology", "in silico",
+                    "alphafold", "digital twin", "ai-powered", "deep learning", "genome editing",
+                    "genetic engineering", "cell reprogramming", "aav vector", "mrna"]),
+    ("biomarkers", ["epigenetic clock", "biological age", "dna methylation", "methylation clock",
+                    "proteomics", "metabolomics", "blood panel", "grimage", "dunedinpace",
+                    "horvath clock", "aging clock", "liquid biopsy", "plasma protein",
+                    "biomarker", "cognitive decline", "brain aging", "tau", "amyloid",
+                    "ldl cholesterol", "blood pressure", "vascular aging", "inflammaging"]),
+    ("policy", ["fda approved", "fda approval", "approved by fda", "ema approval",
+                "regulatory approval", "venture capital", "series a", "series b",
+                "reimbursement", "nih grant", "longevity funding", "longevity investment",
+                "biotech funding", "market authorization", "drug approval", "ce mark",
+                "clinical pathway", "regulatory framework"]),
+    ("therapeutics", ["senolytic", "rapamycin", "rapalog", "nad+", "nmn", "nicotinamide riboside",
+                      "dasatinib", "quercetin", "fisetin", "metformin", "spermidine",
+                      "drug candidate", "longevity drug", "anti-aging drug", "mtor inhibitor",
+                      "phase 2 trial", "phase 3 trial", "clinical trial", "randomized trial",
+                      "stem cell therapy", "plasmapheresis", "young plasma", "semaglutide",
+                      "ozempic", "glp-1", "hormone therapy", "testosterone", "estrogen therapy",
+                      "hrt", "supplement trial", "drug trial", "treatment trial", "double-blind"]),
+    ("nutrition", ["intermittent fasting", "time-restricted eating", "caloric restriction",
+                   "calorie restriction", "microbiome", "gut bacteria", "gut microbiota",
+                   "dietary intervention", "plant-based", "mediterranean diet", "omega-3",
+                   "protein intake", "muscle mass", "strength training", "zone 2",
+                   "cardiovascular exercise", "physical activity", "sleep quality",
+                   "creatine", "diet", "nutrition", "food", "eating", "fasting",
+                   "exercise", "lifestyle", "probiotic", "prebiotic", "heart health",
+                   "cardiovascular", "blood sugar", "insulin", "metabolic", "obesity",
+                   "weight loss", "body weight", "sarcopenia", "muscle strength",
+                   "aerobic fitness", "vo2 max", "sleep", "stress", "alcohol", "smoking"]),
+]
+
+_PRESS_RELEASE_PUBLISHERS = {"globenewswire.com", "prnewswire.com", "businesswire.com", "accesswire.com"}
+_LANDMARK_PHRASES = ["fda approved", "fda approval", "approved by fda", "phase 3", "phase iii",
+                     "pivotal trial", "landmark study", "approval granted", "marketing authorization"]
+_SIGNIFICANT_PHRASES = ["clinical trial", "human trial", "randomized", "placebo-controlled",
+                         "double-blind", "published in", "new england journal", "nejm",
+                         "nature aging", "cell metabolism", "jama", "lancet", "science advances",
+                         "human study", "participants", "subjects", "adults aged", "older adults",
+                         "peer-reviewed", "patients", "cohort study", "longitudinal study"]
+_NOTEWORTHY_PHRASES = ["meta-analysis", "systematic review", "mouse study", "animal study",
+                        "preclinical", "pre-clinical", "laboratory study", "conference", "pilot study"]
+
+
+def infer_post_topic(title: str, gist_text: str, signal_ids: list) -> str:
+    for sid in signal_ids:
+        if sid in _SIGNAL_TOPIC:
+            return _SIGNAL_TOPIC[sid]
+    text = (title + " " + gist_text).lower()
+    for topic, keywords in _TOPIC_KEYWORD_RULES:
+        if any(kw in text for kw in keywords):
+            return topic
+    return ""
+
+
+def infer_post_impact(title: str, gist_text: str, publisher: str,
+                      signal_confidence: str, signal_stance: str, signal_ids: list) -> str:
+    if any(p in publisher.lower() for p in _PRESS_RELEASE_PUBLISHERS):
+        return "general"
+    text = (title + " " + gist_text).lower()
+    if any(p in text for p in _LANDMARK_PHRASES):
+        return "landmark"
+    has_signals = bool(signal_ids)
+    if signal_confidence == "medium" and has_signals and signal_stance == "supports":
+        return "landmark"
+    if any(p in text for p in _SIGNIFICANT_PHRASES):
+        return "significant"
+    if has_signals or signal_confidence in ("medium", "high"):
+        return "noteworthy"
+    if any(p in text for p in _NOTEWORTHY_PHRASES):
+        return "noteworthy"
+    return "general"
+
 
 def load_seen_entries(path: str) -> list[str]:
     if not os.path.exists(path):
@@ -563,6 +655,7 @@ Paragraph 3 (What the evidence actually shows): Be honest about the research sta
 Optional Paragraph 4 (What to do with this): Only if the article supports actionable guidance — e.g., a supplement dose, an exercise protocol, a food group. Keep it grounded and caveated. Never prescribe.
 
 After the paragraphs, on separate lines output exactly:
+CONSUMER_TITLE: <a plain-English headline, max 12 words, benefit-first or curiosity-driven. No jargon. Can be a question. Examples: "Could fasting reset your immune system?", "The brain-health case for better sleep", "Why your gut bacteria matter for aging">
 PLAIN_SUMMARY: <one sentence summary, max 40 words, plain English>
 EVIDENCE_STAGE: <one of: mouse study | small human trial | large human trial | clinical>
 HAS_TAKEAWAY: <true or false>
@@ -586,12 +679,15 @@ Tone & Style:
                     continue
 
                 # Parse structured fields from end of output
+                consumer_title = ""
                 plain_summary = ""
                 evidence_stage = ""
                 has_takeaway = False
                 gist_lines = []
                 for line in raw_output.splitlines():
-                    if line.startswith("PLAIN_SUMMARY:"):
+                    if line.startswith("CONSUMER_TITLE:"):
+                        consumer_title = line[len("CONSUMER_TITLE:"):].strip()
+                    elif line.startswith("PLAIN_SUMMARY:"):
                         plain_summary = line[len("PLAIN_SUMMARY:"):].strip()
                     elif line.startswith("EVIDENCE_STAGE:"):
                         evidence_stage = line[len("EVIDENCE_STAGE:"):].strip()
@@ -603,6 +699,7 @@ Tone & Style:
             except Exception as e:
                 print(f"OpenAI API error for {url}: {e}")
                 gist = "Summary generation failed due to API error.\n\nRead the full article below."
+                consumer_title = ""
                 plain_summary = ""
                 evidence_stage = ""
                 has_takeaway = False
@@ -627,14 +724,21 @@ Tone & Style:
                 suffix += 1
 
             publisher = get_publisher_domain(url)
-            safe_title = yaml_escape(entry.title)
+            original_title = entry.title
+            display_title = consumer_title if consumer_title else original_title
+            safe_title = yaml_escape(display_title)
+            safe_original_title = yaml_escape(original_title)
             safe_excerpt = yaml_escape(gist[:160])
             safe_publisher = yaml_escape(publisher)
             safe_source_url = yaml_escape(url)
             safe_plain_summary = yaml_escape(plain_summary)
             safe_evidence_stage = yaml_escape(evidence_stage)
-            signal_ids, signal_stance, signal_confidence = infer_signal_tags(entry.title, gist)
+            signal_ids, signal_stance, signal_confidence = infer_signal_tags(original_title, gist)
             signal_ids_yaml = ", ".join(signal_ids)
+
+            # Derive topic and impact
+            post_topic = infer_post_topic(display_title, gist, signal_ids)
+            post_impact = infer_post_impact(display_title, gist, publisher, signal_confidence, signal_stance, signal_ids)
 
             # Build optional signal reference for high-confidence matches
             signal_ref = ""
@@ -647,8 +751,11 @@ Tone & Style:
                         f"[{signal_title}](/signals/#{first_signal})*\n"
                     )
 
+            topic_line = f'\ntopic: "{post_topic}"' if post_topic else ""
+
             md_content = f"""---
 title: "{safe_title}"
+original_title: "{safe_original_title}"
 date: {post_date_str}T{time_str}Z
 layout: post
 categories: [{YOUR_AREA.lower()}]
@@ -661,7 +768,8 @@ signal_stance: {signal_stance}
 signal_confidence: {signal_confidence}
 plain_summary: "{safe_plain_summary}"
 evidence_stage: "{safe_evidence_stage}"
-consumer_takeaway: {str(has_takeaway).lower()}
+consumer_takeaway: {str(has_takeaway).lower()}{topic_line}
+impact: "{post_impact}"
 ---
 
 {gist}

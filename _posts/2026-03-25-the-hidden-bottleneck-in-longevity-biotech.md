@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/the-hidden-bottleneck-in-longevit
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Condor has launched a $24 million Series A funding round to develop what it claims is the first financial intelligence platform specifically for the life sciences sector. This innovative platform aims to address a critical yet often overlooked aspect of pharmaceutical research and development: the allocation of capital. By integrating clinical, operational, and financial data into a cohesive system, Condor intends to enhance real-time visibility and streamline the decision-making processes that determine which therapies advance to patients.

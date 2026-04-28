@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/26/3281219/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **C3 Davos of Healthcare™ Silicon Valley Summit**, commencing on April 27, 2026, at the Plug and Play Tech Center, aims to redefine the future of health innovation under the theme “Healthtech Frontiers: Building The Health Ecosystem of Tomorrow.” This summit, bolstered by a strategic partnership with **King Faisal Specialist Hospital & Research Centre (KFSH)**, will convene leaders from healthcare, technology, and investment sectors to engage in high-level discussions on integrating advanced technologies into healthcare systems.

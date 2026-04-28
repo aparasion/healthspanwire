@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/brightgenes-oral-dual-agonist
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 China's BrightGene has released early-stage data on its dual GLP-1/GIP agonist, BGM0504, which is being tested as an oral treatment for obesity. Two placebo-controlled phase 1 studies conducted in China and the U.S. involved a total of 155 participants, revealing weight loss results of up to 8.2% after five to eight weeks of treatment. These findings come amidst a surge of interest in oral GLP-1 therapies, particularly following Novo Nordisk's successful launch of oral Wegovy earlier this year.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/designs-for-health-launches-neuro
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 Designs for Health has introduced **NeuroCalm Peptide**, a novel once-daily capsule targeting the gut-brain axis to enhance emotional well-being and stress resilience. This formulation integrates **Lactium**, a clinically studied milk-derived bioactive peptide, with **heat-treated lactobacillus gasseri CP2305**, aiming to mitigate everyday stressors and support overall mental health.

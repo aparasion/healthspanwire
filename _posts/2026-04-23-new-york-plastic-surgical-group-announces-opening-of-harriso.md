@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280020/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 New York Plastic Surgical Group (NYPS Group) has expanded its footprint with the opening of a new office in Harrison, NY, marking its 13th location in the New York area. This strategic move enhances patient access to a network of award-winning surgeons specializing in a comprehensive range of **cosmetic and reconstructive services**, including breast, body, and facial aesthetics, as well as microsurgery and trauma reconstruction. The new facility spans 3,500 square feet and will facilitate consultations and in-office procedures, while surgeries will be performed at affiliated hospitals such as White Plains Hospital and Greenwich Hospital - Yale New Haven Health.

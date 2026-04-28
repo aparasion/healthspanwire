@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/anthropic-acquires-stealth-ai
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Anthropic has made a significant move in the healthcare sector with its acquisition of **Coefficient Bio**, a stealth AI biotech startup, in a **$400 million stock deal**. This acquisition, confirmed by multiple sources including TechCrunch and PitchBook, positions Anthropic to enhance its capabilities in drug discovery and biological research. Coefficient, founded in 2025 and led by CEO **Aris Theologis**, aims to leverage AI to improve efficiency within these domains. Theologis, along with co-founders **Nathan Frey** and **Joyce Hong**, brings a wealth of experience from notable companies like Evozyne and Biogen, indicating a strong foundation for the startup's ambitious goals.

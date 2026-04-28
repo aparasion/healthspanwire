@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag058/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent analysis of administrative claims data from Statistics Netherlands has unveiled significant insights into **geriatric rehabilitation (GR)** costs and trajectories over a six-month period. The study examined 27,462 patients who received GR between February and July 2022, revealing a mean total cost of **€40,469** per patient, with a stark contrast between two identified latent cost groups. The lower-cost group, comprising **88%** of patients, incurred an average of **€35,024**, while the higher-cost group, representing **12%**, faced costs averaging **€82,012**.

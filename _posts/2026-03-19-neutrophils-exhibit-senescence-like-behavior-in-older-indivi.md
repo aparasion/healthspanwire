@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/03/neutrophils-exhibit-sen
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Recent research reveals that neutrophils in older individuals exhibit senescence-like behavior, which impairs their immune response to infections. While these innate immune cells are crucial for combating pathogens like Streptococcus pneumoniae, their functionality diminishes with age, leading to increased vulnerability to respiratory infections. The study shows that aged polymorphonuclear leukocytes (PMNs) display characteristics of cellular senescence, including heightened levels of the senescence-associated secretory phenotype (SASP) and reduced antimicrobial activity.

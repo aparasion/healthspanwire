@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/herbalife-to-acquire-personalized
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Herbalife has announced a significant acquisition of Bioniq, a London-based company specializing in personalized supplements tailored to individual blood biomarkers and health data. The deal, valued at up to $150 million, is set to close in the second quarter of 2026, pending regulatory approvals. Herbalife will initially pay $55 million over five years, with additional performance-based payments contingent on Bioniq's success.

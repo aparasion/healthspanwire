@@ -10,6 +10,7 @@ source_url: "https://www.scientificamerican.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers have unveiled innovative alert systems and tests that can detect drug-induced kidney damage before it becomes irreversible. This development, aimed at addressing the rising prevalence of chronic kidney disease (CKD), offers a proactive approach to managing kidney health, potentially transforming patient care.

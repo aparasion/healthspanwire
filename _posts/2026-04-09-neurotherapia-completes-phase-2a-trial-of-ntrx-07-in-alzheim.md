@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/neurotherapia-completes-phase-2a-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 NeuroTherapia, Inc. has successfully completed a **28-day double-masked Phase 2a trial** for its oral candidate, **NTRX-07**, targeting patients with Alzheimer’s disease. The trial involved **48 subjects** randomized across five sites in Central Europe, demonstrating a favorable safety profile with no serious treatment-related adverse events reported. This study effectively met its primary objective, establishing tolerability while employing a range of pharmacokinetic and clinical assessments, including **ADAS-Cog**, **MMSE**, and the **Trail Making Test**.

@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260402042740.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers at MIT have identified a gene mutation linked to schizophrenia that may hinder the brain's ability to update beliefs based on new information. The mutation occurs in the grin2a gene, which is involved in the function of NMDA receptors and affects a critical thalamus-prefrontal cortex circuit. In experiments with mice carrying this mutation, scientists observed that these animals struggled to adapt their decision-making in changing environments, often sticking to outdated choices despite new conditions. This discovery highlights the potential for targeting specific brain circuits to address cognitive impairments associated with schizophrenia.

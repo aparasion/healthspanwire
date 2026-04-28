@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/d41586-026-01028-3"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 **Danielle Chammas**, a palliative-care physician at UCSF, is pioneering the integration of **poetry** into clinical practice, emphasizing its therapeutic potential for patients facing terminal illnesses. Her poem "Defiance," published in JAMA Oncology, encapsulates the profound emotional journey of a cancer patient, illustrating how poetry can articulate complex human experiences surrounding life and death. Chammas co-directs the **Poetic Medicine programme**, which fosters a creative space for clinicians, caregivers, and patients to engage with poetry, enhancing emotional support and connection during challenging times.

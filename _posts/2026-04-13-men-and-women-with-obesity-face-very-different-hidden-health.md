@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260413043129.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 New findings from a study presented at the European Congress on Obesity reveal significant sex-based differences in how obesity manifests in men and women. Conducted by researchers at Dokuz Eylul University, the study found that men are more prone to accumulating **visceral fat**, which poses heightened risks for **cardiovascular disease** and metabolic disorders, while women exhibit increased levels of **inflammation** and **cholesterol**, both of which are linked to heart disease and type 2 diabetes.

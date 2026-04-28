@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSEU5WmFRaF8taz
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study has revealed that increasing plant-based food consumption can significantly slow biological aging, as measured by biological clocks, rather than just affecting chronological age. Researchers conducted a comprehensive analysis of dietary patterns and their relationship with biological aging markers, finding that individuals who consumed more fruits, vegetables, whole grains, and legumes exhibited lower biological age compared to those with diets high in processed foods and animal products.

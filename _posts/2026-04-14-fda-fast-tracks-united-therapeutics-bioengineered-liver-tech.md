@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/fda-fast-tracks-united-therapeuti
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 United Therapeutics has received **Regenerative Medicine Advanced Therapy (RMAT)** designation from the FDA for its experimental therapy, **miroliverELAP**, aimed at addressing the critical gap in treatment for patients suffering from **acute liver failure**. This innovative system utilizes a **bioengineered liver** that functions externally, allowing blood to flow through it and temporarily perform essential liver functions. Unlike traditional dialysis, miroliverELAP serves as a stopgap, akin to a substitute teacher, maintaining vital metabolic processes until a transplant can be performed or the liver recovers.

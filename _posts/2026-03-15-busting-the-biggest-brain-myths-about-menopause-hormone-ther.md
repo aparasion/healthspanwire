@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/busting-the-biggest-brain-myths-about-me
 signal_ids: [sex-healthspan-lifespan]
 signal_stance: supports
 signal_confidence: medium
+topic: "nutrition"
+impact: "landmark"
 ---
 
 Recent re-evaluations of the Women’s Health Initiative (WHI) findings have reshaped our understanding of menopause hormone therapy (MHT) and its implications for women’s health. Initially, the WHI reported increased risks of heart disease, stroke, and dementia associated with MHT, leading to a significant decline in its use. However, new insights suggest that MHT can be beneficial for women who start treatment around menopause, particularly concerning brain health.

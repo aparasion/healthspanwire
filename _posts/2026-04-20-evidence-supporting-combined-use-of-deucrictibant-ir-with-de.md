@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276834/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Pharvaris has presented new data on **deucrictibant**, a novel oral bradykinin B2 receptor antagonist, at the Consortium of Independent Immunology Clinics Spring 2026 Conference. The study evaluated the safety margins of combining **deucrictibant immediate-release (IR) capsules** with **deucrictibant extended-release (XR) tablets** for treating bradykinin-mediated diseases, specifically hereditary angioedema (HAE) and acquired angioedema due to C1 inhibitor deficiency (AAE-C1INH). The findings indicate that administering a 40 mg deucrictibant XR tablet for prophylaxis alongside one or two 20 mg deucrictibant IR capsules for breakthrough attacks is supported by adequate safety margins.

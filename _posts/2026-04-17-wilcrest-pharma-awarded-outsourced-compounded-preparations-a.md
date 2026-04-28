@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276140/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Wilcrest Pharmaceuticals, Inc. has secured a national group purchasing agreement for Outsourced Compounded Preparations with Premier, Inc., effective April 1, 2026. This partnership enables Premier members to access pre-negotiated pricing and terms for compounded medications, enhancing the availability of these critical therapies across thousands of health systems in the U.S. A.J. Day, PharmD, CEO of Wilcrest Pharma, emphasized the company's commitment to addressing persistent clinical and operational challenges in healthcare, particularly where viable treatment options are lacking.

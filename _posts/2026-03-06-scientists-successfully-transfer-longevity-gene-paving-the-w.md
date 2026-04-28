@@ -10,6 +10,8 @@ source_url: "https://scitechdaily.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers have identified a new enzyme target that may offer an alternative therapeutic approach for treating Alzheimer’s disease. This discovery highlights the complexity of Alzheimer's pathology, suggesting that a multi-faceted strategy may be necessary to address the disease effectively. 

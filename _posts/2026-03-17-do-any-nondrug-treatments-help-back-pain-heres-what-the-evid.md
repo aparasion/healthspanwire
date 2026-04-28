@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/do-any-non-drug-treatments-help-back-pai
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 A comprehensive review by the Cochrane Collaboration has synthesized findings from 31 systematic reviews involving 97,000 individuals to address the management of low back pain. The study highlights that traditional approaches like bed rest and reliance on painkillers or surgery are no longer recommended as first-line treatments, emphasizing instead the importance of staying active and engaging in multidisciplinary care.

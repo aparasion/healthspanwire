@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277808/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **MDNA113, a novel bifunctional Superkine developed by Medicenna Therapeutics, has demonstrated exceptional selectivity and potency in targeting tumors while maintaining a favorable systemic tolerability profile. Recent preclinical data presented at the AACR Annual Meeting 2026 highlight MDNA113's superior performance compared to a traditional anti-PD-1 x IL-2α-biased bispecific in non-human primates, where it was well tolerated at doses up to 50 mg/kg, while the comparator exhibited severe toxicity. This promising safety profile supports Medicenna's plans for an Investigational New Drug (IND) submission anticipated in late 2026.**

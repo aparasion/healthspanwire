@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277780/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 **LeonaBio, Inc.** recently showcased promising nonclinical data on **lasofoxifene** at the **AACR26**, presented by researchers from Virginia Commonwealth University. The findings highlight lasofoxifene's dual role as a **selective estrogen receptor modulator (SERM)** that not only suppresses **ER-driven tumor growth** in metastatic breast cancer but also preserves **bone integrity**, particularly in models of **ESR1-mutant** disease. This unique context-dependent activity positions lasofoxifene as a potentially transformative therapeutic candidate for patients facing metastatic breast cancer with limited treatment options.

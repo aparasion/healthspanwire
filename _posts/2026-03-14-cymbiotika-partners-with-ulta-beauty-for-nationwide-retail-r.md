@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/cymbiotika-partners-with-ulta-bea
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Cymbiotika has partnered with Ulta Beauty to introduce its wellness supplements to a broader audience, marking a significant expansion into the beauty retail sector. The collaboration will kick off with an online launch on March 15, 2026, followed by in-store availability at over 1,000 Ulta locations starting March 29. This partnership highlights the increasing consumer interest in "beauty-from-within" products that enhance topical skincare routines.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279197/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Joyce University of Nursing and Health Sciences** has announced the expansion of its hybrid pre- and post-licensure nursing programs into **Indiana and Florida**, allowing aspiring nurses to achieve RN licensure in as few as **20 months**. This initiative is part of Joyce University’s broader strategy to address the **nationwide nursing shortage** by providing flexible, career-focused educational pathways. With this expansion, the university now offers pre-licensure programs across **17 states**, enhancing access to high-quality nursing education.

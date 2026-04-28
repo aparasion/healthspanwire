@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent retrospective cohort study evaluated the **duration of antipsychotic (AP) treatment** among nursing home residents with dementia, revealing critical insights into the effectiveness of federal policies aimed at reducing AP use. The analysis encompassed **43,668 new episodes** of AP initiation among **38,275 residents**, focusing on treatment duration and discontinuation rates within six months following the implementation of two key initiatives: the **National Partnership to Improve Dementia Care** (2012) and the **Five Star Rating system** (2015).

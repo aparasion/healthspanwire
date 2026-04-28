@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260331001054.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 A groundbreaking urine test developed by researchers at the University of Reading, in collaboration with the University of Southampton and Hampshire Hospitals NHS Foundation Trust, promises to revolutionize the treatment of urinary tract infections (UTIs) by delivering antibiotic susceptibility results in under six hours. This innovative method bypasses traditional lab culturing, which typically takes two to three days, allowing healthcare providers to quickly identify the most effective antibiotic for their patients.

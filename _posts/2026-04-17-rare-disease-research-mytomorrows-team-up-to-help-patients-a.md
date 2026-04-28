@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/cro/rare-disease-research-and-mytomor
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Clinical trial site network **Rare Disease Research (RDR)** has announced a strategic partnership with health tech company **myTomorrows** to enhance the visibility of rare disease trials and facilitate patient referrals from both community and specialist care settings. This collaboration will initially focus on RDR sites in **Georgia, Florida, and North Carolina**, addressing the significant barriers that rare disease patients often encounter in accessing appropriate clinical trials, such as complex eligibility criteria and limited study availability.

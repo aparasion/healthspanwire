@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag070/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 A recent study utilizing data from the Korea National Health Insurance Service–Senior Cohort has established a significant association between **antidepressant use** and **pneumonia hospitalization** in older adults aged 60 to 80. The nationwide self-controlled case series analyzed 15,478 individuals who initiated antidepressant therapy between 2008 and 2019. Findings reveal that the risk of pneumonia hospitalization was markedly higher during the 90-day period following antidepressant initiation, with an incidence rate ratio (IRR) of **2.48** overall, peaking at **3.53** in the first 30 days.

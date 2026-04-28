@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267157/34323
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Roivant has initiated a Phase 2b/3 clinical trial for brepocitinib, targeting lichen planopilaris (LPP), a severe inflammatory scalp disorder that leads to irreversible hair loss and significant discomfort. This marks the fourth indication for brepocitinib, which is already in late-stage development for other conditions, including dermatomyositis and non-infectious uveitis. LPP affects approximately 100,000 adults in the U.S. and currently lacks FDA-approved treatments, highlighting a critical gap in therapeutic options for patients suffering from this debilitating condition.

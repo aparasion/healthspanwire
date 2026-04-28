@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/celosia-therapeutics-begins-phase
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 Celosia Therapeutics has initiated a pivotal Phase 1b trial, KOANEWA, by dosing its first participant with CTx1000, a novel genetic therapy targeting amyotrophic lateral sclerosis (ALS). Conducted at Macquarie University Hospital in Sydney, this open-label study aims to evaluate the safety and tolerability of a single administration of CTx1000, while also incorporating biomarker profiling and clinical measures as exploratory efficacy endpoints.

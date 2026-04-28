@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/a-review-focused-on-exe
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Recent advancements in understanding **exerkines**—signaling molecules produced by muscle tissue in response to physical activity—highlight their role in promoting beneficial outcomes across various cell types and tissues. This review emphasizes the importance of **extracellular vesicles (EVs)**, particularly **exosomes**, as carriers of these exerkines, facilitating intercellular communication and influencing systemic health. The shift from traditional soluble factors to recognizing the significance of EVs marks a pivotal change in how we perceive muscle-tissue signaling and its broader implications for healthspan.

@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/a-stronger-flu-shot-a-stronger-brain-new
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent observational study published in **Neurology** has revealed that older adults (65+) who received a **high-dose influenza vaccine** exhibited a significantly lower risk of developing **Alzheimer’s disease** compared to those who received the standard-dose vaccine. The study analyzed health data from nearly **200,000 older adults**, finding that those who received the high-dose shot had an approximate **55% reduction** in Alzheimer’s risk over a follow-up period of up to three years, with the most pronounced effects noted within the first two years post-vaccination.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270177/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **Aeroflow Health has successfully advocated for the passage of Senate Bill 23, now 2025 Wisconsin Act 102, which expands postpartum Medicaid coverage from 60 days to one year, set to take effect on July 1, 2026. This legislation significantly enhances access to maternal healthcare for Wisconsin mothers, allowing them more time to focus on recovery and utilize available care resources for themselves and their infants. Given that the state’s Medicaid program covers 40% of births, this change is poised to improve health outcomes for a substantial number of new mothers.**

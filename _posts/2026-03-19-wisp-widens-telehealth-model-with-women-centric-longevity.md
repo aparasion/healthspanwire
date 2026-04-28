@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/wisp-widens-telehealth-model-with
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Wisp, a leading women’s telehealth platform, has launched a new Longevity and Healthy Aging category, aiming to address the specific needs of women in the aging process. By expanding beyond reproductive health, Wisp seeks to provide accessible, clinician-guided longevity care that resonates with women's unique experiences of aging, such as hormonal transitions and chronic fatigue. The initial offerings include well-known therapies like NAD+ and glutathione, but with an emphasis on practical health maintenance rather than biohacking trends.

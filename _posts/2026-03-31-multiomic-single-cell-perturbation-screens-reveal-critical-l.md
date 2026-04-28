@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01100-7"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers have made significant strides in understanding the role of long noncoding RNAs (lncRNAs) in aging and cellular senescence, with a new study employing a Perturb-seq-based CRISPR–dCas9–KRAB knockdown system combined with single-nucleus multiomics profiling. This comprehensive analysis focused on 32 high-abundance lncRNAs associated with aging and senescence, revealing their intricate regulatory functions in transcriptional and epigenetic processes. Notably, the study identified HOTAIRM1, an lncRNA linked to DNA repair, which plays a crucial role in stabilizing DNA repair mechanisms through interactions with BANF1 and p53.

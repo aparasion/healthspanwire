@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/ai-built-intrabodies-target-alzhe
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 A groundbreaking study from the University of Essex has introduced a new class of antibody fragments, termed intrabodies, designed to operate within human cells, potentially transforming the landscape of Alzheimer’s and other neurodegenerative disease treatments. Published in *Nature Communications*, the research highlights how these engineered molecules can target disease-driving proteins that reside inside neurons, addressing a critical gap in current therapeutic strategies that typically focus on extracellular interactions.

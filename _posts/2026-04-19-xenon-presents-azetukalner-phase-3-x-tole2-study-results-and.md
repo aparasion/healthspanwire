@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/19/3276673/33485
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Xenon Pharmaceuticals has presented compelling data from the Phase 3 **X-TOLE2 study** at the American Academy of Neurology (AAN) Annual Meeting, showcasing the efficacy of **azetukalner** (AZK) in treating **focal onset seizures (FOS)**. The study revealed a **53.2% reduction** in monthly seizure frequency for the 25 mg AZK group compared to a mere **10.4% for placebo**, with a notable increase in the rate of **100% seizure reduction** over time during the 12-week double-blind period. Long-term results from the ongoing X-TOLE open-label extension (OLE) study indicate that nearly **40% of participants** achieved at least **12 months of seizure freedom**, while **25% achieved 24 months**, underscoring AZK's potential as a transformative treatment for epilepsy.

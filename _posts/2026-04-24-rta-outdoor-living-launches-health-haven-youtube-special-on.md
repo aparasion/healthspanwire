@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/24/3281011/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 RTA Outdoor Living has launched **Health Haven**, a YouTube special that investigates the impact of residential outdoor environments on **stress reduction**, **recovery**, **physical activity**, and **social behavior**. Led by performance coach Justin Roethlingshoefer, the project showcases a real-world implementation of environmental health principles by transforming a one-acre backyard into a multifunctional wellness space. This initiative aligns with a growing body of research indicating that well-designed outdoor areas can facilitate healthier lifestyle choices and improve overall well-being.

@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-c
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 GE HealthCare has secured FDA clearance for its Photonova Spectra, a groundbreaking photon-counting CT system that captures up to 50 times more data than traditional CT scanners. This advancement stems from a substantial $5.1 billion R&D investment since 2024 and follows the acquisition of Deep Silicon technology, which enhances imaging by directly measuring X-ray energy post-exposure. The Photonova Spectra promises to elevate diagnostic capabilities across various medical specialties, including neurology and oncology, by providing clearer images and improved material differentiation, particularly for low-contrast structures.

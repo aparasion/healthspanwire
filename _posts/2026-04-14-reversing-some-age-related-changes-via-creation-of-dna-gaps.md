@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/reversing-some-age-rela
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers have demonstrated that the **Box A domain of High Mobility Group Box 1 (HMGB1)** can induce the formation of **DNA gaps** in aged non-human primates, leading to significant improvements in health biomarkers. This study highlights the importance of regulating nuclear DNA structure, particularly the balance between heterochromatin and unspooled regions, which deteriorates with age. The introduction of DNA gaps, which are distinct from harmful double-strand breaks, may play a protective role by minimizing mechanical stress within DNA, thus enhancing overall cellular function.

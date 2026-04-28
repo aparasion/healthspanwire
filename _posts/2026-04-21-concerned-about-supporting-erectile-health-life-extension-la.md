@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278110/0/en/
 signal_ids: [sex-healthspan-lifespan]
 signal_stance: supports
 signal_confidence: medium
+topic: "nutrition"
+impact: "general"
 ---
 
 **Life Extension has launched Advanced Male Sexual Support, a scientifically formulated supplement designed to enhance multiple aspects of male sexual health, including erectile function, desire, stamina, and overall satisfaction. This product combines clinically validated ingredients such as pomegranate and cacao extracts with a proprietary fenugreek blend to improve the bioavailability of luteolin, a compound known for its potential benefits in men’s health.**

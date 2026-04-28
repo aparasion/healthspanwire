@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/pretzel-therapeutics-presents-px5
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Pretzel Therapeutics has unveiled promising preclinical data for its investigational therapy PX578, presented at the 2026 MDA Clinical and Scientific Conference. This first-in-class small molecule targets mitochondrial DNA depletion syndromes, particularly POLG disease, a rare genetic condition lacking approved disease-modifying treatments. PX578 activates mitochondrial DNA polymerase gamma (POLG) to address the root cause of these disorders by enhancing mitochondrial DNA levels.

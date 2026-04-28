@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268809/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Sanofi's **lunsekimig**, a novel bispecific Nanobody® VHH, has successfully met its primary and key secondary endpoints in two Phase 2 clinical trials targeting **asthma** and **chronic rhinosinusitis with nasal polyps**. The **AIRCULES Phase 2b study** demonstrated a statistically significant reduction in asthma exacerbations and improved pulmonary function in patients with moderate to severe asthma, while the **DUET Phase 2a study** showed significant improvements in nasal polyp scores and congestion in patients with chronic rhinosinusitis. Both studies reported a favorable safety profile for lunsekimig, with common adverse events being manageable.

@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/s43587-026-01099-x"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 **A recent study utilizing single-cell RNA sequencing has unveiled significant sex-specific differences in immunosenescence, highlighting how biological sex influences the aging immune system. Researchers analyzed data from 982 male and female donors, revealing that aging prompts distinct compositional and transcriptional changes in immune cells. Notably, female individuals exhibited a pronounced expansion in cytotoxic CD8⁺ effector memory T cell subsets and inflammatory monocytes, while certain male participants showed an age-related increase in a B cell population associated with chronic lymphocytic leukemia.**

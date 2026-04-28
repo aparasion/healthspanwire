@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-glob
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Novo Nordisk and its Chinese partner, The United Laboratories, have reported promising mid-phase results for their triple-G candidate, UBT251, demonstrating significant efficacy in Type 2 diabetes management. In a phase 2 trial involving 211 patients, UBT251 achieved a reduction in HbA1c levels of up to 2.16% after 24 weeks, outperforming semaglutide, Novo’s existing GLP-1 therapy, which showed a 1.77% reduction. Additionally, participants on UBT251 experienced mean body weight reductions of up to 9.8%, compared to 4.8% for semaglutide.

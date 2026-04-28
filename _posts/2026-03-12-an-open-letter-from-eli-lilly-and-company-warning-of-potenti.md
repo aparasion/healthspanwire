@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/open-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Eli Lilly and Company has issued a critical public warning regarding the potential safety risks associated with compounded tirzepatide products mixed with vitamin B12. Testing revealed significant levels of an impurity resulting from the chemical interaction between tirzepatide and B12, raising concerns about unknown short- and long-term effects on patients. This warning is particularly relevant as compounded versions of tirzepatide, marketed by various entities, lack the rigorous testing and monitoring that FDA-approved medications undergo, leaving patients vulnerable to unverified risks.

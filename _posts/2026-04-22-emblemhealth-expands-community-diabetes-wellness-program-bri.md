@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279042/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 EmblemHealth has announced the **citywide expansion** of its **Community Diabetes Wellness Program**, initially launched in the Bronx, to provide **no-cost, community-based support** for diabetes prevention and management throughout New York City. This initiative offers essential services such as **free A1C screenings**, diabetes education, nutrition workshops, exercise classes, and emotional support, aiming to enhance community engagement in diabetes care. Since its inception, the program has successfully reached over **8,700 New Yorkers**, with **43% of participants** reporting a reduction in their A1C levels, indicating significant clinical impact.

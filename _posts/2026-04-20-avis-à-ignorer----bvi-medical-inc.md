@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277152/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 BVI Medical, Inc. has announced the **CE marking** for its innovative **Virtuoso® platform**, a dual-function phaco-vitrectomy system designed to enhance surgical precision and efficiency in ophthalmic procedures. This regulatory approval signifies that Virtuoso® meets the stringent requirements set by the European Union Medical Device Regulation (EU MDR), allowing it to be marketed in Europe.

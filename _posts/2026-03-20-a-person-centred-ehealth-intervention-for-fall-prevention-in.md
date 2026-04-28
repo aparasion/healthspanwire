@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag053/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study has highlighted the potential of a gerontological telemedicine program in reducing falls among nursing home residents in medically underserved areas. The GERONTACCESS trial, which included 426 participants aged 60 and older, compared an intervention group receiving telemedicine support to a control group receiving standard care. Over the course of one year, the intervention group experienced significantly fewer non-serious falls, with a notable reduction in the number of residents who fell at least once.

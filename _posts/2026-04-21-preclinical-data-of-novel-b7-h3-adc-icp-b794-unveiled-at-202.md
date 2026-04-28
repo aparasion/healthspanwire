@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277714/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 InnoCare Pharma has unveiled promising preclinical data for its novel B7-H3 targeted antibody-drug conjugate (ADC), **ICP-B794**, at the 2026 AACR Annual Meeting. This ADC employs a unique linker-payload system, demonstrating **potent anti-tumor activity** across various preclinical tumor models while maintaining a significantly larger safety window compared to existing therapies. Currently, ICP-B794 is undergoing a Phase I dose-escalation clinical trial, positioning it as a potential game-changer in the ADC landscape.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268471/0/ja/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Egg Medical** has unveiled the **EggNest™ Complete Flex**, a groundbreaking advancement in radiation protection that allows clinical practitioners to operate without traditional lead aprons or with ultra-lightweight alternatives, eliminating the need for construction or downtime during procedures. The first live case utilizing this technology will be performed by Dr. Jasvindar Singh at Barnes-Jewish Hospital on April 8, 2026, during the ARCH 2026 conference. Dr. Singh, who leads the Interventional Structural Cardiology Department and chairs the ARCH Consortium, emphasizes the importance of adopting solutions that protect all personnel involved.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/biotechs-race-to-turn-aging-scien
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Avaí Bio, a microcap biotech firm based in Vilnius, is pioneering a novel approach to longevity by targeting the **α-Klotho protein**, which diminishes with age and is implicated in various age-related conditions. Collaborating with Singapore's Austrianova through their joint venture, Klothonova, they are developing a method to produce α-Klotho continuously within the body using **genetically modified encapsulated cells**. This innovative strategy aims to create a self-sustaining "protein generator" that could mitigate the need for constant dosing, thereby addressing the challenges of protein delivery and stability in therapeutic applications.

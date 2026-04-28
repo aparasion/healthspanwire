@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHQ1RTJSaGg0Rl
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A new lifespan extension drug for senior dogs has reached a significant milestone in its development, as reported by DVM360. This innovative therapeutic approach aims to enhance the healthspan and longevity of aging canine populations, reflecting growing interest in translational research that impacts both veterinary and human health.

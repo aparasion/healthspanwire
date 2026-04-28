@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/evolve-science-launches-longevity
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Evolve Science has launched a new US-based peptide platform aimed at redefining consumer trust in the longevity market through transparency and rigorous documentation. Founded by Mark Wagner, the company offers peptide products, GLP-1 therapies, NAD+ optimization protocols, and regenerative compounds, all sourced from FDA-registered compounding pharmacies. This focus on verified sourcing and the inclusion of Certificates of Analysis (COAs) underscores a commitment to quality and accountability in a sector often criticized for its lack of transparency.

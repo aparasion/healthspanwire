@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/limited-food-declining-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers propose a novel perspective on aging, suggesting it evolved as a response to limited nutrient availability and the cellular mechanisms for ATP production. The study highlights the decline in both glycolytic and mitochondrial ATP generation with age, emphasizing the critical role of ATP in high-energy tissues like muscle and the brain. The authors argue that this decline may serve a group selection purpose, enhancing offspring survival by conserving resources during periods of scarcity.

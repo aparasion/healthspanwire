@@ -10,6 +10,7 @@ source_url: "https://www.scientificamerican.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 A new COVID-19 variant, designated BA.3.2, has emerged in the U.S., raising concerns among health experts due to its potential resistance to immunity conferred by vaccines and previous infections. While current infection rates remain low, the variant's ability to evade immune responses could pose significant challenges in managing the ongoing pandemic.

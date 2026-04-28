@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279470/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The U.S. Food and Drug Administration (FDA) has approved **Dupixent® (dupilumab)** for the treatment of children aged 2 to 11 years with **chronic spontaneous urticaria (CSU)** who remain symptomatic despite treatment with histamine-1 antihistamines (H1AH). This decision, based on data from the **LIBERTY-CUPID clinical trial program**, marks Dupixent as the first biologic therapy available for young children suffering from this debilitating skin condition, which can significantly disrupt their quality of life during formative years.

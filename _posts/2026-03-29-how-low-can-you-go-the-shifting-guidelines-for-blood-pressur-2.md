@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/how-low-can-you-go-the-shifting-guidelin
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Mark Supiano, a geriatrician at the University of Utah, has highlighted the critical intersection of **hypertension management** and cognitive health in older adults. A case study involving a 78-year-old woman revealed that despite initial treatment, her blood pressure remained elevated, contributing to her eventual diagnosis of **mild cognitive impairment**. Following updated guidelines from the American Heart Association and American College of Cardiology, which advocate for more aggressive blood pressure control—specifically aiming for systolic readings below **120 mmHg**—Supiano adjusted her treatment regimen, resulting in improved blood pressure and potentially delaying cognitive decline.

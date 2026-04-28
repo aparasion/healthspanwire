@@ -7,6 +7,8 @@ tags: [monthly, roundup, longevity, healthspan]
 excerpt: "A monthly roundup for March 2026 based on 224 articles."
 period: "2026-03"
 source_count: 224
+topic: "biomarkers"
+impact: "general"
 ---
 
 The landscape of longevity science this March has been defined by a notable shift towards the integration of pharmaceutical innovation and lifestyle interventions in the fight against age-related diseases. Pharmaceutical and biotechnology companies are increasingly channeling investments into developing innovative treatments targeting age-related diseases, as highlighted by [Clarivate](/articles/2026/03/02/pharmas-and-biotechs-are-investing-in-new-treatments-for-dis.html). This strategic pivot reflects a broader recognition of the urgent need to address the multifaceted challenges of aging. Meanwhile, lifestyle factors such as exercise and diet continue to demonstrate their critical roles in enhancing healthspan, with new studies underscoring the profound impact of even minimal daily physical activity on longevity.

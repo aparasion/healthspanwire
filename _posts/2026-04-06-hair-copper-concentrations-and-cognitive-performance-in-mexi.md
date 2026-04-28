@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent cross-sectional study involving **2,371 Mexican adults aged 50 and older** has revealed a nuanced relationship between **hair copper concentrations** and cognitive function. Utilizing data from the 2018 Mexican Health and Aging Study, researchers assessed cognitive performance through an adapted Cross-Cultural Cognitive Examination and measured hair copper levels via inductively coupled plasma mass spectrometry. The analysis categorized participants into two groups: those with normal copper concentrations (0.05-20.95 µg/g) and those with elevated levels (>21.11 µg/g).

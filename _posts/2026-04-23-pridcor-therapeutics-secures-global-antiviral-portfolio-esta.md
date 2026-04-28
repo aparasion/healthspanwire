@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280256/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 PridCor Therapeutics LLC has announced a pivotal acquisition of a global antiviral asset portfolio, positioning itself as a frontrunner in the development of treatments for **Long COVID** and various **infection-associated chronic illnesses (IACI)**. This portfolio includes **IMC-2**, a Phase 2b-ready fixed-dose combination therapy targeting a wide range of symptoms associated with Long COVID, as well as **IMC-1**, a Phase 3-ready candidate for fibromyalgia. This strategic move not only enhances PridCor's clinical pipeline but also underscores the growing recognition of viral reactivation as a significant factor in chronic disease progression.

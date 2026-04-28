@@ -10,6 +10,8 @@ source_url: "https://cen.acs.org"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 At the ACS Spring 2026 conference, significant advancements were revealed in the development of six new molecules aimed at treating pain and cancer. These first-time disclosures mark a promising step forward in the pharmaceutical landscape, with implications for both therapeutic efficacy and patient outcomes.

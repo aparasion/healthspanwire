@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/immunobrain-presents-phase-1b-dat
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 ImmunoBrain has unveiled promising Phase 1b results for its anti-PD-L1 therapy, IBC-Ab002, targeting early Alzheimer’s disease during the AD/PD 2026 conference in Copenhagen. The IBC-01-01 trial, which involved 40 patients across the U.K., Netherlands, and Israel, focused on assessing safety, tolerability, and pharmacokinetics, alongside exploratory cerebrospinal fluid (CSF) biomarker analyses at the 12-month mark.

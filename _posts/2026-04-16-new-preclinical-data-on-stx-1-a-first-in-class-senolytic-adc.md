@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275771/0/en/
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "general"
 ---
 
 StarkAge Therapeutics has announced the upcoming presentation of preclinical data on **STX-1**, a first-in-class **senolytic antibody-drug conjugate (ADC)** targeting DPP4, at the AACR Annual Meeting 2026. This innovative therapy aims to address the challenges of **therapy-induced senescence**, a significant contributor to tumor progression and treatment resistance, particularly in solid tumors. The presentations will highlight STX-1's mechanism of selectively eliminating DPP4-expressing cells in both tumor and stromal environments, offering a promising therapeutic avenue for patients with limited options.

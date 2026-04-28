@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/seragon-study-shows-srn-901-exten
 signal_ids: [blood-biomarker-panels]
 signal_stance: mixed
 signal_confidence: medium
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Seragon Biosciences has unveiled promising preclinical results for **SRN-901**, an oral combinatorial longevity drug, demonstrating significant physiological benefits and lifespan extension in aged mice. In a study published in *Drug Design, Development and Therapy*, **18-month-old C57BL/6 mice** on a Western diet exhibited a **33% increase in median remaining lifespan** compared to the placebo group. The analysis revealed a **46% reduction in the hazard of death** according to Cox proportional hazards modeling, positioning SRN-901 as a potent contender in the longevity therapeutics landscape.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276925/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 BioCardia, Inc. has received a positive assessment from Japan’s Pharmaceutical and Medical Device Agency (PMDA) regarding its **CardiAMP® Cell Therapy** for ischemic heart failure. The PMDA has indicated that the clinical safety and efficacy data gathered in the U.S. is likely sufficient for market clearance, highlighting a significant step toward the introduction of this **minimally invasive biologic therapy** in Japan. The meeting facilitated alignment on the use of foreign data, patient indications, and the necessity for ongoing post-marketing studies, with BioCardia awaiting further details from the PMDA.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/scalable-biotech-manufacturing-ta
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Avaí Bio, formerly Avant Technologies, is making significant strides in the cell therapy manufacturing landscape by collaborating with Austrianova to produce a master cell bank of genetically modified cells designed to enhance alpha-Klotho protein levels. This initiative is part of a broader trend in the cell therapy market, which is projected to exceed $7 billion by 2026 and double by 2035, driven by increasing demand for innovative therapeutics and the FDA's new flexible manufacturing guidelines aimed at expediting approval processes.

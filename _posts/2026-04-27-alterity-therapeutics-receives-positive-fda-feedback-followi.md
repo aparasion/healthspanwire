@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281504/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Alterity Therapeutics has received positive regulatory feedback from the U.S. FDA regarding its planned Phase 3 development program for **ATH434**, a potential disease-modifying treatment for **Multiple System Atrophy (MSA)**. This follows a second Type C Meeting, which confirmed alignment with the FDA on critical aspects related to **chemistry, manufacturing, and control (CMC)**. MSA is a rare and rapidly progressive neurodegenerative disease currently lacking approved treatments, making this development particularly significant for both patients and the field.

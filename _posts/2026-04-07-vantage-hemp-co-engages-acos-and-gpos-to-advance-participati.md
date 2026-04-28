@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268976/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Vantage Hemp Co. has announced its active engagement with multiple Accountable Care Organizations (ACOs) and Group Purchasing Organizations (GPOs) to participate in the Centers for Medicare and Medicaid Services (CMS) CBD pilot program. This initiative aims to evaluate the performance of CBD within value-based care frameworks, emphasizing clinical outcomes and cost efficiency. As one of the few manufacturers producing **pharmaceutical-grade CBD at scale**, Vantage is positioning itself strategically as CMS reviews manufacturing controls and regulatory standards, distinguishing itself from the nutraceutical products that currently dominate the market.

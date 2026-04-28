@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279991/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Dogwood Therapeutics has secured a global development and commercialization license for its antiviral candidates, **IMC-1** and **IMC-2**, from PRIDCor Therapeutics. This partnership aims to address chronic conditions such as **fibromyalgia** and **Long-COVID**, with PRIDCor taking charge of financing and executing the development of these assets. In return, Dogwood will receive a tiered royalty of up to **15%** on net sales, alongside potential milestone payments and a **9%** share of future capital raised by PRIDCor, capped at **$100 million**.

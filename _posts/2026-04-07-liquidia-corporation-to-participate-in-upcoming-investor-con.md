@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269050/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Liquidia Corporation has announced its participation in two upcoming investor conferences, highlighting its commitment to advancing therapies for respiratory and vascular diseases. The **2026 Raymond James Biotech Innovation Symposium** on April 14 will feature one-on-one meetings with key executives, including COO Michael Kaseta and CBO Jason Adair. Following that, the **25th Annual Needham Virtual Healthcare Conference** on April 15 will include a fireside chat with CEO Dr. Roger Jeffs and Kaseta, where they will provide insights into the company's business strategies and developments.

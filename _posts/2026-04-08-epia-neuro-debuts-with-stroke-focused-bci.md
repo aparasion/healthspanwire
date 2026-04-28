@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/epia-neuro-debuts-with-stroke-foc
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Epia Neuro, a San Francisco-based startup, has launched an **implantable brain-computer interface (BCI)** aimed at helping stroke survivors regain functional independence by translating their intended movements into actionable commands. This minimally invasive neural interface is designed to interpret neural signals and integrate them with assistive devices, enabling users to control tools such as grip-assist prosthetics effectively. Unlike other BCI ventures that focus on broader applications, Epia's targeted approach addresses the specific needs of stroke survivors, a demographic that faces significant challenges in daily life post-recovery.

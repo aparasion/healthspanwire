@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260328065333.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 New research from the University of Colorado Boulder highlights concerning effects of erythritol, a popular sugar substitute, on brain health. The study reveals that erythritol can disrupt the function of brain blood vessel cells, leading to reduced nitric oxide production and increased oxidative stress. These cellular changes may elevate stroke risk, even at typical consumption levels found in many low-carb and sugar-free products.

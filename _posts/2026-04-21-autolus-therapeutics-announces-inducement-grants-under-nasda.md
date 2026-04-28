@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278431/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Autolus Therapeutics has granted stock options and restricted stock units (RSUs) to 15 employees as part of its 2025 Inducement Plan, totaling 68,500 shares and 57,765 RSUs. The stock options, priced at **$1.47 per share**, align with Autolus' closing stock price on April 13, 2026, and are structured to vest over four years. This move is significant as it reflects the company's strategy to attract and retain talent in the competitive biopharmaceutical landscape, particularly in the development of next-generation T cell therapies.

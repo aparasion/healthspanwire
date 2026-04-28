@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260416072001.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers at the Ribeirão Preto Blood Center and the Center for Cell-Based Therapy in Brazil have developed a novel approach to enhance the efficacy of **natural killer (NK) cells** in cancer immunotherapy. By engineering the NK-92 cell line with **chimeric antigen receptors (CARs)** that incorporate specific costimulatory components—**2B4 and DAP12**—the team significantly improved the cells' readiness to target and destroy tumor cells. This advancement holds promise for creating next-generation cancer therapies that are both more potent and precise.

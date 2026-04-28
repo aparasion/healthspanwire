@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276482/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **Theriva Biologics** is set to present pivotal findings from the **VIRAGE Phase 2b clinical trial** at the upcoming **AACR Annual Meeting** in San Diego, highlighting the efficacy of **VCN-01 (zabilugene almadenorepvec)** in combination with **gemcitabine/nab-paclitaxel** for patients with newly diagnosed metastatic pancreatic cancer (mPDAC). The trial data, including tumor response and biomarker analyses, indicate a **significantly protracted duration of response** and improved survival rates in patients treated with VCN-01 compared to those receiving standard chemotherapy alone.

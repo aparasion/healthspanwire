@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Lilly has announced its acquisition of Kelonia Therapeutics, a move aimed at enhancing its capabilities in **in vivo CAR-T cell therapies**. Kelonia's lead candidate, **KLN-1010**, is a novel lentiviral in vivo CAR-T therapy currently in Phase 1 trials for **relapsed/refractory multiple myeloma**. The therapy leverages Kelonia's proprietary **in vivo gene placement system (iGPS®)**, which utilizes engineered lentiviral particles to facilitate the generation of CAR-T cells directly within the patient's body, targeting the **B-cell maturation antigen (BCMA)** on myeloma cells.

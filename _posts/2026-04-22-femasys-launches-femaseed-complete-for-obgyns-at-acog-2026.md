@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279022/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Femasys Inc. has announced the commercial launch of **FemaSeed Complete**, a groundbreaking fertility solution that allows OB/GYNs to perform first-line insemination procedures directly within their practices. This development is particularly significant given that approximately **10 million women** in the U.S. face infertility, yet less than half seek treatment, and only a small fraction undergo IVF. The launch addresses a critical gap in fertility care access, as fewer than **2,000 infertility specialists** are available nationwide, leading to delays and barriers for patients seeking timely intervention.

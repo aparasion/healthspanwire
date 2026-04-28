@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260420014744.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Researchers at the University of Lausanne have identified a critical vulnerability in cancer cells related to **vitamin B7 (biotin)**, which acts as a metabolic “license” for tumor growth. The study, led by Dr. Miriam Lisci under the direction of Prof. Alexis Jourdain, reveals that cancer cells often exhibit **glutamine addiction**, relying heavily on this amino acid for survival. However, when deprived of biotin, the mitochondrial enzyme **pyruvate carboxylase** becomes inactive, halting cell growth and revealing a potential therapeutic target.

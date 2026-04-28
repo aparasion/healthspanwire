@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270045/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 ModeX Therapeutics has initiated a Phase 1 clinical trial for **MDX2301**, a **tetravalent bispecific antibody** aimed at preventing COVID-19 by neutralizing all known variants of SARS-CoV-2. The trial, which has begun dosing its first participants, will assess the **safety and tolerability** of MDX2301 administered through various routes in healthy volunteers and high-risk adults. This innovative approach combines multiple antibody binding domains into a single molecule, enhancing both potency and breadth compared to traditional monoclonal antibodies.

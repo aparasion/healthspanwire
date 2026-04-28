@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275487/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 Mapi Pharma Ltd. is poised to present promising efficacy data for its **Glatiramer Acetate Depot (GA Depot)** at the upcoming American Academy of Neurology (AAN) Annual Meeting 2026. This long-acting injectable formulation targets both **relapsing forms of multiple sclerosis (RMS)** and **primary progressive multiple sclerosis (PPMS)**. The clinical studies, including a **Phase IIa** trial with 30 PPMS patients and a pivotal **Phase III** trial involving 1,016 RMS patients, demonstrated significant **EDSS (Expanded Disability Status Scale) stabilization**, indicating GA Depot's potential to slow disability progression in MS patients.

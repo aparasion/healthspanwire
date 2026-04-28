@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260330210905.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers at the University of California, Berkeley, have unveiled a significant neural circuit that regulates growth hormone release during sleep, revealing a complex feedback loop that links deep sleep to muscle growth, fat metabolism, and cognitive function. This groundbreaking study, published in *Cell*, highlights how deep sleep not only restores the body but also activates systems that enhance physical and mental performance by modulating growth hormone levels.

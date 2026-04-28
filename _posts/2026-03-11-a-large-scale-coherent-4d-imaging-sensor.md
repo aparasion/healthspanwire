@@ -10,6 +10,7 @@ source_url: "https://www.nature.com/articles/s41586-026-10183-6"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers have unveiled a groundbreaking 4D imaging system utilizing a frequency-modulated continuous-wave (FMCW) LiDAR focal plane array (FPA) sensor, which boasts a pixel count five times greater than previous models. This innovative sensor integrates over 0.6 million photonic components on a single chip, enabling real-time, high-resolution 3D imaging and simultaneous measurement of distance and velocity across dynamic environments.

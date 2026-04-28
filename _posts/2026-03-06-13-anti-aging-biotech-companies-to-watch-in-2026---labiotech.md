@@ -10,6 +10,8 @@ source_url: "https://www.labiotech.eu"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A recent article highlights 11 innovative anti-aging startups that are leveraging cutting-edge longevity techniques to combat the aging process. These companies are at the forefront of research aimed at extending human lifespan and enhancing healthspan, showcasing a diverse range of approaches from cellular rejuvenation to genetic therapies.

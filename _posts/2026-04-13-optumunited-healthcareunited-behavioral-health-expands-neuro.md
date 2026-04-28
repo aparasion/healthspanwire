@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272510/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Neuronetics, Inc. has announced a significant policy update from Optum/United Healthcare/United Behavioral Health, which now allows **psychiatric mental health nurse practitioners (PMHNPs)** to order, supervise, and administer **Transcranial Magnetic Stimulation (TMS)** therapy. Previously restricted to psychiatrists, this change enhances access to **NeuroStar Advanced Therapy** for the 34.8 million individuals covered by Optum/UHC/UBH in 26 states and Washington, D.C., thereby addressing a critical gap in mental health care delivery.

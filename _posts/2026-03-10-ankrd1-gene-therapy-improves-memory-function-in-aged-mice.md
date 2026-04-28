@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/ankrd1-gene-therapy-imp
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers have made significant strides in understanding the role of the ANKRD1 gene in enhancing memory function through neurogenesis in aged mice. By employing a viral gene therapy that selectively increases ANKRD1 expression, the study demonstrates improved cognitive function via the activation of a specific subpopulation of bone marrow mesenchymal stromal cells (BMSCs) that exhibit neurogenic potential.

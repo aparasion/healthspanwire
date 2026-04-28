@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260406192907.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study from the University of California, Riverside, reveals that **dietary proteins**, particularly **casein from dairy** and **wheat gluten**, can significantly reduce **cholera infections** by up to **100-fold**. The research demonstrates that these proteins inhibit the cholera bacteria’s ability to colonize the gut by disrupting its **type 6 secretion system (T6SS)**, a mechanism that enables the bacteria to inject toxins into host cells and outcompete other gut microbes.

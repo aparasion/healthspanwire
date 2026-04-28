@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/lipella-files-bankruptcy-endi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Lipella Pharmaceuticals has officially filed for Chapter 11 bankruptcy, effectively halting its efforts to develop LP-10, a liposomal oral rinse intended for treating oral lichen planus (OLP). The Pittsburgh-based biotech had previously reported promising results from a Phase 2a study, where patients experienced significant improvements in pain and sensitivity. Despite these positive safety outcomes, the company’s financial struggles ultimately led to its demise, culminating in a voluntary petition for relief in the Bankruptcy Court for the Western District of Pennsylvania.

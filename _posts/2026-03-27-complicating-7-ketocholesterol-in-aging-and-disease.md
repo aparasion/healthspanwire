@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/complicating-7-ketochol
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Recent research has intensified focus on 7-ketocholesterol (7KC), an oxidized form of cholesterol linked to various diseases, including atherosclerosis. Originating from initiatives at the SENS Research Foundation, Cyclarity Therapeutics is now advancing therapies aimed at clearing 7KC from tissues, currently in early clinical stages. This initiative underscores the growing recognition of 7KC's cytotoxic and pro-inflammatory properties, which are increasingly implicated in aging and disease progression.

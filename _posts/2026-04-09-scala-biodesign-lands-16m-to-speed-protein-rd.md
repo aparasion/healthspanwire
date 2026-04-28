@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/scala-biodesign-lands-16m-to-spee
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Scala Biodesign has secured **$16 million** in Series A funding to enhance its protein design platform, **ScalaOS**, aimed at revolutionizing the development of protein-based medicines. This Tel Aviv-based biotech company, which has raised a total of **$21.5 million** since its inception in 2022, is addressing a critical bottleneck in drug development: the inefficiencies associated with protein engineering. The funding round was led by Grove Ventures, with participation from several notable investors, including TLV Partners and the Israel Innovation Authority.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260416071951.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers at The University of Tokyo and St. Jude Children's Research Hospital have identified a previously unrecognized role for the **mixed lineage kinase like (MLKL)** protein in the aging of hematopoietic stem cells (HSCs). Contrary to its established association with necroptosis, the study reveals that MLKL activation damages mitochondria without inducing cell death, leading to impaired stem cell function and a weakened immune response. This finding was published in *Nature Communications* and highlights a novel mechanism by which aging affects HSCs.

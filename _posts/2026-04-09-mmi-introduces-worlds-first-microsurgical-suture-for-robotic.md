@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271035/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 MMI (Medical Microinstruments, Inc.) has announced the U.S. commercial launch of its **Robotic Suture**, a groundbreaking innovation specifically designed for the **Symani® Surgical System**. This suture, developed in collaboration with Kono Seisakusho Co., Ltd., is tailored for robotic microsurgery, featuring a shorter length and enhanced needle designs that improve handling and workflow during delicate procedures. The Robotic Suture aims to provide surgeons with a tool that not only streamlines robotic anastomosis but also enhances precision and efficiency.

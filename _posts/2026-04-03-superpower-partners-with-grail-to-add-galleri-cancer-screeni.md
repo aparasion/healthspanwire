@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/superpower-partners-with-grail-to
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Superpower has announced a strategic partnership with Grail to integrate the **Galleri multi-cancer early detection test** into its preventative health platform. This collaboration coincides with National Cancer Prevention and Early Detection Month, providing Superpower members with access to Galleri as an add-on feature alongside the platform's extensive **100+ biomarker panel**, AI-driven insights, and clinical care teams. Grail’s **PATHFINDER 2 study** indicates that the incorporation of Galleri into standard cancer screening protocols enhances cancer detection rates by over **seven-fold**, with more than **50% of detected cancers** identified at stage I or II.

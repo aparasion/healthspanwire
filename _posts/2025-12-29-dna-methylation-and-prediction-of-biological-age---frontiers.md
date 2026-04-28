@@ -10,6 +10,8 @@ source_url: "https://www.frontiersin.org"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A new documentary hosted by CNBC highlights the mission of Frontiers to promote open science, emphasizing its critical role in accelerating breakthroughs across various fields, including health and climate resilience. The film illustrates how open access to research has become essential for addressing global challenges, from public health crises like COVID-19 to pressing environmental issues.

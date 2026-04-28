@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260328043556.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 A groundbreaking study from the Keck School of Medicine at USC reveals that stroke may induce a form of brain rejuvenation, as researchers found that the unaffected side of the brain can exhibit signs of youthfulness while the damaged side accelerates in aging. Analyzing brain scans from over 500 stroke survivors, the team discovered that despite severe physical impairments, regions opposite the injury can adapt and reorganize, potentially enhancing recovery efforts. The study, published in The Lancet Digital Health, utilized advanced AI techniques to assess brain age across various regions, uncovering this unexpected neuroplastic response.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267699/0/en/
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 The World Vapers’ Alliance (WVA) has sharply criticized the European Commission's recent evaluation of the Tobacco Products Directive (TPD), labeling it a "masterclass in cherry-picking science." The report, which highlights a 14.3% decline in smoking rates across the EU since 2012 as a success, overlooks significant disparities, particularly Sweden's remarkable achievement of reducing its smoking rate to just 3.7%. The WVA attributes Sweden's success to its embrace of tobacco harm reduction strategies, including the acceptance of alternatives like nicotine pouches and vaping, which starkly contrasts with the EU's more cautious approach.

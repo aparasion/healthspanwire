@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270041/18362
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Amarin Corporation has underscored the critical role of **icosapent ethyl (IPE)** in managing **residual cardiovascular (CV) risk** at the 2026 American College of Cardiology (ACC) Scientific Sessions. Presentations highlighted that elevated **triglycerides (TG)** significantly contribute to CV events, even in patients who achieve target low-density lipoprotein cholesterol (LDL-C) levels. This aligns with the newly issued **2026 ACC/AHA/Multi-society Dyslipidemia Guidelines**, which advocate for comprehensive approaches beyond statin therapy to mitigate CV risk in high-risk populations.

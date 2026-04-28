@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269544/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Methodist Healthcare Ministries of South Texas, Inc. (MHM) has announced a **$237.5 million investment** for 2026, marking an **11% increase** from the previous year. This funding aims to enhance health equity and strengthen community resilience across a **74-county service area**. MHM's comprehensive approach encompasses medical, behavioral, social, and spiritual well-being, addressing root causes of health disparities. Since its inception, MHM has committed over **$1.86 billion** to clinical services and community partnerships, solidifying its status as a leading private funder for low-income and uninsured families in South Texas.

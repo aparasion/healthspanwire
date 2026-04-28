@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/eu-updates-review-of-blarcamesine
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Anavex Life Sciences has withdrawn its marketing authorization application for blarcamesine as an add-on therapy for early Alzheimer’s disease after the European Medicines Agency's Committee for Medicinal Products for Human Use (CHMP) indicated it would not issue a positive opinion. The company plans to address the feedback received and gather additional data to strengthen its case for future submissions.

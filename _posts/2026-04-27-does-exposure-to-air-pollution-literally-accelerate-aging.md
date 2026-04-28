@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/does-exposure-to-air-po
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent research highlights a compelling link between **air pollution exposure** and accelerated biological aging, particularly in relation to dementia risk. This study utilized data from the UK Biobank to investigate the associations between long-term exposure to various air pollutants—**PM2.5, PM10, PM2.5 absorbance, NO2, and NOx**—and both global and regional brain structures, revealing significant correlations with increased biological age and heightened dementia risk. Notably, participants in the highest exposure tertile demonstrated a **hazard ratio of 1.141 for PM2.5** and even higher ratios for other pollutants, underscoring the urgent need to understand the underlying mechanisms.

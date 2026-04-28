@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/elitra-health-launches-concierge-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Elitra Health has launched a concierge primary care program, marking a significant step in its commitment to longevity and preventive medicine. Announced on March 20, 2026, the initiative builds on the company’s experience with over 5,000 Executive Exams conducted annually since 2016, positioning Elitra as a leading provider in the East Coast market.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/fight-aging-newsletter-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 **A recent discussion in the longevity research community highlights the need for a rigorous definition and measurement of **intrinsic capacity** (IC) in aging, as proposed by the World Health Organization (WHO). This concept encompasses a composite of physical and mental capacities, yet the scientific community lacks a standardized framework for its assessment. The ambiguity surrounding IC measurement has led to varied approaches and a proliferation of studies attempting to correlate IC with other health metrics, such as epigenetic age, but without a consensus on methodology. This situation underscores the urgency for a clear operational definition that can facilitate comparability across studies and enhance the understanding of aging dynamics.**

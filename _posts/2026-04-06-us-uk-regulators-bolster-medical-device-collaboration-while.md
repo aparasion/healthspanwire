@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/medtech/us-uk-regulators-bolster-medi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 The **U.S. FDA** and the **U.K.’s Medicines and Healthcare products Regulatory Agency (MHRA)** have formalized an enhanced collaboration aimed at accelerating the approval and market entry of medical technologies. This agreement, announced on April 1, includes the removal of tariffs on British pharmaceutical exports to the U.S. and sets the stage for mutual recognition of medical device approvals. This initiative is expected to streamline regulatory processes, ultimately facilitating quicker access to innovative medical solutions for patients in both countries.

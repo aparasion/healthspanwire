@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/19/3276674/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 **KIMMTRAK (tebentafusp-tebn) demonstrates a significant advancement in the treatment of metastatic uveal melanoma (mUM), effectively doubling the five-year overall survival (OS) rate for HLA-A*02:01 positive patients. In a Phase 3 randomized trial presented at the AACR 2026 meeting, KIMMTRAK achieved an OS of 16% compared to 8% in the control arm, with a hazard ratio of 0.67 (95% CI: 0.54-0.85). This study marks the longest OS follow-up recorded for any T cell engager in solid tumors, underscoring the potential of KIMMTRAK in a disease historically characterized by a survival rate of less than 5% at five years.**

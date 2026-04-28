@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268996/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Everbright Health has launched an **AI-enabled platform** designed to enhance the identification, engagement, and management of patients eligible for advanced mental health treatments. This innovative system aims to address the significant gap in care for individuals with treatment-resistant mental health conditions by providing mental health providers with actionable data to facilitate access to options like **transcranial magnetic stimulation (TMS)** and **SPRAVATO®**. The platform is particularly crucial given that nearly **60 million Americans** suffer from mental illness, with over **15 million** experiencing serious mental illness (SMI) that often does not respond to standard treatments.

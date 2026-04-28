@@ -10,6 +10,8 @@ source_url: "https://phys.org"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A team of researchers from the University of California, Davis, has successfully sequenced the genome of the Great Basin bristlecone pine, the longest-living tree species on Earth. This groundbreaking work aims to unlock genetic insights that could inform longevity research, potentially revealing mechanisms that contribute to the tree's remarkable lifespan of over 5,000 years.

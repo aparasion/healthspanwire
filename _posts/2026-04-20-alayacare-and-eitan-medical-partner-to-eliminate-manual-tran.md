@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277192/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 AlayaCare has announced a strategic partnership with Eitan Medical to integrate Eitan Insights™, a cloud-based digital health solution, with AlayaCare’s existing platform. This integration enables the automatic flow of infusion pump data into clinical documentation, significantly reducing the need for manual transcription by home infusion nurses. By eliminating this error-prone step, the integration aims to enhance the accuracy of patient records and streamline workflows, allowing nurses to dedicate more time to direct patient care.

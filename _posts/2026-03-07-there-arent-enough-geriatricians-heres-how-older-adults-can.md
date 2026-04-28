@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/there-arent-enough-geriatricians-heres-h
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent article highlights the urgent need for specialized geriatric care as the baby boomer population ages, with the oldest reaching 80 by 2026. The article emphasizes that older adults often face complex health challenges, including multiple chronic conditions and medication management, which necessitate a comprehensive approach to healthcare that prioritizes independence and quality of life.

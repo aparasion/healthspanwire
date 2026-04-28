@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/life-biosciences-secures-80-milli
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Boston-based Life Biosciences has successfully closed an **$80 million Series D financing**, fully subscribed, which will bolster operations through the latter half of 2027. This funding is earmarked for advancing its **Phase 1 clinical trial of ER-100**, targeting conditions such as **open-angle glaucoma** and **non-arteritic anterior ischemic optic neuropathy**. The trial aims to evaluate the **safety, tolerability**, and various aspects of **visual function** and is registered under **NCT07290244**.

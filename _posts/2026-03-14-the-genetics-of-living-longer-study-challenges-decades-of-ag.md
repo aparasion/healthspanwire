@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlRQMlZObFB4cm
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study published in *SciTechDaily* challenges long-held assumptions about the genetics of aging, revealing that certain genetic variants previously thought to influence longevity may have less impact than previously believed. Researchers conducted a comprehensive analysis of genetic data from diverse populations, uncovering new insights into the complex interplay between genetics and lifespan.

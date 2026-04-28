@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/20-20-biolabs-secures-exclusive-u
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 20/20 BioLabs has secured an exclusive U.S. technology license and access agreement with ROKIT Healthcare to incorporate ROKIT's chronic kidney disease prediction algorithm into its OneTest for Longevity biomarker risk assessment suite. This collaboration aims to enhance the predictive capabilities of the OneTest for Longevity, which already measures inflammatory biomarkers critical for assessing healthspan and longevity.

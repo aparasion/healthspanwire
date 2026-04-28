@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279835/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Reviva Pharmaceuticals Holdings, Inc. has announced significant advancements regarding their clinical-stage drug candidate, **brilaroxazine**, which targets multiple neuropsychiatric and inflammatory conditions. The upcoming fireside chat featuring CEO Laxminarayan Bhat, PhD, on April 27, 2026, will delve into the latest clinical data and regulatory milestones for brilaroxazine, highlighting its promising efficacy and safety profile. 

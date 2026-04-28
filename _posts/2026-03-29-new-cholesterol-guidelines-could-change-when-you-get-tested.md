@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260328043554.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A significant shift in cardiovascular health management has emerged with the release of new cholesterol guidelines by the American College of Cardiology and the American Heart Association. These updated recommendations advocate for earlier and more personalized screening for heart disease, emphasizing the importance of assessing not only low-density lipoprotein (LDL) cholesterol but also genetic risk factors such as lipoprotein(a). The guidelines, presented at the American College of Cardiology's 75th Annual Scientific Session, aim to proactively prevent heart disease by starting screenings as early as childhood, particularly for those with a family history of cardiovascular issues.

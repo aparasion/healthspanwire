@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268843/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **SonoNeu**, a biotechnology company co-founded by Sreekanth Chalasani, PhD, has emerged from stealth mode to spearhead a groundbreaking initiative in **sonogenetics**, a novel modality that utilizes ultrasound to noninvasively control specific cells tagged with ultrasound-sensitive proteins. This project, backed by a significant **$41.3 million award from the Advanced Research Projects Agency for Health (ARPA-H)**, aims to develop therapeutic strategies for debilitating conditions such as **peripheral neuropathy** through precise modulation of cellular activity.

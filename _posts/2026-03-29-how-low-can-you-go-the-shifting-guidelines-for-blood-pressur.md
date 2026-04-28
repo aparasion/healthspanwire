@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/how-low-can-you-go-the-shifting-guidelin
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Mark Supiano, a geriatrician at the University of Utah, has been reevaluating the treatment of hypertension in older adults following the case of a 78-year-old patient who presented with memory loss and high blood pressure. Despite being on two antihypertensive medications, her readings remained elevated, prompting Supiano to implement lifestyle changes and ultimately add a third medication. This adjustment successfully lowered her systolic blood pressure to below 120, aligning with the latest guidelines that advocate for more aggressive treatment in older populations, particularly in light of emerging evidence linking hypertension to cognitive decline.

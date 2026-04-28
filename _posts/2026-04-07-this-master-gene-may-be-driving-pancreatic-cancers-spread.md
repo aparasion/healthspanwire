@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260406192919.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers at **Johns Hopkins Medicine** have identified the gene **KLF5** as a pivotal factor in the **metastasis of pancreatic cancer**, revealing that it operates not through DNA mutations but by **rewiring gene expression** via epigenetic mechanisms. This study highlights KLF5's role in promoting tumor growth and invasion, particularly in metastatic cells, and underscores its influence on the regulation of other genes associated with cancer progression.

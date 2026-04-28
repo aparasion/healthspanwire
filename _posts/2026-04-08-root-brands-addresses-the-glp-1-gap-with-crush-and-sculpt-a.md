@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270248/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 ROOT Brands® has introduced **CRUSH™ and SCULPT™**, a targeted nutritional protocol aimed at addressing the **“GLP‑1 gap”**—a growing concern among healthcare professionals and consumers regarding the metabolic and muscular support needs that GLP-1 receptor agonists like Ozempic® and Wegovy® do not fulfill. While these medications have revolutionized weight management through appetite suppression and blood sugar regulation, they do not provide the necessary support for maintaining lean muscle mass or metabolic efficiency after discontinuation. As the use of GLP-1 medications rises, so does the incidence of post-use challenges, including weight regain and low energy levels.

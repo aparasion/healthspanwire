@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278182/0/en/
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Xeltis has announced promising 12-month clinical data from its pivotal trial of **aXess™**, a novel implant designed for hemodialysis vascular access, which shows a **79% secondary patency rate** and a low **1.3 patency-related reintervention rate** per patient year. This study, involving 120 patients across 22 sites in Europe, highlights aXess™'s superior performance compared to conventional arteriovenous grafts (AVGs), particularly in complex patient populations, where 69% had prior central venous catheter use and failed fistulas.

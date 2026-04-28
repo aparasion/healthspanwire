@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/cognitive-rx-a-simple-breathing-techniqu
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers at Rutgers University have unveiled compelling evidence that **resonance breathing**, characterized by a controlled rhythm of approximately **six breaths per minute**, can significantly enhance brain connectivity in real time. Published in *Psychophysiology*, the study involved 177 participants who underwent brain imaging while practicing this slow breathing technique. The findings indicate that resonance breathing not only improves emotional regulation and attention but also strengthens the coordination of brain regions involved in these processes, particularly the **insula**, which integrates bodily sensations with cognitive and emotional responses.

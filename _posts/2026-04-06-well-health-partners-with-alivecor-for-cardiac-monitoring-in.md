@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/well-health-partners-with-aliveco
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 WELL Health has announced a strategic partnership with AliveCor to enhance cardiac care accessibility in Canada by integrating Canadian-registered cardiologists into AliveCor’s Kardia platform. This initiative allows users of the Kardia app to request paid clinician ECG reviews, which are conducted by certified cardiologists within 24 hours of ECG recording. The Kardia app leverages Health Canada-licensed AI algorithms to detect three prevalent arrhythmias in just 30 seconds, with the platform boasting over **350 million ECGs** recorded to date.

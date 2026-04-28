@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281389/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Relay Therapeutics has announced the advancement of **zovegalisib** in combination with **atirmociclib** and an **aromatase inhibitor** (AI) into Phase 3 trials for frontline treatment of **PI3Kα-mutated, HR+/HER2- metastatic breast cancer**. This triplet regimen aims to address the tolerability issues associated with earlier PI3Kα inhibitors, which have limited their use in frontline settings. Initial data from the ongoing ReDiscover study demonstrate a **44% overall response rate (ORR)** in heavily pre-treated patients, suggesting that this combination could offer comparable efficacy to current standard-of-care therapies.

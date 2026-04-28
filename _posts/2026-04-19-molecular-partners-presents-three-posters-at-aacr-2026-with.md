@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/19/3276658/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Molecular Partners AG has introduced **MP0632**, the first logic-gated Switch-DARPin T cell engager candidate targeting solid tumors that co-express **mesothelin (MSLN)** and **epithelial cell adhesion molecule (EpCAM)**. Preclinical data demonstrate that MP0632 effectively induces tumor regression while sparing non-targeted tumors, showcasing a **favorable therapeutic window**. This candidate employs a unique mechanism involving CD2 co-stimulation, which enhances T cell activity with a low cytokine release profile, indicating its potential for safe and effective use in treating ovarian cancer and other MSLN/EpCAM-positive malignancies.

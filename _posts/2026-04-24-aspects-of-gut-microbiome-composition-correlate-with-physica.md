@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/aspects-of-gut-microbio
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent cross-sectional study has revealed significant correlations between **gut microbiome (GM) composition** and physical activity levels in older adults, conducted by researchers assessing 101 healthy individuals aged 65-85. The study utilized **16s rRNA sequencing** to analyze fecal samples, alongside physical assessments and accelerometer data over a week, revealing that specific bacterial taxa are associated with both physical activity (PA) and functional performance.

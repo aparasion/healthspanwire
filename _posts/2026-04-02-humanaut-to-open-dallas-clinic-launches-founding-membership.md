@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/humanaut-to-open-dallas-clinic-la
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Humanaut is set to launch a new clinic in Dallas at Preston Center on May 15, 2026, further expanding its footprint alongside existing locations in Austin, Texas, and Palm Beach Gardens, Florida. The clinic aims to redefine longevity care through a proactive, data-driven approach, with founding membership pre-sales currently available until May 14, 2026. For a deposit of $49, members can secure a lifetime rate of $2,700 annually, which the company claims offers an estimated clinical value of $10,500 per year.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279842/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 MBX Biosciences, Inc. has announced an upcoming **Obesity Day** event on May 11, 2026, aimed at updating stakeholders on its expanding portfolio of obesity therapies. The event will feature key figures such as **Richard DiMarchi, Ph.D.**, a leading expert in peptide drug design, and **Katherine H. Saunders, M.D.**, a recognized authority in obesity medicine. They will discuss the current treatment landscape for obesity, addressing existing gaps and the potential of MBX’s **Precision Endocrine Peptide™ (PEP™)** platform in developing long-acting peptide therapies.

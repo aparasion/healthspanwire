@@ -10,6 +10,7 @@ source_url: "https://superagingnews.com/could-ending-dementia-stigma-lead-to-a-f
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 A recent discussion highlighted the pervasive stigma surrounding dementia, likening it to the societal attitudes toward cancer decades ago. Health policy researcher Saskia Sivananthan emphasizes that, much like cancer in the past, dementia is often neglected in healthcare systems due to its stigma, which hampers progress in treatment and care coordination. The comparison underscores the urgent need for systemic change and public advocacy to enhance dementia care.

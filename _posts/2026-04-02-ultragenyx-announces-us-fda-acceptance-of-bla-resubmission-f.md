@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267337/20739
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Ultragenyx Pharmaceutical Inc. has made a significant stride in the treatment of Sanfilippo syndrome Type A (MPS IIIA) with the FDA's acceptance of its Biologics License Application (BLA) for UX111 (rebisufligene etisparvovec). This AAV9 gene therapy, if approved by the PDUFA action date of September 19, 2026, would mark the first-ever approved therapy for this rare and devastating neurodegenerative disease that primarily affects young children, leading to severe cognitive decline and early mortality.

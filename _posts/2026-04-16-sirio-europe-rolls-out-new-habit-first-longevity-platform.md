@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/sirio-europe-rolls-out-new-habit-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 SIRIO Europe has launched **Aeion**, a groundbreaking "habit-first" longevity platform at Vitafoods Europe 2026, designed to transform complex aging science into straightforward daily rituals. This initiative addresses the persistent gap between scientific innovation in healthy aging and consumer adoption, emphasizing that sustainable health practices are built on consistent, manageable actions rather than perfection. As SIRIO's Sales Director, Alex Dens, noted, the platform aims to simplify the commercialization of effective supplements, making them accessible and trustworthy for health-conscious consumers.

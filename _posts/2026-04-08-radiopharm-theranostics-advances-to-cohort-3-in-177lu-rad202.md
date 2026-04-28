@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269961/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Radiopharm Theranostics has received a **positive recommendation** from its Data Safety and Monitoring Committee (DSMC) to escalate the dose of its clinical-stage radiotherapeutic asset, **177Lu-RAD202 (RAD202)**, to **130mCi** in the Phase 1 ‘HEAT’ clinical trial targeting **HER2-positive advanced solid tumors**. This advancement reflects the compound's favorable safety profile, allowing for a swift transition from Cohort 2 to Cohort 3 in the ongoing study, which is being conducted across various clinical centers in Australia.

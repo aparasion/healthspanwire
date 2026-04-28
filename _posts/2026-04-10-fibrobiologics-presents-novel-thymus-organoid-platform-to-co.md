@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271716/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 FibroBiologics, Inc. has unveiled promising preclinical data on its **proprietary thymic organoid platform**, which shows potential for reversing **age-related immune decline** by restoring thymic function. Presented at the Keystone Symposia on Aging and Immunity, this platform leverages a transplantable thymic micro-organoid system developed from selectively screened fibroblasts and thymic stromal cells. The organoids are produced through a rapid, three-day culture process and are designed for clinical scalability, being both cryopreservable and injectable.

@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/a-target-for-ameliorating-post-operative-d
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers have identified **RUVBL2** as a promising therapeutic target for mitigating **post-operative delirium** (POD), a condition that significantly exacerbates cognitive decline in older adults. In a rat model of mild cognitive impairment, silencing RUVBL2 post-surgery led to improved cognitive outcomes, indicating its critical role in the metabolic changes induced by surgical stress. The study highlights that surgery triggers **metabolic reprogramming** in the hippocampus, characterized by increased stress granule formation and altered microglial activity, which are linked to long-term cognitive impairments.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alzecure-completes-phase-ib-study
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 AlzeCure Pharma AB has reached a significant milestone with the completion of the last patient’s last visit (LPLV) in its Phase Ib clinical trial of **ACD856**, the lead candidate from its NeuroRestore platform. This trial focuses on evaluating the **safety and tolerability** of higher doses of ACD856, alongside measuring its pharmacokinetics. Notably, prior data suggest that ACD856 effectively crosses the **blood-brain barrier** and activates critical pathways associated with **cognition** and **depression**.

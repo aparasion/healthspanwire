@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/c2n-diagnostics-expands-alzheimer
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 C2N Diagnostics has partnered with BeauBrain Healthcare to introduce its Precivity portfolio of Alzheimer’s blood tests in South Korea, significantly enhancing diagnostic capabilities for healthcare professionals. The PrecivityAD2 test targets patients aged 50 and older exhibiting mild cognitive impairment or dementia, aiming to detect amyloid plaques—key indicators of Alzheimer’s disease—through a less invasive and more accessible method than traditional amyloid PET imaging.

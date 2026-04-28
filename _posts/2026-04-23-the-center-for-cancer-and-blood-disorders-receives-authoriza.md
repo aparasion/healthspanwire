@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280120/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The **Center for Cancer and Blood Disorders (CCBD)** has initiated a groundbreaking program to deliver **chimeric antigen receptor (CAR) T-cell therapy** in Maryland, significantly enhancing patient access to this innovative immunotherapy. Led by **Dr. Ralph Boccia**, a prominent figure in clinical oncology, the program aims to treat patients with certain blood cancers, including lymphoma and leukemia, by utilizing their modified T cells to target and eliminate cancer cells. This initiative marks CCBD as one of the first community oncology practices to offer CAR T-cell therapy outside of hospital settings.

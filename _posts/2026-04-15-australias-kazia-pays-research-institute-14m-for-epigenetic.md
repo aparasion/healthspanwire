@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/australias-kazia-pays-researc
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Kazia Therapeutics has entered into a strategic partnership with QIMR Berghofer, committing **$1.4 million upfront** to access an innovative AI-integrated platform aimed at developing **epigenetic drugs** targeting SETDB1. This group of proteins is known for silencing tumor suppressor genes, and by inhibiting SETDB1, the platform seeks to restore immune signaling in tumors resistant to current immunotherapies, including checkpoint inhibitors. The collaboration has already yielded a lead candidate, **MSETC**, a selective bicyclic peptide designed to target a novel SETDB1 complex associated with disease.

@@ -10,6 +10,8 @@ source_url: "https://www.nature.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers have unveiled the first comprehensive atlas of brain organization, detailing how brain areas collaborate throughout a person's life, from birth to age 100. This groundbreaking study, which involved brain scans from over 3,500 individuals, provides a crucial framework for understanding brain connectivity and its evolution over time.

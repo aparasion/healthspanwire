@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/sequential-banks-3-5m-for-smarter
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Cambridge-based startup Sequential has secured $3.5 million in its first equity funding round, co-led by Sparkfood and Corundum Systems Biology, bringing its total funding to $7.5 million. The company aims to revolutionize the skincare industry by leveraging a comprehensive clinical dataset of over 50,000 samples and 4,000 ingredients to test the biological impact of products, rather than relying on marketing claims. This approach emphasizes the importance of data-driven insights in an industry often criticized for its lack of scientific rigor.

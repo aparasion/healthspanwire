@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/john-hancock-introduces-longevity
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 John Hancock, in collaboration with MIT AgeLab, has launched a **personalized longevity preparedness assessment tool** aimed at transforming the abstract concept of longevity into a tangible scorecard for individuals. This innovative tool evaluates readiness across **eight critical domains**—health, finance, care, home, daily activities, community, life transitions, and social connection—providing users with a score from 0 to 100. This approach reframes longevity not just as an extension of life but as a preparation for living those additional years effectively.

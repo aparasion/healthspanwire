@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278894/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Cloudbreak Pharma Inc. is advancing its Multi Kinase Inhibitor (MKI) platform with promising candidates CBT-001 and CBT-004, targeting pterygium and pinguecula, respectively. These conditions, prevalent among millions, currently lack FDA-approved therapies. In Phase 2 trials, CBT-001 demonstrated a **statistically significant reduction** in pterygial vascularity (p<0.001) and lesion size (p<0.014), positioning it for potential FDA approval by Q3 2026. CBT-004 also showed **clinically meaningful improvements** in symptoms associated with pinguecula, setting the stage for a Phase 3 study in early 2027.

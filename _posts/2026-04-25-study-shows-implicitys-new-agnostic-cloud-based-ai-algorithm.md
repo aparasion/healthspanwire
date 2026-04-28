@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/25/3281154/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Implicity has unveiled significant advancements in the realm of remote cardiac monitoring with the introduction of its next-generation **ILR ECG Analyzer**, presented at the Heart Rhythm Society (HRS) 2026. This study builds upon earlier findings from the European Heart Rhythm Association (EHRA) Congress, which highlighted persistent **false-positive alerts** in modern implantable loop recorders (ILRs). The latest research specifically assessed the impact of layering Implicity’s **cloud-based AI algorithm** over existing manufacturer algorithms, demonstrating a **61.6% reclassification** of false-positive alerts without compromising the high sensitivity of **98.3%**.

@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s41586-026-10219-x"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers have established a comprehensive lifespan atlas of functional connectivity (FC) gradients in the human brain, spanning from infancy to old age. This study, which analyzed fMRI data from over 3,500 individuals, identifies three key axes of cortical organization: sensory-association (SA), visual-somatosensory (VS), and modulation-representation (MR). The findings reveal complex, nonlinear developmental trajectories, highlighting significant changes in brain connectivity from early life through aging.

@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/the-four-types-of-dementia-most-people-d
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Recent insights into the diverse spectrum of **dementia** highlight the existence of over **100 subtypes**, each presenting unique symptoms and challenges. While Alzheimer's disease accounts for approximately **60%** of dementia cases, the remaining **40%** encompass rarer forms that complicate diagnosis and care. This article delves into specific subtypes such as **Posterior Cortical Atrophy (PCA)**, **Creutzfeldt-Jakob disease**, **FTD-MND**, and **Progressive Supranuclear Palsy (PSP)**, emphasizing the need for heightened awareness and understanding among healthcare professionals.

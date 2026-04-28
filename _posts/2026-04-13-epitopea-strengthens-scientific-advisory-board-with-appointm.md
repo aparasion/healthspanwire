@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272232/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Epitopea has appointed Dr. Lisa Butterfield to its Scientific Advisory Board, enhancing its leadership in the development of RNA-based immunotherapies for solid tumors. Dr. Butterfield, a prominent figure in immuno-oncology with extensive experience in cancer vaccines and cellular therapies, will play a crucial role as Epitopea advances its lead candidate, **CryptiVax™-1001**, targeting high-grade serous ovarian cancer. Her prior positions include significant roles at Merck and the Parker Institute for Cancer Immunotherapy, along with academic leadership at the University of Pittsburgh.

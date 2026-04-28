@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268638/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Tristan Schukraft, Founder and CEO of MISTR, has joined the producing team of the Broadway musical **Titanique**, a comedic reinterpretation of the classic film *Titanic* featuring the music of Céline Dion. Known for his extensive contributions to LGBTQ+ culture and healthcare through MISTR, the largest telehealth platform for HIV prevention and long-term care, Schukraft aims to leverage this theatrical collaboration to enhance PrEP awareness and drive ticket sales. The partnership will include integrated marketing campaigns and co-branded content that connect the show with diverse audiences.

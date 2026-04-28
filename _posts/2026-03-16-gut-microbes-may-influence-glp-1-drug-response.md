@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/gut-microbes-may-influence-glp-1-
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent review in the *British Journal of Clinical Pharmacology* reveals that gut microbiome composition may significantly influence the efficacy of GLP-1 drugs, which are gaining traction in longevity research. Originally designed for type 2 diabetes, these drugs are now pivotal in discussions about obesity, cardiovascular health, and aging. The findings suggest that the trillions of bacteria in our gut actively shape how GLP-1 hormones function, impacting everything from glucose regulation to appetite control.

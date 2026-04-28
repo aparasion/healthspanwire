@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260410083114.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers at the University of Chicago have identified **zeaxanthin**, a carotenoid primarily recognized for its role in eye health, as a potent enhancer of **CD8+ T cell** function in cancer immunotherapy. Published in *Cell Reports Medicine*, the study reveals that zeaxanthin stabilizes the T-cell receptor complex, amplifying T cell activation and cytokine production, which are critical for effective anti-tumor responses. This finding positions zeaxanthin as a promising adjunct to existing cancer treatments, particularly immunotherapies.

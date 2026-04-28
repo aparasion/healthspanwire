@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01094-2"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study by Song et al. uncovers the role of phosphoenolpyruvate (PEP) as an innate immune checkpoint that inhibits cyclic GMP–AMP synthase (cGAS), linking metabolic changes to aging-related inflammation and neurodegeneration. The research highlights how PEP levels fluctuate during aging, ultimately collapsing and contributing to the phenomenon of inflammaging, which is characterized by chronic, low-grade inflammation that exacerbates age-related diseases.

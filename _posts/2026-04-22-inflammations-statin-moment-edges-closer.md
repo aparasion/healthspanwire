@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/inflammations-statin-moment-edges
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 BioAge has released promising Phase 1 data for **BGE-102**, an oral NLRP3 inhibitor aimed at addressing chronic inflammation, a key contributor to cardiovascular risk and other age-related conditions. In a randomized, placebo-controlled trial involving participants with obesity and elevated inflammation, BGE-102 demonstrated significant reductions in **high-sensitivity C-reactive protein (hsCRP)**, **IL-6**, and **fibrinogen**—biomarkers critical to cardiovascular health. Notably, participants experienced median hsCRP reductions of approximately **85% within weeks**, indicating the potential for effective management of inflammation at scale.

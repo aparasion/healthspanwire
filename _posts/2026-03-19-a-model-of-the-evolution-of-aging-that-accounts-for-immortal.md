@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/03/a-model-of-the-evolutio
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers have developed a new model to explain the evolution of aging, addressing the existence of immortal species like certain hydras that defy traditional aging theories. This model challenges the standard view that natural selection favors traits enhancing early reproductive success, leading to biological systems that deteriorate over time. Instead, it proposes a feedback loop where genes influencing mortality throughout an organism's lifespan can promote further reductions in senescence.

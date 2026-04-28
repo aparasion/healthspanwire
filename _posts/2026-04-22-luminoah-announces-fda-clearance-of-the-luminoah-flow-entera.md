@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278830/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Luminoah has received FDA clearance for **Luminoah Flow™**, an innovative enteral feeding system aimed at enhancing the experience of patients reliant on tube feeding. This system integrates **portability, precision, and connected technology**, allowing for real-time data access and streamlined workflows for both patients and clinicians. The initiative, inspired by founder Neal Piper’s personal experiences with enteral nutrition during his son’s cancer treatment, seeks to address long-standing challenges faced by patients and caregivers in managing tube feeding.

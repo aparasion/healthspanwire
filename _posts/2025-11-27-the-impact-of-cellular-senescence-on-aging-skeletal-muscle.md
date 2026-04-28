@@ -10,6 +10,8 @@ source_url: "https://www.frontiersin.org"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A new documentary hosted by CNBC highlights the critical role of open science in accelerating breakthroughs across various fields, including health and climate resilience. This initiative emphasizes the importance of making research accessible, showcasing how open access can drive innovation and address global challenges, such as climate change and public health crises.

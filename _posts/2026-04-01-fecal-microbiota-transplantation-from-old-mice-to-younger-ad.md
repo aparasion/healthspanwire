@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/fecal-microbiota-transp
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 Fecal microbiota transplantation (FMT) from older mice to younger adult mice has been shown to accelerate aging processes, according to a recent study that sheds light on the complex relationship between the gut microbiome and aging. This research highlights how the transfer of microbiota from older to younger hosts can lead to increased anxiety, impaired immune function, and heightened oxidative-inflammatory stress, ultimately resulting in a higher biological age and reduced longevity for the recipient mice.

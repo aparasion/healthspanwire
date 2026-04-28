@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/providers/white-house-floats-125-budg
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 The White House has proposed a **$15.8 billion budget cut** for the Department of Health and Human Services (HHS) for fiscal year 2027, aiming to streamline operations through the establishment of a new entity, the **Administration for a Healthy America (AHA)**. This budget request reflects a **12.5% decrease** from the current fiscal year's funding, signaling a shift in federal health priorities and a significant reorganization of subagencies, including the CDC and NIH.

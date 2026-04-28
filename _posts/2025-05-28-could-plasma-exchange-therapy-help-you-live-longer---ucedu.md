@@ -10,6 +10,7 @@ source_url: "https://www.uc.edu"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 University of Cincinnati (UC) students are making strides in medical device innovation at Kaleidoscope Innovation, where they transform classroom concepts into tangible prototypes. This initiative allows co-op students to engage directly with industry professionals on projects for Fortune 500 companies, enhancing their practical experience in engineering and industrial design.

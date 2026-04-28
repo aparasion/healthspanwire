@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 **Intrinsic Capacity (IC)**, a critical framework established by the World Health Organization, encompasses the composite of physical and mental abilities across five domains: cognition, psychological health, sensory function, vitality, and locomotion. Recent findings underscore the pivotal role of the **musculoskeletal system** in sustaining IC, particularly as conditions like **sarcopenia**, **osteoporosis**, and their coexistence—termed **osteosarcopenia (OS)**—are increasingly linked to declines in these domains. This narrative review consolidates current evidence regarding how muscles and bones modulate IC and the implications of musculoskeletal disorders on functional ability in older adults.

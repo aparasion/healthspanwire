@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278955/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Microbot Medical Inc. has garnered significant attention with its **LIBERTY® Endovascular Robotic System**, which aligns with the updated joint guidelines released by the Society of Interventional Radiology (SIR) and the Cardiovascular and Interventional Radiological Society of Europe (CIRSE). These guidelines aim to enhance occupational safety in interventional radiology by addressing radiation exposure and ergonomic challenges faced by healthcare professionals. Notably, the guidelines include new recommendations on radiation protection for female practitioners, acknowledging the unique risks they encounter in this field.

@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUVhzQnVwZUJjb2
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers have identified vascular niches as critical hotspots in cardiac aging, according to a recent study published in *Circulation Research*. This work, spearheaded by a team from the American Heart Association, highlights the role of these specialized microenvironments in influencing heart health as we age.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272791/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Silberstein & Miklos, P.C., a New York City law firm, is intensifying its efforts to represent patients affected by **medical malpractice** across Manhattan, Brooklyn, and Queens. The firm focuses on cases where healthcare providers fail to meet established standards of care, leading to severe consequences such as long-term injuries, complications, or even death. Their legal team specializes in a variety of malpractice issues, including **misdiagnosis**, **delayed treatment**, and surgical errors, which can result in significant health and financial burdens for victims.

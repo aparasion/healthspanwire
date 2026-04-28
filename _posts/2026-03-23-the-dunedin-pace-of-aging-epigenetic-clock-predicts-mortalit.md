@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/the-dunedin-pace-of-agi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 The Dunedin Pace of Aging (DunedinPACE) epigenetic clock has been shown to predict mortality more effectively than traditional clinical measures, according to a new study leveraging data from the Berlin Aging Study II. Researchers analyzed various biomarkers, including inflammatory, physiological, and functional measures, to assess their predictive power regarding all-cause and cause-specific mortality. The findings reveal that while the DunedinPACE clock stands out as the strongest predictor, its accuracy is enhanced when combined with select clinical measures such as hand grip strength, interleukin-6 levels, and standing balance.

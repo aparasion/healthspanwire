@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/jj-secures-royalty-backing-50
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Royalty Pharma has announced a significant partnership with Johnson & Johnson, committing $500 million over the next two years to co-develop JNJ-4804, an innovative treatment targeting chronic autoimmune diseases. This antibody combination aims to inhibit both interleukin-23 (IL-23) and tumor necrosis factor (TNF) and is currently undergoing phase 2 trials for conditions including ulcerative colitis, psoriatic arthritis, and Crohn’s disease. Royalty Pharma's CEO, Pablo Legorreta, emphasized the potential of JNJ-4804 to transform the treatment landscape for patients suffering from chronic immune-mediated diseases.

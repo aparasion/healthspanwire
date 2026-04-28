@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/cognition-therapeutics-reports-ze
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "noteworthy"
 ---
 
 Cognition Therapeutics has unveiled promising results from the Phase 2 COG1201 SHIMMER study of Zervimesine (CT1812) for dementia with Lewy bodies (DLB) at the recent AD/PD 2026 conference. The analysis revealed that Zervimesine treatment led to an impressive 86% reduction in decline on the Neuropsychiatric Inventory (NPI-12) compared to placebo, suggesting a potential disease-modifying effect. Additionally, the treatment showed favorable trends in cognitive fluctuations, memory, and daily living activities.

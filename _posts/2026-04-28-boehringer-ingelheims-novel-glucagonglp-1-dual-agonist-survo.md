@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/28/3282218/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Boehringer Ingelheim has announced promising topline results from the Phase III **SYNCHRONIZE-1 trial**, which evaluated the efficacy of **survodutide** (BI 456906), a glucagon/GLP-1 receptor dual agonist, in adults with obesity or overweight but without type 2 diabetes. Participants experienced an average weight loss of **39.2 lb (17.8 kg)** over 76 weeks, achieving a **16.6% reduction** from baseline, significantly outperforming the placebo group (3.2%, p<0.0001). Additionally, **85.1%** of those treated with survodutide achieved at least a **5% weight reduction**, alongside statistically significant decreases in waist circumference, a crucial marker for cardiometabolic risk.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/influenza-vaccination-r
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 **Influenza vaccination has been shown to significantly reduce cardiovascular risk following infection, particularly in older adults. A recent self-controlled case series study conducted in Denmark from 2014 to 2025 highlights the association between influenza infection and an increased incidence of acute myocardial infarction and stroke, with a sharp rise in hospitalizations occurring within the first week post-infection. The study found that prior vaccination was linked to a marked reduction in this excess cardiovascular risk, with adjusted incidence rate ratios (IRRs) of 4.7 for unvaccinated individuals compared to 2.4 for those who were vaccinated.**

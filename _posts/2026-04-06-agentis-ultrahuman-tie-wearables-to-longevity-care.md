@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/agentis-ultrahuman-tie-wearables-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Agentis Longevity and Ultrahuman have formed a strategic partnership aimed at bridging the gap between clinical assessments and real-time health monitoring through innovative biosensor technology. By integrating Ultrahuman’s continuous biosensor platform with Agentis’ proprietary **Longevity Quotient (LQ)**, the collaboration seeks to transform static health reports into dynamic, personalized health dashboards. This approach enables ongoing tracking of key health metrics, allowing for a more responsive and nuanced understanding of an individual's health trajectory.

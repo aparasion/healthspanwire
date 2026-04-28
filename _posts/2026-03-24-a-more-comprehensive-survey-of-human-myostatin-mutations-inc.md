@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/a-more-comprehensive-su
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A recent comprehensive study has unveiled significant insights into human myostatin mutations, revealing that function-disrupting variants in the myostatin gene (MSTN) are associated with increased muscle mass and reduced body fat. Analyzing data from over 1.1 million individuals, researchers found that carriers of these mutations exhibited enhanced grip strength, elevated creatinine levels, and decreased adiposity, suggesting a robust link between myostatin function and body composition.

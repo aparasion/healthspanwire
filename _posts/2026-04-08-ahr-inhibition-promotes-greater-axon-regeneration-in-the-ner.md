@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/ahr-inhibition-promotes
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers have identified the **aryl hydrocarbon receptor (AhR)** as a critical regulator of axon regeneration in the nervous system, revealing its dual role in mediating stress responses and promoting growth. The study demonstrates that **ligand-mediated AhR signaling** inhibits axonal regrowth, while its deletion or pharmacological inhibition significantly enhances regeneration in both peripheral nerves and spinal cord injury models. This finding is pivotal, as it highlights a novel target for therapeutic intervention aimed at improving neuronal repair mechanisms following injury.

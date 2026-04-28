@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/catalyst-precision-health-debuts-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Catalyst Precision Health, a New York startup co-founded by Dr. Westley Spiro and Matt Renart, has introduced a **physician-led model** that integrates **in-home lab testing, physician house calls, and ongoing personalized care** into a cohesive service for men’s longevity. This approach addresses a significant gap in the current longevity market, where fragmented health data often leads to disjointed care experiences. By offering a continuous care model, Catalyst aims to shift the focus from merely collecting health data to understanding its implications over time.

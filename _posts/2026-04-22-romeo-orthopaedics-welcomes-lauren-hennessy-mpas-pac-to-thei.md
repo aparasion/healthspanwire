@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279307/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Romeo Orthopaedics expands its expertise with the addition of Lauren Hennessy, MPAS, PA-C, enhancing its focus on shoulder and elbow care.** Hennessy, who began her role on April 6, 2026, brings nearly two years of specialized experience in orthopaedic surgery. Her responsibilities include patient evaluation, treatment plan development, perioperative care coordination, and administering joint and soft tissue injections aimed at pain management and functional restoration.

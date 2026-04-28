@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag085/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A systematic review and meta-analysis led by researchers aimed to evaluate the efficacy of both **non-pharmacological** and **pharmacological interventions** for treating delirium in older adults (≥65 years). The analysis included 17 randomized controlled trials with a total of 3,765 patients, focusing on delirium duration as the primary outcome and length of hospital stay as a secondary measure. The study excluded ICU-only research to provide a clearer picture of treatment efficacy across various healthcare settings.

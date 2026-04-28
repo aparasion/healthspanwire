@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275763/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Indivior PLC has released findings from a national survey published in the *Journal of Correctional Health Care*, revealing that correctional leaders view **staffing and coordination gaps** as primary obstacles to reducing medication diversion for opioid use disorder (MOUD). The survey, which included responses from 180 correctional professionals across U.S. jails and prisons, indicated that a significant majority—**88% in jails and 87% in prisons**—believe that **long-acting injectable (LAI) buprenorphine** could effectively mitigate diversion and enhance treatment delivery within these facilities.

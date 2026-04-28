@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3282066/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Dyne Therapeutics has unveiled promising preclinical data demonstrating the **FORCE platform's** ability to effectively cross the **blood-brain barrier (BBB)** and achieve significant knockdown of **MAPT RNA** in the central nervous system (CNS). This advancement will be presented at the upcoming **American Society of Gene & Cell Therapy (ASGCT) Annual Meeting**. The data highlight the platform's potential not only in treating **neuromuscular diseases** like Duchenne muscular dystrophy (DMD) and myotonic dystrophy type 1 (DM1) but also in addressing neurological conditions characterized by tauopathies, such as Alzheimer's disease.

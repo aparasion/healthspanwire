@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/vitamin-c-alleviates-aging-in-cynomolgus-m
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 **Vitamin C has been identified as a potent inhibitor of the lipid metabolism enzyme **ACSL4**, which plays a crucial role in the process termed **ferro-aging**—a mechanism where age-related iron accumulation leads to oxidative stress and cellular senescence. In a recent study involving cynomolgus monkeys, researchers demonstrated that vitamin C supplementation significantly suppressed ACSL4 activity and ferro-aging biomarkers, suggesting a direct link between vitamin C and improved aging outcomes.**

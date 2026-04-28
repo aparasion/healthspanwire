@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxZEJlM2ZuUzZjQ2
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent cross-sectional study published on medRxiv investigates the connections between lifestyle factors and various epigenetic aging indicators in the Japanese population. This comprehensive evaluation highlights how dietary habits, physical activity, and other lifestyle choices correlate with biological markers of aging, providing valuable insights into the role of modifiable factors in the aging process.

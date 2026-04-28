@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280367/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Trevi Therapeutics, Inc. has announced significant advancements regarding its investigational therapy, **Haduvio™** (oral nalbuphine ER), aimed at treating chronic cough associated with idiopathic pulmonary fibrosis (IPF), non-IPF interstitial lung disease (non-IPF ILD), and refractory chronic cough (RCC). This therapy is notable for being the first to demonstrate a **statistically significant reduction in cough frequency** in clinical trials across these patient populations, acting as a kappa agonist and mu antagonist (KAMA) to modulate the cough reflex both centrally and peripherally.

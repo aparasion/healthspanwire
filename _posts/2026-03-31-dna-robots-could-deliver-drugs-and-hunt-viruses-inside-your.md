@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260331001104.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Researchers at the Harbin Institute of Technology have made significant strides in developing DNA robots—microscopic, programmable machines capable of delivering drugs, targeting viruses, and constructing molecular-scale devices. These innovations leverage traditional robotics principles and DNA folding techniques to create structures that can perform precise movements, guided by chemical reactions or external stimuli like light and magnetic fields. Although still largely in the experimental phase, these DNA robots represent a promising frontier in medical technology.

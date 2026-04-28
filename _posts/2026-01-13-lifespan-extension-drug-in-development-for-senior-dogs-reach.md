@@ -10,6 +10,7 @@ source_url: "https://www.dvm360.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Leilani Alvarez, DVM, DACVSMR, CVA, CCRT, has introduced a systematic five-step approach for evaluating forelimb lameness in veterinary patients, aiming to enhance diagnostic accuracy and treatment planning. This framework, discussed at a recent veterinary conference, emphasizes the importance of thorough patient history, physical examination, and diagnostic imaging.

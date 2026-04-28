@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag066/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent retrospective cohort study conducted in Ontario, Canada, analyzed the impact of **emergency department (ED) transfers** on long-term care (LTC) residents aged 65 and older. The study encompassed 120,238 adults who were admitted to LTC facilities between 2013 and 2018, revealing that **65.3%** of these residents experienced at least one transfer to the hospital. The findings indicated a concerning initial association between transfers and increased rates of **severe physical impairment** (incidence rate ratio of **3.0**), **cognitive impairment** (ratio of **2.2**), and **mortality** (ratio of **5.8**). 

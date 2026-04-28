@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/gubra-abbvie-obesity-drug-nears-1
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 A new contender in obesity treatment, ABBV-295, has shown promising early results in a Phase 1 trial conducted by Danish biotech Gubra and AbbVie. Participants receiving the drug experienced significant weight loss—between 7.75% and 9.79%—over three months, while those on placebo showed negligible change. The therapy, designed to mimic the hormone amylin, offers a novel mechanism by enhancing satiety signals, distinguishing it from existing GLP-1 therapies that primarily target appetite and blood sugar regulation.

@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent **randomized controlled trial** conducted in Istanbul has demonstrated that a **circadian-aligned aromatherapy protocol** can significantly enhance sleep quality and cognitive function in older adults. The study involved 60 participants aged 65 and over, who were divided into an intervention group receiving inhalation therapy with specific essential oil blends and a control group. The aromatherapy regimen included a morning peppermint–palmarosa blend and a nighttime mix of vetiver, cedarwood, clary sage, petitgrain, and grapefruit oils, administered for 10 minutes daily over 30 days.

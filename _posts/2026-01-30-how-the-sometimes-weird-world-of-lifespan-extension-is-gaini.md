@@ -10,6 +10,8 @@ source_url: "https://www.technologyreview.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 24M Technologies, once valued at over $1 billion for its innovative battery solutions, is shutting down, marking a significant downturn in the U.S. battery industry. The company aimed to enhance lithium-ion technology through a novel manufacturing process that improved energy density and aimed for a 1,000-mile battery range. However, its closure reflects a broader trend of instability, with numerous battery startups facing similar fates as investment dwindles and the market cools.

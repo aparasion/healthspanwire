@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/cellino-appoints-ed-tekeian-as-ch
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Cellino has appointed Ed Tekeian as Chief Operating Officer, a strategic move to enhance its operational leadership as the company expands its infrastructure for personalized cell-based therapies. Tekeian, who joined Cellino in 2024 as Senior Vice President of Engineering, will now oversee operations in engineering, platform development, and manufacturing, focusing on the company’s autonomous biomanufacturing systems for patient-specific regenerative medicines.

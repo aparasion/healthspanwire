@@ -10,6 +10,8 @@ source_url: "https://www.insideprecisionmedicine.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Gene therapy is revolutionizing biologic medicines by transforming them from repetitive injections into self-sustaining treatments, marking a significant shift in how we approach long-term disease management. This advancement is complemented by comprehensive genomic profiling (CGP), which not only enhances patient-drug matching but also aids in the early detection of minimal residual disease (MRD). Such early detection is crucial, as it allows for timely interventions when therapies are most effective, particularly in recurrent and metastatic cancers.

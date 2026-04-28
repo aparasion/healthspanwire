@@ -10,6 +10,8 @@ source_url: "https://plantbasednews.org"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Sodexo has implemented a “Greener By Default” initiative at 35 hospitals across the UK, resulting in a remarkable 22% reduction in food-related emissions by prioritizing plant-based meals. This approach not only addresses environmental sustainability but also highlights the growing trend of plant-based diets within healthcare settings, reflecting a shift towards more sustainable food practices.

@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260407193844.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers at Cornell University have made significant strides in male contraception by developing a **reversible, nonhormonal method** that effectively halts sperm production. Utilizing the small molecule inhibitor **JQ1**, the team demonstrated a novel approach that targets **meiosis**, specifically during **prophase 1**, to temporarily disrupt sperm development in male mice. This study, published in the *Proceedings of the National Academy of Sciences*, reveals that after treatment, sperm production resumes and fertility is restored, with subsequent offspring showing normal health and reproductive capabilities.

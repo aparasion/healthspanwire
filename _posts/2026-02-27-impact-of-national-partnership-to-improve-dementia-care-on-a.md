@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 A recent study reveals that federal initiatives aimed at reducing antipsychotic (AP) use in nursing home residents with dementia have had limited impact on the duration of treatment. Analyzing data from 43,668 new AP initiations among 38,275 long-stay residents, researchers found that the average duration of treatment within six months only marginally decreased from 125.9 days prior to the National Partnership to Improve Dementia Care (2012) to 120.5 days and 120.6 days after the policy changes.

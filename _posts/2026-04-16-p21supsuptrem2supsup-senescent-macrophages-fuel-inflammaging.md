@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01101-6"
 signal_ids: [senolytic-clinical-validation, blood-biomarker-panels]
 signal_stance: mixed
 signal_confidence: high
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 **p21⁺Trem2⁺ senescent macrophages have been identified as a significant source of chronic inflammation, or inflammaging, in aging and metabolic liver disease. This study utilized both primary mouse and human macrophage models to characterize these cells through multi-omic profiling, revealing a unique expression profile marked by p21 and TREM2. The findings indicate that senescent macrophages not only exhibit a senescence-associated secretory phenotype (SASP) but also are influenced by type I interferon signaling, driven by cytosolic mitochondrial DNA. Notably, the accumulation of these senescent macrophages was observed in aging tissues and metabolic dysfunction-associated steatotic liver disease, highlighting their role in exacerbating liver inflammation.**

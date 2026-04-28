@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/annovis-reports-2025-results-and-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Annovis Bio has announced significant progress in its clinical development of buntanetap, an investigational therapy for neurodegenerative diseases, with the launch of a pivotal Phase 3 trial targeting early Alzheimer’s disease. As of March 2026, approximately 65% of the required participants have been enrolled across 83 clinical sites in the U.S., aiming to assess both symptomatic effects and potential disease-modifying outcomes over an 18-month period.

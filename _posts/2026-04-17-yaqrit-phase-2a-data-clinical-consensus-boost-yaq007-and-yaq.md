@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276065/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Yaqrit has announced significant advancements in the treatment of **hepatic encephalopathy (HE)**, a serious neurological condition linked to ammonia accumulation in patients with advanced liver disease. The company has published three pivotal clinical papers that underscore the role of ammonia measurement as a key diagnostic and prognostic marker in HE management. Notably, the **Phase 2a trial** results for YAQ007, an oral formulation of the ammonia-scavenging agent **L-ornithine phenylacetate (OPA)**, demonstrate its efficacy in reducing blood ammonia levels, supporting Yaqrit’s strategy to advance this treatment into Phase 2b/3 trials aimed at preventing HE recurrence.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271014/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 LivTech has announced its acquisition of Alora Healthcare Systems, a move that integrates Alora's **AI-enhanced home health care software** with LivTech's robust operational ecosystem. This strategic alignment aims to address the growing challenges faced by the home healthcare market, particularly as demand for home-based care is projected to exceed **$300 billion** globally. The acquisition positions LivTech as a leader in the in-home care sector, enhancing its capabilities to support healthcare providers through innovative technology.

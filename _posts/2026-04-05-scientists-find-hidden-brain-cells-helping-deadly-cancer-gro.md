@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260405003933.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers at McMaster University and The Hospital for Sick Children have identified a critical interaction between **oligodendrocytes** and glioblastoma cells that promotes tumor growth. This study reveals that oligodendrocytes, traditionally thought to solely support healthy nerve function, can adapt to assist glioblastoma by sending growth-promoting signals. When this communication was disrupted in laboratory models, researchers observed a significant reduction in tumor growth, indicating a potential therapeutic target within the tumor microenvironment.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260423022002.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent study presented at Digestive Disease Week 2026 highlights the potential of **duodenal mucosal resurfacing** (DMR) as a minimally invasive procedure to mitigate weight regain after discontinuing GLP-1 medications like **Ozempic** and **semaglutide**. In a randomized, sham-controlled trial, participants who underwent DMR regained significantly less weight compared to those who received a sham procedure, with results indicating that the treatment may effectively "reset" metabolic processes in the upper small intestine.

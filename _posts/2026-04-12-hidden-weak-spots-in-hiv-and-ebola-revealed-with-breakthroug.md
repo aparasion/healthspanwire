@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260411022027.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers at the **Scripps Research Institute** have developed a novel **nanodisc technology** that allows for the study of viral proteins in a manner that closely mimics their natural environments. This advancement enables scientists to observe how antibodies interact with viruses like **HIV** and **Ebola**, revealing interactions that traditional methods have overlooked. By encapsulating viral proteins within lipid-based nanodiscs, the platform preserves the proteins' structure and behavior, providing a more accurate representation of their function in real infections.

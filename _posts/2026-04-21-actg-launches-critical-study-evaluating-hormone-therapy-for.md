@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278131/0/en/
 signal_ids: [sex-healthspan-lifespan]
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 ACTG has launched the **HoT study** (A5424), a pivotal phase 4 clinical trial aimed at evaluating the **safety and efficacy of menopausal hormone therapy** for women living with HIV. This randomized, double-blind, placebo-controlled trial will focus on women aged 40-60 who are experiencing moderate to severe **vasomotor symptoms** during the late menopausal transition or early post-menopause. Participants will receive either an estradiol gel with or without oral progesterone or a placebo over a 12-week period, following a preliminary observational phase to assess their symptoms.

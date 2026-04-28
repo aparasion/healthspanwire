@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/chutes-ladders-metsera-acquis
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Matthew Lang has transitioned from his role at Metsera to become the chief operating officer and general counsel at Structure Therapeutics. His move follows his pivotal involvement in Metsera's $10 billion acquisition by Pfizer, where he played a crucial role in navigating the complexities of high-stakes biopharma transactions. At Structure, Lang will focus on advancing **aleniglipron**, an oral GLP-1 therapy that recently demonstrated a **16% weight loss** in phase 2 trials—the most promising results for an oral GLP-1 candidate to date.

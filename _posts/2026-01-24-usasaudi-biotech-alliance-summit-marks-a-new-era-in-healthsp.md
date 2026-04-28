@@ -10,6 +10,8 @@ source_url: "https://immunitybio.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 ImmunityBio is advancing the field of immunotherapy with its innovative approach to treating cancer and infectious diseases. By employing a “triangle offense” strategy, the company aims to harness the full potential of the human immune system, enhancing both innate and adaptive responses to create durable, complete responses in patients. This method seeks to not only eliminate cancerous or infected cells but also build immunological memory for long-term protection.

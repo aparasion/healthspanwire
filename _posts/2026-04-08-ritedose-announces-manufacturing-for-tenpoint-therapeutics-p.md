@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270117/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 **Ritedose Corporation** has entered a strategic partnership with **Tenpoint Therapeutics** to manufacture **YUVEZZI™**, the first FDA-approved dual-agent eye drop for treating presbyopia, combining **carbachol and brimonidine tartrate** in a 2.75%/0.1% solution. This collaboration leverages Ritedose’s extensive experience in sterile **Blow-Fill-Seal (BFS)** technology, ensuring a reliable and efficient production pathway for this innovative treatment aimed at a significant demographic, with presbyopia affecting nearly **128 million people in the U.S.** and approximately **two billion globally**.

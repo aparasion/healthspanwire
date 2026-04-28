@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/01/3266986/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Abivax SA, a clinical-stage biotechnology company, has filed its Universal Registration Document with the French Financial Market Authorities and its Annual Report with the U.S. Securities and Exchange Commission, marking a significant step in its regulatory compliance and transparency. This filing includes critical financial data, management insights, and corporate governance reports, which are essential for investors and stakeholders tracking the company's progress and financial health.

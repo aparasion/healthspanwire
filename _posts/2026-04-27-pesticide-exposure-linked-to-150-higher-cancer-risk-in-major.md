@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260426012314.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study published in **Nature Health** reveals a **150% increase in cancer risk** associated with living in pesticide-heavy environments, challenging the notion that individual pesticides deemed "safe" do not pose a cumulative threat. Conducted by researchers from the **IRD**, **Institut Pasteur**, and the **University of Toulouse**, the study utilized a comprehensive approach that integrated environmental monitoring, national cancer registry data, and biological research to assess the impact of pesticide mixtures on cancer development in Peru.

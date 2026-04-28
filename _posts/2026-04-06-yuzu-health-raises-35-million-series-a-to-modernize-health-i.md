@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268533/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Yuzu Health has secured a **$35 million Series A** funding round, bringing its total capital to **$40 million**. This funding, led by General Catalyst and Chemistry, aims to enhance Yuzu Health's role as a next-generation third-party administrator (TPA) for health insurance plans. Founded in 2022, Yuzu Health has developed a unified, white-labeled infrastructure designed to streamline claims processing, payments, and member administration, addressing significant inefficiencies in the traditional health insurance landscape.

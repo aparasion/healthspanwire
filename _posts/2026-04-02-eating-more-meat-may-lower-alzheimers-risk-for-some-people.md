@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260401071931.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study from the Karolinska Institutet reveals that older adults with high-risk APOE gene variants may experience a reduced risk of cognitive decline and dementia when consuming higher amounts of meat. Published in JAMA Network Open, this research challenges established dietary guidelines by suggesting that meat intake could be beneficial for those genetically predisposed to Alzheimer's disease. The study followed over 2,100 participants aged 60 and older, tracking their dietary habits and cognitive health over a span of up to 15 years.

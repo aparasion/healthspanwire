@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268967/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Skye Bioscience, Inc. is set to present its innovative approach to obesity treatment at the GLP-1-Based Therapeutics Summit in Boston, focusing on **nimacimab**, a first-in-class monoclonal antibody that selectively inhibits the **CB1 receptor** peripherally. This design aims to circumvent the central nervous system, potentially reducing the neuropsychiatric side effects commonly associated with traditional CB1 antagonists. The presentation by CEO Punit Dhillon will highlight the promising results from the Phase 2a **CBeyond trial**, where nimacimab demonstrated additive effects when combined with the GLP-1 agonist **semaglutide**.

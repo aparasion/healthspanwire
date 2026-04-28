@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278218/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Intermountain Health Primary Children’s Hospital - Miller Family Campus in Lehi, Utah, has rapidly established itself as a vital hub for pediatric trauma and specialty care since its opening in 2024. In just two years, the facility has managed over **30,000 patient days** and **39,872 emergency department visits**, demonstrating its critical role in serving the healthcare needs of children in the expanding communities of Utah County and Southern Salt Lake County. The recent addition of **eight new medical-surgical beds** and plans for six newborn ICU rooms will boost inpatient capacity by approximately **20%**, further enhancing access to timely and specialized care.

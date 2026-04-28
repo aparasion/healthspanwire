@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279299/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 MedShop Direct has announced the expansion of its **white-glove delivery and professional in-home installation service** for adjustable beds to 48 states, significantly enhancing access to hospital-grade equipment for home and assisted living care. This initiative addresses the logistical challenges families face when transitioning loved ones from clinical settings to home environments, providing a critical link between medical supply and consumer markets.

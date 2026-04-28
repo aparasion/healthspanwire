@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277779/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 KALA BIO, Inc. has announced a significant policy shift following the Executive Order signed by President Donald J. Trump on April 18, 2026, which prioritizes the review of **psychedelic compounds** by the FDA and reduces research restrictions imposed by the DEA. This landmark directive allocates **$50 million** in federal funding to accelerate research in psychedelic therapies, marking a transformative moment for the industry. KALA, through its partnership with Red Light Holland Corp., is strategically positioned to leverage this new regulatory landscape to advance psychedelic drug development.

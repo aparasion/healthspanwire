@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/are-global-brands-and-employers-l
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Edelman’s Longevity Lab** is spearheading a pivotal shift in brand strategy with its upcoming **preview breakfast** on April 28, 2024, in London, aimed at addressing the underrepresentation of the **over-50 demographic** in market strategies. As the global longevity market is projected to reach **$67 billion by 2035**, organizations that fail to adapt risk missing out on substantial economic opportunities. The event will provide insights into how brands can pivot from a youth-centric model to one that acknowledges the growing influence and spending power of the **“longevity generation.”**

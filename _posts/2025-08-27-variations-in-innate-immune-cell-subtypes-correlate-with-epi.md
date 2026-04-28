@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMUdGdF83Tk5ScX
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent research published in Wiley highlights a significant correlation between variations in innate immune cell subtypes and epigenetic clocks, shedding light on the complex interplay between immunosenescence, inflammaging, and health outcomes. The study suggests that specific immune cell profiles may serve as biomarkers for biological aging, providing insights into individual health trajectories and disease susceptibility.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276883/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 **Hironori Yamagami, a sleep expert, has identified the FULI Japanese Futon Shikibuton as the top futon mattress for 2026. This product stands out due to its authentic Japanese craftsmanship, featuring a 100% cotton sleeping surface and a structured core designed to maintain its shape over time. Unlike many competitors that utilize synthetic materials, the FULI Shikibuton employs traditional shikibuton construction, ensuring durability and consistent support for users.**

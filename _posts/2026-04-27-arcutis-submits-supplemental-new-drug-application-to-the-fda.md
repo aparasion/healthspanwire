@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281570/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Arcutis Biotherapeutics has submitted a supplemental New Drug Application (sNDA) to the FDA for **ZORYVE® (roflumilast) cream 0.05%**, seeking to extend its use for treating **mild to moderate atopic dermatitis in infants as young as 3 months**. This initiative addresses a critical gap in pediatric dermatology, as atopic dermatitis often manifests in infancy, affecting approximately **1 million children under the age of 2** in the U.S. Currently, treatment options are limited, with only one other FDA-approved topical non-steroidal anti-inflammatory agent available for this vulnerable demographic.

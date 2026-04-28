@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/01/3266776/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 In a significant public health initiative, the Urology Care Foundation (UCF) is urging men to prioritize their health during Testicular Cancer Awareness Month this April. With an estimated 9,800 new cases of testicular cancer expected in the U.S. this year, early detection remains crucial for effective treatment and improved outcomes. The foundation highlights that many men delay consulting healthcare providers, often waiting five months after noticing symptoms, which can hinder timely intervention.

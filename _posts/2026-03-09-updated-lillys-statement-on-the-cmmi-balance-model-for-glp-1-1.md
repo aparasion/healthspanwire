@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 The Centers for Medicare and Medicaid Services (CMS) has announced new implementation details for the CMMI BALANCE Model, significantly impacting the accessibility and affordability of GLP-1 medications, including Lilly's **Zepbound® (tirzepatide)** and **Mounjaro® (tirzepatide)**. Effective January 1, 2027, these medications will be available through Medicare Part D plans, with a capped out-of-pocket cost of **$50 per month** for most beneficiaries after meeting their deductible. Prior to reaching the deductible, patients will face a maximum cost-sharing of **$245 per month**, plus a dispensing fee, ensuring that financial barriers are minimized for those requiring these therapies.

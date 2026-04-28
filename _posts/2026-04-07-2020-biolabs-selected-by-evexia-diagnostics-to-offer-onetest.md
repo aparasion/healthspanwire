@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269139/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 20/20 BioLabs has announced a strategic partnership with Evexia Diagnostics, enabling the integration of its **OneTest™ for Cancer** into Evexia’s extensive network of approximately **40,000 functional and integrative medicine practitioners**. This collaboration marks a significant commercial milestone for 20/20 BioLabs, enhancing the visibility and accessibility of its AI-powered blood tests designed for the early detection and prevention of cancers and chronic diseases.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260411022029.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 A recent study from Stanford Medicine has identified **genetic variants** linked to a phenomenon termed **GLP-1 resistance**, which may explain why approximately **10% of individuals** do not respond effectively to GLP-1 receptor agonists like **Ozempic** and **Wegovy**. This resistance occurs despite these individuals having elevated levels of the hormone **GLP-1**, which is crucial for regulating blood sugar and appetite. The research, involving a decade of experiments in both humans and mice, highlights the need for a deeper understanding of the genetic factors influencing drug efficacy in diabetes and obesity treatment.

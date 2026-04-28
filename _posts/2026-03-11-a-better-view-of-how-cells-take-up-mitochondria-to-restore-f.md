@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/a-better-view-of-how-ce
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers have made significant strides in understanding how cells internalize mitochondria, a key process that could enhance mitochondrial transplantation therapies aimed at restoring function in aged tissues. This study focuses on mesenchymal stromal cells (MSCs) and reveals that these cells can effectively uptake isolated mitochondria through various forms of endocytosis, preserving their structure and functionality.

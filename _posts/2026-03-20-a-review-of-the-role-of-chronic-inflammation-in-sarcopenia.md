@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/a-review-of-the-role-of
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent review highlights the significant role of chronic inflammation in the development of sarcopenia, the age-related loss of muscle mass and strength. This condition not only contributes to frailty but also negatively impacts metabolism and overall physical capacity in older adults. The review details how chronic low-grade inflammation, driven by immune system dysfunction, exacerbates sarcopenia through pathways such as cellular senescence and oxidative stress.

@@ -10,6 +10,8 @@ source_url: "https://okdiario.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 A multi-institutional team of scientists, co-led by Northwestern University, Rice University, and Carnegie Mellon University, has made significant strides in developing "living pharmacies" that can be implanted in the body. These innovative devices contain genetically modified cells capable of producing medications internally, potentially revolutionizing treatment methods for chronic conditions and enhancing patient care.

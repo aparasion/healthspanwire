@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280336/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 On April 23, Cook County Health marked the **60th anniversary** of its Trauma & Burn Department at John H. Stroger, Jr. Hospital, a pioneering unit established in 1966 by Drs. Robert Baker and Robert Freeark. Initially treating 1,000 patients in its first year, the department now averages **4,000 patients annually**, addressing a spectrum of complex injuries from accidents to burns. This milestone underscores the department's evolution into a **national leader** in trauma care, emphasizing a commitment to both medical excellence and human dignity.

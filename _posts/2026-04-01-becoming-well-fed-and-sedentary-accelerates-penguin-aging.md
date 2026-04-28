@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/becoming-well-fed-and-sedentary-accelerate
 signal_ids: [epigenetic-clock-adoption]
 signal_stance: mixed
 signal_confidence: medium
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 A recent study reveals that a sedentary, well-fed lifestyle in zoo-housed king penguins accelerates their epigenetic aging compared to their wild counterparts, despite the former living longer overall. Conducted by a team of European researchers, the study utilized a penguin genome-adapted methylation-based epigenetic clock to measure biological age, finding that zoo penguins exhibit an age acceleration of approximately 2.5 to 6.5 years. This acceleration mirrors the differences seen in aging between smokers and non-smokers in humans, highlighting the impact of lifestyle on aging trajectories.

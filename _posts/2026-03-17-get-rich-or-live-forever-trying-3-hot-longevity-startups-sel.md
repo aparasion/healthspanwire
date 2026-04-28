@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTZ0aEFGUWRVUj
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Three innovative startups are making waves in the longevity sector by combining health and financial potential. These companies are focused on developing cutting-edge therapies and technologies aimed at extending lifespan and improving healthspan, appealing to both investors and consumers eager for solutions to aging-related challenges. 

@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260330233401.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 A recent analysis from the University of Virginia Health System reveals a staggering 1,200% increase in kratom-related poison center calls over the past decade, raising significant concerns among health professionals. The data indicates that in 2025 alone, poison centers recorded 3,434 cases, a dramatic rise from just 258 in 2015. This surge correlates with the increased availability of kratom in the U.S. market, particularly in unregulated forms that pose serious health risks, especially when combined with other substances.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/the-gut-microbe-in-indy
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 Researchers have uncovered insights into the role of the gut microbiome in **INDY-related longevity** in Drosophila, revealing that the **INDY gene**, a plasma membrane citrate transporter, plays a pivotal role in promoting metabolic homeostasis and extending lifespan. By investigating the gut microbiome's contribution to longevity, the study highlights how **Indy reduction** not only enhances lifespan but also preserves intestinal barrier integrity and stem cell homeostasis in the fly midgut.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260422044630.htm"
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers from the University of Southern Denmark have identified a previously unknown **bacteriophage** residing within the gut bacterium **Bacteroides fragilis**, which appears to correlate with an increased risk of **colorectal cancer**. This discovery sheds light on the longstanding enigma of why B. fragilis is found in both healthy individuals and cancer patients, suggesting that the interplay between this bacterium and its viral inhabitant could be pivotal in understanding colorectal cancer pathogenesis.

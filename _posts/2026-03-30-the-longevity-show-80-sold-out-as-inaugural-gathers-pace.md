@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/the-longevity-show-80-sold-out-as
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 The inaugural Longevity Show, set to take place at Tobacco Dock in London on June 26-27, 2026, is rapidly approaching a significant milestone, with 80% of its partner floor already sold. This early success signals a major shift in the longevity sector, moving beyond its niche origins to establish a more integrated healthspan economy. The diverse range of participating brands—from high-end diagnostics to nutrition—illustrates a convergence of interests that reflects the growing demand for comprehensive health solutions.

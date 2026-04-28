@@ -10,6 +10,8 @@ source_url: "https://www.sciencenews.org"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers have identified a genetic mutation in yaks that appears to promote brain health at high altitudes, which may offer insights into treating neurodegenerative diseases such as multiple sclerosis (MS). Experiments conducted on mice suggest that this mutation could facilitate nerve repair, presenting a potential therapeutic avenue for conditions characterized by nerve damage.

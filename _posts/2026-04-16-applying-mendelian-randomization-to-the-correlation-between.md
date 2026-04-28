@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/applying-mendelian-rand
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study employing **Mendelian randomization** has provided compelling evidence for the causal role of genetically predicted aerobic fitness in influencing various health outcomes. Researchers analyzed data from over 5,000 individuals, screening **712 health-related phenotypes** to explore the associations between genetic predispositions to aerobic fitness and multiple health metrics. The findings revealed **108 significant associations**, with **34 remaining valid** after rigorous validation, underscoring the robustness of the results.

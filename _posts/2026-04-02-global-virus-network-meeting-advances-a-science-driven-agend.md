@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267558/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 At the 2026 Global Virus Network (GVN) Annual International Scientific Meeting in Tampa, Florida, researchers unveiled groundbreaking advancements in pandemic preparedness, including AI-driven predictions of viral evolution and next-generation antiviral therapies. Leading virologists, clinicians, and public health experts gathered to share insights from COVID-19, emphasizing the importance of integrating scientific research with real-world healthcare applications to combat future viral threats.

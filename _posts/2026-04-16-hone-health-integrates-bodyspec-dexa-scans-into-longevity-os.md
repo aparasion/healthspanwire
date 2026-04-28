@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/hone-health-integrates-bodyspec-d
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Hone Health has partnered with BodySpec to enhance its personalized operating system for longevity by integrating **clinical-grade DEXA body composition scans**. This collaboration allows patients to purchase DEXA scans directly through the Hone Patient app, with results securely synced to the Hone platform. A Hone clinician then reviews the findings, which include critical metrics such as body composition, bone density, visceral fat, and resting metabolic rate, to inform individualized longitudinal care plans.

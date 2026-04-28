@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/gut-health-autoimmunity-and-the-d
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Dr. Terry Wahls, a clinician-researcher, presents a paradigm shift in the understanding of chronic disease management through her personal journey with secondary progressive multiple sclerosis (MS). After years of conventional treatments that left her wheelchair-bound, Wahls redefined her approach by focusing on **dietary interventions** rather than solely on disease treatment. This shift led her to develop a **Paleolithic-inspired diet**, which she credits for her remarkable recovery, moving from immobility to completing an 18.5-mile bike ride within months.

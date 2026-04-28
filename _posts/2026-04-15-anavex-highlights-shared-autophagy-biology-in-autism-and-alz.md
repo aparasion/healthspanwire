@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/anavex-highlights-shared-autophag
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "noteworthy"
 ---
 
 Anavex Life Sciences has unveiled compelling findings that establish a connection between **autism spectrum disorder (ASD)** and **Alzheimer’s disease** through mechanisms of impaired **autophagy** and associated **synaptic dysfunction**. The company posits that its oral therapy, **Blarcamesine**, which targets autophagy, may offer therapeutic potential based on these observations. Notably, high-confidence ASD risk genes such as **TSC1/TSC2**, **PTEN**, **SHANK3**, and **FMRP** have been implicated in autophagy dysfunction and inadequate synaptic pruning, highlighting a critical intersection between these two neurodevelopmental and neurodegenerative conditions.

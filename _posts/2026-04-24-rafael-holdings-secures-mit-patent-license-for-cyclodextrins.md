@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/rafael-holdings-secures-mit-paten
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Rafael Holdings, Inc. has secured an exclusive licensing agreement with the Massachusetts Institute of Technology for U.S. Patent No. 12285440, which pertains to the application of **cyclodextrins** in treating Alzheimer’s disease in patients with the **ApoE4 genetic variant**. This licensing aims to bolster Rafael Holdings' intellectual property surrounding **Trappsol Cyclo**, specifically targeting the significant subset of Alzheimer’s patients—estimated at 50 to 70 percent—who carry this variant, known for its association with earlier onset sporadic cases.

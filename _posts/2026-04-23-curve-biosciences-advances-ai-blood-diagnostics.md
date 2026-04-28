@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/curve-biosciences-advances-ai-blo
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 **Curve Biosciences** is pioneering a transformative approach to chronic disease monitoring through its **AI-powered blood diagnostics**, which aim to detect organ-specific disease signals earlier and more accurately. By leveraging a concept called **Whole-Body Intelligence**, the California-based biotech is shifting the paradigm from viewing blood as a mere snapshot of health to understanding it as a continuous log of the body’s aging process. This innovative methodology is particularly relevant in the context of liver cirrhosis, which is increasingly recognized as the culmination of systemic biological stress rather than an isolated organ failure.

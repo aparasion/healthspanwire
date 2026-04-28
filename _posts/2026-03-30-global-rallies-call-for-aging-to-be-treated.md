@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/global-rallies-call-for-aging-to-
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 A coordinated series of demonstrations across 14 cities, organized by Fund Longevity, aims to bridge the growing divide between advancements in longevity science and governmental policy. The initiative seeks to persuade governments to allocate funding for geroscience and to establish regulatory frameworks that recognize aging as a treatable medical condition. With gatherings planned in major cities like London, Paris, and San Francisco, this movement highlights a pivotal moment in the longevity field, where scientific progress and private investment are outpacing traditional policy structures.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/senescence-consortium-targets-bio
 signal_ids: [senolytic-clinical-validation]
 signal_stance: supports
 signal_confidence: medium
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 The Senotherapeutics Biomarker Consortium (SBC) has been launched to standardize the measurement of senescence, uniting academia, industry, and regulators in a precompetitive effort. This initiative, spearheaded by Marco Quarta, Nicola Neretti, Heinrich Jasper, and Marco Demaria under the Phaedon Institute, aims to address the growing disconnect between therapeutic ambitions and the methodologies used to define and measure senescent cells in clinical settings.

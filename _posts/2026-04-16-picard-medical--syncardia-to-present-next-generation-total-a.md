@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275903/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **Picard Medical, Inc.** is set to showcase its advancements in mechanical circulatory support at the **ISHLT 2026 Annual Meeting** in Toronto, where Andre R. Simon, Vice President of Clinical Affairs at SynCardia, will present a poster titled “**The Emperor Total Artificial Heart: A Fully Implantable Solution for End Stage Heart Failure**.” This presentation will detail the ongoing development of a next-generation **fully implantable total artificial heart platform**, highlighting its potential to address the critical needs of patients with end-stage heart failure.

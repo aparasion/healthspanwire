@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275524/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **Speechmatics and thymia have announced a groundbreaking collaboration to integrate medical-grade speech-to-text technology with clinical-grade voice biomarker intelligence, enabling the identification of over 30 health signals from just 15 seconds of natural speech. This innovative platform processes audio to detect indicators such as stress, fatigue, depression, anxiety, type 2 diabetes, and driver impairment, delivering actionable insights in real time with an accuracy exceeding 85%. Notably, this solution requires no additional hardware, making it accessible for widespread deployment.**

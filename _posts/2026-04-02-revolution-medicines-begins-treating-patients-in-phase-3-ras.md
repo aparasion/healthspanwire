@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267296/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Revolution Medicines has initiated patient treatment in the RASolute 303 trial, a pivotal Phase 3 study assessing the efficacy of daraxonrasib, both as a standalone therapy and in combination with chemotherapy, for previously untreated metastatic pancreatic ductal adenocarcinoma (PDAC). This trial, which is open-label and global in scope, aims to enroll patients regardless of their tumor RAS genotype, marking a significant step forward in addressing the substantial unmet medical need in this aggressive cancer type.

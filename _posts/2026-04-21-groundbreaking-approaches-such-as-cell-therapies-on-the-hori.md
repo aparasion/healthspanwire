@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277596/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Rinri Therapeutics has made significant strides in addressing **neural hearing loss (NHL)**, a critical factor in hearing impairment that remains largely untreated. Their recent review highlights the role of NHL, particularly its impact on conditions like **auditory neuropathy spectrum disorder (ANSD)** and age-related hearing loss (presbycusis). Current interventions, primarily hearing aids and cochlear implants, are inadequate for NHL, as they target hair cell loss rather than the underlying nerve dysfunction. With no approved drug treatments available, the need for effective therapies is urgent.

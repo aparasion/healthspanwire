@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Lilly's investigational triple hormone receptor agonist, retatrutide, has shown promising results in its first Phase 3 trial for type 2 diabetes, achieving significant reductions in both A1C levels and body weight. In the TRANSCEND-T2D-1 study, participants receiving the 12 mg dose experienced an average A1C reduction of 1.7% to 2.0% after 40 weeks, alongside an impressive average weight loss of 36.6 lbs (16.8%). Notably, the weight loss trajectory continued without plateauing throughout the trial, addressing a critical challenge in managing obesity among patients with type 2 diabetes.

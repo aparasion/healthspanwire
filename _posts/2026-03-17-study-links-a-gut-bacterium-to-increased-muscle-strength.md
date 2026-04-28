@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/study-links-a-gut-bacterium-to-increased-m
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers from the University of Almería, University of Granada, and Leiden University Medical Center have identified a gut bacterium, *Roseburia inulinivorans*, that is causally linked to increased muscle strength in both humans and mice. The study reveals that individuals with higher levels of this bacterium exhibited significantly greater handgrip strength, suggesting a potential mechanism involving amino acid depletion that may enhance muscle strength through alternative metabolic pathways.

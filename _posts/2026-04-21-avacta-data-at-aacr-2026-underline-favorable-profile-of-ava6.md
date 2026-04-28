@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278250/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Avacta Therapeutics has presented compelling data on its second clinical candidate, **AVA6103 (FAP-Exd)**, at the AACR Annual Meeting 2026, highlighting its robust activity in patient-derived xenograft (PDX) models with varying fibroblast activation protein (FAP) expression. This candidate, leveraging the **pre|CISION®** platform, demonstrates a more favorable pharmacokinetic profile compared to the marketed antibody-drug conjugate **Enhertu®**, including enhanced tumor penetration and selective payload delivery.

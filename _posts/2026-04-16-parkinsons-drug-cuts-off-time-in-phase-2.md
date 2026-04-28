@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/parkinsons-drug-cuts-off-time-in-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Cerevance's investigational drug **solengepras** is demonstrating promising results in alleviating motor “OFF” periods and sleep disturbances in patients with Parkinson’s disease. In Phase 2 trials, this once-daily pill has shown a significant reduction in OFF time, a term used to describe unpredictable periods when patients experience a loss of motor control despite adhering to their medication schedules. The upcoming presentation at the American Academy of Neurology (AAN) 2026 Annual Meeting will further highlight these findings, signaling a potential paradigm shift in Parkinson's treatment strategies.

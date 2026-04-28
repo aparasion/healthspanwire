@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01110-5"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Single-cell profiling of nearly **1,000 individuals** has unveiled that **immune aging** exhibits distinct cellular and transcriptional trajectories based on biological sex. The study, led by Sopena-Rios et al., demonstrates that **female participants** experience more pronounced cellular and molecular remodeling compared to their male counterparts. This research highlights the importance of considering sex as a critical variable in studies of immune senescence and aging.

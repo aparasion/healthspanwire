@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279558/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Dr. Bruce Lahn and his team at VectorBuilder have unveiled a groundbreaking technique, **Potency-Seq**, which measures the transcriptional potential of genes, shedding light on the mechanisms of cellular differentiation. This innovative approach enables researchers to determine whether silent genes retain the capacity for activation or have permanently lost this ability. Their findings reveal that as stem cells differentiate into specialized cell types, their genomes progressively lose transcriptional potential, with an increasing number of genes becoming irreversibly "occluded" and unable to respond to transcription factors, a process termed **occlusis**.

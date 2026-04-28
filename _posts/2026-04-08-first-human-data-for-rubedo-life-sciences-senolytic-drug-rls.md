@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/first-human-data-for-ru
 signal_ids: [senolytic-clinical-validation]
 signal_stance: supports
 signal_confidence: medium
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 Rubedo Life Sciences has announced promising preliminary results from a Phase 1 clinical trial of its senolytic drug **RLS-1496**, which targets the **GPX4** mechanism to clear senescent cells in aged tissues. This trial, conducted in the European Union, involved patients with **plaque psoriasis**, **atopic dermatitis**, and **photo-aged skin**. As the first-ever GPX4 modulator studied in humans, RLS-1496 represents a novel approach to cellular rejuvenation, an area gaining significant traction in therapeutic development.

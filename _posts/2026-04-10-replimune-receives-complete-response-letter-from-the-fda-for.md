@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3272063/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Replimune Group, Inc. has received a **complete response letter (CRL)** from the FDA regarding its Biologics License Application (BLA) for **RP1** in combination with **nivolumab** for advanced melanoma treatment. The company strongly disagrees with the FDA's assessment, arguing that the data supporting RP1's efficacy and safety, including a **34% response rate** and a **median duration of 24.8 months**, warrants expedited approval. Replimune's CEO, Dr. Sushil Patel, emphasized the urgent need for this therapy, as approximately **8,500 Americans** die from advanced melanoma each year.

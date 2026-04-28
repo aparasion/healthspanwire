@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260405003949.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers from Ruhr University Bochum and Heidelberg University have identified **bemnifosbuvir**, a nucleotide analogue currently in clinical trials for hepatitis C, as a promising candidate for treating **hepatitis E**. This discovery is particularly significant given the lack of approved treatments for hepatitis E, which is responsible for approximately **70,000 deaths annually**. The study, published in *Gut*, highlights bemnifosbuvir's ability to inhibit viral replication without damaging healthy tissue, marking a potential breakthrough in the management of this globally under-addressed viral infection.

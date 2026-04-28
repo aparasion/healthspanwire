@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSVRHZzhnbEF0Y1
 signal_ids: [epigenetic-clock-adoption]
 signal_stance: supports
 signal_confidence: medium
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 A recent study published on medRxiv reveals that epigenetic age prediction remains consistent across various common genetic variants and diverse ancestral backgrounds. This research, conducted by a team of scientists, highlights the robustness of epigenetic clocks, which are increasingly used to assess biological age and predict health outcomes.

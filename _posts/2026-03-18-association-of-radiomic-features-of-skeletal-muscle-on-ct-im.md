@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag057/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 A recent study highlights the potential of machine learning to enhance our understanding of muscle function in older men by analyzing computed tomography (CT) images for radiomic features. Researchers from the Osteoporotic Fractures in Men study examined 3,404 participants, uncovering that radiomic characteristics of skeletal muscle could predict grip strength, leg power, and walking speed more effectively than traditional metrics like muscle area and density.

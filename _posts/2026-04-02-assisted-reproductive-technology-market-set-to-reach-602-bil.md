@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267511/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The global Assisted Reproductive Technology (ART) market is poised for significant growth, with projections indicating an increase from $4.02 billion in 2024 to $6.02 billion by 2030, reflecting a compound annual growth rate (CAGR) of 7.0%. This expansion is primarily driven by rising infertility rates, evolving patient needs, and ongoing innovations in fertility treatments. As individuals and couples increasingly seek advanced reproductive solutions, ART is becoming an integral part of modern healthcare systems worldwide.

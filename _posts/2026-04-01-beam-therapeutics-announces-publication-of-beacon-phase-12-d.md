@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/01/3267053/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Beam Therapeutics has published promising interim data from the Phase 1/2 BEACON trial of ristoglogene autogetemcel (risto-cel) for treating sickle cell disease (SCD) with severe vaso-occlusive crises (VOCs) in *The New England Journal of Medicine*. The study, which included 31 patients, demonstrated significant clinical benefits, including deep resolution of red blood cell dysfunction, rapid engraftment, and a marked reduction in hospitalizations. Risto-cel is an autologous cell therapy that employs base editing to enhance fetal hemoglobin production, leading to a protective hemoglobin ratio akin to that seen in individuals with sickle cell trait.

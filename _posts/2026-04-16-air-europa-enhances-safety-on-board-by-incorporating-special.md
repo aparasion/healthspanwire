@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275727/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Air Europa has partnered with MedAire to enhance in-flight medical assistance across its fleet, marking a significant advancement in passenger safety. This initiative, which began implementation in March 2026, introduces a suite of advanced medical solutions, including the MedAire In-Flight App and the Passenger Fit-to-Fly digital tool. These technologies enable ground staff and cabin crews to assess passengers' health risks before and during flights, thereby improving emergency response capabilities.

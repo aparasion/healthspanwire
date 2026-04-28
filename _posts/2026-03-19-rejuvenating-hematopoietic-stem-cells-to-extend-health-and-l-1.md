@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMivAFBVV95cUxORTA4VktTLS1yQW
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers have made significant strides in rejuvenating hematopoietic stem cells (HSCs), a breakthrough that could extend both healthspan and lifespan. This work focuses on the aging process of HSCs, which play a critical role in blood cell production and immune function. As HSCs age, their regenerative capacity diminishes, leading to a decline in overall health and increased susceptibility to diseases.

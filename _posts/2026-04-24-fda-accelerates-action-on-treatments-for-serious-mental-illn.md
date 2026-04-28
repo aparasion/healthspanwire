@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/24/3281062/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 On April 18, 2026, President Trump issued an Executive Order mandating the U.S. Department of Health and Human Services to expedite access to treatments for serious mental illnesses, particularly those that are complex and treatment-resistant. In alignment with this directive, the FDA has announced regulatory actions aimed at facilitating the development of **serotonin-2A agonists**, a category of psychedelic medications that may offer new therapeutic avenues for mental health conditions. Health and Human Services Secretary Robert F. Kennedy, Jr. emphasized the urgency of addressing the mental health crisis, especially among veterans, by prioritizing therapies that demonstrate significant improvements over existing treatments.

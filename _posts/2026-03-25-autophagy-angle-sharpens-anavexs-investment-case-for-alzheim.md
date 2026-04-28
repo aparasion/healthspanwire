@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/autophagy-angle-sharpens-anavexs-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A new study from researchers at the University of California, published in *Proceedings of the National Academy of Sciences Nexus*, challenges the traditional narrative around Alzheimer’s disease by suggesting that autophagy failure may precede the accumulation of amyloid beta and tau tangles. Highlighted by Anavex Life Sciences, this research proposes that the breakdown of the brain's cellular recycling system could be a critical early event in Alzheimer’s pathology, shifting the focus from late-stage symptoms to upstream biological dysfunction.

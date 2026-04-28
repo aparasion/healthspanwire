@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/epicutis-clinical-study-shows-77-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Epicutis has launched **Hydrobiome Serum**, a professional skincare treatment featuring a patented **TCP molecule**. A recent double-blind, placebo-controlled study conducted by Princeton Consumer Research involving 48 subjects over 8 weeks demonstrated that participants using the TCP formulation experienced a **77% improvement in overall skin appearance**, significantly outperforming the **56% improvement** observed in the comparator group, with the vehicle control showing no measurable improvement. Notably, no participants reported irritation, dryness, or discomfort, underscoring the serum's tolerability.

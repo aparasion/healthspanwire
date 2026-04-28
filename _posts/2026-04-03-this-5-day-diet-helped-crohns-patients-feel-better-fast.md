@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260402042751.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent clinical trial led by researchers at Stanford Medicine has revealed that a five-day "fasting-mimicking diet" can significantly alleviate symptoms and reduce inflammation in patients with mild-to-moderate Crohn’s disease. This study, published in *Nature Medicine*, involved 97 participants, with two-thirds of those on the diet reporting noticeable improvements in their condition. The findings mark a pivotal moment in dietary research for inflammatory bowel diseases, which have historically lacked clear nutritional guidelines.

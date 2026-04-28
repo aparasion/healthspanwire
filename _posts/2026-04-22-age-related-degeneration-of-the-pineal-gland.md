@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/04/age-related-degeneratio
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Recent research has elucidated the **age-related degeneration of the pineal gland (PG)**, focusing on its structural disruptions and the role of astrocytes. The study highlights two distinct pathways of aging within the PG: one characterized by an **increase in astrocyte numbers** that may support pinealocyte function, and another marked by **lobular architectural disruption** leading to astrocytic atrophy and compromised glandular integrity. This nuanced understanding of PG aging provides a framework for examining how these changes might affect melatonin production, a critical hormone in regulating circadian rhythms and various physiological processes.

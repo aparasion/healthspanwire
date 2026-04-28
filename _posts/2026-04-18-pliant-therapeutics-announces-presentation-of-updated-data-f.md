@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/18/3276583/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Pliant Therapeutics has reported promising results from its Phase 1 trial of **PLN-101095** in combination with **pembrolizumab** for patients with **immune checkpoint inhibitor (ICI)-refractory advanced or metastatic solid tumors**. Presented at the AACR 2026 Annual Meeting, the findings indicate significant antitumor activity, with an **average maximum tumor reduction of 89%** from baseline and a **median time on treatment of 19 months** for confirmed responders. The trial included patients with various cancers, such as cholangiocarcinoma and non-small cell lung cancer (NSCLC), who demonstrated notable increases in **plasma interferon gamma (IFN-γ)** levels, a potential biomarker for TGF-β inhibition and PLN-101095 efficacy.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277731/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 A recent independent analysis of 47 sleep-focused cannabinoid products has shed light on the efficacy and quality of formulations combining **Delta-9 THC** and **CBN** (cannabinol), particularly highlighting **BudPop's Delta-9 + CBN gummies**. This assessment comes at a time when **50 to 70 million Americans** face sleep-related challenges, signaling a growing consumer interest in plant-based wellness solutions as alternatives to traditional pharmaceuticals.

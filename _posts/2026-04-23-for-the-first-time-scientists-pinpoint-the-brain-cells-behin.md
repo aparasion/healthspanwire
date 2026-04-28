@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260423022010.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers at McGill University and the Douglas Institute have identified **two specific types of brain cells** that exhibit altered behavior in individuals with depression, providing crucial insights into the biological underpinnings of this condition. Utilizing advanced **single-cell genomic techniques** on post-mortem brain samples, the team analyzed gene activity in both **excitatory neurons** and a subtype of **microglia**. Their findings, published in *Nature Genetics*, suggest that disruptions in these cell types may contribute to the development of depression, reinforcing the notion that it is a **biological disorder** rather than merely an emotional one.

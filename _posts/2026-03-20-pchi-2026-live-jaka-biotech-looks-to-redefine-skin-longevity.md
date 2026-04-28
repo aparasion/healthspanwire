@@ -10,6 +10,8 @@ source_url: "https://www.personalcareinsights.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 At PCHi 2026 in Hangzhou, China, the beauty industry showcased a significant shift towards science-driven innovation, emphasizing the need for sensory appeal alongside proven efficacy in product development. Exhibitors presented a range of evidence-based ingredients, highlighting that modern consumers prioritize scientifically validated performance when making purchasing decisions. 

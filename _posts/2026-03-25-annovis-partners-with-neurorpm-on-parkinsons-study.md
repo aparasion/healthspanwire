@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/annovis-partners-with-neurorpm-on
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Annovis has announced a strategic partnership with NeuroRPM to integrate an FDA 510(k)-cleared AI platform into its open-label ANVS-25002 study on Parkinson’s disease. This study, which is currently enrolling participants at 25 sites across the U.S., aims to evaluate the efficacy of buntanetap over a 36-month period. The NeuroRPM system will continuously capture movement data to monitor core motor symptoms such as bradykinesia, tremor, and dyskinesia, generating real-time digital biomarkers of symptom changes.

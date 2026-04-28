@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s41586-026-10216-0"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Researchers have uncovered a significant link between physiological aging and the evolution of KRAS-driven lung adenocarcinoma, revealing that aging not only limits primary tumor growth but also enhances metastatic potential. This study demonstrates that the integrated stress response (ISR) pathway, particularly the ATF4 effector, is epigenetically activated in aged tumor cells, promoting both epithelial and metabolic plasticity that confers metastatic competence.

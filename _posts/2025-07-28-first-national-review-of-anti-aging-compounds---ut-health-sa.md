@@ -10,6 +10,8 @@ source_url: "https://news.uthscsa.edu"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A significant development in the longevity research landscape is the launch of a large clinical trial at UT Health San Antonio, funded by the National Institute on Aging, to explore the therapeutic potential of rapamycin in promoting healthy aging in older adults. Originally recognized for its role in preventing organ transplant rejection, rapamycin's application in aging biology is gaining momentum, as researchers aim to understand its dosage and administration for maximizing healthspan benefits.

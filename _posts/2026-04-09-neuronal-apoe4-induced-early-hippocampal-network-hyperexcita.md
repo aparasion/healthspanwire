@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01096-0"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "noteworthy"
 ---
 
 **Young APOE4 knockin (E4-KI) mice exhibit hippocampal region-specific network hyperexcitability, a phenomenon that predicts later cognitive deficits. This study identifies that the hyperexcitability arises from smaller, hyperexcitable neuronal subpopulations and is reversible through the selective removal of neuronal APOE4. As these mice age, they develop further excitatory dysfunction and an imbalance between excitation and inhibition in the dentate gyrus, highlighting a progressive decline in network function associated with APOE4. Notably, single-nucleus RNA sequencing reveals age-dependent transcriptional changes, pinpointing candidate mediators such as **Nell2**, whose knockdown rescues abnormal excitability, linking it to APOE4-driven dysfunction.**

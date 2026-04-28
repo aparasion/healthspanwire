@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/interim-data-show-rz-001-response
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Rznomics unveiled promising interim clinical data for **RZ-001** during the AACR 2026 conference, showcasing its efficacy in treating **hepatocellular carcinoma (HCC)**. The combination therapy of RZ-001 with **atezolizumab** and **bevacizumab** yielded a **38.5% confirmed** and **46.2% unconfirmed** objective response rate according to RECIST v1.1 criteria. Notably, the **mRECIST** criteria indicated a **61.5% objective response rate** with a **23% complete response rate** in patients who were either refractory to or ineligible for transarterial chemoembolization and had not undergone prior systemic therapy.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270834/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Smith+Nephew has released groundbreaking results from the first randomized controlled trial (RCT) assessing the **REGENETEN Bioinductive Implant** for partial-thickness rotator cuff repairs. The trial demonstrated that patients treated with the REGENETEN Implant experienced a **50% reduction in recovery time** compared to those undergoing traditional suture anchor repairs. Specifically, milestones such as returning to driving (2.3 vs. 5.1 weeks, p<0.001) and resuming office work (1.7 vs. 3.6 weeks, p=0.009) were achieved significantly faster, without increased pain or compromised tendon healing at one year.

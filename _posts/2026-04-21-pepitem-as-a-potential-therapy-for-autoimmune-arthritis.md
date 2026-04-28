@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/pepitem-as-a-potential-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 **PEPITEM** emerges as a promising therapeutic candidate for **autoimmune arthritis**, particularly in the context of age-related decline in its levels. This circulating peptide plays a critical role in **resolving inflammation** and curbing chronic inflammatory responses. Notably, its levels diminish with age, contributing to the exacerbation of inflammatory arthritis conditions such as **rheumatoid arthritis (RA)** and **psoriatic arthritis (PsA)**. Research indicates that synthetic PEPITEM administration in animal models leads to significant symptom improvement, highlighting its potential as a novel intervention.

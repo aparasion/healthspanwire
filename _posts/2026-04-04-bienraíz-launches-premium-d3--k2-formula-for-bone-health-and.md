@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/04/3268175/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 BienRaíz has launched its latest supplement, **BienRaíz D3 + K2**, aimed at enhancing **calcium utilization** and promoting both **skeletal and cardiovascular health**. This new formula combines **5,000 IU of vitamin D3** with **all-trans MK-7 vitamin K2**, a highly bioavailable form derived from fermented sources, designed to work synergistically for optimal health outcomes.

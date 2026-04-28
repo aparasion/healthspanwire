@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260330084511.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A comprehensive meta-analysis involving nearly 10,000 patients has revealed that non-drug therapies, specifically knee braces, hydrotherapy, and exercise, are more effective than traditional medications for managing knee osteoarthritis (KOA) pain. Published in PLOS One, this study analyzed data from 139 clinical trials to rank the efficacy of various non-pharmacological treatments, highlighting a significant shift in the approach to KOA management.

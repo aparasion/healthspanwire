@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260405065236.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Researchers at UC San Francisco have identified **FTL1**, a protein that significantly contributes to **brain aging** and cognitive decline. In experiments with aging mice, elevated levels of FTL1 correlated with weakened neuronal connections in the hippocampus and reduced memory performance. Conversely, reducing FTL1 levels in older mice led to a remarkable recovery, with restored neural connections and improved cognitive function, suggesting a potential therapeutic target for age-related cognitive impairments.

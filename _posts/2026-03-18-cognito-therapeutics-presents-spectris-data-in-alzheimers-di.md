@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/cognito-therapeutics-presents-spe
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Cognito Therapeutics has unveiled promising new data on its investigational Spectris therapy for Alzheimer’s disease at the ADPD 2026 conference. This non-invasive neurostimulation platform utilizes synchronized light and sound to modulate brain activity, showing potential neuroprotective effects through its ability to stimulate gamma frequency brain waves, which are crucial for memory and cognitive function.

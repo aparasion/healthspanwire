@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281779/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 Xpress Wellness has appointed **Joe Willey** as Chief Operating Officer, effective April 27, 2026. Willey will be responsible for overseeing daily operations across Xpress Wellness and Integrity Urgent Care, with a focus on driving operational consistency and enhancing the experience for both team members and patients. His extensive background includes leadership roles at AmeriVet and over three decades at Walgreens, where he honed his skills in managing large, people-centered organizations.

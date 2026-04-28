@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/inbrain-completes-enrollment-in-f
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 Inbrain Neuroelectronics has successfully completed patient recruitment for its first-in-human study of a **graphene cortical interface** (NCT06368310), involving ten patients, of whom eight underwent surgical treatment. Conducted in collaboration with the University of Manchester and Northern Care Alliance NHS Foundation Trust, the study aimed to assess the device's safety and its performance during neurosurgical tumor resections. Key objectives included evaluating **signal quality**, **stability**, **stimulation capability**, and compatibility with standard surgical tools and recording equipment.

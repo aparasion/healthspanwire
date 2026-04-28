@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/metabolic-acidosis-may-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Recent research highlights **metabolic acidosis** as a potentially significant contributor to **age-related frailty**, characterized by chronic inflammation, muscle mass loss, and diminished immune resilience. The study underscores the need for deeper exploration into how **acid-base dysregulation** impacts aging, particularly given that metabolic acidosis reflects a failure to maintain optimal pH levels in tissues. This failure can lead to a cascade of metabolic derangements that are not only associated with frailty but also with broader implications for aging biology.

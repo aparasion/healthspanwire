@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/d41586-026-00782-8"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study published in *Science* reveals that sleep patterns and activity levels in the African turquoise killifish can predict lifespan, highlighting the potential for behavioral indicators to forecast aging trajectories. Researchers tracked 81 killifish from adolescence to death, finding that those exhibiting higher activity and nighttime sleep patterns tended to live longer than their less active counterparts.

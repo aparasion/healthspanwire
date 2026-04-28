@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alivecor-shrinks-the-ecg-and-spee
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 AliveCor has launched the **Kardia 12L**, a handheld, AI-powered ECG device that brings hospital-grade heart monitoring directly to clinicians and patients across Europe. This CE-marked innovation aims to streamline cardiac assessments, allowing for rapid diagnosis of serious conditions like heart attacks in settings where traditional bulky equipment is impractical. By utilizing a single cable and five electrodes, the Kardia 12L captures the same depth of data as a conventional 12-lead ECG, but does so in a compact, portable format.

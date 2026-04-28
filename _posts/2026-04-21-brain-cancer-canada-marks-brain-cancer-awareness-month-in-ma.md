@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278053/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Brain Cancer Canada (BCC) is launching a nationwide campaign for Brain Cancer Awareness Month this May, focusing on increasing visibility and funding for brain cancer research. The initiative includes illuminating iconic landmarks across Canada, highlighting the urgency of addressing a disease that remains significantly underfunded. Angela Scalisi, Chair of BCC, emphasizes that the campaign aims not only to raise awareness but also to catalyze action and investment in research that can transform outcomes for patients and families affected by brain cancer.

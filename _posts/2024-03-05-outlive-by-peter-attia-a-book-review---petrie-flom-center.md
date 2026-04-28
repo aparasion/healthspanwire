@@ -10,6 +10,7 @@ source_url: "https://petrieflom.law.harvard.edu"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 A recent roundtable discussion featured in The Practice magazine brings together leading voices in health law and ethics, including I. Glenn Cohen, Carmel Shachar, and Susannah Baruch. They explore the complex interplay between health, technology, and legal frameworks, providing insights into the current landscape of healthcare regulation.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3269071/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 CRISPR Therapeutics has announced a presentation by its senior management team at the 25th Annual Needham Virtual Healthcare Conference on April 13, 2026, at 2:15 p.m. ET. This event will feature a live webcast accessible via the company's website, with a replay available for two weeks post-event. 

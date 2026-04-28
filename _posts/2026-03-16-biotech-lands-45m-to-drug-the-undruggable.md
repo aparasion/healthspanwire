@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/biotech-lands-45m-to-drug-the-und
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Unnatural Products has secured $45 million in Series B financing to propel its development of macrocyclic peptide therapeutics, following a significant collaboration with Novartis potentially worth $1.7 billion. This Santa Cruz-based biotech aims to tackle chronic diseases by targeting key intracellular protein interactions that traditional drug modalities struggle to address, particularly in cardiometabolic, inflammatory, and neurodegenerative conditions.

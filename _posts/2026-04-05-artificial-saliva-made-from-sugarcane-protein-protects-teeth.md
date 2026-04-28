@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260403224458.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Researchers at the Bauru School of Dentistry, University of São Paulo, have developed a novel **artificial saliva** using a sugarcane protein known as **CANECPI-5**, which shows promise in protecting teeth from acid damage and decay. This breakthrough addresses a critical need for patients with head and neck cancer, who often suffer from reduced saliva production due to radiotherapy. The artificial saliva functions by binding directly to tooth enamel, forming a protective barrier against harmful acids from food and beverages, and has demonstrated enhanced efficacy when combined with fluoride and xylitol.

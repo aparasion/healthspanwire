@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/human-longevity-inc-to-study-cent
 signal_ids: [blood-biomarker-panels]
 signal_stance: supports
 signal_confidence: medium
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 Human Longevity, Inc. (HLI) and the LEV Foundation have launched a strategic collaboration aimed at uncovering the biological drivers of exceptional longevity. This partnership will analyze blood samples from centenarians and supercentenarians, leveraging HLI’s AI-driven precision longevity platform alongside LEVF’s commitment to extending healthy lifespans. The initiative will employ comprehensive multi-omic analyses, including genomics and proteomics, to identify key biomarkers and molecular pathways linked to exceptional longevity, comparing these features against broader population cohorts.

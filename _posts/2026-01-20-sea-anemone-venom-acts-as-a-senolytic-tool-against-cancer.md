@@ -10,6 +10,8 @@ source_url: "https://www.bioworld.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Japan has made a groundbreaking advancement in regenerative medicine by approving the world’s first therapies derived from induced pluripotent stem cells (iPSCs). This landmark decision represents a significant step forward in the application of stem cell technology for therapeutic purposes, potentially transforming treatment options for various diseases.

@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279740/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The Asthma and Allergy Foundation of America (AAFA) has launched the **Patient-Centered Education and Care for Nasal Polyps (PEACE-NP)** program, coinciding with Global CRSwNP Awareness Day. This initiative aims to enhance patient understanding and management of **chronic rhinosinusitis with nasal polyps (CRSwNP)**, a condition affecting approximately **2-3% of U.S. adults**. The program includes a video series featuring expert insights on nasal polyps and a **Sinus Visit Checklist** designed to facilitate more productive healthcare interactions.

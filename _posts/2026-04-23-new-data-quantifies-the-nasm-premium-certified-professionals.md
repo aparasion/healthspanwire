@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280139/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 A recent study by the **National Academy of Sports Medicine (NASM)** has revealed a significant earnings disparity among personal trainers based on their certification. Analyzing data from **1,133 active trainers**, the research indicates that NASM-certified professionals earn, on average, **22% more** than their counterparts with non-accredited certifications. This premium is consistent across various training modalities, including in-person, virtual, and small-group settings, highlighting the financial advantages of rigorous, accredited training.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272358/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Ocular Therapeutix has presented compelling **post-hoc analyses** from the SOL-1 Phase 3 trial of **AXPAXLI** (OTX-TKI) at the 14th Annual Vit-Buckle Society Meeting, underscoring its **unmatched durability** in managing wet age-related macular degeneration (wet AMD). The analyses reveal that AXPAXLI provides robust control of **central subfield thickness (CSFT)**, with median times of **39 weeks** and **46 weeks** to significant increases in CSFT compared to aflibercept, indicating a **30% to 50% lower risk** of disease progression in the AXPAXLI group.

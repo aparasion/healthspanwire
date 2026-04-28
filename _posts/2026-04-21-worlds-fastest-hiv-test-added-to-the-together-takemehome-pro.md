@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277992/21560
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 bioLytical Laboratories Inc. has announced a strategic partnership with the Together TakeMeHome program to enhance access to **HIV self-testing** across the United States. This initiative allows individuals to request free **INSTI® HIV Self Tests** that are mailed directly to their homes, facilitating private testing. The program aims to address barriers to traditional healthcare services, such as stigma and geographic limitations, by providing a convenient and discreet option for individuals to learn their HIV status.

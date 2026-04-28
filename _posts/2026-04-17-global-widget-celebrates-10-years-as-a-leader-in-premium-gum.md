@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276164/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Global Widget, LLC, a prominent U.S.-based contract manufacturer specializing in gummy supplements, marks its 10-year anniversary, reflecting a decade of rapid growth and operational expansion. Established in 2016 and headquartered in Tampa, Florida, the company has developed a robust manufacturing platform that supports leading health and wellness brands across various channels, including direct-to-consumer and private label. With over 150,000 square feet of manufacturing space and a workforce exceeding 350 employees, Global Widget has built a reputation for high-volume production capabilities coupled with stringent quality standards.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/antag-therapeutics-to-present-at7
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "noteworthy"
 ---
 
 Antag Therapeutics is set to unveil pivotal clinical and preclinical data on **AT7687**, a first-in-class **GIP receptor antagonist peptide**, during the upcoming 2026 Scientific Sessions of the American Diabetes Association. Scheduled for June 5-8 in New Orleans, the presentation will include an **oral report** on first-in-human results demonstrating that AT7687 is well tolerated and effective for **once-weekly subcutaneous injection** in individuals with obesity. Additionally, a **poster** will detail preclinical findings showcasing the synergistic effects of AT7687 combined with **cagrilintide**, revealing significant weight loss and enhanced insulin sensitivity in obese insulin-resistant non-human primates.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276859/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Monte Rosa Therapeutics has unveiled promising preclinical data on its **CCNE1-directed molecular glue degrader (MGD)**, MRT-55811, which shows significant anti-tumor activity in **CCNE1-amplified** models of ovarian, breast, and gastric cancers. This first-in-class MGD demonstrates superior selectivity and reduced off-target effects compared to traditional CDK2 inhibitors, positioning it as a potential breakthrough in targeting a frequently amplified oncogene associated with various solid tumors.

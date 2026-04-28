@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/28/3282209/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Santhera Pharmaceuticals has received reimbursement approval from the Italian Medicines Agency (AIFA) for **AGAMREE® (vamorolone)**, a novel treatment for **Duchenne muscular dystrophy (DMD)** in patients aged 4 years and older. This decision, following a positive evaluation by AIFA's Board on April 22, 2026, is part of a broader strategy to enhance access to AGAMREE across major European markets, including successful launches in Germany, Austria, and the UK. The reimbursement will take effect following its formal publication in the Italian Official Gazette.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260417224527.htm"
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study led by researchers from the Universitat Rovira i Virgili reveals that **extra virgin olive oil (EVOO)** may enhance cognitive function through its impact on the **gut microbiome**. Over two years, the study followed 656 adults aged 55 to 75 with metabolic syndrome, comparing the effects of EVOO versus refined olive oil on cognitive performance and gut microbiota diversity. Results indicated that participants consuming EVOO exhibited improved cognitive function and a more diverse gut microbiome, while those consuming refined olive oil showed declines in microbiota diversity.

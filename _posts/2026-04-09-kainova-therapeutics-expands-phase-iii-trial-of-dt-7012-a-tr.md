@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270669/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Kainova Therapeutics has initiated the European expansion of its DOMISOL Phase I/II clinical trial, marking a key milestone in the global development of **DT-7012**, a Treg-depleting anti-CCR8 monoclonal antibody. The first patient has been dosed in France, following the trial's launch in Australia in October 2025. This study aims to evaluate DT-7012 both as a **monotherapy** and in combination with **pembrolizumab**, involving multiple leading oncology centers in France, including renowned investigators like Dr. Lauriane Eberst and Professor Antoine Italiano.

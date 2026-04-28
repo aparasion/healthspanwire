@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/a-novel-g9a-inhibitor-r
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 A significant breakthrough in Alzheimer’s disease research has emerged with the development of FLAV-27, a novel G9a inhibitor that demonstrates promising therapeutic potential in mouse models. This brain-penetrant compound exhibits exceptional selectivity for G9a over its closely related counterpart GLP, addressing a critical limitation of previous G9a inhibitors that struggled with poor selectivity and blood-brain barrier permeability.

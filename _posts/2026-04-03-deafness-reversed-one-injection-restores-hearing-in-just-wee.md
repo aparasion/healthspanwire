@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260403044651.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 A groundbreaking study from researchers at Karolinska Institutet has demonstrated that a single injection of gene therapy can restore hearing in individuals born with congenital deafness linked to mutations in the OTOF gene. In a small trial involving ten patients aged 1 to 24, all participants experienced significant improvements in hearing, with many showing rapid gains within just one month post-treatment. This innovative approach utilizes a synthetic adeno-associated virus to deliver a functional copy of the OTOF gene directly into the inner ear, marking a significant advancement in genetic therapies for hearing loss.

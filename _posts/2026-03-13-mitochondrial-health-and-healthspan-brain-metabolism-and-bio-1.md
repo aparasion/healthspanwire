@@ -10,6 +10,7 @@ source_url: "https://www.nyas.org"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The New York Academy of Sciences has announced the launch of the Leon Levy Scholarships in Neuroscience (LLSN), aimed at fostering innovative research among postdoctoral scholars in New York City. This initiative seeks to support emerging neuroscientists at a pivotal stage in their careers, providing them with the resources necessary to develop groundbreaking ideas and establish their independence in the field.

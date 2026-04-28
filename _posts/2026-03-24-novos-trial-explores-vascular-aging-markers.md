@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/novos-trial-explores-vascular-agi
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent preprint study from NOVOS presents promising findings on a multi-target nutritional supplement designed to improve vascular health in adults aged 40 and over. Conducted at the University of Surrey and led by Professor Christian Heiss, this randomized, double-blind, placebo-controlled trial involved 61 healthy participants, with 43 completing the six-month intervention. The results indicate significant improvements in endothelial function, arterial stiffness, and systolic blood pressure, suggesting a coherent shift in vascular aging biology.

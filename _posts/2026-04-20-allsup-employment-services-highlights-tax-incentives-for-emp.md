@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277272/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Allsup Employment Services (AES) is advocating for the utilization of **federal tax incentives** as a strategic approach for employers to enhance workforce inclusivity for individuals with disabilities. These incentives, part of a broader initiative to promote accessibility in the workplace, can significantly offset the costs associated with hiring and accommodating qualified candidates experiencing disabilities. The **Ticket to Work Program (TTW)** plays a crucial role in this ecosystem, providing eligible individuals receiving Social Security Disability Insurance (SSDI) with resources to explore employment opportunities while maintaining their benefits.

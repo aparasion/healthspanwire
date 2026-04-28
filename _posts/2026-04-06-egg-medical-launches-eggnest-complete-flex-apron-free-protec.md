@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268467/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Egg Medical has introduced the **EggNest™ Complete Flex**, a novel **Enhanced Radiation Protection Device (ERPD)** that allows clinicians to operate without traditional lead aprons or with ultralight alternatives. This innovation eliminates the need for structural modifications or procedural downtime, significantly enhancing the safety and comfort of medical professionals during interventional procedures. The first live case utilizing this technology will be performed by Dr. Jasvindar Singh at Barnes-Jewish Hospital, showcasing its immediate clinical application.

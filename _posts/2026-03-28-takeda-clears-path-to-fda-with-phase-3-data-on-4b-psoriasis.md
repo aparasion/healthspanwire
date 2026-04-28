@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/takeda-clears-path-fda-phase-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Takeda has unveiled promising phase 3 data for its TYK2 inhibitor, zasocitinib, targeting moderate to severe plaque psoriasis, positioning itself against competitors like Bristol Myers Squibb (BMS) and Johnson & Johnson. The trials demonstrated significant efficacy, with over 61% of patients achieving a PASI 90 response at Week 16, compared to just 5% for placebo and 16.8% for apremilast (Otezla). Zasocitinib also showed notable PASI 100 rates, indicating clear skin, at 33.4% and 25.2%, further underscoring its therapeutic potential.

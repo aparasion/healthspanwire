@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268954/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Radiopharm Theranostics has reported promising interim results from its Phase 2b trial of **RAD101**, a novel imaging small molecule targeting **fatty acid synthase (FASN)**, which has demonstrated **90% concordance** with MRI in detecting brain metastases. This high level of concordance, evidenced by significant and selective tumor uptake, positions RAD101 as a potentially transformative tool for diagnosing recurrent brain metastases stemming from various solid tumors.

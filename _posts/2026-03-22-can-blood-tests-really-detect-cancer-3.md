@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/can-blood-tests-really-detect-cancer"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent advancements in blood testing methodologies are shedding light on the potential for these assays to aid in the detection of cancer, although a definitive, single-test solution remains elusive. Researchers at the Walter and Eliza Hall Institute of Medical Research (WEHI) are investigating various blood-based biomarkers, including **circulating tumor DNA (ctDNA)** and **tumor markers**, to improve diagnostic capabilities. Current techniques, such as complete blood counts and the identification of tumor markers like **prostate-specific antigen**, provide some insight but lack the specificity needed for early-stage cancer diagnosis.

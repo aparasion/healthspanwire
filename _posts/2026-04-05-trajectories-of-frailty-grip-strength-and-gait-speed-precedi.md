@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag062/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study has identified significant **functional decline** as a precursor to dementia, highlighting the trajectories of **frailty**, **grip strength**, and **gait speed** in older adults. The research involved 1,092 dementia cases matched with 4,368 controls based on age, sex, and education, utilizing a comprehensive **deficit-accumulation index** to characterize frailty and regular physical examinations to assess grip strength and gait speed over an 11-year period.

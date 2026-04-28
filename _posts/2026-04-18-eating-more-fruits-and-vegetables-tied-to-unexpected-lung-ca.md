@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260417224454.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study from the USC Norris Comprehensive Cancer Center reveals a troubling association between a **healthy diet**—characterized by high consumption of fruits, vegetables, and whole grains—and an **increased risk of lung cancer** in young non-smokers under 50. Led by Dr. Jorge Nieva, the research highlights that these individuals, who typically have better-than-average diets, may be exposed to **pesticide residues** in conventionally grown produce, potentially linking dietary choices to an unexpected environmental risk factor for lung cancer.

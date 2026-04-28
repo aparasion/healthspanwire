@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/eat-the-season-5-recipes-starring-the-po
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Spring has arrived, bringing with it a bounty of fresh produce that not only delights the palate but also supports health and longevity. This season's standout vegetables—such as asparagus, peas, and fennel—offer a wealth of nutrients, from fiber and vitamins to antioxidants that combat cellular aging and promote cardiovascular health. These foods are not just seasonal treats; they are integral to a longevity-focused diet, linked to reduced risks of chronic diseases.

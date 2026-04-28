@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/dual-gene-therapy-targets-muscle-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Unlimited Bio, backed by Immortal Dragons, has launched a pioneering dual gene therapy trial targeting age-related muscle loss and vascular decay, marking a significant step in longevity research. The CALM-AF-AI trial, registered as NCT07443826, aims to evaluate the safety and efficacy of combining AAV9-Follistatin and VEGF plasmid gene therapies to address the multifaceted challenges of muscle deterioration as we age.

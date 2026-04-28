@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/longevity-market-projected-to-hit
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Research by SNS Insider projects the global **longevity market** will grow from **USD 27.61 billion in 2025** to **USD 67.03 billion by 2035**, reflecting a **9.41% compound annual growth rate (CAGR)** from 2026 to 2035. The U.S. market is expected to expand significantly, reaching **USD 20.17 billion in 2035**, up from **USD 9.16 billion in 2025**, with an **8.34% CAGR**. This growth is primarily driven by the increasing prevalence of **age-related diseases**, heightened interest in **preventive healthcare**, and the rising demand for **nutraceuticals** and **anti-aging therapeutics**. Technological advancements in **regenerative medicine**, **AI-enabled drug discovery**, and **biomarker technologies** are also contributing to this upward trend.

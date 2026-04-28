@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279109/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Mindera Health has received approval from the New York State Department of Health for its **Mind.Px test**, a genomic assay designed to enhance precision medicine in psoriasis treatment. This innovative test employs a proprietary **dermal biomarker patch system** to extract skin biomarkers in a minimally invasive manner, enabling the application of machine learning algorithms to predict the most suitable biologic class for individual psoriasis patients. The test has demonstrated a **greater than 91% positive predictive value** in prior studies, affirming its clinical utility for healthcare providers managing psoriasis cases.

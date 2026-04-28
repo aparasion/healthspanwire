@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/medtech/endogenex-nets-50m-carry-inte
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Endogenex has successfully secured $50 million in venture capital to advance its minimally invasive treatment for Type 2 diabetes, aiming for FDA approval. This funding follows promising clinical results demonstrating that its pulsed electric field system not only met safety benchmarks but also achieved significant metabolic improvements in participants, including reductions in HbA1c and body weight.

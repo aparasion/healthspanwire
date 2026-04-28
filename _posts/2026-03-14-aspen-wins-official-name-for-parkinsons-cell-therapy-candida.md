@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/aspen-wins-official-name-for-park
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Aspen Neuroscience has announced that its investigational autologous cell therapy, previously known as ANPD001, will now be referred to as Sasineprocel, following approval from the World Health Organization and the American Medical Association. This innovative therapy utilizes dopaminergic neuron precursor cells derived from a patient’s own induced pluripotent stem cells, aiming to restore dopamine-producing neurons lost in Parkinson’s disease without the need for immunosuppressive drugs.

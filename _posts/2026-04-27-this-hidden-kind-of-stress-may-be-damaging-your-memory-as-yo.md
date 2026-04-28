@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260427050626.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study from Rutgers University highlights the significant role of **internalized stress**—particularly feelings of **hopelessness**—in accelerating memory decline among older Chinese Americans. Published in *The Journal of Prevention of Alzheimer's Disease*, the research draws on data from the Population Study of ChINese Elderly (PINE), which surveyed over 1,500 participants from 2011 to 2017. The findings indicate that internalized stress is a critical factor influencing cognitive health, overshadowing other variables like community support.

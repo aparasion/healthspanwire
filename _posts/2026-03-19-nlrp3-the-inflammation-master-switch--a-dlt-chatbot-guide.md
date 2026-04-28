@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/nlrp3-the-inflammation-master-swi
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Longevity.Technology has launched its DLT (Decoding Longevity Trends) chatbot, a groundbreaking AI-driven platform that transforms fragmented data in the longevity biotech sector into a structured, queryable dataset. This innovative tool allows pharma business development teams, investors, and operators to quickly identify potential investment opportunities and emerging therapeutic assets, significantly reducing the time required for market analysis.

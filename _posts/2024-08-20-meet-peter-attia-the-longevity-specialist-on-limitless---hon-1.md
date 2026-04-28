@@ -10,6 +10,8 @@ source_url: "https://honehealth.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Hone has launched a comprehensive longevity platform designed to personalize health optimization based on individual biology. With two membership tiers—Basic and Premium—Hone provides advanced lab testing, tailored physician consultations, and access to medications and supplements. The Basic membership offers essential services at an affordable rate, while the Premium tier, favored by 95% of patients, includes in-depth biomarker analysis and customized treatment plans.

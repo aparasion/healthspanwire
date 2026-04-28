@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/eat-the-season-5-recipes-starring-the-po
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **Spring's arrival brings a nutritional renaissance, particularly through the seasonal bounty of vegetables and proteins that support longevity. Asparagus, peas, fennel, radishes, and leafy greens are not just culinary delights; they are powerhouses of nutrients that contribute to cellular protection, digestive health, and cardiovascular wellness. Asparagus, for example, is rich in **fiber**, **folate**, and **antioxidants**, which combat cellular aging and promote heart health. Similarly, fresh peas provide **plant-based protein** and **micronutrients** that support metabolic health and muscle maintenance.**

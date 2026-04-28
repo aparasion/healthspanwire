@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276889/0/en/
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 BriaCell Therapeutics Corp. has presented promising Phase 3 clinical data demonstrating that their investigational therapy, **Bria-IMT** combined with an immune checkpoint inhibitor, maintains **quality of life (QOL)** in heavily pretreated metastatic breast cancer patients. This cohort had previously failed multiple treatment modalities, including antibody-drug conjugates, checkpoint inhibitors, and CDK4/6 inhibitors. The findings suggest that patients experienced stable global health status and maintained emotional and cognitive functioning, which is crucial as treatment paradigms shift towards therapies that prioritize patient well-being alongside efficacy.

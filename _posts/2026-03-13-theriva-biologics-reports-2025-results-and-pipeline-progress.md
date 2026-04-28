@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/theriva-biologics-reports-2025-re
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Theriva Biologics, Inc. has reported its operational highlights and financial results for 2025, showcasing significant advancements in its therapeutic pipeline and strategic financial maneuvers. The clinical-stage biotech firm ended the year with $13.1 million in cash, which has since increased to approximately $15.2 million, ensuring funding through early 2027. Despite a net loss of $25.3 million, the company noted a decrease in overall operating costs, particularly in research and development as major trials concluded.

@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/reviewing-the-inability
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Recent meta-analysis findings challenge the efficacy of **anti-amyloid immunotherapies** in treating Alzheimer's disease, particularly among patients with mild cognitive impairment or mild dementia. Despite the ability of monoclonal antibodies, such as **aducanumab** and **lecanemab**, to effectively clear **amyloid-β** aggregates from the brain, the clinical benefits remain minimal. The analysis reveals that these therapies yield only trivial improvements in cognitive function and marginal benefits in functional ability over an 18-month period, raising questions about the validity of the **amyloid cascade hypothesis** as a primary target for intervention.

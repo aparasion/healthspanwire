@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/proposing-atrial-fibril
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers propose that **atrial fibrillation (AF)** and **heart failure (HF)** may be manifestations of a shared underlying condition, specifically linked to reduced expression of the transcription factor **TBX5**. This hypothesis emerges from evidence showing that diminished TBX5 disrupts normal gene expression in the heart, leading to both arrhythmia and impaired cardiac function. The study utilized mouse models to investigate the relationship between TBX5 and these cardiac conditions, revealing that alterations in TBX5 expression resulted in gene expression changes characteristic of both AF and HF.

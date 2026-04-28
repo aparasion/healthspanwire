@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Lilly's **EBGLYSS** (lebrikizumab-lbkz) has emerged as the first selective **IL-13 inhibitor** to demonstrate positive Phase 3 results in pediatric patients aged six months to 18 years suffering from **moderate-to-severe atopic dermatitis**. The Phase 3 **ADorable-1 study** reported that **63%** of participants achieved significant skin improvement, with **39%** reaching near-complete skin clearance, marking a substantial advancement in therapeutic options for this demographic.

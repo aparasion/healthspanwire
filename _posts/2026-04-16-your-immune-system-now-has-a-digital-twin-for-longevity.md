@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/your-immune-system-now-has-a-digi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 AYUN and Omniscope have launched a groundbreaking partnership in Zurich, introducing **predictive immune modeling** through the innovative "cellular avatar." This digital twin of the immune system is designed to track, simulate, and anticipate bodily changes in real time, marking a significant shift in longevity medicine from static assessments to dynamic health monitoring. The osLifetime platform, now operational in Switzerland, allows individuals to gain insights into their immune responses, transforming health data from mere snapshots into an ongoing narrative.

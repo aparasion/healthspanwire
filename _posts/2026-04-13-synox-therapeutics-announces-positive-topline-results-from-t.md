@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272195/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The **TANGENT study** has demonstrated that **emactuzumab**, a targeted CSF-1R inhibitor, meets its primary and secondary endpoints with high statistical significance in treating **Tenosynovial Giant Cell Tumor (TGCT)**. This pivotal Phase 3 trial showed rapid and durable improvements in tumor response rates, as measured by **Objective Response Rate (ORR)** and **Tumor Volume Score (TVS)**, alongside significant enhancements in patient-reported outcomes such as **PROMIS-PF**. Patients receiving emactuzumab experienced these benefits after a short course of treatment, receiving five doses over an eight-week period, which highlights its potential to alleviate the chronic treatment burden associated with existing therapies.

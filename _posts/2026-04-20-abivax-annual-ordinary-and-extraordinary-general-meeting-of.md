@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277445/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Abivax SA has announced its upcoming Annual Ordinary and Extraordinary General Meeting scheduled for May 11, 2026, at the Paris Marriott Opera Ambassador. This meeting will address key agenda items and draft resolutions pertinent to the company’s strategic direction, particularly as it advances its clinical-stage therapeutics aimed at modulating immune responses in chronic inflammatory diseases. Shareholders will have access to preparatory documents and voting procedures as mandated by French regulatory requirements.

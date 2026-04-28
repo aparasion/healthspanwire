@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alzpath-cements-ptau217-as-alzhei
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 At the 2026 International Conference on Alzheimer’s and Parkinson’s Diseases (AD/PD), California-based biotech ALZpath showcased its proprietary pTau217 antibody, which is rapidly gaining traction as a standard for blood-based Alzheimer’s diagnostics. Featured prominently in 29 presentations, including live sessions and symposiums, this antibody is positioned to simplify and scale the diagnostic process for Alzheimer’s, addressing the urgent need for earlier detection in a field where timely intervention is crucial.

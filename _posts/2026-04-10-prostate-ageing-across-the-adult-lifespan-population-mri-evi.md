@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag090/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 **Automated segmentation of whole-body MRI data from the UK Biobank has enabled researchers to quantify prostate volume in 30,616 men, revealing significant insights into age-related prostate enlargement and lower urinary tract symptoms (LUTS). This study highlights that prostate volume increases continuously with age, with notable enlargement occurring in midlife, often exceeding clinical thresholds.**

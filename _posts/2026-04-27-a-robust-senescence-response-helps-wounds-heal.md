@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/a-robust-senescence-response-helps-wounds-heal/
 signal_ids: [senolytic-clinical-validation]
 signal_stance: contradicts
 signal_confidence: medium
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent study reveals that **robust senescence responses** in younger mice significantly enhance wound healing compared to older mice, who exhibit chronic senescence. Researchers found that while younger mice displayed a sharp upregulation of senescent cells and associated factors that promote healing within a week of injury, older mice showed a lack of this acute response. Instead, their senescent cells continued to secrete inflammatory factors, hindering the healing process.

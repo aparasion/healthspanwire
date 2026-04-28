@@ -10,6 +10,8 @@ source_url: "https://www.openpr.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Ripple (XRP) has faced significant challenges in 2026, despite the launch of the RLUSD stablecoin and the XRPL automated market maker, which collectively represent key advancements in its infrastructure. The token currently trades at $1.42, down 40% year-to-date, even as six spot XRP ETFs hold approximately $1 billion in assets and the SEC-CFTC joint framework has classified XRP as a digital commodity. These developments, while pivotal, have not translated into price appreciation, highlighting a disconnect between institutional adoption and market performance.

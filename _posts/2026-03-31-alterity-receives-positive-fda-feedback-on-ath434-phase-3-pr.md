@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/alterity-receives-positive-fda-fe
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 Alterity Therapeutics has received encouraging feedback from the U.S. Food and Drug Administration (FDA) regarding its planned Phase 3 development program for ATH434, a therapeutic candidate targeting Multiple System Atrophy (MSA). Following a Type C meeting, the FDA expressed support for the clinical pharmacology and non-clinical development aspects of the program. Alterity is now poised to formalize agreements with the FDA concerning Chemistry, Manufacturing, and Controls, as well as the design of the Phase 3 trial, with an End-of-Phase 2 meeting anticipated in mid-2026.

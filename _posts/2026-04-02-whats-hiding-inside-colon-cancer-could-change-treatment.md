@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260401071951.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Research from the University of East Anglia has unveiled a distinct microbial "fingerprint" associated with colorectal cancer, a finding that could revolutionize diagnosis and treatment strategies for this prevalent disease. By analyzing whole genome sequencing data from over 9,000 cancer patients, the team identified that only colorectal tumors consistently harbor unique microbial communities, challenging the long-standing notion that each cancer type possesses its own microbial signature.

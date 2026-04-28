@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278745/0/fr/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Blue Mountain, a leader in Enterprise Asset Management (EAM) software for life sciences, has announced the acquisition of CompuCal Calibration Solutions, a recognized player in calibration and maintenance software in Europe. This strategic move, bolstered by recent investment from Five Arrows, aims to enhance Blue Mountain's presence in key European markets while leveraging CompuCal's extensive expertise in calibration processes and regulatory compliance.

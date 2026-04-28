@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/aging-clocks-derived-fr
 signal_ids: [epigenetic-clock-adoption, gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: high
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 A recent study has unveiled two innovative models for calculating biological age, utilizing clinical blood tests and gut microbiome composition. By applying machine learning techniques to diverse datasets, researchers have developed aging clocks that predict biological age with impressive accuracy, demonstrating a mean absolute error of approximately six years and a correlation greater than 0.89 with established measures like PhenoAge. This advancement holds significant promise for the longevity field, as it offers a potential tool for assessing the efficacy of rejuvenation therapies through a rapid and cost-effective biological age evaluation.

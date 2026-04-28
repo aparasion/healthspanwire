@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/osteoboost-raises-8m-to-scale-bon
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Osteoboost Health has secured **$8 million** in funding to enhance the manufacturing and research of its FDA-cleared wearable device designed to combat **osteopenia** through calibrated vibration therapy. This device, which is worn on the hips, aims to address a significant gap in women's health, where current treatment options for low bone density are limited and often reactive. With over **44 million Americans** experiencing low bone density, Osteoboost is positioning itself as a proactive intervention rather than a passive observation, challenging the traditional “wait and see” approach that leaves many patients in diagnostic limbo.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271159/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Cures Within Reach (CWR) has announced funding for five new clinical trials led by Chicago-based research institutions, aimed at addressing unsolved diseases through the repurposing of approved therapies. This initiative, supported by the Searle Funds at The Chicago Community Trust, focuses on trials that minimize risk while maximizing potential therapeutic benefits, particularly for underserved populations such as veterans and pediatric patients. The selected trials include innovative approaches like using a wearable leg stimulation device for veterans with Parkinson's and investigating Zileuton for preventing pediatric food allergy anaphylaxis.

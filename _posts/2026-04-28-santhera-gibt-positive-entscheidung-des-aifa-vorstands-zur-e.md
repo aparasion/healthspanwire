@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/28/3282209/0/de/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Santhera Pharmaceuticals has received approval from the Italian Medicines Agency (AIFA) for the reimbursement of **AGAMREE® (Vamorolon)** in the treatment of **Duchenne Muscular Dystrophy (DMD)** for patients aged four and older. This innovative molecule aims to deliver the anti-inflammatory benefits typically associated with glucocorticoids while minimizing the risk of adverse effects common to this class of therapies. DMD is a severe genetic disorder characterized by progressive muscle degeneration and reduced life expectancy due to respiratory and cardiac complications.

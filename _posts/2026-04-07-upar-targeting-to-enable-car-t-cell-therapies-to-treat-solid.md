@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/upar-targeting-to-enabl
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Researchers have identified **uPAR** (urokinase plasminogen activator receptor) as a promising target for enhancing **CAR T cell therapies** aimed at treating solid tumors. Traditionally, CAR T therapies have excelled in hematological malignancies, particularly leukemia, but have struggled to adapt to the complex microenvironments of solid tumors. This study demonstrates that by focusing on **uPAR-expressing cells**—which are prevalent in the tumor microenvironment and associated with senescent cells—CAR T therapies can effectively target and eliminate cancer cells in various solid tumor models.

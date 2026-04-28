@@ -10,6 +10,8 @@ source_url: "https://www.uclahealth.org"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 UCLA alumnus Fred Ramsdell has been awarded the 2025 Nobel Prize in Physiology or Medicine, alongside two colleagues, for their pioneering research on regulatory T cells in the human immune system. This significant recognition underscores the critical role of these immune cells in maintaining immune homeostasis and their potential implications for therapeutic interventions in various diseases, including autoimmune disorders and cancer.

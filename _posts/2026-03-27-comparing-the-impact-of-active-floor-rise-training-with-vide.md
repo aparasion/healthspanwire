@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag064/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent pilot trial has demonstrated that a brief floor-rise training (FRT) intervention can significantly enhance the ability of older adults to rise from the floor independently, a critical skill that impacts fall recovery and reduces the risk of long-lies. Conducted across five community-based Otago exercise classes, the study involved 61 participants aged 65 and older, who were randomized into FRT and control groups. While the intervention did not significantly alter fear of falling (FoF), it resulted in marked improvements in floor-rise times and perceived ability to manage fall risks.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278011/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 **Twentyeight Health** has launched **Complete Care**, a pioneering insurance-enabled membership model aimed at providing **unlimited, real-time access** to comprehensive women’s healthcare services. This innovative platform partners with over **100 insurance providers**, including Medicaid, to cover approximately **16 million women** across the U.S. The model allows members to access a range of services, from hormonal birth control and STI treatment to urgent care and skincare, often at little to no cost through in-network insurance plans.

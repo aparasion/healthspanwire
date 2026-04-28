@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270500/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 ImmuCell Corporation has reported a **28.4% increase** in total sales for Q1 2026, reaching **$10.4 million** compared to the same period in 2025. Domestic sales surged to **$9.7 million**, a **35.7% increase**, driven primarily by the robust performance of their **Tri-Shield®** product, which accounted for **$7.9 million** in sales—a **38.5% increase** year-over-year. Despite a **30.2% decline** in international sales, the overall growth reflects the company's strategic focus on enhancing calf health solutions, particularly in scours management.

@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/04/connecting-gompertz-law
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers have re-evaluated the **Gompertz law** parameters α and β, traditionally used to describe mortality rates in aging populations, through the lens of age-slowing interventions in **Caenorhabditis elegans**. By analyzing the effects of these interventions on large populations of nematodes, the study assigns new biological meanings to α and β, revealing that β is linked to the duration of poor health in later life, while α correlates with the duration of good health in earlier life.

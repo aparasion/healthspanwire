@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/springfield-wellness-center-marks
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Springfield Wellness Center has marked a significant milestone by celebrating its 25th anniversary as a pioneering clinic in intravenous **NAD+ treatment** for addiction recovery. Founded in 2001 by Paula Norris Mestayer and Dr. Richard F. Mestayer III, the clinic has developed the proprietary **BR+NAD® protocol**, which combines NAD+ infusions with a comprehensive 10-day outpatient program. This program has attracted patients nationwide, showcasing the growing interest in NAD+ as a therapeutic agent in addiction recovery.

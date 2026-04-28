@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260417225020.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Engineers at **Northwestern University** have developed **printed artificial neurons** capable of direct communication with living brain cells, marking a significant advancement in neurotechnology. These innovative devices, constructed from **flexible, low-cost materials**, generate electrical signals that closely mimic those of biological neurons, successfully activating real neurons in mouse brain tissue.

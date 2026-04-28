@@ -10,6 +10,8 @@ source_url: "https://honehealth.com"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Hone has launched a comprehensive longevity platform designed to empower individuals to optimize their health and extend their healthspan through personalized care. The platform offers two membership tiers: a Basic plan featuring advanced lab testing and physician consults, and a Premium plan that includes cutting-edge biomarker assessments and tailored treatment strategies.

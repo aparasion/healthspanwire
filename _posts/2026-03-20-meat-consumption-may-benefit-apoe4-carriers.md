@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/meat-consumption-may-benefit-apoe4-carrier
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study from Karolinska Institutet reveals a surprising link between unprocessed meat consumption and reduced cognitive decline in individuals carrying the APOE ε4 allele, a major genetic risk factor for Alzheimer’s disease. This research analyzed data from over 2,100 participants in the Swedish National Study on Aging and Care, highlighting that higher meat intake was associated with better cognitive trajectories specifically in ε4 carriers, effectively mitigating the cognitive penalties typically associated with this genotype.

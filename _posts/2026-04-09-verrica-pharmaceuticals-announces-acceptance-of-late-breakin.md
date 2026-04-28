@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3271414/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Verrica Pharmaceuticals has announced the acceptance of a late-breaking abstract detailing Phase 2 exploratory data for **VP-315**, a novel oncolytic peptide aimed at treating **basal cell carcinoma (BCC)**. This data will be presented at the upcoming **2026 Society for Investigative Dermatology Annual Meeting** in Chicago. The study, titled “VP-315 Demonstrates Potential Abscopal Effect in Untreated Non-Target Basal Cell Carcinoma Tumors,” highlights the peptide's potential to induce **immunogenic cell death**, thereby eliciting a broad T cell response against tumors.

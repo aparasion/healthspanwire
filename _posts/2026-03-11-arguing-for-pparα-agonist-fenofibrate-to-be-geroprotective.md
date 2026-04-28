@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/arguing-for-ppar%ce%b1-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers have unveiled compelling evidence that fenofibrate, a widely used PPARα agonist for hyperlipidemia, may offer significant geroprotective effects. In various mouse models, fenofibrate treatment not only delayed systemic aging but also reversed cellular senescence, highlighting its potential as a repurposed anti-aging therapeutic. The study identifies carnitine palmitoyl transferase 1 C (CPT1C) as a key mediator, linking fenofibrate’s action to improved mitochondrial function and reduced age-related lipid accumulation.

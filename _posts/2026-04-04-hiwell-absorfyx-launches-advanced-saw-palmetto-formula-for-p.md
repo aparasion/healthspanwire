@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/04/3268176/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 HiWell Absorfyx has launched its **Saw Palmetto Complex**, a multifunctional supplement aimed at addressing prostate health, urinary comfort, and hair thinning in men. This formula is designed to enhance **bioavailability** and support multiple physiological pathways, capitalizing on the traditional use of saw palmetto (Serenoa repens) for men's health. The extract is known for its potential to improve **lower urinary tract symptoms (LUTS)**, promote urinary comfort, and influence hormonal balance by inhibiting **5-alpha-reductase**, the enzyme responsible for converting testosterone to dihydrotestosterone (DHT).

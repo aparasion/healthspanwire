@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/28/3282260/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The **antibiotic resistance market** is projected to grow from **USD 9.28 billion in 2025** to **USD 12.72 billion by 2031**, reflecting a **CAGR of 5.40%** during the forecast period (2026–2031). This growth is primarily driven by the escalating global burden of **drug-resistant infections** and the urgent need for effective treatment solutions. As **multidrug-resistant organisms** become increasingly prevalent in both hospital and community settings, healthcare systems are prioritizing strategies to combat antimicrobial resistance, leading to heightened investments in research, surveillance, and innovative therapeutic approaches.

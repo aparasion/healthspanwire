@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260420014746.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers at NYU Langone Health have identified the transcription factor **HOXD13** as a critical regulator in melanoma, facilitating tumor growth and immune evasion. This protein enhances angiogenesis by activating pathways involving **VEGF**, **SEMA3A**, and **CD73**, thereby increasing blood supply to tumors. The study demonstrated that reducing HOXD13 activity resulted in smaller tumors and improved infiltration of cytotoxic T cells, indicating its dual role in promoting tumor survival while suppressing immune responses.

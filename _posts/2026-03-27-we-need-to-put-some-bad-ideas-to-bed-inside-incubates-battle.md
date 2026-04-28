@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/inside-incubates-battles-biot
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 John Stanford, Founder and Executive Director of Incubate, recently advocated on Capitol Hill for the U.S. biotech industry, framing its success as critical to national security, healthcare access, and economic competitiveness. Engaging with leaders from Big Pharma and venture capital, he highlighted the detrimental effects of FDA inconsistencies and proposed price control policies, such as the Most Favored Nation (MFN) initiative, which could hinder innovation and isolate the U.S. market.

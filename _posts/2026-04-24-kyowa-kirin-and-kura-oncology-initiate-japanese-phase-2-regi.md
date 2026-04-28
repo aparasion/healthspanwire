@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/24/3280732/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Kyowa Kirin Co., Ltd. and Kura Oncology, Inc. have initiated a **Phase 2 registrational clinical trial** (jRCT2031250550) for **ziftomenib**, an oral menin inhibitor, targeting **relapsed or refractory NPM1-mutated acute myeloid leukemia (AML)**. This trial, which has begun dosing its first patient in Japan, aims to address a significant unmet need, as NPM1 mutations are present in approximately **30% of AML patients**. Following the trial's completion, Kyowa Kirin plans to seek regulatory approval in Japan, building on ziftomenib's recent FDA approval in the U.S. under the brand name **KOMZIFTI™**.

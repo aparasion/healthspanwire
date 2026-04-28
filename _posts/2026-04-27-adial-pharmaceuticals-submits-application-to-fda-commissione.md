@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281641/26135
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Adial Pharmaceuticals has submitted its AD04 product application for the FDA's Commissioner’s National Priority Voucher Pilot Program (CNPV), which aims to expedite the review process for drugs addressing critical U.S. health priorities. This innovative program allows for a collaborative review approach, akin to a “tumor board,” facilitating efficient evaluations. If granted a voucher, Adial could benefit from a significantly accelerated review timeline of 1-2 months compared to the standard 10-12 months, enhancing communication with the FDA and enabling a rolling review process.

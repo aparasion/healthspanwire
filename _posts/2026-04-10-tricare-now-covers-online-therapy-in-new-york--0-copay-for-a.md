@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/10/3271503/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Manhattan Mental Health Counseling (MMHC) has expanded its telehealth services to accept **TRICARE Select** and **TRICARE Reserve Select**, providing military families in New York with access to licensed psychotherapy at **$0 copays** for active-duty dependents. This initiative aims to address the unique mental health challenges faced by military personnel and their families, including **PTSD**, **military sexual trauma (MST)**, and the stress of frequent relocations. With an average scheduling time of under **three days**, MMHC ensures timely access to care without the need for referrals, thereby reducing barriers to treatment.

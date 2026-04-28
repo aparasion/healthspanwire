@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275401/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 The **Muscular Dystrophy Association (MDA)** is launching its annual **Summer Retail Campaign**, partnering with over **1,000 retail locations** across the U.S. to raise funds for its MDA Summer Camp. This initiative aims to send more than **800 children and young adults** with neuromuscular diseases to a transformative weeklong camp experience, offered free of charge to families. Customers can contribute by rounding up their purchases or donating at checkout, with the campaign running through September.

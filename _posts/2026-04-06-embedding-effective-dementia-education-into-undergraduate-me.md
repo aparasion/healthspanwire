@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag071/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study has revealed critical insights into the integration of dementia education within undergraduate healthcare curricula, highlighting the need for systematic change. The research, which involved a realist review and interviews with 23 stakeholders—including clinical educators, individuals with dementia, and their caregivers—refined an initial programme theory (IPT) aimed at identifying barriers and facilitators for effective dementia education in medical schools.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272888/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 Sana Biotechnology, Inc. has announced a strategic collaboration with Mayo Clinic to expedite the development of **SC451**, a hypoimmune-modified pancreatic islet cell therapy for patients with type 1 diabetes (T1D). This partnership aims to enhance clinical protocols and operational workflows for SC451, which is designed to provide long-term glucose control through a single administration of pancreatic islet cells, eliminating the need for ongoing insulin therapy or immunosuppression.

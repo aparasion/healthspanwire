@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260325005920.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers at Ludwig-Maximilians-Universität München and collaborating institutions have identified the ion channel TMEM175 as a crucial component in lysosomal function, acting as an "overflow valve" that regulates acidity within these cellular recycling centers. This discovery sheds light on how TMEM175 maintains the optimal pH necessary for lysosomal activity, which is critical for breaking down waste materials. When TMEM175 is mutated, it disrupts this balance, leading to toxic buildup and contributing to neurodegenerative diseases like Parkinson's.

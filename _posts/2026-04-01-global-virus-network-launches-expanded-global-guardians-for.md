@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/01/3266825/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 The Global Virus Network (GVN) has launched an expanded initiative, the Global Guardians for Pandemic Preparedness, aimed at high school students across Florida. This program, developed in partnership with the University of South Florida (USF), seeks to cultivate the next generation of virologists and public health leaders by providing immersive educational experiences. Following a successful pilot last year, the initiative will now accept applications from students statewide, with plans for national and international expansion in the future.

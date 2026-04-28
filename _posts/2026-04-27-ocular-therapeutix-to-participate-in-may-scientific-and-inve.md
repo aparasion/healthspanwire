@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281480/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Ocular Therapeutix, Inc. has announced its participation in several key scientific and investor conferences throughout May 2026, highlighting its commitment to advancing retinal therapies. Notable presentations include the **Phase 3 SOL-1 trial results** for **Axitinib Hydrogel (OTX-TKI)** in **neovascular age-related macular degeneration (nAMD)**, which will be discussed at the **ARVO 2026 Annual Meeting** on May 5, 2026. This investigational therapy utilizes a proprietary bioresorbable hydrogel formulation aimed at enhancing drug delivery and therapeutic efficacy.

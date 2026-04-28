@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270332/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Researchers at the **23andMe Research Institute** have published a pivotal study in *Nature* that uncovers genetic predictors influencing the efficacy and side effects of **GLP-1 receptor agonists**, such as semaglutide and tirzepatide, in weight management. This large-scale **genome-wide association study (GWAS)** analyzed data from **27,885 individuals** and revealed that genetic variations, particularly in the **GLP1R** and **GIPR** genes, significantly contribute to the variability in patient responses to these medications.

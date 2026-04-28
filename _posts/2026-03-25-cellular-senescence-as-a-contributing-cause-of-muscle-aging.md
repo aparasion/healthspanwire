@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/cellular-senescence-as-
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Recent insights into cellular senescence highlight its critical role in muscle aging, particularly in the context of sarcopenia. This review synthesizes evidence showing that the accumulation of senescent cells in various muscle-related cell types—including muscle stem cells, fibro-adipogenic progenitors, and immune cells—disrupts regenerative processes and contributes to chronic inflammation, ultimately leading to diminished muscle mass and function.

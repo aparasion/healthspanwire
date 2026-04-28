@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaF9yTXBkd2RSMX
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Recent research has reignited interest in rapamycin, a drug initially developed as an immunosuppressant, for its potential to extend lifespan. Studies have shown that rapamycin can improve healthspan and longevity in various model organisms, including mice, by mimicking caloric restriction and modulating key aging pathways. This has implications for understanding the mechanisms of aging and developing therapeutics aimed at extending healthy lifespan in humans.

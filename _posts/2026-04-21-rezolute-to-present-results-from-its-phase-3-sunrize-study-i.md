@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3277771/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Rezolute, Inc. has announced that the **Phase 3 sunRIZE study** results for **ersodetug**, a monoclonal antibody aimed at treating congenital hyperinsulinism (HI), will be presented at the upcoming Pediatric Endocrine Society Annual Meeting. The presentation, scheduled for May 1, 2026, will include both previously reported topline results and new data from pre-specified and post-hoc analyses, reinforcing the drug's **therapeutic efficacy** and **target engagement** in patients who continue to experience hypoglycemia despite standard care.

@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260426012317.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers at the University of Colorado Boulder have identified a critical brain region, the **caudal granular insular cortex (CGIC)**, that functions as a "pain switch," influencing the transition from acute to chronic pain. This study demonstrates that manipulating this pathway can prevent chronic pain from developing and even alleviate it once established. Using advanced chemogenetic techniques, the team was able to activate or deactivate specific neurons within the CGIC, revealing its role in sustaining pain signals long after the initial injury has healed.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272800/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The **global dermatology devices market** is projected to grow from **$14.4 billion in 2024 to $25.6 billion by 2030**, reflecting a robust **compound annual growth rate (CAGR) of 10.4%** from 2025 to 2030, according to a recent report by BCC Research. This growth is primarily driven by the increasing incidence of skin cancer and a rising consumer demand for aesthetic procedures. Notably, **North America leads the market** with a 52.3% share, bolstered by advanced healthcare infrastructure and a high adoption rate of innovative dermatological technologies.

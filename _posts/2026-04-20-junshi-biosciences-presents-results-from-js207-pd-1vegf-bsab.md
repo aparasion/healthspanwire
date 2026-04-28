@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3277510/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Shanghai Junshi Biosciences has unveiled promising early clinical results from multiple studies at the 2026 AACR Annual Meeting, focusing on their innovative pipeline of bispecific antibodies and antibody-drug conjugates (ADCs). Key assets include **JS212**, a recombinant humanized anti-EGFR/HER3 bispecific ADC, and **JS207**, an anti-PD-1/VEGF bispecific antibody. These therapies are positioned as pivotal components of Junshi's **Immuno-Oncology 2.0 (IO 2.0)** strategy, showcasing significant potential in enhancing treatment efficacy, especially in resistant cancer populations.

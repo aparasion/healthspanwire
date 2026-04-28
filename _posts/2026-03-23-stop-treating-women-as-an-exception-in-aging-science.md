@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/stop-treating-women-as-an-excepti
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent episode of Longevity.Technology UNLOCKED highlights a critical oversight in aging science: the tendency to use male biology as the default model, often sidelining female health. Hosted by Phil Newman and Nina Patrick, the discussion features insights from physician Molly Maloof and naturopathic doctor Lara Briden, who argue that this male-centric approach has led to ineffective and sometimes harmful health strategies for women. Maloof shares her personal experience of applying male-oriented biohacking techniques, which ultimately did not yield the same benefits for her, emphasizing the need for a more nuanced understanding of female physiology.

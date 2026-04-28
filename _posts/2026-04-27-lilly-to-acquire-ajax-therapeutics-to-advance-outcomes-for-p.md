@@ -10,6 +10,8 @@ source_url: "https://investor.lilly.com/news-releases/news-release-details/lilly
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Eli Lilly and Company has announced its acquisition of Ajax Therapeutics, focusing on Ajax's lead candidate, **AJ1-11095**, a first-in-class **Type II JAK2 inhibitor** currently in Phase 1 clinical trials. This investigational drug aims to offer deeper and more durable disease control for patients with **myelofibrosis** and **polycythemia vera**, particularly those who have previously been treated with Type I JAK2 inhibitors. With proof-of-concept data expected to be presented in late 2026, AJ1-11095 represents a significant advancement in the treatment landscape for myeloproliferative neoplasms (MPNs).

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/allergan-aesthetics-finds-its-nex
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Allergan Aesthetics has spotlighted a significant intersection between **weight-loss therapies** and **aesthetic medicine** at the 2026 American Academy of Dermatology Meeting (AAD). The company presented data indicating that as patients utilize **GLP-1 agonists** for weight loss, they are increasingly concerned about their facial appearance, leading to a burgeoning demand for aesthetic treatments. Notably, a survey revealed that **52% of GLP-1-treated patients** express worries about changes in their facial volume, while **32%** of those seeking aesthetic care are new to the practice, indicating a shift in patient demographics and needs.

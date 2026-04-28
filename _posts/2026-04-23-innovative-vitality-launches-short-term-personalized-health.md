@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/innovative-vitality-launches-shor
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Innovative Vitality has launched a new membership program, **Longevity Labs & Provider Review**, aimed at enhancing personalized health optimization through advanced diagnostic testing. This offering includes a comprehensive lab panel analyzing over **50 biomarkers**, an **InBody body composition assessment**, and a **one-hour provider consultation**. Priced at **$549**, the program is designed for individuals who suspect underlying health issues despite normal lab results or those seeking a lower-commitment option before committing to a more extensive health program.

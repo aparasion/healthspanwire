@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/uk-nod-for-soligenix-drug-links-r
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 Soligenix has received Promising Innovative Medicine (PIM) designation in the UK for SGX945 (dusquetide), aimed at treating Behcet’s disease, a rare and debilitating inflammatory disorder. This designation, granted by the UK Medicines and Healthcare products Regulatory Agency, signals potential for expedited access to treatment for patients who face unpredictable and painful flare-ups, highlighting the urgency of addressing rare diseases in the healthcare landscape.

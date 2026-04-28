@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: [senolytic-clinical-validation]
 signal_stance: supports
 signal_confidence: medium
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 A recent study highlights the sex-specific molecular mechanisms underlying lower urinary tract dysfunction (LUTD) in aging, particularly its disproportionate impact on women. Conducted as part of the NIH Common Fund SenNet program, researchers investigated the effects of a senolytic drug combination, Dasatinib and Quercetin (D&Q), on bladder health in aged mice. They found significant baseline differences in the unfolded protein response (UPR) and ER-associated degradation (ERAD) proteins between male and female bladders, with females exhibiting heightened ER stress markers.

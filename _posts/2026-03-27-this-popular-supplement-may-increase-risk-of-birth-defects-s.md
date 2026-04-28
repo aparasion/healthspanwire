@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260326075552.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study from Texas A&M University reveals that high doses of common antioxidants, specifically N-acetyl-L-cysteine (NAC) and selenium, may pose risks for future generations. Researchers found that male mice supplemented with these antioxidants exhibited no immediate health issues but produced offspring with significant facial and skull abnormalities. This suggests that excessive antioxidant intake can alter sperm DNA, potentially impacting developmental outcomes in children.

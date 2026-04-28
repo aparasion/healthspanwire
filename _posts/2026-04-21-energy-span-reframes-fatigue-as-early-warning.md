@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/energy-span-reframes-fatigue-as-e
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Dr. Noa Rappaport’s keynote at the Buck Institute’s Healthspan Horizons introduces **Energy Span** as a quantifiable signal of healthspan decline, challenging the traditional dismissal of fatigue as a mere consequence of aging. This concept reframes energy not as a subjective experience but as a **biological precursor** that reflects shifts in mitochondrial function, metabolic flexibility, and autonomic regulation long before clinical markers indicate deterioration. Rappaport emphasizes that while energy declines may precede overt disease, they remain among the least measured aspects of health, presenting an opportunity for early intervention.

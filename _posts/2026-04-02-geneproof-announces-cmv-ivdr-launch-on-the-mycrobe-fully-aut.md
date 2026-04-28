@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267454/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 GeneProof, a molecular diagnostics manufacturer under NuvinkaDx, has announced the launch of its Cytomegalovirus (CMV) MC PCR Kit, now compliant with the European Union’s In Vitro Diagnostic Regulation (IVDR). This significant milestone enhances the myCROBE platform, which supports a range of Immunocompromised/Transplant (IT) PCR assays. The CMV assay, along with other key IT virus detections, facilitates rapid and accurate pathogen identification, crucial for patient management in transplant settings.

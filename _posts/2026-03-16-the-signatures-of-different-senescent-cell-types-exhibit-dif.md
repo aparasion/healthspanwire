@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/the-signatures-of-diffe
 signal_ids: [senolytic-clinical-validation]
 signal_stance: supports
 signal_confidence: medium
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 Researchers have unveiled significant correlations between circulating proteins from various senescent cell types and age-related conditions, highlighting the distinct roles these proteins play in aging. By analyzing data from two longitudinal studies, the Baltimore Longitudinal Study of Aging and the Invecchiare in Chianti study, the team found that certain senescence-associated proteins (SAPs) are more predictive of health outcomes, such as hypertension and diabetes, than non-senescence proteins.

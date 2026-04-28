@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278666/0/fr/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Elkedonia has appointed **Pierre d'Epenoux** as the independent Chairman of its Strategic Committee, enhancing its governance as the company advances its innovative neuroplasticity-focused treatments for **major depressive disorder (MDD)** and other neuropsychiatric conditions. D'Epenoux, previously CEO of **ImCheck Therapeutics**, brings over 30 years of biopharmaceutical experience, particularly in strategic partnerships and licensing agreements, which will be instrumental as Elkedonia seeks to solidify its market position and long-term value.

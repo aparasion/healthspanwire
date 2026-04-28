@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/there-arent-enough-geriatricians-heres-h
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 The aging population is rapidly increasing, with over 70 million baby boomers in the U.S. and the oldest turning 80 by 2026. This demographic shift brings complex health challenges, including multiple chronic conditions and increased reliance on family for medical decision-making. Geriatricians, specialists trained to manage these complexities, are crucial for ensuring older adults maintain their health, independence, and quality of life. However, the field faces a significant shortage, with fewer than 12 geriatric physicians per 100,000 older Americans.

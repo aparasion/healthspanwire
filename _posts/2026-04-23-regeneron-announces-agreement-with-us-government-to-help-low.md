@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280340/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Regeneron Pharmaceuticals has announced a groundbreaking initiative to provide its recently approved gene therapy, **Otarmeni™ (lunsotogene parvec-cwha)**, at no cost to patients in the U.S. suffering from a rare genetic form of hearing loss. This move is part of a broader agreement with the U.S. government aimed at reducing drug prices for several of Regeneron's current and future therapies, aligning U.S. prices with those in other developed countries. Additionally, the company will lower Medicaid prices and allow direct patient purchases of its cardiovascular drug, **Praluent® (alirocumab)**, through the TrumpRx.gov platform.

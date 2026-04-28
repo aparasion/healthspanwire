@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/autophagy-as-a-double-e
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Recent research highlights the dual role of autophagy in aging, revealing its complex relationship with cellular senescence. While increased autophagy is known to enhance cell function and delay the onset of senescence, excessive autophagy can inadvertently support the inflammatory signaling of senescent cells, complicating its therapeutic potential.

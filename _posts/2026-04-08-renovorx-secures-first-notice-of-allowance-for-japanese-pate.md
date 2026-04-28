@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3270110/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 RenovoRx, Inc. has secured a **Notice of Allowance** for its first Japanese patent application, enhancing the intellectual property protection for its **RenovoCath device**. This novel dual-occlusion catheter-based system is designed for targeted drug delivery through the **vasa vasorum**, the small blood vessels that supply nutrients to artery walls. The patent covers a method that enables precise localization and controlled infusion of therapeutics directly to tumor sites, which could significantly improve treatment outcomes while minimizing the systemic side effects commonly associated with traditional **intravenous chemotherapy**.

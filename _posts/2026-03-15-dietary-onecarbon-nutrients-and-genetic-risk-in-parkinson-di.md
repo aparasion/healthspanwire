@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent analysis of data from the UK Biobank involving **202,171 individuals** has revealed potential associations between dietary **one-carbon metabolism (OCM)** nutrients and the incidence of **Parkinson's disease (PD)**. The study utilized repeated 24-hour dietary recalls to assess intake of key OCM nutrients—**methionine, folate, vitamin B6,** and **vitamin B12**—and tracked PD incidence through validated ICD-10 codes over a median follow-up of **12.27 years**. Notably, participants in the highest quartile of intake for these nutrients exhibited a significantly lower risk of developing PD, with hazard ratios ranging from **0.71 to 0.83** compared to those in the lowest quartile.

@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260330001131.htm"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A significant breakthrough in understanding resistant hypertension has emerged from the MOMENTUM study, revealing that over 27% of patients with this condition exhibit elevated cortisol levels, a finding that challenges previous assumptions about the prevalence of hypercortisolism in these individuals. Conducted across 50 centers in the U.S., this large-scale study highlights the connection between excess cortisol—often associated with chronic stress—and the difficulty in managing high blood pressure, particularly in patients who do not respond to standard antihypertensive medications.

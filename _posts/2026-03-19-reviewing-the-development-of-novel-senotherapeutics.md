@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/reviewing-the-developme
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent review highlights the evolving landscape of senotherapeutics, focusing on novel strategies to target senescent cells that accumulate with age. These cells contribute to chronic inflammation and degenerative aging, prompting significant interest in therapies that can either clear or modulate their effects. Current approaches include senostatics, senolytics, and senomorphics, with the latter two showing promise in early clinical trials, yet facing challenges such as limited efficacy and safety concerns.

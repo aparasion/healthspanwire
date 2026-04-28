@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/three-drugs-in-major-study-to-pro
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 UT Health San Antonio is launching a groundbreaking $38 million human trial, VITAL-H, to assess whether three existing medications—rapamycin, semaglutide, and dapagliflozin—can help extend healthspan by slowing biological aging in humans. This study aims to enroll nearly 1,000 adults aged 60 to 65, marking a significant step in translating decades of aging research into practical clinical applications.

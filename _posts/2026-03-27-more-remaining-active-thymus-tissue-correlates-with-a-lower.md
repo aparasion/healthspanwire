@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/more-remaining-active-t
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 A recent study has highlighted the critical role of active thymus tissue in reducing mortality risk and age-related diseases, suggesting that preserving thymic functionality is essential for adult health and longevity. Researchers utilized a deep learning framework to assess thymic health from routine radiographic images in two large cohorts: the National Lung Screening Trial and the Framingham Heart Study. Their findings revealed that higher thymic health correlates with lower all-cause mortality, reduced lung cancer incidence, and decreased cardiovascular mortality, even after adjusting for confounding factors.

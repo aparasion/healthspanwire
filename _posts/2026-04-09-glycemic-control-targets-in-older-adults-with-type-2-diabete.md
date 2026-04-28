@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent retrospective multicenter cohort study utilizing the Tianjin Health and Medical Big Data Super Platform has revealed critical insights into glycemic management for older adults with type 2 diabetes mellitus (T2DM) and chronic kidney disease (CKD). The study analyzed longitudinal HbA1c trajectories in a cohort of 2,037 older adults compared to 6,075 younger controls, employing group-based trajectory modeling (GBTM) to elucidate glycemic-mortality associations.

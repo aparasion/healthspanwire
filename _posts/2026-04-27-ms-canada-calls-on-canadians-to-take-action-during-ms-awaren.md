@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281651/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 **MS Canada is spearheading MS Awareness Month this May, emphasizing the critical need for early and accurate diagnosis of multiple sclerosis (MS). With an alarming statistic of one diagnosis every two hours in Canada, the campaign aims to raise awareness and mobilize support for those affected by this complex neurological condition. The theme, "My MS Diagnosis," underscores the importance of timely intervention, which can significantly improve long-term health outcomes by preserving brain health and minimizing disease activity.**

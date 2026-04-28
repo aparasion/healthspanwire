@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/wearables-may-spot-brain-changes-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study published in *npj Digital Medicine* reveals that consumer wearables, such as smartwatches, may effectively detect early cognitive and mood changes by continuously monitoring daily life patterns. Researchers followed 82 cognitively healthy adults over ten months, utilizing wearable devices to gather real-world data on sleep, heart rate, and environmental factors, alongside periodic cognitive assessments. This approach aims to capture the subtle fluctuations in brain health that traditional clinical methods often miss.

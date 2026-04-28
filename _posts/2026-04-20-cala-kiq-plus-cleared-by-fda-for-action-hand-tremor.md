@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/cala-kiq-plus-cleared-by-fda-for-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Cala Health has received FDA clearance for the **Cala kIQ Plus system**, a next-generation wearable neurostimulation device aimed at alleviating **action hand tremors** associated with essential tremor and Parkinson’s disease. This device features innovative **therapy modes** and **adaptive calibration** that enhance tremor relief while personalizing treatment for users, ultimately providing a more intuitive experience during episodes of tremor.

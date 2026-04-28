@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260403224502.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent study published in **PLOS Climate** by researchers María Dolores Gadea Rivas and Jesús Gonzalo reveals that climate change is manifesting unevenly across the United States, challenging the notion of uniform warming. While only **27 states (55%)** reported an increase in average temperatures from 1950 to 2021, **41 states (84%)** exhibited changes in specific temperature ranges, such as rising peak temperatures in the West and milder lows in northern states. This nuanced understanding of warming patterns underscores the necessity for tailored climate responses based on regional characteristics.

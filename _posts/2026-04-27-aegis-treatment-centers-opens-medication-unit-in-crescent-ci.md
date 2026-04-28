@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281964/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Aegis Treatment Centers has launched a new **Medication Unit** in Crescent City, California, enhancing local access to treatment for opioid use disorder (OUD) in a historically underserved area. This facility complements Aegis's existing **Opioid Treatment Program (OTP)** in nearby Eureka, providing a crucial resource for Del Norte County residents who previously faced significant barriers to care, including long travel distances and limited local options.

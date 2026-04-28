@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVJvYjQzRVBqej
 signal_ids: [senolytic-clinical-validation]
 signal_stance: mixed
 signal_confidence: medium
+topic: "therapeutics"
+impact: "noteworthy"
 ---
 
 Recent advancements in senotherapeutics, particularly senolytics and senomorphics, are reshaping approaches to aging and skin health. These innovative therapies target senescent cells, which accumulate with age and contribute to various age-related conditions, including skin deterioration. By selectively eliminating or modulating these cells, researchers aim to enhance skin rejuvenation and potentially improve overall healthspan.

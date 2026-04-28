@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/ternary-raises-4-4m-to-fight-infl
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 London-based Ternary Therapeutics has secured $4.4 million in seed funding to develop AI-designed "molecular glues" aimed at addressing chronic inflammation, a key driver of age-related decline. This investment, led by Paris-based VC daphni, reflects a growing confidence in tackling complex challenges within drug discovery, particularly in the realm of targeted protein degradation. Ternary's innovative approach seeks to modulate protein interactions rather than simply inhibiting them, potentially transforming how we address inflammation and its associated diseases.

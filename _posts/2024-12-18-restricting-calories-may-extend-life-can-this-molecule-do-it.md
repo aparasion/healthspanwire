@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1FGLWV6blFVZT
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers are investigating a new molecule that could mimic the life-extending effects of calorie restriction without the associated hunger. This development is significant as calorie restriction has long been linked to increased lifespan across various species, but its practical application in humans is limited by the discomfort it causes. 

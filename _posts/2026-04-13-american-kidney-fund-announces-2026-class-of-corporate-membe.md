@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272711/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 The American Kidney Fund (AKF) has announced its **2026 Class of Corporate Members**, which includes prominent biotech and pharmaceutical companies such as **argenx US, Inc.**, **Novartis**, and **Travere Therapeutics**. These corporate partnerships are vital for AKF's mission to combat kidney disease and enhance the quality of life for affected individuals. LaVarne A. Burton, AKF President and CEO, emphasized that the support from these members enables AKF to engage in comprehensive education, advocacy, and innovation efforts at both local and national levels.

@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2cwZnNZNHB3NT
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Longevity Health Holdings has appointed a new CEO, signaling a strategic shift within the bio-aesthetics sector. This leadership change comes as the company aims to enhance its focus on innovative solutions that bridge the gap between aesthetics and longevity, aligning with emerging trends in healthspan research.

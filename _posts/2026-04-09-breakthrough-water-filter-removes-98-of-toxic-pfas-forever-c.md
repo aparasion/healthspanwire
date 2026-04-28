@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260408225951.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Researchers at **Flinders University**, led by Dr. Witold Bloch, have developed an innovative **nano-sized molecular cage** that effectively captures **short-chain perfluoroalkyl and polyfluoroalkyl substances (PFAS)**, achieving up to **98% removal** from contaminated water. This breakthrough addresses a significant challenge in environmental science, as short-chain PFAS are notoriously difficult to eliminate using existing water treatment technologies. The study, published in *Angewandte Chemie International Edition*, highlights a novel binding mechanism that aggregates PFAS molecules within the cage, enhancing capture efficiency.

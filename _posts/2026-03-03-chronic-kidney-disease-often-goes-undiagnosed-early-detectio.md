@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/chronic-kidney-disease-often-goes-undiag
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Chronic kidney disease (CKD), affecting 35.5 million Americans, remains underdiagnosed and poorly managed, with only half of those affected receiving a formal diagnosis. Assistant Professor Eleanor Rivera highlights the critical need for increased awareness and timely intervention, especially for patients in early stages who often lack essential information from healthcare providers. This oversight can lead to advanced CKD, necessitating burdensome treatments like dialysis, which significantly impact quality of life.

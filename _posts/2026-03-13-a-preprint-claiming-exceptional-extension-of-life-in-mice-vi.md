@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/a-preprint-claiming-exc
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent preprint from Sentcell reports a groundbreaking approach to lifespan extension in mice through a novel telomere transfer mechanism involving CD4+ T cells. The study claims that these immune cells can recycle telomeres and release them into circulation, creating what the researchers term "telomere Rivers," which purportedly rejuvenate tissues and significantly extend lifespan by an unprecedented median of approximately 17 months.

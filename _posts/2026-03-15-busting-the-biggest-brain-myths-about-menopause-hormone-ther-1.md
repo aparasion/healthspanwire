@@ -10,6 +10,8 @@ source_url: "https://superagingnews.com/busting-the-biggest-brain-myths-about-me
 signal_ids: [sex-healthspan-lifespan]
 signal_stance: supports
 signal_confidence: medium
+topic: "nutrition"
+impact: "landmark"
 ---
 
 The Women’s Health Initiative Memory Study (WHIMS) has prompted a reevaluation of menopause hormone therapy (MHT) and its implications for brain health. Initially, findings from the early 2000s suggested that MHT increased risks for heart disease, stroke, breast cancer, and dementia, leading to a decline in its use. However, recent analyses indicate that timing and type of MHT are critical factors influencing outcomes, particularly regarding cognitive health.

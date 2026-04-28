@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/24/3280925/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 A.D.A.M. Innovations Co. has significantly advanced its GeneLife GeneAI Forecast platform by introducing **15 AI-powered risk prediction models**, including four new conditions: **Irritable Bowel Syndrome (IBS)**, **Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)**, **Osteoarthritis**, and **Osteoporosis**. This enhancement allows for a more dynamic understanding of health risks, leveraging DNA data and real-world lifestyle inputs to create a personalized health baseline that evolves over time.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3279603/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 ENA Respiratory has appointed **Melissa Faris** as an independent Non-Executive Director, bringing extensive experience from her roles at OMass Therapeutics and GSK, where she led business development in immunology and infectious diseases. Her appointment is expected to enhance ENA's strategic direction as it advances the clinical development of **INNA-051**, a novel antiviral host defense enhancer aimed at minimizing the impact of symptomatic viral respiratory infections.

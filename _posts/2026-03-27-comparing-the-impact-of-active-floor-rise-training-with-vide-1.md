@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag064/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent pilot trial conducted across five community-based Otago exercise classes has demonstrated that **floor-rise training (FRT)** can significantly enhance the ability of older adults to rise from the floor independently, a crucial skill for fall recovery. The study involved **61 community-dwelling participants aged 65 and older**, who were randomized into an FRT group (n = 27) and a control group (n = 34). The FRT group underwent five weekly sessions focused on backward-chaining techniques, while the control group engaged in a non-physical demonstration. Notably, the trial reported no adverse events, underscoring the safety of the intervention.

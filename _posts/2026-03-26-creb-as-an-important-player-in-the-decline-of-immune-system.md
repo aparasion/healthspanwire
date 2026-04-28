@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/creb-as-an-important-pl
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 Researchers have identified the transcription factor cAMP response element-binding protein (CREB) as a key player in the age-related decline of immune system control over gut microbiome composition. In a study using fruit flies, the team discovered that CREB, activated by JNK signaling, transcriptionally suppresses the peptidoglycan recognition protein SC2 (PGRP-SC2), which is crucial for maintaining gut health. This suppression leads to an imbalance in microbial populations, contributing to chronic inflammation and tissue dysfunction.

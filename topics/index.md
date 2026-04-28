@@ -144,57 +144,76 @@ description: "Browse all longevity and healthspan articles — filter by topic, 
 <section class="articles-section">
   <div class="article-list" id="article-list">
     {% for post in site.posts %}
-      {% comment %} ── Compute topics ── {% endcomment %}
-      {% assign topics_list = "" %}
-      {% assign signal_ids_str = post.signal_ids | join: ',' | downcase %}
-      {% assign source_text = post.title | append: ' ' | append: post.excerpt | downcase %}
+      {% comment %} ── Resolve topics: prefer explicit front matter, fall back to keyword matching ── {% endcomment %}
+      {% if post.topic and post.topic != "" %}
+        {% assign topics_trimmed = post.topic %}
+      {% else %}
+        {% assign topics_list = "" %}
+        {% assign signal_ids_str = post.signal_ids | join: ',' | downcase %}
+        {% assign source_text = post.title | append: ' ' | append: post.excerpt | downcase %}
 
-      {% assign match = false %}
-      {% for sid in therapeutics_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in therapeutics_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "therapeutics " %}{% endif %}
+        {% assign match = false %}
+        {% for sid in therapeutics_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+        {% if match == false %}{% for kw in therapeutics_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+        {% if match %}{% assign topics_list = topics_list | append: "therapeutics " %}{% endif %}
 
-      {% assign match = false %}
-      {% for sid in biomarkers_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in biomarkers_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "biomarkers " %}{% endif %}
+        {% assign match = false %}
+        {% for sid in biomarkers_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+        {% if match == false %}{% for kw in biomarkers_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+        {% if match %}{% assign topics_list = topics_list | append: "biomarkers " %}{% endif %}
 
-      {% assign match = false %}
-      {% for sid in nutrition_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in nutrition_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "nutrition " %}{% endif %}
+        {% assign match = false %}
+        {% for sid in nutrition_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+        {% if match == false %}{% for kw in nutrition_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+        {% if match %}{% assign topics_list = topics_list | append: "nutrition " %}{% endif %}
 
-      {% assign match = false %}
-      {% for sid in tech_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in tech_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "technology " %}{% endif %}
+        {% assign match = false %}
+        {% for sid in tech_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+        {% if match == false %}{% for kw in tech_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+        {% if match %}{% assign topics_list = topics_list | append: "technology " %}{% endif %}
 
-      {% assign match = false %}
-      {% for sid in policy_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in policy_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "policy " %}{% endif %}
+        {% assign match = false %}
+        {% for sid in policy_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+        {% if match == false %}{% for kw in policy_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+        {% if match %}{% assign topics_list = topics_list | append: "policy " %}{% endif %}
 
-      {% assign topics_trimmed = topics_list | strip %}
-
-      {% comment %} ── Compute impact level ── {% endcomment %}
-      {% assign impact = "general" %}
-      {% assign impact_order = 4 %}
-      {% assign conf = post.signal_confidence | default: "low" %}
-      {% assign stance = post.signal_stance | default: "mentions" %}
-      {% assign has_signals = false %}
-      {% if post.signal_ids and post.signal_ids.size > 0 %}{% assign has_signals = true %}{% endif %}
-
-      {% if conf == "medium" and has_signals and stance == "supports" %}
-        {% assign impact = "landmark" %}
-        {% assign impact_order = 1 %}
-      {% elsif conf == "medium" or stance == "contradicts" %}
-        {% assign impact = "significant" %}
-        {% assign impact_order = 2 %}
-      {% elsif has_signals %}
-        {% assign impact = "noteworthy" %}
-        {% assign impact_order = 3 %}
+        {% assign topics_trimmed = topics_list | strip %}
       {% endif %}
 
+      {% comment %} ── Resolve impact: prefer explicit front matter, fall back to signal heuristic ── {% endcomment %}
+      {% if post.impact and post.impact != "" %}
+        {% assign impact = post.impact %}
+        {% case impact %}
+          {% when "landmark" %}{% assign impact_order = 1 %}
+          {% when "significant" %}{% assign impact_order = 2 %}
+          {% when "noteworthy" %}{% assign impact_order = 3 %}
+          {% else %}{% assign impact_order = 4 %}
+        {% endcase %}
+      {% else %}
+        {% assign impact = "general" %}
+        {% assign impact_order = 4 %}
+        {% assign conf = post.signal_confidence | default: "low" %}
+        {% assign stance = post.signal_stance | default: "mentions" %}
+        {% assign has_signals = false %}
+        {% if post.signal_ids and post.signal_ids.size > 0 %}{% assign has_signals = true %}{% endif %}
+        {% if conf == "medium" and has_signals and stance == "supports" %}
+          {% assign impact = "landmark" %}{% assign impact_order = 1 %}
+        {% elsif conf == "medium" or stance == "contradicts" %}
+          {% assign impact = "significant" %}{% assign impact_order = 2 %}
+        {% elsif has_signals %}
+          {% assign impact = "noteworthy" %}{% assign impact_order = 3 %}
+        {% endif %}
+      {% endif %}
+
+      {% comment %} ── Map impact slugs to consumer-friendly display labels ── {% endcomment %}
+      {% case impact %}
+        {% when "landmark" %}{% assign impact_label = "Major finding" %}
+        {% when "significant" %}{% assign impact_label = "Important" %}
+        {% when "noteworthy" %}{% assign impact_label = "Worth knowing" %}
+        {% else %}{% assign impact_label = "Background" %}
+      {% endcase %}
+
+      {% comment %} ── Map topic slugs to consumer-friendly display labels ── {% endcomment %}
       {% assign pub = post.publisher | default: "" | strip %}
 
       <article class="article-row"
@@ -211,10 +230,20 @@ description: "Browse all longevity and healthspan articles — filter by topic, 
           <h3 class="article-row-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         </div>
         <div class="article-row-badges">
-          <span class="impact-pill impact-{{ impact }}" title="Impact: {{ impact | capitalize }}">{{ impact | capitalize }}</span>
+          <span class="impact-pill impact-{{ impact }}" title="{{ impact_label }}">{{ impact_label }}</span>
           {% assign topic_words = topics_trimmed | split: " " %}
           {% for tw in topic_words %}
-            {% if tw != "" %}<span class="topic-badge">{{ tw | capitalize }}</span>{% endif %}
+            {% if tw != "" %}
+              {% case tw %}
+                {% when "therapeutics" %}{% assign topic_label = "Treatments & Drugs" %}
+                {% when "biomarkers" %}{% assign topic_label = "Measuring Aging" %}
+                {% when "nutrition" %}{% assign topic_label = "Food & Lifestyle" %}
+                {% when "technology" %}{% assign topic_label = "Science & Tech" %}
+                {% when "policy" %}{% assign topic_label = "Industry & Access" %}
+                {% else %}{% assign topic_label = tw | capitalize %}
+              {% endcase %}
+              <span class="topic-badge" data-topic="{{ tw }}">{{ topic_label }}</span>
+            {% endif %}
           {% endfor %}
         </div>
       </article>

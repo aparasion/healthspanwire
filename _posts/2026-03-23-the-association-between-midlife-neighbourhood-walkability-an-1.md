@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag054/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study from the New York University Women’s Health Study has elucidated the impact of **neighborhood walkability (NW)** on the long-term cognitive health of women, specifically in relation to **Alzheimer’s disease (AD)** risk. The study followed 14,273 cognitively healthy women aged 35-65 over a span of 30 years, employing a nested case-control design to analyze 1,865 AD cases linked to Medicare claims, matched against 3,730 controls. The researchers utilized a validated NW measure and a two-item average annual NW index to assess the relationship between NW and AD diagnosis.

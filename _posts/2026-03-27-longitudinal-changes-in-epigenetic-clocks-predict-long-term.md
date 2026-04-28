@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01095-1"
 signal_ids: [epigenetic-clock-adoption]
 signal_stance: mixed
 signal_confidence: medium
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 Recent research has established a significant link between longitudinal changes in multiple epigenetic clocks and long-term mortality, as demonstrated in a cohort followed for up to 24 years. This study highlights that these changes provide independent predictive information regarding health outcomes, enhancing our understanding of biological aging markers.

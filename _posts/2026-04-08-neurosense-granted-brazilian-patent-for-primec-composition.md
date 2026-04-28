@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/neurosense-granted-brazilian-pate
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "landmark"
 ---
 
 NeuroSense has secured Brazilian Patent No. BR 112024007727-6 for its **PrimeC composition**, which combines **ciprofloxacin** and **celecoxib** in a unique synchronized formulation. This patent, valid until October 2042, follows similar approvals in the U.S. and Australia, bolstering NeuroSense's **global intellectual property portfolio**. The distinct formulation of PrimeC is designed to enhance therapeutic efficacy beyond simple co-administration of the two drugs.

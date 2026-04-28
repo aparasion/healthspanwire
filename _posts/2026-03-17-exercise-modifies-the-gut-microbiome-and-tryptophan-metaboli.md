@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/exercise-modifies-the-g
 signal_ids: [gut-microbiome-aging]
 signal_stance: mixed
 signal_confidence: medium
+topic: "nutrition"
+impact: "noteworthy"
 ---
 
 Recent research highlights how regular exercise can positively alter the gut microbiome and enhance tryptophan metabolism, leading to improved mood and memory. In a study involving adult male rats, scientists observed that exercise reduced the abundance of specific tryptophan-metabolizing bacteria, such as Alistipes and Clostridium, while promoting the production of beneficial metabolites like 5-hydroxytryptophol.

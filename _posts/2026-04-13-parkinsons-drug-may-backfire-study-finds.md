@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/parkinsons-drug-may-backfire-stud
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent study from Yale School of Medicine, published in *Nature Microbiology*, reveals that **COMT inhibitors**—commonly prescribed to enhance the efficacy of **levodopa** in Parkinson's disease patients—may inadvertently reduce its effectiveness by altering the gut microbiome. Lead author Dr. Andrew Verdegaal highlights a "counterproductive effect" where these inhibitors, intended to protect levodopa from early breakdown, instead shift the bacterial balance in the gut, leading to increased degradation of the drug before it can reach the brain.

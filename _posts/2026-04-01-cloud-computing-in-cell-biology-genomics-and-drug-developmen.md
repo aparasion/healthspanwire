@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/01/3266926/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 The global market for cloud computing in cell biology, genomics, and drug development is set to experience significant growth, projected to rise from $6.2 billion in 2024 to $15.6 billion by 2030, according to a recent report from BCC Research. This growth, characterized by a compound annual growth rate (CAGR) of 16.7%, is primarily driven by the rapid increase in biological data generation and the escalating need for scalable computational resources across the life sciences sector.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/life-biosciences-lands-80m-to-pus
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Boston-based biotech Life Biosciences has secured **$80 million** in Series D funding to advance its pioneering **cell reset therapy**, ER-100, which aims to rejuvenate older, damaged cells. This marks the initiation of the first human trial for this therapy, positioning it as a potential game-changer in the fight against age-related diseases. The funding reflects a growing investor confidence in companies targeting the **underlying biology of aging** rather than merely addressing symptoms.

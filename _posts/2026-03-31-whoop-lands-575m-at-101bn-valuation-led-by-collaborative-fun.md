@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblAxV3l4VmpHSk
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 WHOOP has secured $575 million in a funding round led by Collaborative Fund, achieving a valuation of $10.1 billion. This significant investment aims to enhance WHOOP's healthspan platform, which focuses on optimizing health and performance through continuous monitoring of physiological data. The funding will allow the company to expand its capabilities and reach, further integrating its technology into the health and wellness sectors.

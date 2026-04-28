@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/takeda-tears-denali-partnersh
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 Takeda has officially terminated its neuro partnership with Denali Therapeutics, returning the investigational therapy DNL593, aimed at treating frontotemporal dementia-granulin (FTD-GRN), back to Denali. This decision, disclosed in a recent SEC filing, comes amid Takeda's extensive restructuring efforts that include significant layoffs, with the company aiming to save approximately $1.26 billion by 2028. The partnership initially formed in 2018 involved co-developing multiple drugs for neurodegenerative diseases, but setbacks, including unfavorable FDA feedback on clinical plans, led to the dissolution of these assets.

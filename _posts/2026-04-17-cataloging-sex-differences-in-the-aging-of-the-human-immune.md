@@ -10,6 +10,7 @@ source_url: "https://www.fightaging.org/archives/2026/04/cataloging-sex-differen
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers have conducted a comprehensive analysis of **sex differences in the aging of the human immune system**, revealing distinct immunological aging patterns between men and women. Utilizing **single-cell RNA sequencing**, the study examined blood samples from nearly 1,000 individuals across the adult lifespan, assessing the activity of **20,000 genes** in over one million blood cells. This granular approach has elucidated the specific cellular and genetic dynamics that underlie the differing trajectories of immune aging.

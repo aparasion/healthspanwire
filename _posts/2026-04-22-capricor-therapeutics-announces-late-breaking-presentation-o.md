@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3279030/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Capricor Therapeutics has unveiled promising data from its Phase 3 HOPE-3 clinical trial of **Deramiocel** for the treatment of **Duchenne muscular dystrophy (DMD)**, presented by Dr. Aravindhan Veerapandiyan at the AAN 2026 Annual Meeting. This trial is notable as it demonstrates a **statistically and clinically meaningful improvement** in upper limb function, specifically measured by the **Performance of the Upper Limb (PUL v2.0)**. Additionally, the **Duchenne Video Assessment (DVA)** revealed significant slowing of disease progression in critical self-feeding tasks, underscoring the potential of Deramiocel to enhance patient independence.

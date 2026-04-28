@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/remaining-challenges-in
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Recent advancements in partial reprogramming therapies, utilizing the Yamanaka factors (OCT4, SOX2, KLF4, and MYC), have shown promise for rejuvenating cells by shifting their epigenetic states toward a more youthful configuration. However, this approach carries significant risks, particularly the potential for dedifferentiation into induced pluripotent stem cells, which can lead to cancer and tissue dysfunction. Currently, funding for these therapies is concentrated among a few organizations, with Altos Labs at the forefront. Life Biosciences has initiated the first clinical trial focused on the eye, where exposure to reprogramming factors can be controlled more effectively.

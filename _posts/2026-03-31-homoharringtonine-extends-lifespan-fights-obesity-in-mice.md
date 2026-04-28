@@ -10,6 +10,8 @@ source_url: "https://bioengineer.org"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Researchers have released a groundbreaking cellular map of breast tissue, revealing critical insights into how menopause alters its composition and structure, ultimately influencing cancer risk. This comprehensive atlas, created from over three million data points, provides an unprecedented look at the cellular landscape of breast tissue throughout different life stages, particularly during and after menopause.

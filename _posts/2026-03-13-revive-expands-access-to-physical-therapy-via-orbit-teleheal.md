@@ -10,6 +10,7 @@ source_url: "https://longevity.technology/news/revive-expands-access-to-physical
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 ReviveHealth, Inc. has partnered with Orbit Telehealth to enhance access to on-the-go physical therapy, allowing members to initiate virtual sessions directly through the Revive platform. This integration eliminates the need for separate logins, streamlining the user experience with a unified interface and secure data exchange, which supports future utilization reporting.

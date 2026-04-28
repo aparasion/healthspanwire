@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/towards-more-informativ
 signal_ids: [epigenetic-clock-adoption]
 signal_stance: mixed
 signal_confidence: medium
+topic: "biomarkers"
+impact: "noteworthy"
 ---
 
 A recent study has introduced a novel deep neural network-based DNA methylation (DNAm) clock, offering a significant advancement in the accuracy and interpretability of biological age assessments. Developed using a dataset of 29,167 samples, this clock achieved a remarkable accuracy of 1.89 years, outperforming existing models in a validation cohort. By employing Shapley Additive Explanations (SHAP), the researchers identified structured, phase-like dynamics in age-influential CpGs, revealing distinct aging patterns that vary by sex.

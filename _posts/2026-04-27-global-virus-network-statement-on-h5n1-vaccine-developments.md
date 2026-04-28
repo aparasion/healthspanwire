@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281918/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 **Moderna has initiated a Phase 3 clinical trial for its mRNA-based H5N1 vaccine candidate (mRNA-1018), a significant advancement in addressing the ongoing threat posed by avian influenza. This trial, supported by the UK’s National Institute for Health and Care Research and the Coalition for Epidemic Preparedness Innovations (CEPI), is primarily based in the UK with additional sites in the US. The Global Virus Network (GVN) has expressed strong support for this initiative, highlighting the urgency of enhancing global preparedness as H5N1 continues to expand its host range and geographic distribution.**

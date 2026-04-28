@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/parallel-healths-skin-microbiome-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Parallel Health has launched a groundbreaking technology called Metabolic Microbiome Profiling, which shifts the focus from merely identifying skin microbes to understanding their active contributions to skin health and aging. This San Francisco-based precision skin health company aims to quantify the bioactive compounds produced by the skin microbiome—such as vitamins, antioxidants, and fatty acids—offering insights into skin function and resilience. Dr. Nathan Brown, co-founder and Chief Science Officer, emphasizes that this approach allows for precise interventions, moving beyond generic skincare solutions to targeted therapies based on individual microbiome profiles.

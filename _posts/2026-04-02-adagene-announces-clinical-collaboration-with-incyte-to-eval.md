@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267231/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Adagene Inc. has announced a clinical collaboration with Incyte to initiate a Phase 1 study in 2026, evaluating the combination of muzastotug (ADG126) and INCA33890 in patients with microsatellite stable colorectal cancer (MSS CRC), both with and without liver metastases. This collaboration aims to explore the potential of muzastotug, a masked anti-CTLA-4 SAFEbody®, as a backbone for next-generation immuno-oncology therapies, particularly in a patient population that has shown resistance to current treatments.

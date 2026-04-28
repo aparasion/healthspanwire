@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag081/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent multicenter cohort study involving 2,556 hospitalized adults aged 65 and older across five countries (Brazil, Angola, Chile, Colombia, and Portugal) has revealed critical insights into the relationship between **delirium** and **90-day mortality**. The study, conducted from June 2022 to December 2023, utilized the **Confusion Assessment Method** for delirium assessment and the **Clinical Dementia Rating (CDR)** scale to evaluate cognitive status. Notably, delirium was identified in **37%** of patients, with prevalence increasing significantly alongside cognitive decline (from **16%** in CDR 0 to **77%** in CDR 2-3).

@@ -10,6 +10,8 @@ source_url: "https://finance.yahoo.com"
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Meta and YouTube have been found liable for damages in a groundbreaking social media addiction lawsuit, a ruling that could reshape the landscape of social media regulation. This case highlights the growing recognition of the potential negative impacts of social media on mental health, particularly concerning addiction and its implications for overall well-being.

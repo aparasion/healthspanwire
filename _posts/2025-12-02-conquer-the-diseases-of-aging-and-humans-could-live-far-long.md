@@ -10,6 +10,8 @@ source_url: "https://www.eurekalert.org"
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study from Stanford University sheds light on the intricate architecture of aging by analyzing a lifetime of motion. This research provides valuable insights into how physical activity and mobility patterns change over time, potentially influencing healthspan and longevity outcomes.

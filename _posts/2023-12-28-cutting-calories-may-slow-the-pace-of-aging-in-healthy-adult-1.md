@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZkRNc0IyNUJOMG
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent study from the National Institute on Aging has found that caloric restriction can slow the aging process in healthy adults. The research highlights that reducing caloric intake without malnutrition may lead to significant biological changes associated with aging, potentially extending healthspan. 

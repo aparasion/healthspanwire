@@ -10,6 +10,8 @@ source_url: "https://www.fiercebiotech.com/biotech/merck-enlists-antibody-hunter
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Merck & Co. has announced a significant antibody discovery agreement with Infinimmune, potentially valued at up to $838 million. This collaboration will leverage Infinimmune’s unique platform, which utilizes a large dataset derived from human memory B cells to identify antibodies targeting undisclosed diseases. The deal includes an undisclosed upfront payment and milestone payouts, allowing Merck exclusive rights to further develop and commercialize any promising candidates identified by Infinimmune.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275457/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Progyny, Inc. has launched **Progyny Select**, a groundbreaking fully insured supplemental fertility and family building plan tailored for small employers in the U.S. This initiative aims to address the rising infertility rates and the increasing demand for fertility coverage, enabling approximately **50 million employees** at small firms to access comprehensive fertility solutions through a fixed premium model. Progyny's CEO, Pete Anevski, emphasizes that this offering democratizes family building, making it a standard benefit rather than a privilege.

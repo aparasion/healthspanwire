@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/04/the-interventions-testi
 signal_ids: []
 signal_stance: contradicts
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 The National Institute on Aging's **Interventions Testing Program (ITP)** has recently assessed eleven compounds for their potential to extend lifespan in genetically heterogeneous UM-HET3 mice, concluding that none of these interventions yielded significant lifespan benefits. This rigorous evaluation included both novel agents and previously tested compounds, such as **α-ketoglutarate**, which had previously shown promise in earlier studies but failed to demonstrate efficacy when administered at different ages or doses. The ITP's findings serve as a critical reminder that prior evidence from smaller studies does not guarantee success in larger, more controlled settings.

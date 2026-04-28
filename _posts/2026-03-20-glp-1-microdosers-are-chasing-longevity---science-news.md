@@ -10,6 +10,8 @@ source_url: "https://www.sciencenews.org"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Researchers have uncovered how limbless tree snakes manage to elevate most of their bodies without losing balance, a feat attributed to their ability to concentrate bending forces at their base. This biomechanical adaptation allows these snakes to navigate their arboreal environments effectively, showcasing a remarkable evolutionary strategy for overcoming gravitational challenges.

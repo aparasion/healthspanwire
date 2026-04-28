@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/ageing/article/doi/10.1093/ageing/afag091/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 A recent analysis of data from the **Moli-sani Study** involving **20,975 adults** has elucidated the significant relationship between **frailty** and various adverse health outcomes, including increased risks of death, hospitalization, and chronic diseases. Using a multidimensional **29-item frailty index (FI)**, researchers followed participants for a median of **15 years** to assess the impact of frailty on health trajectories. The findings reveal that for each **1-SD increase** in FI, the risk of developing **type-2 diabetes** and **coronary heart disease** escalated by **82%** and **33%**, respectively, alongside notable associations with **Parkinson’s disease** and **non-Alzheimer dementia**.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/27/3281543/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Pacira BioSciences, Inc. has unveiled significant findings from a real-world study assessing the impact of **EXPAREL® (bupivacaine liposome injectable suspension)** on opioid consumption and healthcare resource utilization following outpatient total hip arthroplasty in Medicare patients. Presented at the Annual Regional Anesthesiology and Acute Pain Medicine Meeting, the retrospective analysis utilized data from the Centers for Medicare & Medicaid Services, comparing EXPAREL's effects to standard non-liposome bupivacaine treatments over a 12-month period.

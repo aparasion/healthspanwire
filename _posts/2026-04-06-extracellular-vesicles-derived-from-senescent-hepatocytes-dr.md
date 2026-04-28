@@ -10,6 +10,8 @@ source_url: "https://www.nature.com/articles/s43587-026-01102-5"
 signal_ids: [senolytic-clinical-validation]
 signal_stance: supports
 signal_confidence: medium
+topic: "therapeutics"
+impact: "landmark"
 ---
 
 **Extracellular vesicles (EVs) derived from senescent hepatocytes have been identified as key facilitators of metastasis in aging, according to a recent study conducted in murine models. Researchers demonstrated that aged liver tissue exhibits heightened expression of the P2X purinoceptor 7 (P2RX7), which correlates with increased EV biogenesis. Notably, these EVs encapsulate specific microRNAs (miR-25, miR-92a, miR-30c, and miR-30d) that circulate to primary tumors, enhancing their invasiveness and metastatic potential. Clinical samples from older cancer patients corroborate these findings, revealing reduced expression of target genes such as PTEN and LATS2, alongside increased epithelial-mesenchymal transition in metastatic tumors.**

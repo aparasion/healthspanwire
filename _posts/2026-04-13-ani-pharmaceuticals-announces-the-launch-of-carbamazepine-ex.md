@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/13/3272337/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 ANI Pharmaceuticals, Inc. has launched **Carbamazepine Extended-Release Capsules** in 100 mg, 200 mg, and 300 mg dosages, marking a significant addition to its generics portfolio. This product is a generic version of the reference listed drug, **Carbatrol®**, and is aimed at enhancing patient access to essential medications. Nikhil Lalwani, President and CEO of ANI, emphasized the company’s commitment to quality and compliance in this strategic product launch, which is expected to address the annual U.S. market sales of approximately **$65 million** for Carbamazepine Extended-Release Capsules.

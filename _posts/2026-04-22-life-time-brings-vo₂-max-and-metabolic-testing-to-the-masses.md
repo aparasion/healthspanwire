@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/life-time-brings-vo2-max-and-meta
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Life Time's recent nationwide rollout of **SpiroFit** metabolic testing technology marks a significant advancement in making lab-grade **VO₂ max** and metabolic insights accessible to the general public. Traditionally confined to elite athletic settings, this technology enables everyday fitness enthusiasts to gain valuable insights into their metabolic processes during exercise. By measuring how the body utilizes oxygen and fuel, SpiroFit allows users to identify key metabolic transitions, such as the shift from fat to carbohydrate burning, thus providing actionable data to optimize training.

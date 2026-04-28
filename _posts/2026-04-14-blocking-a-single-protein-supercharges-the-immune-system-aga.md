@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260414090114.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "significant"
 ---
 
 Researchers from The Hebrew University of Jerusalem have identified a novel approach to enhance T cell functionality against cancer by inhibiting the protein **Ant2**. This intervention prompts a significant metabolic reprogramming within T cells, fundamentally altering their energy generation processes. As a result, these immune cells exhibit enhanced activity, resilience, and efficiency in targeting and eliminating cancer cells.

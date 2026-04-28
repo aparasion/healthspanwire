@@ -10,6 +10,8 @@ source_url: "https://lifespan.io/news/bioage-labs-provides-business-updates/?utm
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 BioAge Labs has reported promising interim Phase 1 data for its oral NLRP3 inhibitor, BGE-102, which demonstrates significant reductions in inflammatory biomarkers associated with cardiovascular risk. CEO Kristen Fortney highlighted that the data indicate BGE-102 could provide injectable-like anti-inflammatory effects in a convenient oral format. The company plans to initiate a Phase 2a proof-of-concept study in cardiovascular risk in the first half of 2026, with full Phase 1 data expected soon.

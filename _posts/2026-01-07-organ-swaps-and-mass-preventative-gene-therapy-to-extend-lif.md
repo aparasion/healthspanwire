@@ -10,6 +10,8 @@ source_url: "https://www.insideprecisionmedicine.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Gene therapy is revolutionizing biologic medicines by transforming them from repeated injections into self-sustaining treatments, significantly impacting the longevity and healthspan fields. This advancement is complemented by comprehensive genomic profiling (CGP), which not only enhances patient-drug matching but also aids in the early detection of minimal residual disease (MRD), allowing for timely interventions when therapies are most effective.

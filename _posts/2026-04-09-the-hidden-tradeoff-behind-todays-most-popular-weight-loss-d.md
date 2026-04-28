@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260408225948.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 Recent research from Vanderbilt University Medical Center reveals that both **weight loss drugs** (specifically GLP-1 receptor agonists like semaglutide and tirzepatide) and **bariatric surgery** yield significant improvements in body composition among individuals with obesity. The study, led by Danxia Yu, PhD, and Jason Samuels, MD, analyzed data from over 3,000 patients and found that while fat mass (FM) decreased substantially, there was also a modest reduction in fat-free mass (FFM), including lean muscle. This finding underscores the importance of not just focusing on weight loss but also on maintaining muscle mass for long-term health outcomes.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/07/3268946/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 OKYO Pharma Limited has announced a pivotal Scientific Advisory Board (SAB) meeting during the 2026 American Society of Cataract and Refractive Surgery (ASCRS) Annual Meeting, where leading ophthalmology experts will evaluate clinical data for **urcosimod**, its investigational therapy for neuropathic corneal pain (NCP). This meeting, alongside a presentation by Dr. Pedram Hamrah on the **Phase 2 study** results, signifies a critical juncture for OKYO as it refines its clinical strategy for urcosimod, which has already shown promising efficacy and safety signals.

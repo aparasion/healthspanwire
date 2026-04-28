@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/why-the-wellness-industry-needs-a
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Alina M. Hernandez and Nigel Franklyn argue that the future of longevity hinges on the systems that shape daily behaviors rather than solely on clinical interventions or wellness services. They emphasize that longevity is increasingly influenced by lifestyle factors established long before medical diagnosis, highlighting the need for environments that promote sustainable health behaviors. Current wellness models, which often focus on episodic experiences, are ill-equipped to support the continuous lifestyle changes necessary for long-term healthspan improvement.

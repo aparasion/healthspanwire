@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/02/3267226/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Skye Bioscience, Inc. has initiated the first patient treatment in Part C of its CBeyond Phase 2a trial, focusing on the safety and pharmacokinetics of nimacimab, a novel monoclonal antibody targeting obesity and metabolic disorders. This expansion study will evaluate higher intravenous doses (400 mg and 600 mg) over 16 weeks, aiming to enhance peripheral tissue exposure compared to the previously tested 200 mg subcutaneous dose. The study design includes a randomized, placebo-controlled approach to gather preliminary safety and pharmacokinetic data, with results expected in late 2026.

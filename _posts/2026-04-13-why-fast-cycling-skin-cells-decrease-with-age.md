@@ -10,6 +10,7 @@ source_url: "https://lifespan.io/news/why-fast-cycling-skin-cells-decrease-with-
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers have identified **fibulin-5** as a critical protein in maintaining populations of **fast-cycling skin stem cells**, which decline with age. In a study published in *Aging Cell*, the absence of fibulin-5 in genetically modified mice resulted in accelerated skin aging, characterized by thinner skin, reduced hair density, and a significant loss of fast-cycling stem cells. This study underscores the role of the **extracellular matrix (ECM)** in skin cell behavior and highlights the connection between fibulin-5 and the **YAP signaling pathway**.

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/longevity-education-finds-its-cli
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 The **Education and Training Marketplace** recently launched by **Longevity Clinics World** marks a pivotal development in the field of longevity medicine, bridging the gap between rigorous academic training and practical clinical application. By collaborating with the **NUS Academy for Healthy Longevity** and **Longevity Academy**, this initiative aims to establish structured educational pathways that address the historical disconnect between scientific advancements and their implementation in clinical practice.

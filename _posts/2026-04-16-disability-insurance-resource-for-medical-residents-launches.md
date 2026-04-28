@@ -10,6 +10,7 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/16/3275532/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "general"
 ---
 
 The **2026 Main Residency Match** has achieved a historic milestone, with **44,344 training positions** offered across over **6,800 program tracks**, marking a **2.6% increase** from the previous year. This year saw more than **38,000 physicians** successfully match to PGY-1 positions, including a notable rise in programs that provide **hospital-sponsored disability insurance** without medical underwriting. In response, Set for Life Insurance has launched a resource specifically aimed at guiding medical residents through the complexities of **Guaranteed Standard Issue (GSI) disability insurance**, which is crucial for securing coverage during their training.

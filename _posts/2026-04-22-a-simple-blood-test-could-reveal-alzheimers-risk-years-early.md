@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260422044620.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 A recent study from NYU Langone Health has identified a **routine blood marker**, specifically the **neutrophil to lymphocyte ratio (NLR)**, as a potential early indicator of Alzheimer's disease risk. By analyzing data from nearly **400,000 patients**, researchers found that elevated neutrophil levels—indicative of inflammation—correlate with an increased likelihood of developing dementia, even in the absence of cognitive symptoms. This study represents the first large-scale investigation linking neutrophil metrics to dementia risk, suggesting that routine blood tests could be repurposed to flag individuals at risk for Alzheimer's.

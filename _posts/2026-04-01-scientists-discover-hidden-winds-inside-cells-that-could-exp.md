@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260331001102.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "significant"
 ---
 
 Researchers at Oregon Health & Science University have uncovered a groundbreaking mechanism within cells that resembles an internal "wind system," facilitating the rapid movement of proteins to the cell's leading edge. This discovery, published in *Nature Communications*, overturns decades of established understanding regarding intracellular transport, which has long been characterized by random diffusion. Instead, the study reveals that cells actively generate directed fluid flows that efficiently push proteins, such as actin, toward the front, enhancing cellular movement and repair processes.

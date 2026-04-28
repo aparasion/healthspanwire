@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/addf-launches-new-phase-of-150-mi
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "landmark"
 ---
 
 The Alzheimer's Drug Discovery Foundation (ADDF) has launched the third phase of its Diagnostics Accelerator (DxA) in New York, fueled by an additional $50 million investment, bringing the initiative's total funding to $150 million. Co-founded by Leonard A. Lauder and Bill Gates, DxA 3.0 will prioritize advancements in blood tests for tau and other co-pathologies, alongside AI-driven biomarkers and integrated multi-marker panels aimed at enhancing drug development and prevention strategies.

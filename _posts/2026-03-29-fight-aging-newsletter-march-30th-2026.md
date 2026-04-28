@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/fight-aging-newsletter-
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Recent discussions in the longevity science community emphasize a paradigm shift towards recognizing the importance of lifespan extension alongside healthspan improvement. Mikhail Blagosklonny's assertion that the primary goal of geroscience should be life extension—rather than merely enhancing vitality—has gained traction. This perspective challenges the prevailing notion that longevity and health are mutually exclusive, advocating instead for a unified approach that aims for "healthy life extension." The World Health Organization's data revealing a significant gap between life expectancy and healthy life expectancy underscores the urgency of this mission.

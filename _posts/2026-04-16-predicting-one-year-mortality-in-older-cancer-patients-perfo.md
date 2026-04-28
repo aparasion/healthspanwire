@@ -10,6 +10,7 @@ source_url: "https://academic.oup.com/biomedgerontology/advance-article/doi/10.1
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+impact: "significant"
 ---
 
 A multicenter cohort study, known as the **PROFIT Study**, has evaluated the predictive performance of various frailty assessment tools in forecasting one-year mortality among oncogeriatric patients aged 65 and older. This study involved 229 patients with a mean age of **75.1 years**, predominantly male (68.6%), and a high incidence of advanced cancer (85.2% at stage IV). The frailty of these patients was assessed using the **Geriatric 8 questionnaire (G8)**, **Short Physical Performance Battery (SPPB)**, and the **Frailty Index Indice Frágil—Valoración Integral Geriátrica (IF-VIG)**, with mortality tracked over one year.

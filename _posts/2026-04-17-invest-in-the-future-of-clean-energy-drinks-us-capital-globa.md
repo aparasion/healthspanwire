@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276045/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 US Capital Global Securities LLC has announced a $10 million preferred equity offering for G.O.A.T. Fuel, a company co-founded by NFL legend Jerry Rice. G.O.A.T. Fuel specializes in the healthy energy and functional beverage market, providing clean, all-natural performance drinks that cater to health-conscious consumers. The product lineup features natural caffeine from green tea and functional ingredients such as **cordyceps**, **lion’s mane**, and **beetroot juice powder**, aimed at enhancing endurance, focus, and overall performance.

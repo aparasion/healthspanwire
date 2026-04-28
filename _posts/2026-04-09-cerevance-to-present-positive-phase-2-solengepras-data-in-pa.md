@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270868/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Cerevance has announced promising results from two Phase 2 trials evaluating **Solengepras**, a novel, once-daily oral **GPR6 inhibitor** aimed at treating Parkinson’s disease. The trials demonstrated significant reductions in **daily OFF time** and improvements in **sleep-related symptoms**, highlighting a non-dopaminergic approach that could address critical unmet needs in this patient population. Presentations at the upcoming American Academy of Neurology (AAN) 2026 Annual Meeting will detail these findings, with key contributions from experts such as Dr. Robert Hauser and Dr. Harini Sarva.

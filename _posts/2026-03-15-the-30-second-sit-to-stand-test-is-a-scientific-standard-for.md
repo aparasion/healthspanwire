@@ -10,6 +10,8 @@ source_url: "https://www.fitandwell.com"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 A recent article highlights the insights of a longevity-focused physical therapist who outlines five essential lifestyle changes to enhance healthspan and overall well-being. These recommendations aim to empower individuals to thrive rather than merely survive, emphasizing the importance of proactive health management, particularly as we age.

@@ -10,6 +10,7 @@ source_url: "https://lifespan.io/longevity-day-at-nfc-summit-lisbon-announces-sp
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "noteworthy"
 ---
 
 **Longevity Day at NFC Summit Lisbon** is set to debut on **June 4, 2026**, at the Unicorn Factory, bringing together a diverse array of professionals from the longevity ecosystem, including scientists, clinicians, founders, and investors. Curated by Michelangelo Gallia and Nina Patrick, co-founders of Longevity Wednesdays, this event is integrated into the larger NFC Summit, one of Europe’s most significant tech and entrepreneurship conferences, which attracts around **4,000 attendees** from **59 countries**. 

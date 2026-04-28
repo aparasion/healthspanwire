@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/09/3270871/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Amneal Pharmaceuticals has launched **bimatoprost ophthalmic solution 0.01%**, a generic equivalent of Allergan's LUMIGAN®, aimed at managing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. This introduction is particularly timely, as the prevalence of glaucoma is on the rise, especially among the aging population, necessitating expanded access to effective treatments. The product is available in multiple volumes (2.5 mL, 5 mL, and 7.5 mL) and represents a strategic addition to Amneal's Affordable Medicines portfolio, according to Dr. Srinivas Kone, the company’s Chief Scientific Officer.

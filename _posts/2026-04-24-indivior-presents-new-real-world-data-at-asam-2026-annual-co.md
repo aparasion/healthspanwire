@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/24/3280930/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Indivior Pharmaceuticals, in collaboration with Virginia Tech, is advancing the understanding of **remission** as a critical treatment outcome for individuals with **opioid use disorder (OUD)**. Their recent presentations at the American Society of Addiction Medicine (ASAM) Annual Conference highlight the importance of capturing broader recovery indicators, such as **quality of life** and **functional outcomes**, rather than focusing solely on abstinence from opioids. This shift in perspective could enhance how treatment success is measured in clinical settings.

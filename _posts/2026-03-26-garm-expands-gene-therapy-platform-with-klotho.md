@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/garm-expands-gene-therapy-platfor
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 GARM Clinic, based in Roatán, has added Klotho to its portfolio of non-permanent gene therapies, positioning itself at the forefront of high-end healthspan medicine. This development highlights a growing trend where specialized clinics are offering advanced therapies that appeal to early adopters, including biohackers and health enthusiasts, seeking tangible improvements in performance and longevity.

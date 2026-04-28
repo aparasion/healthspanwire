@@ -10,6 +10,7 @@ source_url: "https://www.sciencedaily.com/releases/2026/03/260328043549.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+impact: "general"
 ---
 
 Researchers at Chiba University have developed a new carbon material, termed 'viciazites,' that significantly enhances the efficiency and cost-effectiveness of carbon capture. By strategically arranging nitrogen atoms in adjacent configurations, these materials can capture CO2 more effectively and release it at temperatures below 60 °C, allowing for the use of waste heat rather than expensive energy sources.

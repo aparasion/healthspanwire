@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/06/3268622/0/en/
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 Roxanna Gapstur, Ph.D., R.N., has announced her retirement as president and CEO of WellSpan Health, a position she has held since January 2019. Under her leadership, WellSpan has experienced significant growth, transforming from a $2.5 billion to a $4.7 billion health system, expanding from eight to 12 hospitals, and increasing its patient base from approximately 630,000 to over one million. Gapstur will remain in her role until a successor is appointed, ensuring a smooth transition for the organization and its 23,000 employees across Pennsylvania and Northern Maryland.

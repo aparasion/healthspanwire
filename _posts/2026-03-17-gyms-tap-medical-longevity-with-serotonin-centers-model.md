@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/gyms-tap-medical-longevity-with-s
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 Serotonin Centers has launched an innovative partner program that integrates medically supervised longevity services directly into gyms across the United States, transforming underutilized spaces into longevity suites. This initiative reflects a growing recognition in the fitness industry that exercise alone may not suffice for optimal health, as consumers increasingly seek insights into their metabolic and hormonal health alongside traditional workouts.

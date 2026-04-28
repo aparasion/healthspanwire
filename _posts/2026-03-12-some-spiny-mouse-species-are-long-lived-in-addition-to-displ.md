@@ -10,6 +10,8 @@ source_url: "https://www.fightaging.org/archives/2026/03/some-spiny-mouse-specie
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 A recent study highlights the remarkable longevity and regenerative capabilities of the golden spiny mouse (Acomys russatus), revealing that these rodents exhibit reduced aging-related decline compared to their closely related species. Researchers found that A. russatus maintains high tissue repair capacity, lower levels of chronic inflammation, and a youthful transcriptome even into advanced age, suggesting a unique resilience to the aging process.

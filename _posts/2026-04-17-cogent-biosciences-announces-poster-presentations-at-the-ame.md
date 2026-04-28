@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/17/3276106/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Cogent Biosciences has presented promising preclinical data on two of its pipeline candidates, **CGT1263**, a pan-KRAS(ON) inhibitor, and **CGT4255**, a selective ErbB2 inhibitor, at the AACR Annual Meeting 2026. CGT1263 demonstrates a **>500x selectivity** for mutant KRAS over HRAS and NRAS, showing best-in-class cellular potency and a potential reduction in skin toxicity compared to multi-RAS inhibitors. This selectivity may allow for higher dosing regimens, enhancing therapeutic outcomes while minimizing adverse effects associated with current treatments.

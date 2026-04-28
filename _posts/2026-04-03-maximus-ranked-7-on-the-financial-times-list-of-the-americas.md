@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/03/3268107/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 Maximus, a performance medicine telehealth company, has achieved a significant milestone by being ranked #7 on the Financial Times list of The Americas’ Fastest Growing Companies for 2026. This recognition highlights Maximus's impressive compound annual revenue growth from 2021 to 2024, placing it among the top telehealth providers in the Americas. Founded in 2020, Maximus has rapidly expanded its offerings from testosterone optimization to include GLP-1 weight loss treatments, hair regrowth solutions, and a novel Oxytocin Calming Cream, along with a new line of peptide therapies including growth hormone releasing hormones (GHRHs).

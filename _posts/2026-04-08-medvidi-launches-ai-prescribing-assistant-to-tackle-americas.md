@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/08/3269974/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "general"
 ---
 
 MEDvidi has launched its **AI Prescribing Assistant**, designed to streamline medication renewals for patients with ADHD, anxiety, and depression. This innovative tool, built on data from over **130,000 psychiatric visits**, significantly reduces the administrative burden on clinicians, cutting down more than **30 hours of paperwork per provider each month**. While the AI automates routine tasks, it ensures that all prescribing decisions remain under the purview of licensed physicians, maintaining clinical oversight.

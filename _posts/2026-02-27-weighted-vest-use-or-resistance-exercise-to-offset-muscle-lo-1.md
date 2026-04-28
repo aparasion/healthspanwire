@@ -10,6 +10,8 @@ source_url: "https://academic.oup.com/biomedgerontology/article/doi/10.1093/gero
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "policy"
+impact: "significant"
 ---
 
 The INVEST in Bone Health Trial has revealed critical insights into the impact of weight loss interventions on musculoskeletal health, particularly in older adults. In this study, 150 participants aged 66.4 years on average were randomized into three groups: weight loss (WL), weight loss plus resistance training (WL + RT), and weight loss plus weighted vest use (WL + VEST). Over 12 months, researchers assessed changes in muscle area and density using computed tomography (CT) and measured lean and fat mass through dual-energy x-ray absorptiometry (DXA).

@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/omada-health-study-boosts-quality
 signal_ids: []
 signal_stance: mentions
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent **12-week study** by Omada Health highlights the importance of **digital support** in conjunction with GLP-1 medications for weight loss, revealing that patients can achieve better outcomes in fat loss, muscle preservation, and mental health. Participants who utilized Omada’s GLP-1 Care Track, which integrates health coaching and strength-focused exercise, lost an average of **1.8 times more total weight** than those who did not receive this support. More critically, they achieved a **twofold reduction in body fat percentage** and nearly a **threefold increase in muscle mass percentage**.

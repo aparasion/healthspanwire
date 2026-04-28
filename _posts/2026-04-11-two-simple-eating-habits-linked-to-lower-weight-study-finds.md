@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260411090018.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "significant"
 ---
 
 A recent study from the **Barcelona Institute for Global Health (ISGlobal)** highlights the impact of meal timing on body mass index (BMI), revealing that extending overnight fasting and consuming an early breakfast are associated with lower BMI over time. The research, involving over 7,000 adults aged 40-65 from the GCAT | Genomes for Life cohort, indicates that these eating habits may align better with the body’s **circadian rhythms**, enhancing calorie burning and appetite regulation. Notably, skipping breakfast as part of intermittent fasting did not yield the same benefits and was linked to poorer lifestyle choices.

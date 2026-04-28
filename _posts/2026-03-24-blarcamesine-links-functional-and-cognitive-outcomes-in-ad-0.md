@@ -10,6 +10,8 @@ source_url: "https://longevity.technology/news/blarcamesine-links-functional-and
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "significant"
 ---
 
 Anavex Life Sciences unveiled promising findings from its ANAVEX®2-73-AD-004 Phase IIb/III program at the AD/PD 2026 Conference, highlighting a significant link between MRI-detected brain volume preservation and clinical outcomes in Alzheimer’s disease. The dedicated MRI biomarker analysis revealed that slowing of brain atrophy correlated with improvements in cognitive assessments, particularly in the genetically defined ABCLEAR3 population, where the correlation strength for the ADAS-Cog13 measure improved by 78 percent.

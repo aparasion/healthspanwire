@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/22/3278843/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 CervoMed Inc. presented groundbreaking findings at the 2026 AAN Annual Meeting, demonstrating that **neflamapimod** may reverse atrophy in the **basal forebrain** of patients with **dementia with Lewy bodies (DLB)**. This placebo-controlled MRI analysis from the RewinD-LB Phase 2b trial revealed significant increases in basal forebrain volume and functional connectivity, suggesting potential restoration of synaptic function and cellular integrity in this critical brain region.

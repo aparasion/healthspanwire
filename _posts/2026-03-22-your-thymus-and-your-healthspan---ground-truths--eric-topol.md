@@ -10,6 +10,8 @@ source_url: "https://news.google.com/rss/articles/CBMickFVX3lxTFBwbTNDd2lWSVJFQ2
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 In a recent article, Eric Topol highlights the critical role of the thymus gland in healthspan and longevity. As a central player in the immune system, the thymus is responsible for the maturation of T-cells, which are essential for adaptive immunity. Topol discusses emerging research that suggests the thymus undergoes involution with age, leading to a decline in immune function and increased susceptibility to age-related diseases.

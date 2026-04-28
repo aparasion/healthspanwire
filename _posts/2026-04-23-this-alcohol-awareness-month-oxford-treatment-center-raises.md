@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/23/3280339/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "nutrition"
+impact: "general"
 ---
 
 The Oxford Treatment Center in Etta, Mississippi, reports a **35% increase** in alcohol-related admissions over the past year, highlighting a troubling trend in **alcohol use disorder (AUD)** among midlife and older adults. While younger generations are moving towards sobriety, older populations are experiencing escalating issues with alcohol, often stemming from long-held beliefs that moderate drinking is harmless. This demographic shift underscores the urgent need for targeted interventions and awareness, as chronic heavy drinking is linked to severe health risks, including various cancers, liver disease, and mental health disorders.

@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/21/3278510/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "biomarkers"
+impact: "general"
 ---
 
 **Telix Pharmaceuticals** has announced the upcoming presentation of safety and tolerability data from its **ProstACT Global Phase 3 study** at the 2026 ASCO Annual Meeting. This trial evaluates **TLX591-Tx**, a prostate-specific membrane antigen (PSMA) targeted lutetium radio antibody-drug conjugate (rADC), in combination with standard of care (SoC) versus SoC alone for patients with PSMA-positive metastatic castration-resistant prostate cancer (mCRPC). The study aims to reflect real-world clinical practices and facilitate broader geographic adoption of this innovative therapy.

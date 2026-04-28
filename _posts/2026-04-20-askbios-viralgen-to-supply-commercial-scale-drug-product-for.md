@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276951/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "technology"
+impact: "general"
 ---
 
 AskBio Inc. has announced the advancement of its investigational gene therapy, **ametefgene parvec (AB-1005)**, for Parkinson’s disease (PD) and multiple system atrophy-parkinsonian type (MSA-P) following the submission of an FDA Investigational New Drug Application (IND) amendment. This development allows the company to utilize its newly established, **high-efficiency manufacturing process** at its Viralgen facility, which is designed to produce a high-purity product necessary for the ongoing **REGENERATE-PD Phase II clinical trial**. The trial has already initiated participant enrollment across multiple countries, including Germany, Poland, and the United States.

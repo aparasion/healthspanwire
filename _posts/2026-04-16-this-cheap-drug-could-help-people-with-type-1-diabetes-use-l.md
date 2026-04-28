@@ -10,6 +10,8 @@ source_url: "https://www.sciencedaily.com/releases/2026/04/260415043628.htm"
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "significant"
 ---
 
 A recent clinical trial led by the **Garvan Institute of Medical Research** has revealed that **metformin**, a century-old drug primarily used for type 2 diabetes, can significantly reduce insulin requirements in individuals with type 1 diabetes. Contrary to initial hypotheses that metformin would enhance insulin sensitivity, the study demonstrated that participants taking the drug needed approximately **12% less insulin** to maintain stable blood sugar levels, without any observed improvement in insulin resistance.

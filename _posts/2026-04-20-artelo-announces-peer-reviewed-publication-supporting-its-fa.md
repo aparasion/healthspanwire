@@ -10,6 +10,8 @@ source_url: "https://www.globenewswire.com/news-release/2026/04/20/3276908/0/en/
 signal_ids: []
 signal_stance: mixed
 signal_confidence: low
+topic: "therapeutics"
+impact: "general"
 ---
 
 Artelo Biosciences has published a peer-reviewed article in the *European Journal of Pain* detailing the therapeutic potential of **ART26.12**, a selective inhibitor of **fatty acid-binding protein 5 (FABP5)**. This publication consolidates preclinical evidence demonstrating that FABP5 inhibition yields significant analgesic effects across various pain models, including visceral, inflammatory, neuropathic, and joint pain. Notably, ART26.12 has shown consistent efficacy in previous studies involving diabetic neuropathy, osteoarthritis, cancer-related pain, and chemotherapy-induced peripheral neuropathy, positioning it as a promising non-opioid treatment option.
