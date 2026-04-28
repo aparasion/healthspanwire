@@ -1862,6 +1862,10 @@ a.internal-link:hover {
     padding-bottom: var(--space-6);
   }
 
+  .hero-subtitle {
+    margin-bottom: 0;
+  }
+
   .hero h1 {
     font-size: 2rem;
   }
