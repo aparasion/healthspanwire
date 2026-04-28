@@ -431,32 +431,6 @@ hr {
   animation: fadeInUp 0.8s ease 0.15s both;
 }
 
-.hero-stats {
-  display: flex;
-  justify-content: center;
-  gap: var(--space-8);
-  animation: fadeInUp 0.8s ease 0.3s both;
-}
-
-.hero-stat {
-  text-align: center;
-}
-
-.hero-stat-number {
-  display: block;
-  font-size: 1.8rem;
-  font-weight: 800;
-  letter-spacing: -0.03em;
-  color: var(--text);
-}
-
-.hero-stat-label {
-  font-size: 0.8rem;
-  color: var(--muted);
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
 
 /* ── Animations ─────────────────────────────────────────── */
 @keyframes fadeInUp {
@@ -1537,6 +1511,21 @@ article.post h1 {
   line-height: 1.5;
 }
 
+.footer-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  margin-top: var(--space-3);
+  font-size: 0.72rem;
+  color: var(--muted);
+  opacity: 0.7;
+}
+
+.footer-stats span + span::before {
+  content: "·";
+  margin-right: var(--space-3);
+}
+
 .footer-social {
   margin-top: var(--space-6);
 }
@@ -1876,15 +1865,7 @@ a.internal-link:hover {
     font-size: 2rem;
   }
 
-  .hero-stats {
-    gap: var(--space-5);
-  }
-
-  .hero-stat-number {
-    font-size: 1.5rem;
-  }
-
-  .post-grid {
+.post-grid {
     grid-template-columns: 1fr;
   }
 

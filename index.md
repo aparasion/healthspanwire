@@ -11,20 +11,6 @@ nav_order: 1
   <div class="hero-content">
     <h1>What does science say about living longer?</h1>
     <p class="hero-subtitle">Honest, plain-language coverage of the research on aging, health, and the habits and treatments that might actually make a difference.</p>
-    <div class="hero-stats">
-      <div class="hero-stat">
-        <span class="hero-stat-number">{{ site.posts.size }}</span>
-        <span class="hero-stat-label">Articles</span>
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat-number">{{ site.data.signals.size }}</span>
-        <span class="hero-stat-label">Topics we track</span>
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat-number">5</span>
-        <span class="hero-stat-label">Areas we cover</span>
-      </div>
-    </div>
   </div>
 </section>
 
