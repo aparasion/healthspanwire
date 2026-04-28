@@ -659,6 +659,7 @@ CONSUMER_TITLE: <a plain-English headline, max 12 words, benefit-first or curios
 PLAIN_SUMMARY: <one sentence summary, max 40 words, plain English>
 EVIDENCE_STAGE: <one of: mouse study | small human trial | large human trial | clinical>
 HAS_TAKEAWAY: <true or false>
+TAKEAWAY: <if HAS_TAKEAWAY is true, write the full actionable paragraph here on a single line — grounded advice with caveats, no line breaks; if HAS_TAKEAWAY is false, write NONE>
 
 Tone & Style:
 - Plain English: Write at a 10th-grade reading level. Spell out any term a curious non-scientist might not know on first use.
@@ -683,6 +684,7 @@ Tone & Style:
                 plain_summary = ""
                 evidence_stage = ""
                 has_takeaway = False
+                takeaway_text = ""
                 gist_lines = []
                 for line in raw_output.splitlines():
                     if line.startswith("CONSUMER_TITLE:"):
@@ -693,6 +695,9 @@ Tone & Style:
                         evidence_stage = line[len("EVIDENCE_STAGE:"):].strip()
                     elif line.startswith("HAS_TAKEAWAY:"):
                         has_takeaway = line[len("HAS_TAKEAWAY:"):].strip().lower() == "true"
+                    elif line.startswith("TAKEAWAY:"):
+                        raw_takeaway = line[len("TAKEAWAY:"):].strip()
+                        takeaway_text = "" if raw_takeaway.upper() == "NONE" else raw_takeaway
                     else:
                         gist_lines.append(line)
                 gist = "\n".join(gist_lines).strip()
@@ -703,6 +708,7 @@ Tone & Style:
                 plain_summary = ""
                 evidence_stage = ""
                 has_takeaway = False
+                takeaway_text = ""
 
             if "published_parsed" in entry and entry.published_parsed:
                 pub_dt = datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
@@ -733,6 +739,7 @@ Tone & Style:
             safe_source_url = yaml_escape(url)
             safe_plain_summary = yaml_escape(plain_summary)
             safe_evidence_stage = yaml_escape(evidence_stage)
+            safe_takeaway = yaml_escape(takeaway_text)
             signal_ids, signal_stance, signal_confidence = infer_signal_tags(original_title, gist)
             signal_ids_yaml = ", ".join(signal_ids)
 
@@ -768,7 +775,7 @@ signal_stance: {signal_stance}
 signal_confidence: {signal_confidence}
 plain_summary: "{safe_plain_summary}"
 evidence_stage: "{safe_evidence_stage}"
-consumer_takeaway: {str(has_takeaway).lower()}{topic_line}
+takeaway_md: "{safe_takeaway}"{topic_line}
 impact: "{post_impact}"
 ---
 
