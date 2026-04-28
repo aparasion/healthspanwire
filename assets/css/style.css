@@ -1728,6 +1728,76 @@ article.post h1 {
   text-decoration: underline;
 }
 
+.signal-context__label {
+  font-weight: 600;
+  color: var(--muted);
+}
+
+/* ── Plain Summary Banner ────────────────────────────────── */
+.plain-summary-banner {
+  background: var(--bg-secondary);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius-sm);
+  padding: var(--space-3) var(--space-4);
+  margin-bottom: var(--space-5);
+}
+
+.plain-summary-banner__label {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--accent);
+  margin-bottom: var(--space-1);
+}
+
+.plain-summary-banner__text {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--text);
+  font-style: italic;
+}
+
+/* ── Evidence Stage Pill ─────────────────────────────────── */
+.evidence-stage {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 3px 9px;
+  border-radius: 100px;
+  margin-left: var(--space-2);
+  vertical-align: middle;
+}
+
+.evidence-stage--mouse-study    { background: #fef3c7; color: #92400e; }
+.evidence-stage--small-human-trial { background: #e0f2fe; color: #0369a1; }
+.evidence-stage--large-human-trial { background: #d1fae5; color: #065f46; }
+.evidence-stage--clinical       { background: #d1fae5; color: #065f46; }
+
+/* ── Consumer Takeaway Box ────────────────────────────────── */
+.consumer-takeaway {
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  padding: var(--space-5) var(--space-6);
+  margin: var(--space-6) 0;
+}
+
+.consumer-takeaway__heading {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 var(--space-3);
+  color: var(--text);
+}
+
+.consumer-takeaway__body p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
 /* ── Related Articles ───────────────────────────────────── */
 .related-articles {
   margin-top: var(--space-8);

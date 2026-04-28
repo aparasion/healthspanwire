@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Therapeutics
+title: Treatments & Drugs
 permalink: /articles/therapeutics/
-description: "Longevity therapeutics news — senolytics, rapamycin, NAD+ precursors, and anti-aging drug candidates in clinical trials for healthspan extension."
+description: "Longevity treatments and drugs — senolytics, rapamycin, NAD+ precursors, and anti-aging drug candidates in clinical trials for healthspan extension."
 share: true
 topic: true
 ---
 
-Coverage of longevity therapeutics — senolytics, rapamycin, NAD+ precursors, and emerging anti-aging drug candidates in clinical development.
+Drugs, compounds, and therapies being studied to extend healthy life — from anti-senescence treatments to rapamycin to supplements in clinical trials. We cover what each is, where it is in development, and what the evidence actually shows.

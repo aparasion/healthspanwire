@@ -1,32 +1,79 @@
 - term: NAD+
   definition: Nicotinamide adenine dinucleotide, a coenzyme critical for cellular energy metabolism that declines with age. NAD+ precursors like NMN and NR are studied as longevity interventions.
+  plain_definition: A molecule your cells use to produce energy. Levels drop as you age, which may affect how well your cells function. Researchers are studying whether supplements that boost NAD+ can slow some effects of aging.
+
 - term: mTOR
   definition: Mechanistic target of rapamycin, a key nutrient-sensing pathway that regulates cell growth and aging. Inhibiting mTOR (e.g., with rapamycin) has shown lifespan extension in multiple organisms.
+  plain_definition: A molecular switch inside your cells that responds to how much you eat. When it's active, cells grow; when it's dialled down — by fasting or certain drugs — cells switch to repair and maintenance mode, which appears to extend life in animals.
+
 - term: Senolytic
   definition: A class of drugs that selectively eliminate senescent (aged, dysfunctional) cells to reduce inflammation and improve tissue function.
+  plain_definition: A drug that targets and clears out 'zombie cells' — old cells that stopped dividing but didn't die. These cells build up as you age and cause inflammation. Senolytics are being tested in humans to see if clearing them improves health.
+
 - term: Epigenetic clock
   definition: A biomarker based on DNA methylation patterns that estimates biological age, often more predictive of health outcomes than chronological age.
+  plain_definition: A way of estimating your biological age using chemical marks on your DNA. Unlike your birth year, your biological age reflects how your body is actually aging — and can be years ahead of or behind your chronological age.
+
 - term: Healthspan
   definition: The period of life spent in good health, free from chronic diseases and disability associated with aging.
+  plain_definition: The number of years you live in good health — free from serious disease or disability. The goal of most longevity research is to extend healthspan, not just lifespan.
+
 - term: Rapamycin
   definition: An immunosuppressant drug that inhibits the mTOR pathway. Research shows rapamycin may extend lifespan and improve age-related health outcomes in multiple species.
+  plain_definition: A drug originally used to prevent organ rejection after transplants. It works by blocking a growth-signalling pathway in cells. In animals, it reliably extends lifespan, and human trials are testing whether low doses can slow aging-related decline.
+
 - term: Biological age
   definition: A measure of how well or poorly your body is functioning relative to your chronological age, assessed through biomarkers such as DNA methylation, telomere length, and blood panels.
+  plain_definition: A measure of how your body is actually aging, based on biological markers — not just how many years you've been alive. Your biological age can be higher or lower than your chronological age depending on your health and lifestyle.
+
 - term: Caloric restriction
   definition: A dietary regimen that reduces calorie intake without malnutrition. Caloric restriction is one of the most studied interventions shown to extend lifespan across species.
+  plain_definition: Eating fewer calories than usual — typically 20–40% less — without cutting essential nutrients. It's one of the most consistently proven ways to extend healthy lifespan in animals, and human studies are exploring its effects on aging biomarkers.
+
 - term: Telomere
   definition: Protective caps at the ends of chromosomes that shorten with each cell division. Telomere length is associated with aging and age-related diseases.
+  plain_definition: Protective caps at the tips of your chromosomes, like the plastic ends on a shoelace. They get a little shorter each time a cell divides. Shorter telomeres are linked to aging and higher disease risk, though they're one of many aging signals, not a single cause.
+
 - term: Senescence
   definition: A state in which cells permanently stop dividing but resist death, accumulating with age and secreting inflammatory factors that damage surrounding tissue.
+  plain_definition: What happens when a cell gets too old or damaged to keep working properly — it stops dividing but refuses to die. These 'zombie cells' build up over time and release inflammatory signals that damage nearby healthy tissue.
+
 - term: GrimAge
   definition: A second-generation epigenetic clock that predicts time to death and is considered one of the most accurate measures of biological aging.
+  plain_definition: A highly accurate biological age test based on DNA patterns. Unlike simpler aging clocks, GrimAge predicts not just biological age but how long a person is likely to live — making it one of the most closely watched tools in longevity research.
+
 - term: Inflammaging
   definition: Chronic, low-grade inflammation that increases with age and contributes to the development of age-related diseases including cardiovascular disease, diabetes, and neurodegeneration.
+  plain_definition: A slow, smouldering form of inflammation that builds up in the body as you get older, even when you're not sick. It quietly damages tissues over time and is linked to heart disease, diabetes, and cognitive decline — making it one of the central targets of healthy aging research.
+
 - term: Proteomics
   definition: The large-scale study of proteins in biological systems. In longevity research, proteomics identifies blood protein signatures that predict biological age and disease risk.
+  plain_definition: The science of studying thousands of proteins in your blood at once. In aging research, protein patterns in blood can reveal your biological age and predict disease risk years before symptoms appear.
+
 - term: Yamanaka factors
   definition: A set of four transcription factors (Oct4, Sox2, Klf4, c-Myc) that can reprogram adult cells to a pluripotent state. Partial reprogramming with Yamanaka factors is being explored to reverse cellular aging.
+  plain_definition: A set of four proteins that, when activated in cells, can reset them to a younger, more flexible state. Scientists are exploring whether partial reprogramming using these factors could reverse aging in tissues without turning cells cancerous — it's one of the most ambitious frontiers in longevity research.
+
 - term: NMN
   definition: Nicotinamide mononucleotide, a precursor to NAD+ that is widely studied as a supplement to boost cellular energy and combat age-related decline.
+  plain_definition: A supplement that your body converts into NAD+, a molecule that powers cellular energy. NMN levels naturally drop as you age, and researchers are studying whether supplementing with NMN can restore some of that decline.
+
 - term: CRISPR
   definition: A gene-editing technology that allows precise modifications to DNA. In longevity research, CRISPR is used to study and potentially modify genes associated with aging.
+  plain_definition: A gene-editing tool that works like molecular scissors, allowing scientists to cut and edit specific sections of DNA with high precision. In aging research, it's being used to study which genes control aging and explore whether targeted edits could extend healthy lifespan.
+
+- term: Autophagy
+  definition: A cellular housekeeping process where cells break down and recycle damaged components. Declines with age and is stimulated by fasting.
+  plain_definition: Your cells' internal recycling system — a process where they break down and clear out damaged or worn-out parts. Autophagy naturally declines with age, and fasting is one of the most reliable ways to kick it into gear. Researchers believe boosting autophagy may be one mechanism by which fasting slows aging.
+
+- term: Intermittent fasting
+  definition: An eating pattern that cycles between periods of fasting and eating. Various protocols (16:8, 5:2) are studied for metabolic, cardiovascular, and longevity benefits.
+  plain_definition: An eating approach where you alternate between eating windows and fasting windows — for example, only eating within an 8-hour period each day. Research suggests it can improve metabolic health, reduce inflammation, and in animals, extend lifespan. Human evidence is growing but still developing.
+
+- term: Zone 2 cardio
+  definition: Low-intensity aerobic exercise performed at roughly 60–70% of maximum heart rate, primarily using the aerobic energy system. Associated with mitochondrial health and longevity.
+  plain_definition: A moderate-intensity form of cardio exercise — the kind where you can hold a conversation but still feel like you're working. It's associated with better mitochondrial health (the energy factories in your cells) and is considered by many longevity researchers to be one of the most important exercise habits for healthy aging.
+
+- term: Blue Zone
+  definition: Geographic regions identified by researchers where people consistently live longer and healthier lives than average, including Sardinia, Okinawa, and Loma Linda.
+  plain_definition: Areas of the world where people regularly live past 100 in good health — places like Okinawa in Japan, Sardinia in Italy, and Nicoya in Costa Rica. Researchers have studied these populations to identify shared lifestyle and social factors that may explain their longevity.

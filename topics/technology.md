@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Technology
+title: Science & Tech
 permalink: /articles/technology/
-description: "Longevity technology news — AI drug discovery, gene therapy, CRISPR, and computational biology accelerating aging research and healthspan interventions."
+description: "Longevity science and technology — AI drug discovery, gene therapy, CRISPR, and the tools accelerating aging research and healthspan interventions."
 share: true
 topic: true
 ---
 
-How AI, gene therapy, CRISPR, and computational biology are accelerating longevity research and enabling new approaches to reversing aging.
+The science and technology pushing longevity research forward — AI tools discovering new drugs, gene therapies targeting aging pathways, and computational biology making sense of vast amounts of health data. Explained for people who aren't scientists.

@@ -538,7 +538,7 @@ def main() -> None:
 
             prompt = (
                 "Write a gist for this article (250–350 words).\n"
-                "Frame it for a longevity science and healthspan research professional audience.\n\n"
+                "Frame it for wellness-curious adults who want to live longer and feel better — not scientists.\n\n"
                 f"Article text:\n{text[:15000]}"
             )
 
@@ -548,42 +548,64 @@ def main() -> None:
                     messages=[
                         {
                             "role": "system",
-                            "content": """You are a skilled editorial writer for a longevity science news platform. Your audience consists of biotech professionals and aging biology researchers.
+                            "content": """You are a skilled editorial writer for HealthspanWire, a longevity and healthy aging publication for curious, motivated adults who want to live longer and feel better — not PhD scientists.
 
-Task: Write a clear, engaging gist in 3-4 short paragraphs (250-350 words). Start the response immediately with the summary; do not provide a preamble or reference the target audience.
+Task: Write a clear, engaging summary in 3–4 short paragraphs (250–350 words). Start immediately with the summary. No preamble.
 
 Structure:
 
-Paragraph 1 (The Hook): Lead with the specific development (who and what). Use a technical lead-in.
+Paragraph 1 (What happened): State plainly what was discovered, tested, or announced. Lead with a human-relevant hook ("Researchers found that…", "A new drug may help…"). Avoid mechanism-first framing. No jargon in the first sentence.
 
-Paragraph 2 (The Context): Explain the significance. Connect the findings to clinical impact or therapeutic potential using specific data or mechanisms from the source.
+Paragraph 2 (Why it matters for your health): Explain the real-world relevance. What could this mean for someone who wants to age well? Be specific — name the benefit (muscle strength, memory, cardiovascular health, energy), the population studied, and the size of any effect. Prefer "you" and "people" over "patients" and "subjects."
 
-Paragraph 3 (The Takeaway): Provide one concrete, field-relevant implication (e.g., how this shifts current research paradigms or affects drug development timelines).
+Paragraph 3 (What the evidence actually shows): Be honest about the research stage. Is this a mouse study, a small human trial, or a large randomised trial? How confident should a reader be? Use plain language: "early-stage," "promising but not yet proven in humans," "strong evidence from large trials."
+
+Optional Paragraph 4 (What to do with this): Only if the article supports actionable guidance — e.g., a supplement dose, an exercise protocol, a food group. Keep it grounded and caveated. Never prescribe.
+
+After the paragraphs, on separate lines output exactly:
+PLAIN_SUMMARY: <one sentence summary, max 40 words, plain English>
+EVIDENCE_STAGE: <one of: mouse study | small human trial | large human trial | clinical>
+HAS_TAKEAWAY: <true or false>
 
 Tone & Style:
-
-- Peer-to-Peer: Write like a knowledgeable colleague, not a journalist or a bot.
-
-- Zero Fluff: No "In a world where...", "Exciting new study...", or "It is important to note..."
-
-- Language: Active voice. Use bolding for key terms/findings to improve scannability.
-
-- Neutrality: Factual and grounded. No speculation beyond what the source provides.
-
-- Condition: If the text is unusable (legal/cookie notices), respond only with: UNUSABLE_CONTENT""",
+- Plain English: Write at a 10th-grade reading level. Spell out any term a curious non-scientist might not know on first use.
+- Human-centred: Frame findings around what they mean for real people, not lab models.
+- Honest: Distinguish hype from evidence. Do not oversell preliminary results.
+- Active voice. Short sentences.
+- No filler: Omit "groundbreaking," "revolutionary," "exciting," "promising new research."
+- If the text is unusable (legal/cookie notices), respond only with: UNUSABLE_CONTENT""",
                         },
                         {"role": "user", "content": prompt},
                     ],
-                    max_tokens=520,
+                    max_tokens=620,
                     temperature=0.4,
                 )
-                gist = response.choices[0].message.content.strip()
-                if gist == "UNUSABLE_CONTENT":
+                raw_output = response.choices[0].message.content.strip()
+                if raw_output == "UNUSABLE_CONTENT":
                     print(f"Skipping unusable generated content for {url}")
                     continue
+
+                # Parse structured fields from end of output
+                plain_summary = ""
+                evidence_stage = ""
+                has_takeaway = False
+                gist_lines = []
+                for line in raw_output.splitlines():
+                    if line.startswith("PLAIN_SUMMARY:"):
+                        plain_summary = line[len("PLAIN_SUMMARY:"):].strip()
+                    elif line.startswith("EVIDENCE_STAGE:"):
+                        evidence_stage = line[len("EVIDENCE_STAGE:"):].strip()
+                    elif line.startswith("HAS_TAKEAWAY:"):
+                        has_takeaway = line[len("HAS_TAKEAWAY:"):].strip().lower() == "true"
+                    else:
+                        gist_lines.append(line)
+                gist = "\n".join(gist_lines).strip()
             except Exception as e:
                 print(f"OpenAI API error for {url}: {e}")
                 gist = "Summary generation failed due to API error.\n\nRead the full article below."
+                plain_summary = ""
+                evidence_stage = ""
+                has_takeaway = False
 
             if "published_parsed" in entry and entry.published_parsed:
                 pub_dt = datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
@@ -609,6 +631,8 @@ Tone & Style:
             safe_excerpt = yaml_escape(gist[:160])
             safe_publisher = yaml_escape(publisher)
             safe_source_url = yaml_escape(url)
+            safe_plain_summary = yaml_escape(plain_summary)
+            safe_evidence_stage = yaml_escape(evidence_stage)
             signal_ids, signal_stance, signal_confidence = infer_signal_tags(entry.title, gist)
             signal_ids_yaml = ", ".join(signal_ids)
 
@@ -619,7 +643,7 @@ Tone & Style:
                 signal_title = SIGNAL_TITLES.get(first_signal, "")
                 if signal_title:
                     signal_ref = (
-                        f"\n*HealthspanWire tracks this as a research signal: "
+                        f"\n*HealthspanWire is tracking this: "
                         f"[{signal_title}](/signals/#{first_signal})*\n"
                     )
 
@@ -635,6 +659,9 @@ source_url: "{safe_source_url}"
 signal_ids: [{signal_ids_yaml}]
 signal_stance: {signal_stance}
 signal_confidence: {signal_confidence}
+plain_summary: "{safe_plain_summary}"
+evidence_stage: "{safe_evidence_stage}"
+consumer_takeaway: {str(has_takeaway).lower()}
 ---
 
 {gist}

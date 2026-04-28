@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Nutrition
+title: Food & Lifestyle
 permalink: /articles/nutrition/
-description: "Nutrition and longevity research — caloric restriction, intermittent fasting, gut microbiome science, and dietary compounds that influence aging and healthspan."
+description: "Nutrition and lifestyle for longevity — what to eat, how to move, fasting research, gut microbiome science, and the daily habits that influence how you age."
 share: true
 topic: true
 ---
 
-Research on dietary interventions for longevity — caloric restriction, fasting, microbiome science, and nutritional compounds that influence aging.
+What you eat, how you move, and daily habits that affect how you age. Research on fasting, specific nutrients, the gut microbiome, sleep, exercise, and dietary patterns — with honest context on what the evidence actually supports.

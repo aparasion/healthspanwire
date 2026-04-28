@@ -22,6 +22,9 @@ layout: default
       </svg>
       {{ reading_min }} min read
     </span>
+    {% if page.evidence_stage and page.evidence_stage != "" %}
+    <span class="evidence-stage evidence-stage--{{ page.evidence_stage | replace: ' ', '-' }}" title="Evidence stage: {{ page.evidence_stage }}">{{ page.evidence_stage }}</span>
+    {% endif %}
     <button class="bookmark-btn"
             data-url="{{ page.url | relative_url }}"
             data-title="{{ page.title | escape }}"
@@ -37,23 +40,40 @@ layout: default
 
   {% if page.signal_ids and page.signal_ids.size > 0 %}
   <p class="signal-context">
+    <span class="signal-context__label">Tracking: </span>
     {% for sid in page.signal_ids %}
       {% for signal in site.data.signals %}
         {% if signal.id == sid %}
-          <a href="{{ '/signals/#' | append: signal.id | relative_url }}">{{ signal.title }}</a>{% unless forloop.last %}, {% endunless %}
+          <a href="{{ '/signals/#' | append: signal.id | relative_url }}">{{ signal.consumer_title | default: signal.title }}</a>{% unless forloop.last %}, {% endunless %}
         {% endif %}
       {% endfor %}
     {% endfor %}
   </p>
   {% endif %}
 
+  {% if page.plain_summary and page.plain_summary != "" %}
+  <div class="plain-summary-banner">
+    <span class="plain-summary-banner__label">In plain English</span>
+    <p class="plain-summary-banner__text">{{ page.plain_summary }}</p>
+  </div>
+  {% endif %}
+
   <div class="post-content">
     {{ content }}
   </div>
 
+  {% if page.consumer_takeaway %}
+  <aside class="consumer-takeaway" aria-label="What this means for you">
+    <h3 class="consumer-takeaway__heading">What this means for you</h3>
+    <div class="consumer-takeaway__body">
+      {{ page.takeaway_md | markdownify }}
+    </div>
+  </aside>
+  {% endif %}
+
   <div class="inline-newsletter-cta" role="complementary" aria-label="Newsletter subscription">
-    <p class="inline-newsletter-cta__title">Stay ahead of longevity science</p>
-    <p class="inline-newsletter-cta__desc">Weekly signal updates, curated gists, and monthly editorial reports — straight to your inbox. No spam, ever.</p>
+    <p class="inline-newsletter-cta__title">Get longevity science explained clearly</p>
+    <p class="inline-newsletter-cta__desc">What researchers actually found, how strong the evidence is, and what it means for your health — in plain English, weekly. No spam.</p>
     <form class="inline-newsletter-cta__form"
           action="https://buttondown.com/api/emails/embed-subscribe/healthspanwire"
           method="post">

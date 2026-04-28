@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Longevity Science News & Healthspan Research"
-description: "Daily coverage of longevity science breakthroughs, healthspan research, aging biology, and the therapeutics, biomarkers, and technologies extending human lifespan."
+title: "Longevity & Healthy Aging — What the Science Actually Says"
+description: "Plain-language coverage of longevity science — what the research actually says about living longer and staying healthier, without the hype."
 nav: true
 nav_title: "Home"
 nav_order: 1
@@ -9,8 +9,8 @@ nav_order: 1
 
 <section class="hero">
   <div class="hero-content">
-    <h1>Longevity science decoded daily</h1>
-    <p class="hero-subtitle">Curated coverage of healthspan research, longevity therapeutics, and the science of living longer — tracked through the signals that matter.</p>
+    <h1>What does science say about living longer?</h1>
+    <p class="hero-subtitle">Honest, plain-language coverage of the research on aging, health, and the habits and treatments that might actually make a difference.</p>
     <div class="hero-stats">
       <div class="hero-stat">
         <span class="hero-stat-number">{{ site.posts.size }}</span>
@@ -18,11 +18,11 @@ nav_order: 1
       </div>
       <div class="hero-stat">
         <span class="hero-stat-number">{{ site.data.signals.size }}</span>
-        <span class="hero-stat-label">Signals</span>
+        <span class="hero-stat-label">Topics we track</span>
       </div>
       <div class="hero-stat">
         <span class="hero-stat-number">5</span>
-        <span class="hero-stat-label">Topics</span>
+        <span class="hero-stat-label">Areas we cover</span>
       </div>
     </div>
   </div>

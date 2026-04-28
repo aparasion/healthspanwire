@@ -2,17 +2,17 @@
 layout: page
 title: Newsletter
 permalink: /newsletter/
-description: "Subscribe to the HealthspanWire newsletter — weekly longevity science digests, monthly research reports, and signal status alerts delivered to your inbox."
+description: "Subscribe to the HealthspanWire newsletter — weekly longevity science explained in plain English, monthly deep-dives, and research updates delivered to your inbox."
 nav: false
 ---
 
-Stay ahead of what's moving longevity science and healthspan research.
+Get the longevity science that matters, explained clearly.
 
 **What you'll get:**
 
-- **Weekly digest** — The most important news gists and signal shifts from the past week, delivered every Monday.
-- **Monthly report** — Our editorial summary of the month's key themes, notable developments, and forward-looking research signals.
-- **Signal alerts** — When a tracked signal changes status (emerging → supported, or flips to challenged), you'll hear about it first.
+- **Weekly digest** — The most important longevity research from the past week, explained in plain English. What it found, how strong the evidence is, and what it might mean for you. Delivered every Monday.
+- **Monthly deep-dive** — A plain-language breakdown of the month's biggest developments in aging science, with honest takes on what's proven and what's still speculative.
+- **Research updates** — When the evidence on a tracked topic shifts — a treatment looks more or less promising than before — we'll let you know.
 
 No spam, no filler. Unsubscribe anytime.
 
