@@ -10,7 +10,7 @@ description: "Browse all longevity and healthspan articles — filter by topic, 
 
 <section class="topics-hero">
   <h1>All Articles</h1>
-  <p class="topics-subtitle">Browse the full archive — filter by impact, topic, source, or date range.</p>
+  <p class="topics-subtitle">Browse all articles — filter by topic, how strong the science is, or date.</p>
 </section>
 
 {% comment %}
@@ -88,21 +88,21 @@ description: "Browse all longevity and healthspan articles — filter by topic, 
         <label class="filter-label" for="filter-topic">Topic</label>
         <select id="filter-topic" class="filter-select">
           <option value="all">All topics</option>
-          <option value="therapeutics">Therapeutics</option>
-          <option value="biomarkers">Biomarkers</option>
-          <option value="nutrition">Nutrition</option>
-          <option value="technology">Technology</option>
-          <option value="policy">Policy</option>
+          <option value="therapeutics">Treatments &amp; Drugs</option>
+          <option value="biomarkers">Measuring Aging</option>
+          <option value="nutrition">Food &amp; Lifestyle</option>
+          <option value="technology">Science &amp; Tech</option>
+          <option value="policy">Industry &amp; Access</option>
         </select>
       </div>
       <div class="filter-group">
         <label class="filter-label" for="filter-impact">Impact</label>
         <select id="filter-impact" class="filter-select">
           <option value="all">All levels</option>
-          <option value="landmark">Landmark</option>
-          <option value="significant">Significant</option>
-          <option value="noteworthy">Noteworthy</option>
-          <option value="general">General</option>
+          <option value="landmark">Major finding</option>
+          <option value="significant">Important</option>
+          <option value="noteworthy">Worth knowing</option>
+          <option value="general">Background</option>
         </select>
       </div>
       <div class="filter-group">

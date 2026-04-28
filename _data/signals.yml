@@ -1,83 +1,119 @@
 - id: senolytic-clinical-validation
   title: Senolytic therapies are showing clinical efficacy in human trials
+  consumer_title: "Can 'zombie cell' drugs actually improve your health?"
   category: therapeutics
   first_seen: 2026-03-14
   current_status: supported
   description: Tracks evidence that drugs targeting senescent cells (senolytics like dasatinib+quercetin, fisetin) are demonstrating measurable benefits in human clinical trials.
+  consumer_description: "Scientists are testing drugs that clear out old, damaged cells from the body. Early human trials are showing real benefits — reduced inflammation, improved physical function. The cells they target are sometimes called 'zombie cells' because they stop working but refuse to die."
+  consumer_status_note: "Multiple human trials show measurable benefits, though most are still early-stage"
 
 - id: rapamycin-healthspan-extension
   title: mTOR inhibition is extending healthspan in clinical settings
+  consumer_title: "Could a transplant drug help people age better?"
   category: therapeutics
   first_seen: 2026-03-14
   current_status: emerging
   description: Tracks clinical and preclinical evidence that rapamycin and rapalogs improve age-related outcomes and extend healthy lifespan.
+  consumer_description: "Rapamycin — originally used to prevent organ rejection — blocks a molecular switch in your cells that controls growth and repair. In animals it reliably extends lifespan. Human trials are underway to see if low doses can improve immune function and reduce age-related decline."
+  consumer_status_note: "Strong animal evidence; human trials are promising but not yet conclusive"
 
 - id: epigenetic-clock-adoption
   title: Epigenetic clocks are becoming standard biological age measures
+  consumer_title: "Is your body older or younger than your birth year suggests?"
   category: biomarkers
   first_seen: 2026-03-14
   current_status: supported
   description: Tracks adoption of DNA methylation-based aging clocks (Horvath, GrimAge, DunedinPACE) as validated biomarkers in research and clinical practice.
+  consumer_description: "Biological age tests use chemical patterns in your DNA to estimate how fast your body is actually aging — separate from your chronological age. These tests are now used in major research studies and are starting to appear in clinical settings. They can reveal whether your lifestyle is accelerating or slowing your aging."
+  consumer_status_note: "Well validated in research; increasingly available for consumers"
 
 - id: blood-biomarker-panels
   title: Multi-omic blood panels are enabling personalized aging assessments
+  consumer_title: "Can a blood test reveal how well you're really aging?"
   category: biomarkers
   first_seen: 2026-03-14
   current_status: supported
   description: Tracks whether composite blood biomarker panels (proteomics, metabolomics) are being validated for predicting biological age and disease risk.
+  consumer_description: "Researchers are developing comprehensive blood tests that measure hundreds of proteins and metabolites to build a picture of how your body is aging. These panels can predict disease risk and biological age more accurately than single markers — and may eventually become a standard part of preventive health care."
+  consumer_status_note: "Science is solid; widespread clinical availability is still developing"
 
 - id: caloric-restriction-mimetics
   title: Caloric restriction mimetics are advancing toward clinical use
+  consumer_title: "Can a pill mimic the benefits of fasting?"
   category: nutrition
   first_seen: 2026-03-14
   current_status: emerging
   description: Tracks compounds that mimic fasting or caloric restriction benefits (metformin, spermidine, NAD+ precursors) moving through trials and adoption.
+  consumer_description: "Fasting and calorie reduction have strong evidence for extending healthy lifespan in animals. Researchers are testing compounds — including metformin, spermidine, and NAD+ boosters — that may reproduce some of these benefits without requiring extreme dietary restriction. Human trials are ongoing."
+  consumer_status_note: "Promising early evidence; full human proof is still pending for most compounds"
 
 - id: gut-microbiome-aging
   title: Microbiome composition is linked to aging trajectories
+  consumer_title: "Does the bacteria in your gut affect how you age?"
   category: nutrition
   first_seen: 2026-03-14
   current_status: supported
   description: Tracks research connecting gut microbiome diversity and specific microbial signatures to healthspan, inflammaging, and age-related disease.
+  consumer_description: "The trillions of bacteria living in your gut don't just affect digestion — they influence inflammation, immune function, and how your body ages. Studies consistently show that people who age well tend to have more diverse gut microbiomes. Diet, particularly fibre and fermented foods, is one of the most reliable ways to influence this."
+  consumer_status_note: "Strong evidence linking gut health to aging outcomes; optimal interventions still being studied"
 
 - id: ai-drug-discovery-aging
   title: AI is accelerating drug discovery for age-related diseases
+  consumer_title: "Is AI going to find the drugs that help us live longer?"
   category: technology
   first_seen: 2026-03-14
   current_status: emerging
   description: Tracks how machine learning and AI platforms are identifying novel longevity drug candidates, repurposing existing drugs, and shortening development timelines.
+  consumer_description: "AI tools are scanning millions of molecular combinations to find drugs that could treat age-related diseases — a process that used to take decades. Several AI-discovered drug candidates are already in human trials. This doesn't mean longevity drugs are imminent, but the pace of discovery is genuinely accelerating."
+  consumer_status_note: "AI is meaningfully speeding up discovery; clinical proof in humans is still years away for most candidates"
 
 - id: gene-therapy-aging
   title: Gene therapies targeting aging pathways are entering clinical development
+  consumer_title: "Could gene therapy one day reverse aging?"
   category: technology
   first_seen: 2026-03-14
   current_status: emerging
   description: Tracks gene therapy approaches (telomerase activation, Yamanaka factors, CRISPR-based interventions) aimed at reversing or slowing biological aging.
+  consumer_description: "Scientists are developing gene therapies that could repair or reset aging processes at the cellular level — targeting telomeres, switching on repair genes, or reprogramming cells to a younger state. Most of this work is still in early animal studies, but a handful of approaches are moving into human trials."
+  consumer_status_note: "Exciting early science; human applications are still years away for most approaches"
 
 - id: longevity-regulatory-frameworks
   title: Regulatory bodies are beginning to recognize aging as a treatable condition
+  consumer_title: "Will treating aging ever be an official medical goal?"
   category: policy
   first_seen: 2026-03-14
   current_status: emerging
   description: Tracks regulatory developments (FDA, EMA) around classifying aging as an indication and creating pathways for longevity therapeutics approval.
+  consumer_description: "Currently, no drug can be approved to 'treat aging' — regulators only approve treatments for specific diseases. That could change. The FDA has approved a trial called TAME testing metformin for aging itself, which is a first step toward recognising aging as a medical target. This matters because it would unlock a faster pathway for longevity drugs to reach patients."
+  consumer_status_note: "Policy is slowly shifting; meaningful regulatory change is likely years away"
 
 - id: longevity-funding-surge
   title: Venture capital and public funding for longevity research is accelerating
+  consumer_title: "How much money is actually going into longevity research?"
   category: policy
   first_seen: 2026-03-14
   current_status: emerging
   description: Tracks investment trends in longevity biotech, including VC rounds, government grants, and corporate R&D commitments to aging research.
+  consumer_description: "Billions of dollars in private and public funding are flowing into longevity research — from Silicon Valley investors to government grants. This matters for consumers because more funding means more clinical trials, faster progress, and eventually more treatments reaching the market. The field has grown from a niche scientific interest to a mainstream investment category."
+  consumer_status_note: "Funding is clearly accelerating; translation into approved treatments takes time"
 
 - id: creatine-healthspan-effects
   title: Creatine supplementation has meaningful benefits beyond athletic performance
+  consumer_title: "Is creatine actually useful for healthy aging — not just the gym?"
   category: nutrition
   first_seen: 2026-03-27
   current_status: emerging
   description: Tracks evidence that creatine monohydrate supports cognitive function, muscle preservation with aging, bone density, and metabolic health — extending its relevance well beyond exercise performance into longevity and healthspan research.
+  consumer_description: "Creatine is best known as a gym supplement, but researchers are finding it may have broader benefits for healthy aging — including preserving muscle mass, supporting brain function, and improving bone density as we get older. Multiple human trials support some of these effects, though research is still building on the longevity-specific questions."
+  consumer_status_note: "Good human evidence for muscle and some cognitive benefits; broader aging effects still emerging"
 
 - id: sex-healthspan-lifespan
   title: Sexual activity and sex hormones shape healthspan and lifespan
-  category: lifestyle
+  consumer_title: "Does sexual health actually affect how long and how well you live?"
+  category: nutrition
   first_seen: 2026-04-27
   current_status: supported
   description: How sexual activity, sexual function, and sex-hormone trajectories (estradiol, testosterone, progesterone) shape biological aging — including telomere length, cardiovascular outcomes, all-cause mortality, neuroendocrine stress regulation, cognitive aging, and bone and pelvic-floor health — across menopause, andropause, and the broader healthspan trajectory.
+  consumer_description: "Research consistently links sexual health, activity, and hormone levels to broader health outcomes as we age — including heart health, cognitive function, stress resilience, bone density, and even longevity. Hormonal shifts during menopause and andropause are now understood as significant aging events, not just quality-of-life issues."
+  consumer_status_note: "Well-supported association between sexual health and healthy aging outcomes across multiple studies"
