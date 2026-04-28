@@ -404,7 +404,7 @@ hr {
 
 .hero-content {
   max-width: var(--site-max-width);
-  margin: 0 0 var(--space-8);
+  margin: 0 var(--space-8);
   padding: 0 var(--page-gutter);
 }
 
